@@ -5,7 +5,7 @@ abate
 abbreviate
 aberrant
 abet
-abeyance 
+abeyance
 abhor
 abiding
 abnegate
@@ -29,7 +29,7 @@ accolade
 accommodate
 accord
 accountable
-accrete 
+accrete
 accretive
 acerbic
 acidic
@@ -48,7 +48,7 @@ adduce
 adept
 adhere
 adjacent
-adjudicate 
+adjudicate
 adjunct
 adjuration
 admonish
@@ -220,7 +220,7 @@ backwater
 baffle
 baleful
 balk
-balkanize 
+balkanize
 balloon
 banal
 baneful
@@ -373,7 +373,7 @@ circuitous
 circumlocution
 circumscribe
 circumspect
-circumstantial 
+circumstantial
 circumvent
 civil
 clairvoyance
@@ -385,7 +385,7 @@ claustrophobic
 clearheaded
 cleave
 clergy
-clich¨¦
+cliche
 clinical
 clique
 cloak
@@ -576,7 +576,7 @@ decipher
 decisive
 declamatory
 decode
-d¨¦cor
+decor
 decorous
 decrepitude
 dedicate
@@ -607,7 +607,7 @@ demarcate
 demise
 demographic
 demolish
-demonize 
+demonize
 demonstrable
 demonstrative
 demoralize
@@ -648,7 +648,7 @@ dictate
 dictator
 didactic
 diehard
-diffident 
+diffident
 diffuse
 digest
 digress
@@ -699,7 +699,7 @@ dispatch
 dispense
 disperse
 displace
-disproportionate 
+disproportionate
 disprove
 disputant
 dispute
@@ -791,7 +791,7 @@ embody
 embolden
 embrace
 emendation
-emergent 
+emergent
 eminent
 emotive
 emphatic
@@ -907,7 +907,7 @@ expiation
 explicable
 explicit
 exploit
-expos¨¦
+expose
 exposition
 expository
 expostulate
@@ -921,7 +921,7 @@ extol
 extraneous
 extrapolate
 extremist
-exuberant 
+exuberant
 exultant
 eyesore
 fabricate
@@ -1086,7 +1086,7 @@ halcyon
 half-formulated
 halfhearted
 hallmark
-hallow 
+hallow
 hallucinogen
 halt
 hamper
@@ -1294,7 +1294,7 @@ intact
 integrity
 intelligible
 interchangeable
-interdisciplinary 
+interdisciplinary
 interjection
 interlocutor
 interlope
@@ -1325,7 +1325,7 @@ invidious
 invigorate
 inviting
 invoke
-involuntary 
+involuntary
 involved
 irascible
 irenic
@@ -1357,7 +1357,7 @@ kindred
 kinfolk
 knotty
 laborious
-labyrinthine 
+labyrinthine
 lachrymose
 laconic
 laggard
@@ -1431,7 +1431,7 @@ malignant
 malinger
 malleable
 malodor
-malodorous 
+malodorous
 manacle
 mandate
 manifest
@@ -1452,7 +1452,7 @@ mediate
 mediocre
 melancholy
 meld
-menace 
+menace
 mendacious
 mercenary
 mercurial
@@ -1462,7 +1462,7 @@ mete
 methodical
 methodology
 meticulous
-midst 
+midst
 might
 mighty
 milieu
@@ -1704,7 +1704,7 @@ peregrination
 peremptory
 perennial
 perfidious
-perforce 
+perforce
 perfunctory
 perilous
 periodical
@@ -1750,7 +1750,7 @@ plague
 plaintive
 plangent
 plastic
-platitude 
+platitude
 platitudinous
 plaudit
 plausible
@@ -1762,7 +1762,7 @@ plentiful
 plethora
 pliable
 plod
-ploy 
+ploy
 plunder
 poise
 polarize
@@ -1803,7 +1803,7 @@ premeditate
 premise
 premonitory
 preoccupied
-preponderance 
+preponderance
 prepossessing
 prerogative
 presage
@@ -1902,7 +1902,7 @@ putative
 quaff
 qualify
 qualm
-quandary 
+quandary
 quash
 quell
 querulous
@@ -1955,7 +1955,7 @@ recuse
 redeem
 redolent
 redoubtable
-redundant 
+redundant
 refine
 reflective
 refractory
@@ -2033,7 +2033,7 @@ rigid
 rigorous
 rile
 riot
-rivalry 
+rivalry
 rive
 riveting
 robust
@@ -2046,7 +2046,7 @@ row
 rudimentary
 rue
 ruminate
-rummage 
+rummage
 run-of-the-mill
 ruthless
 sabotage
@@ -2074,7 +2074,7 @@ scarce
 scathing
 scatter
 scenario
-schism 
+schism
 scintillating
 score
 scorn
@@ -2101,7 +2101,7 @@ self-styled
 seminal
 senescence
 sensational
-sensuous 
+sensuous
 sententious
 sentimental
 sequel
@@ -2235,7 +2235,7 @@ stymie
 subdue
 subject
 sublime
-subsequent 
+subsequent
 subservient
 subsidize
 subsist
@@ -2247,7 +2247,7 @@ subtext
 subtle
 succinct
 succumb
-suffice 
+suffice
 suffrage
 sullen
 sumptuous
@@ -2439,7 +2439,7 @@ utilitarian
 utilitarianism
 utter
 vacant
-vacillate 
+vacillate
 vacuous
 vagary
 vainglorious

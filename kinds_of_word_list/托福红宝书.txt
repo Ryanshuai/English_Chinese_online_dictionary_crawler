@@ -1101,7 +1101,8 @@ guideline
 guilty
 gulf
 gull
-gymnasium/gym
+gymnasium
+gym
 habitat
 hail
 hammer

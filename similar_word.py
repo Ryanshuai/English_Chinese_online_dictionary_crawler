@@ -26,7 +26,7 @@ class Distance_Similar:
 
         input_word_set = set()
         for file in input_txt_list:
-            with open(file, 'r') as f:
+            with open(file, 'r',encoding='utf-8') as f:
                 word_list = f.read().splitlines()
                 input_word_set |= set(word_list)
 
@@ -92,7 +92,7 @@ class No_Root_Similar:
 
         input_word_set = set()
         for file in input_txt_list:
-            with open(file, 'r') as f:
+            with open(file, 'r',encoding='utf-8') as f:
                 word_list = f.read().splitlines()
                 input_word_set |= set(word_list)
 

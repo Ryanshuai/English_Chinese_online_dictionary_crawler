@@ -224,7 +224,6 @@ bifurcate
 bigot
 bland
 blandishment
-blas¨¦
 blast
 blatant
 blazon
@@ -359,7 +358,7 @@ clarion
 clarity
 clasp
 clement
-clich¨¦
+clich
 clog
 clot
 cordial
@@ -739,7 +738,6 @@ earsplitting
 eavesdrop
 ebullient
 eccentric
-¨¦clat
 eclipse
 ecstasy
 ecumenical
@@ -1563,7 +1561,7 @@ mutter
 myopic
 myriad
 nadir
-na?ve
+naive
 narcissism
 nascent
 natty

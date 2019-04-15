@@ -282,7 +282,7 @@ avant-garde
 realism
 impressionism
 impressionistic style
-Dadaism.
+Dadaism
 neoclassical
 realistic
 minimalist
@@ -654,7 +654,7 @@ flat character
 characters personalities
 peoples trait
 model
-stereotype:
+stereotype
 background
 setting
 prelude
@@ -809,7 +809,7 @@ participate
 behaviorism
 psychoanalysis
 egocentric
-mental processes:
+mental processes
 mental
 founder
 Archimedes
@@ -855,7 +855,7 @@ abnormal
 distracted
 child amnesia
 linguistics
-Proto-Indo-European:
+Proto-Indo-European
 grammar
 verb
 noun
@@ -1446,7 +1446,7 @@ descendant
 chromosomes
 sequences
 infectious agent
-heredity:
+heredity
 gene
 genetic
 genetic code

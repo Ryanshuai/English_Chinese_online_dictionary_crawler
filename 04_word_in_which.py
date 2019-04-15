@@ -20,12 +20,13 @@ input_txt_list.append(cet6_txt)
 input_txt_list.append(post_txt)
 input_txt_list.append(toefl_qu_txt)
 input_txt_list.append(toefl_red_txt)
+input_txt_list.append(toefl_class)
 input_txt_list.append(gre300_txt)
 input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
 
 
-word = 'extrude'
+word = 'malodorous '
 for file in input_txt_list:
     with open(file, 'r') as f:
         word_list = f.read().splitlines()

@@ -1,13 +1,13 @@
 acclivity
 declivity
 proclivity
-tendency 
+tendency
 recline
 list
 shelve
 ramp
 lessen
-lesson 
+lesson
 vocation
 vacation
 abjure
@@ -35,7 +35,7 @@ soothe
 blithe
 scythe
 abstain
-abstinence 
+abstinence
 absolve
 abscond
 abstract
@@ -47,7 +47,7 @@ pertain
 appertain
 pertinent
 relevant
-impertinent 
+impertinent
 sustain
 sustainable
 maintain
@@ -61,7 +61,7 @@ loquacious
 stubborn
 mule
 mulish
-tenable 
+tenable
 sustenance
 countenance
 acerbic
@@ -86,7 +86,7 @@ requite
 acrobat
 acrobatics
 aerobatics
-aerobics 
+aerobics
 acrophobia
 hydrophobia
 abate
@@ -1610,7 +1610,7 @@ hackneyed
 ban
 banal
 banish
-cliché
+cliche
 hierarchy
 anarchy
 monarch
@@ -2095,7 +2095,7 @@ repatriate
 compatriot
 countryman
 migratory
-émigré
+emigre
 transmigration
 nomadic
 nomad
@@ -2285,7 +2285,7 @@ rookie
 veteran
 noxious
 innocent
-nocuous 
+nocuous
 obnoxious
 noisome
 fetid
@@ -2480,7 +2480,7 @@ encyclopedia
 peer
 peerless
 nonesuch
-nonpareil  
+nonpareil
 pellucid
 lucid
 hallucination

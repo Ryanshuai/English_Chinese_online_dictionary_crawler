@@ -1622,7 +1622,8 @@ slide
 slight
 synthetic
 system
-systematic(al)
+systematic
+systematical
 tackle
 tag
 talent

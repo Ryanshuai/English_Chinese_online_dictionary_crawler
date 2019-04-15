@@ -955,6 +955,7 @@ cleaver
 cleft
 clemency
 clement
+cliche
 clientele
 climax
 clinch
@@ -1981,7 +1982,6 @@ entrance
 entrancing
 entreat
 entreaty
-entr¨¦e
 entrepreneur
 entrust
 entry
@@ -3044,7 +3044,7 @@ infringe
 infuriate
 infuse
 ingenious
-ing¨¦nue
+ingenue
 ingenuity
 ingenuous
 ingest
@@ -3910,7 +3910,8 @@ odium
 odometer
 odyssey
 offbeat
-offence(offense)
+offence
+offense
 offend
 offensive
 offhand
@@ -4368,7 +4369,6 @@ precipice
 precipitant
 precipitate
 precipitation
-pr¨¦cis
 precise
 preclude
 precocious

@@ -1,0 +1,62 @@
+import requests as req
+from PIL import Image
+from io import BytesIO
+import random
+import time
+from concurrent.futures import ThreadPoolExecutor
+
+
+def get_image_from_url(url):
+    response = req.get(url)
+    image = Image.open(BytesIO(response.content))
+    return image
+
+
+def save_word_image_to_dir(word, di='youdict_word_images/'):
+    for i in range(1, 11):
+        # sec = random.randint(0, 3)
+        # time.sleep(sec)
+
+        url = 'http://www.youdict.com/images/words/' + word + str(i) + '.jpg'
+        image_name = word + str(i) + '.jpg'
+        image = get_image_from_url(url)
+        print('saving>>>>>>\t', di+image_name)
+        image.convert('RGB').save(di+image_name)
+
+
+if __name__ == '__main__':
+    # ####################################################### build filter list
+    cet4_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/4-cet.txt'
+    cet6_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/6-cet.txt'
+    post_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/考研词汇表.txt'
+    toefl_qu_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/曲根10000词汇表.txt'
+    toefl_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/托福红宝书.txt'
+    toefl_class = 'D:/github_project/make_anki_word_list/kinds_of_word_list/分类词汇.txt'
+    gre300_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/3000.txt'
+    gre_foot_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/佛脚词.txt'
+    gre_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/gre红宝书.txt'
+
+    input_txt_list = list()
+    input_txt_list.append(cet4_txt)
+    input_txt_list.append(cet6_txt)
+    input_txt_list.append(post_txt)
+    input_txt_list.append(toefl_qu_txt)
+    input_txt_list.append(toefl_red_txt)
+    input_txt_list.append(gre300_txt)
+    input_txt_list.append(gre_foot_txt)
+    input_txt_list.append(gre_red_txt)
+
+    input_word_set = set()
+    for file in input_txt_list:
+        with open(file, 'r') as f:
+            word_list = f.read().splitlines()
+            input_word_set |= set(word_list)
+
+    word_list = list()
+
+    word = 'supine'
+    save_word_image_to_dir(word)
+
+
+
+
