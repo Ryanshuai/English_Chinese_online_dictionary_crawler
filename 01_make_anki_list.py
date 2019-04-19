@@ -4,6 +4,7 @@ from youdict_root import Youdict_Root
 from youdict_memrorise import Youdict_Mem
 
 
+
 # ####################################################### build filter list
 cet4_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/4-cet.txt'
 cet6_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/6-cet.txt'
@@ -20,8 +21,8 @@ input_txt_list = list()
 # input_txt_list.append(cet4_txt)
 # input_txt_list.append(cet6_txt)
 # input_txt_list.append(post_txt)
-# input_txt_list.append(tofle_qu_txt)
-# input_txt_list.append(tofle_red_txt)
+# input_txt_list.append(toefl_qu_txt)
+# input_txt_list.append(toefl_red_txt)
 # input_txt_list.append(gre300_txt)
 # input_txt_list.append(gre_foot_txt)
 # input_txt_list.append(gre_red_txt)
@@ -75,9 +76,20 @@ root_affix = Youdict_Root()
 #         f.write('\n')
 
 
-with open('pure_word_list.txt', 'w', encoding='utf-8') as f:
+# with open('pure_word_list.txt', 'w', encoding='utf-8') as f:
+#     ordered_input_word_list = root_affix.put_word_list_in_order(input_word_list)
+#     for word in ordered_input_word_list:
+#         print(word)
+#         f.write(word)
+#         f.write('\n')
+
+
+with open('output/anki_word_image_list.txt', 'w', encoding='utf-8') as f:
     ordered_input_word_list = root_affix.put_word_list_in_order(input_word_list)
     for word in ordered_input_word_list:
-        print(word)
-        f.write(word)
+        word = word.strip()
+        line = word
+        for i in range(1, 11):
+            line += "\\<img src=\"{}.jpg\" />".format(word+str(i))
+        f.write(line)
         f.write('\n')

@@ -1,3 +1,7 @@
+import url2html2txt
+
+
+
 
 class Youdict_Root:
     def __init__(self):
@@ -11,11 +15,35 @@ class Youdict_Root:
                 w, r = line.split('\\')
                 self.w_r_dict[w] = r
 
-    def get_root(self, word):
-        if word in self.w_r_dict:
-            return self.w_r_dict[word]
+    def from_which_word(self, root_str: str):
+        if root_str.startswith('来自') and root_str[2:6] != 'PIE*' and ord(root_str[2]) < 128:
+            temp_root = root_str[2:].split(',')[0].split('，')[0].strip()
+            if '*' in temp_root:
+                return ''
+            for c in temp_root:
+                if ord(c) > 128:
+                    return ''
+            if temp_root.endswith('-'):
+                return ''
+            return root_str[2:].split(',')[0].split('，')[0].strip()
         else:
-             return ''
+            return ''
+
+    def get_root_from_all(self, word):
+        root = self.w_r_dict.get(word, '')
+        if len(root) == 0:
+            root = url2html2txt.get_root_from_web(word)
+        return root
+
+    def get_root_str_for_mdx(self, word):
+        root = self.w_r_dict.get(word, '')
+        if len(root) == 0:
+            return root
+        from_word = self.from_which_word(root)
+        if len(from_word) == 0:
+            return root
+        from_word_root = self.get_root_from_all(from_word)
+        return root + '<br>' + from_word + ' ' + from_word_root
 
     def put_word_list_in_order(self, filter_word_list):
         not_seen_word_list = filter_word_list.copy()
@@ -31,4 +59,4 @@ class Youdict_Root:
 
 if __name__ == '__main__':
     ra = Youdict_Root()
-    print()
+    print(ra.get_root_str_for_mdx('agency'))
