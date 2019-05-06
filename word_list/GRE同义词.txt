@@ -395,7 +395,6 @@ foolhardy
 temerity
 gallant
 gallantry
-n勇敢，殷勤
 mettle
 perky
 pluck
@@ -812,8 +811,6 @@ scorch
 skewer
 broil
 torrefy
-v
-v．烤焦，烧焦
 sear
 searing
 singe
@@ -1373,7 +1370,6 @@ barbed
 innuendo
 lampoon
 lampooner
-adj．讥讽的，尖酸的
 sarcastic
 sardonic
 satire
@@ -1499,7 +1495,6 @@ opprobrium
 indignity
 insult
 blasphemy
-v．玷辱，亵渎
 sacrilegious
 
 模仿
@@ -3559,7 +3554,6 @@ paean
 panegyric
 anthem
 hymn
-n．赞美歌，颂歌
 tribute
 motet
 chorale
@@ -4086,7 +4080,6 @@ jollity
 rapture
 rejoice
 rejoicing
-n．狂喜，极高兴
 ravishment
 conviviality
 convivial

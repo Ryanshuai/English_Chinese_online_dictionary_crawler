@@ -3,15 +3,15 @@ import Levenshtein
 
 class Distance_Similar:
     def __init__(self):
-        cet4_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/4-cet.txt'
-        cet6_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/6-cet.txt'
-        post_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/考研词汇表.txt'
-        toefl_qu_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/曲根10000词汇表.txt'
-        toefl_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/托福红宝书.txt'
-        toefl_class = 'D:/github_project/make_anki_word_list/kinds_of_word_list/分类词汇.txt'
-        gre300_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/3000.txt'
-        gre_foot_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/佛脚词.txt'
-        gre_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/gre红宝书.txt'
+        cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
+        cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
+        post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'
+        toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/曲根10000词汇表.txt'
+        toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/托福红宝书.txt'
+        toefl_class = 'D:/github_project/make_anki_word_list/word_list/分类词汇.txt'
+        gre300_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
+        gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
+        gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
 
         input_txt_list = list()
         input_txt_list.append(cet4_txt)
@@ -70,15 +70,15 @@ class No_Root_Similar:
         self.co_prefix_list = ['co']
         self.prefix_list = ['com','con','dis','sub','pro','mis','per','pre','co','in','ex','im','en','ex','re','di','ob','ab','ad','de','un','e','a']
 
-        cet4_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/4-cet.txt'
-        cet6_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/6-cet.txt'
-        post_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/考研词汇表.txt'
-        toefl_qu_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/曲根10000词汇表.txt'
-        toefl_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/托福红宝书.txt'
-        toefl_class = 'D:/github_project/make_anki_word_list/kinds_of_word_list/分类词汇.txt'
-        gre300_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/3000.txt'
-        gre_foot_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/佛脚词.txt'
-        gre_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/gre红宝书.txt'
+        cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
+        cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
+        post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'
+        toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/曲根10000词汇表.txt'
+        toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/托福红宝书.txt'
+        toefl_class = 'D:/github_project/make_anki_word_list/word_list/分类词汇.txt'
+        gre300_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
+        gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
+        gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
 
         input_txt_list = list()
         input_txt_list.append(cet4_txt)

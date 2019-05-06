@@ -6,15 +6,15 @@ import os
 
 
 # ####################################################### build filter list
-tst_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/tst.txt'
-cet4_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/4-cet.txt'
-cet6_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/6-cet.txt'
-post_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/考研词汇表.txt'
-toefl_qu_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/曲根10000词汇表.txt'
-toefl_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/托福红宝书.txt'
-gre300_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/3000.txt'
-gre_foot_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/佛脚词.txt'
-gre_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/gre红宝书.txt'
+tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
+cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
+cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
+post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'
+toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/曲根10000词汇表.txt'
+toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/托福红宝书.txt'
+gre300_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
+gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
+gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
 
 input_txt_list = list()
 input_txt_list.append(tst_txt)
@@ -38,7 +38,7 @@ for file in input_txt_list:
 word_list = list(input_word_set)
 word_list = sorted(word_list, key=str.lower)
 
-with open('D:/github_project/make_anki_word_list/kinds_of_word_list/all_word_list.txt', 'w',encoding='utf-8') as f:
+with open('D:/github_project/make_anki_word_list/word_list/all_word_list.txt', 'w',encoding='utf-8') as f:
     for word in word_list:
         f.write(word)
         f.write('\n')

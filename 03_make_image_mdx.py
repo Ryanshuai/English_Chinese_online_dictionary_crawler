@@ -6,8 +6,8 @@ import os
 
 
 # ####################################################### build filter list
-tst_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/tst.txt'
-all_word_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/all_word_list.txt'
+tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
+all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
 
 input_word_set = set()
 with open(all_word_txt, 'r',encoding='utf-8') as f:

@@ -6,15 +6,16 @@ from youdict_memrorise import Youdict_Mem
 
 
 # ####################################################### build filter list
-cet4_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/4-cet.txt'
-cet6_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/6-cet.txt'
-post_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/考研词汇表.txt'
-toefl_qu_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/曲根10000词汇表.txt'
-toefl_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/托福红宝书.txt'
-toefl_class = 'D:/github_project/make_anki_word_list/kinds_of_word_list/分类词汇.txt'
-gre3000_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/3000.txt'
-gre_foot_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/佛脚词.txt'
-gre_red_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/gre红宝书.txt'
+cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
+cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
+post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'
+toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/曲根10000词汇表.txt'
+toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/托福红宝书.txt'
+toefl_class = 'D:/github_project/make_anki_word_list/word_list/分类词汇.txt'
+gre3000_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
+gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
+gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
+gre_class_txt = 'D:\github_project\make_anki_word_list\kinds_of_word_list\GRE同义词.txt'
 
 input_txt_list = list()
 # input_txt_list.append(tst_txt)
@@ -56,7 +57,7 @@ input_word_list = list(input_word_set_2-input_word_set)
 print('all: '+str(len(input_word_list)))
 
 # ####################################################### build word list in root
-root_affix = Youdict_Root()
+# root_affix = Youdict_Root()
 
 # edit_distance = Edit_Distance()
 # youdict_mem = Youdict_Mem()
@@ -84,12 +85,32 @@ root_affix = Youdict_Root()
 #         f.write('\n')
 
 
-with open('output/anki_word_image_list.txt', 'w', encoding='utf-8') as f:
-    ordered_input_word_list = root_affix.put_word_list_in_order(input_word_list)
-    for word in ordered_input_word_list:
+# with open('output/anki_word_image_list.txt', 'w', encoding='utf-8') as f:
+#     ordered_input_word_list = root_affix.put_word_list_in_order(input_word_list)
+#     for word in ordered_input_word_list:
+#         word = word.strip()
+#         line = word
+#         for i in range(1, 11):
+#             line += "\\<img src=\"{}.jpg\" />".format(word+str(i))
+#         f.write(line)
+#         f.write('\n')
+
+
+with open(gre_class_txt, 'r', encoding='utf-8') as f:
+    word_list = f.read().splitlines()
+
+with open('output/GRE_anki_same.txt', 'w', encoding='utf-8') as f:
+    for word in word_list:
         word = word.strip()
-        line = word
-        for i in range(1, 11):
-            line += "\\<img src=\"{}.jpg\" />".format(word+str(i))
-        f.write(line)
-        f.write('\n')
+        if len(word) == 0:
+            continue
+        print(word)
+        if '\u4e00' <= word[0] <= '\u9fff':
+            now_class = word
+        else:
+            line = word
+            for i in range(1, 11):
+                line += "\\<img src=\"{}.jpg\" />".format(word + str(i))
+            line += "\\"+now_class
+            f.write(line)
+            f.write('\n')
