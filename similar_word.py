@@ -67,6 +67,7 @@ class No_Root_Similar:
     def __init__(self):
         self.s_end_prefix_list = ['ex']
         self.a_prefix_list = ['a']
+        self.co_prefix_list = ['co']
         self.prefix_list = ['com','con','dis','sub','pro','mis','per','pre','co','in','ex','im','en','ex','re','di','ob','ab','ad','de','un','e','a']
 
         cet4_txt = 'D:/github_project/make_anki_word_list/kinds_of_word_list/4-cet.txt'
@@ -107,6 +108,9 @@ class No_Root_Similar:
             if word.startswith(prefix):
                 possible_word_without_prefix_list.append(word[len(prefix):])
                 possible_word_without_prefix_list.append('s'+word[len(prefix):])
+        for prefix in self.co_prefix_list:
+            if word.startswith(prefix) and len(word) > 4 and word[2] == word[3]:
+                possible_word_without_prefix_list.append(word[3:])
         for prefix in self.prefix_list:
             if word.startswith(prefix):
                 possible_word_without_prefix_list.append(word[len(prefix):])
@@ -142,7 +146,7 @@ class No_Root_Similar:
 if __name__ == '__main__':
     nrs = No_Root_Similar()
     print(nrs.is_word_similar('ascend', 'descend'))
-    print(nrs.get_similar_word_str('ascend'))
+    print(nrs.get_similar_word_str('collapse'))
     print('-------------------------')
     ds = Distance_Similar()
     # print(ds.is_word_similar('expect', 'respect'))
