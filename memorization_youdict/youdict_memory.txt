@@ -7905,7 +7905,7 @@ parka\1. 音译“派克大衣”。
 parky\
 parlance\1、parl- + -ance.
 parley\1、parl- + -ey.\2、from Middle French parlée, from fem. past participle of Old French parler "to speak".
-parliament\1、parl- + -ia + -ment.\2、-ia: word-forming element in names of countries, diseases, flowers, from Latin and Greek -ia, which forms abstract nouns of feminine gender. In paraphernalia, Mammalia, etc. it represents the Latin and Greek plural suffix of nouns in -ium or -ion. \3、含义就是：商谈、会谈、商讨国家大事的地方。
+parliament\party之前去除隔阂t->l，变成一个a整体，就是国会
 parochial\
 parody\1. from para- "beside, parallel to" (in this case, "mock-") + oide "song, ode" (see ode).\2. ode => parody.
 paroxysm\
@@ -9430,7 +9430,7 @@ revelry\
 revenge\
 revenue\1. 出去的东西当然是支出 => expense, 那么返回来的东西理所当然的就是收入了 => revenue.\2. income <===> revenue, 构词成分及原理差不多，含义当然也差不多，很相近。\3. expense <===> revenue.\4. expense <===> income.\5. 由于re-的“back”含义，所以该词多指带有投资出去后然后所得到的回报性的收益。如 (公司、组织或政府的) 收入，国家的税收。
 reverberate\
-revere\
+revere\re fear
 reverie\1. re 回，反 + verity 真实, 事实 真实的反面→不真实→幻想\2. 商标解析： Reverie 幻知曲的意义是流水般的恬静，使人产生甜美且舒适的梦境，在睡眠中感到享受与快乐。 商标使用蓝色为背景，使人产生平静、安宁的氛围，能够使人较快进入睡眠状态，蝴蝶代表温柔甜美的梦境，体现使人快乐幸福的感觉。
 reverse\1、re- "back" + vers- + -e.\2、该词来源于revert的拉丁语对应词的过去分词。由此取形容词词性并引申出如今的含义。\3、字面含义：turn back.\4、一方面表示转到后面、转到背面，由此引申为：背面的，反面的；另一方面表示逆转、反转，由此引申为：反转的，逆转的，颠倒的；相反的，反向的。\5、该词的动词含义来源于：revert的拉丁语对应词的反复体(反复动词：reversare)，由此表示：颠倒，翻转；倒转，倒退，反向，逆转；推翻；撤销；调换。
 revert\1、re- "back" + vert-.\2、字面含义：turn back, return.\3、该词的构造及其含义可以说与return是异曲同工。

@@ -53,7 +53,7 @@ class Youdict_Root:
                 res_word_list.append(root_word)
                 if root_word in not_seen_word_list:
                     not_seen_word_list.remove(root_word)
-        print(len(not_seen_word_list))
+        print('not find words: ',len(not_seen_word_list))
         return res_word_list
 
 

@@ -26,7 +26,7 @@ input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
 
 
-word = 'malodorous '
+word = 'meticulously'
 for file in input_txt_list:
     with open(file, 'r') as f:
         word_list = f.read().splitlines()
