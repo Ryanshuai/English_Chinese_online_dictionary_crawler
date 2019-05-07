@@ -2,9 +2,9 @@
 class Cigencizhui_Root:
     def __init__(self):
         self.w_r_dict = dict()
-        with open('D:/github_project/make_anki_word_list/affix/root_affix.txt', encoding='utf-8') as f:
+        with open('D:/github_project/make_anki_word_list/cigencizhui_root/root_affix.txt', encoding='utf-8') as f:
             self.ordered_root_word_list = f.read().splitlines()
-        with open('D:/github_project/make_anki_word_list/affix/root_affix_with_root_cleared.txt', encoding='utf-8') as f:
+        with open('D:/github_project/make_anki_word_list/cigencizhui_root/root_affix_with_root_cleared.txt', encoding='utf-8') as f:
             line_list = f.readlines()
             for line in line_list:
                 line = line.strip()

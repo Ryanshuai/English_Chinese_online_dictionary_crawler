@@ -1,27 +1,24 @@
-import requests as req
+import requests
 from PIL import Image
 from io import BytesIO
-import random
-import time
 from concurrent.futures import ThreadPoolExecutor
+import urllib.request
+import os
 
 
 def get_image_from_url(url):
-    response = req.get(url)
+    response = requests.get(url)
     image = Image.open(BytesIO(response.content))
     return image
 
 
-def save_word_image_to_dir(word, di='youdict_word_images/'):
-    for i in range(1, 11):
-        # sec = random.randint(0, 3)
-        # time.sleep(sec)
+def save_word_image_to_dir(name, di='youdict_word_images/'):
 
-        url = 'http://www.youdict.com/images/words/' + word + str(i) + '.jpg'
-        image_name = word + str(i) + '.jpg'
-        image = get_image_from_url(url)
-        print('saving>>>>>>\t', di+image_name)
-        image.convert('RGB').save(di+image_name)
+    url = 'http://www.youdict.com/images/words/' + name + '.jpg'
+    image_name = name + '.jpg'
+    image = get_image_from_url(url)
+    # print('saving>>>>>>\t', di+image_name)
+    image.convert('RGB').save(di+image_name)
 
 
 if __name__ == '__main__':
@@ -35,6 +32,7 @@ if __name__ == '__main__':
     gre300_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
     gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
     gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
+    gre_class_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
 
     input_txt_list = list()
     input_txt_list.append(cet4_txt)
@@ -52,11 +50,30 @@ if __name__ == '__main__':
             word_list = f.read().splitlines()
             input_word_set |= set(word_list)
 
-    word_list = list()
+    input_word_set = sorted(input_word_set, key=str.lower, reverse=True)
 
-    word = 'supine'
-    save_word_image_to_dir(word)
+    input_word_set_2 = set()
+    input_txt_list.clear()
+    input_txt_list.append(gre_class_txt)
+    for file in input_txt_list:
+        with open(file, 'r', encoding='utf-8') as f:
+            word_list = f.read().splitlines()
+            input_word_set_2 |= set(word_list)
 
+    word_list = list(input_word_set_2 - set(input_word_set))
+    print('download image for {} word'.format(len(word_list)))
 
+    # for word in word_list:
+    #     save_word_image_to_dir(word)
+    # save_word_image_to_dir('dictator')
 
+    pool = ThreadPoolExecutor(10000)
+    for word in word_list:
+        word = word.strip()
+        for i in range(1, 11):
+            name = word+str(i)
+            if not os.path.exists('youdict_word_images/'+name+'.jpg'):
+                print(name)
+                # save_word_image_to_dir(word)
+                a = pool.submit(save_word_image_to_dir, name)
 
