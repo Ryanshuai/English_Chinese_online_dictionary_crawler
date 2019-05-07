@@ -28,6 +28,7 @@ input_txt_list.append(toefl_red_txt)
 input_txt_list.append(gre3000_txt)
 input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
+input_txt_list.append(gre_class_txt)
 
 input_word_set = set()
 for file in input_txt_list:
@@ -42,5 +43,8 @@ word_list = sorted(word_list, key=str.lower)
 
 with open('D:/github_project/make_anki_word_list/word_list/all_word_list.txt', 'w',encoding='utf-8') as f:
     for word in word_list:
+        word = word.strip()
+        if len(word) <= 1:
+            continue
         f.write(word)
         f.write('\n')

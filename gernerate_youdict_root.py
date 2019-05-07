@@ -2,6 +2,7 @@ from url2html2txt import get_root_txt, get_memorization_txt
 
 
 # ####################################################### build filter list
+tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
 cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
 cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
 post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'

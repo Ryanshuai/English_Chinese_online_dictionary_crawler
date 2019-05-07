@@ -12,11 +12,7 @@ all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.tx
 input_word_set = set()
 with open(all_word_txt, 'r',encoding='utf-8') as f:
     word_list = f.read().splitlines()
-    for word in word_list:
-        word = word.strip()
-        input_word_set.add(word)
 
-word_list = list(input_word_set)
 word_list = sorted(word_list, key=str.lower)
 
 for i in range(1, 11):
