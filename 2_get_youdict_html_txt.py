@@ -1,7 +1,7 @@
-from memorization_and_root import *
 import os
 import eventlet
 from concurrent.futures import ThreadPoolExecutor
+import requests
 
 eventlet.monkey_patch()
 
@@ -37,13 +37,14 @@ def save_word_html_to_dir(word, di='youdict_word_html/'):
 
 if __name__ == '__main__':
     # ####################################################### build filter list
+    tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
     cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
     cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
     post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'
     toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/曲根10000词汇表.txt'
     toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/托福红宝书.txt'
     toefl_class = 'D:/github_project/make_anki_word_list/word_list/分类词汇.txt'
-    gre300_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
+    gre3000_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
     gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
     gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
     gre_class_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
@@ -72,7 +73,7 @@ if __name__ == '__main__':
     input_txt_list_2.append(post_txt)
     input_txt_list_2.append(toefl_qu_txt)
     input_txt_list_2.append(toefl_red_txt)
-    input_txt_list_2.append(gre300_txt)
+    input_txt_list_2.append(gre3000_txt)
     input_txt_list_2.append(gre_foot_txt)
     input_txt_list_2.append(gre_red_txt)
     input_txt_list_2.append(gre_class_txt)

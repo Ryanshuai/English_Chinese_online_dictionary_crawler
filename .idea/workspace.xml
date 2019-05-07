@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_get_youdict_html_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gernerate_youdict_root.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_make_anki_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_make_anki_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_make_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_make_mdx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_make_image_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_make_image_mdx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_word_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_word_in_which.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_make_all_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_make_all_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/affix/root_affix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cigencizhui_root/root_affix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/affix/root_affix_origin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cigencizhui_root/root_affix_origin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/affix/root_affix_with_root_cleared.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cigencizhui_root/root_affix_with_root_cleared.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cigencizhui_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/cigencizhui_root.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_youdcit_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_get_youdcit_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memorization_youdict/youdict_memory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youdict_memorization/youdict_memory.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yaml_root/1 词缀词根.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/yaml_root/1 词缀词根.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yaml_root/2 单词列表.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/yaml_root/2 单词列表.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yaml_root/3 反向索引.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/yaml_root/3 反向索引.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youdict_memrorise.py" beforeDir="false" afterPath="$PROJECT_DIR$/youdict_memrorise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youdict_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/youdict_root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_make_anki_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_make_anki_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_make_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_make_mdx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_word_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_word_in_which.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_make_all_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_make_all_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_get_youdcit_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_get_youdcit_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_get_youdict_html_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_get_youdict_html_txt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,38 +29,78 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$yaml_root.coverage" NAME="yaml_root Coverage Results" MODIFIED="1554031176165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/similar_word.py">
+        <entry file="file://$PROJECT_DIR$/03_make_anki_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youdict_root.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            <state relative-caret-position="486">
+              <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1_get_youdcit_image.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="35" column="85" selection-start-line="35" selection-start-column="85" selection-end-line="35" selection-end-column="85" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/url2html2txt.py">
+        <entry file="file://$PROJECT_DIR$/2_get_youdict_html_txt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1809">
-              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+            <state relative-caret-position="486">
+              <caret line="75" column="39" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_make_mdx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_make_image_mdx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_word_in_which.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_make_all_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -169,6 +199,13 @@
         <option value="$PROJECT_DIR$/01_make_anki_list.py" />
         <option value="$PROJECT_DIR$/word_list/GRE同义词.txt" />
         <option value="$PROJECT_DIR$/word_list/GRE_same.txt" />
+        <option value="$PROJECT_DIR$/gernerate_youdict_root.py" />
+        <option value="$PROJECT_DIR$/04_make_mdx.py" />
+        <option value="$PROJECT_DIR$/1_get_youdcit_image.py" />
+        <option value="$PROJECT_DIR$/03_make_anki_list.py" />
+        <option value="$PROJECT_DIR$/06_word_in_which.py" />
+        <option value="$PROJECT_DIR$/07_make_all_list.py" />
+        <option value="$PROJECT_DIR$/2_get_youdict_html_txt.py" />
       </list>
     </option>
   </component>
@@ -190,6 +227,11 @@
             <path>
               <item name="make_anki_word_list" type="b2602c69:ProjectViewProjectNode" />
               <item name="make_anki_word_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="make_anki_word_list" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make_anki_word_list" type="462c0819:PsiDirectoryNode" />
+              <item name="word_list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,7 +472,7 @@
       <workItem from="1557146541704" duration="4855000" />
       <workItem from="1557163399322" duration="72000" />
       <workItem from="1557163489764" duration="3141000" />
-      <workItem from="1557195418069" duration="706000" />
+      <workItem from="1557195418069" duration="1553000" />
     </task>
     <task id="LOCAL-00001" summary="add tst_txt">
       <created>1555255110403</created>
@@ -474,11 +516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557165415090</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="合并项目第一次更新">
+      <created>1557196284499</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557196284499</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126750000" />
+    <option name="totallyTimeSpent" value="127597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,9 +539,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
+    <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.22700119" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.11189635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -525,18 +575,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="add gre_class.txt" />
     <MESSAGE value="add gre_synonym.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gre_synonym.txt" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/yaml_root.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="合并项目第一次更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="合并项目第一次更新" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/make_anki_word_list$yaml_root.coverage" NAME="yaml_root Coverage Results" MODIFIED="1554555313882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -595,8 +635,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/toefl_qu_red.txt" />
-    <entry file="file://$PROJECT_DIR$/anki_word_list.txt" />
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-313451744/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -697,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix_with_root_cleared.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1134">
-          <caret line="375" column="5" selection-start-line="375" selection-start-column="5" selection-end-line="375" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-313451744/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -725,38 +756,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_make_image_mdx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kinds_of_word_list/GRE同义词___.txt" />
     <entry file="file://$PROJECT_DIR$/word_list/all_word_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="161" column="3" selection-start-line="161" selection-start-column="2" selection-end-line="161" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_make_mdx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1188">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_word_in_which.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" selection-start-line="30" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -800,27 +804,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="20342" column="4" lean-forward="true" selection-start-line="20342" selection-start-column="4" selection-end-line="20342" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/youdict_memrorise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yaml_root.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,25 +818,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_make_all_list.py">
+    <entry file="file://$PROJECT_DIR$/youdict_root.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="1053">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_make_anki_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="101" column="59" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix_origin.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/similar_word.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -858,22 +832,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/youdict_root.py">
+    <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix_with_root_cleared.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        <state relative-caret-position="8586">
+          <caret line="375" column="5" selection-start-line="375" selection-start-column="5" selection-end-line="375" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix_origin.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549234">
+          <caret line="20342" column="4" lean-forward="true" selection-start-line="20342" selection-start-column="4" selection-end-line="20342" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml_root.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url2html2txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gernerate_youdict_root.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1_get_youdcit_image.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/url2html2txt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        <state relative-caret-position="810">
+          <caret line="35" column="85" selection-start-line="35" selection-start-column="85" selection-end-line="35" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_make_anki_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_make_all_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_word_in_which.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_make_image_mdx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_make_mdx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_get_youdict_html_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="75" column="39" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
