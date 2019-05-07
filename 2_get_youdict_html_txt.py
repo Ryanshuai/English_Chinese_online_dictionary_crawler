@@ -88,14 +88,20 @@ if __name__ == '__main__':
     word_list = list(set(input_word_set_2) - set(input_word_set))
     print('download html for {} word'.format(len(word_list)))
 
+    # word_list = ['copious']
     # for word in word_list:
     #     save_word_html_to_dir(word)
-    # save_word_html_to_dir('dictator')
 
     pool = ThreadPoolExecutor(100)
     for word in word_list:
         word = word.strip()
-        if not os.path.exists('youdict_word_html/'+word+'.txt'):
+        to_txt = 'youdict_word_html/'+word+'.txt'
+        if not os.path.exists(to_txt):
             print(word)
-            # save_word_image_to_dir(word)
             a = pool.submit(save_word_html_to_dir, word)
+        else:
+            with open(to_txt, 'r', encoding='utf-8') as f:
+                txt = f.read()
+            if not txt.startswith('<!DOCTYPE html>'):
+                print(word)
+                a = pool.submit(save_word_html_to_dir, word)

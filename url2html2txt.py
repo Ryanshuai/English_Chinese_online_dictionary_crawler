@@ -28,8 +28,8 @@ def get_html(url, ip=None):
     return html
 
 
-def get_root_txt(html):
-    Soup = BeautifulSoup(html.text, 'lxml')  ##使用BeautifulSoup来解析我们获取到的网页（‘lxml’是指定的解析器 具体请参考官方文档哦）
+def get_root_txt(html_text):
+    Soup = BeautifulSoup(html_text, 'lxml')  ##使用BeautifulSoup来解析我们获取到的网页（‘lxml’是指定的解析器 具体请参考官方文档哦）
     Soup = Soup.find(attrs={"id": "youdict"})
     Soup = Soup.find_all(attrs={"class": "container"})[-1]
     Soup = Soup.find(attrs={"class": "row"})
@@ -46,8 +46,8 @@ def get_root_txt(html):
     return root_txt
 
 
-def get_memorization_txt(html):
-    Soup = BeautifulSoup(html.text, 'lxml')  ##使用BeautifulSoup来解析我们获取到的网页（‘lxml’是指定的解析器 具体请参考官方文档哦）
+def get_mem_txt(html_text):
+    Soup = BeautifulSoup(html_text, 'lxml')  ##使用BeautifulSoup来解析我们获取到的网页（‘lxml’是指定的解析器 具体请参考官方文档哦）
     Soup = Soup.find(attrs={"id": "youdict"})
     Soup = Soup.find_all(attrs={"class": "container"})[-1]
     Soup = Soup.find(attrs={"class": "row"})
@@ -83,6 +83,6 @@ if __name__ == '__main__':
     html = get_html(url, ip_list[2])
     root = get_root_txt(html)
     print(root)
-    mem = get_memorization_txt(html)
+    mem = get_mem_txt(html)
     print(mem)
 
