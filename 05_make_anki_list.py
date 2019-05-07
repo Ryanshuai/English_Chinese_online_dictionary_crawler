@@ -1,8 +1,7 @@
 import yaml
 from similar_word import Distance_Similar
-from youdict_root import Youdict_Root
-from youdict_memrorise import Youdict_Mem
-
+from word_root import Youdict_Root, Cigencizhui_Root
+from youdict_mem import Youdict_Mem
 
 
 # ####################################################### build filter list
@@ -58,16 +57,17 @@ input_word_list = list(input_word_set_2-input_word_set)
 print('all: '+str(len(input_word_list)))
 
 # ####################################################### build word list in root
-# root_affix = Youdict_Root()
-
-# edit_distance = Edit_Distance()
+# cigencizhui_root = Cigencizhui_Root()
+# youdict_root = Youdict_Root()
 # youdict_mem = Youdict_Mem()
-
+# edit_distance = Distance_Similar()
+#
+#
 # with open('anki_word_list.txt', 'w', encoding='utf-8') as f:
-#     ordered_input_word_list = root_affix.put_word_list_in_order(input_word_list)
+#     ordered_input_word_list = cigencizhui_root.put_word_list_in_order(input_word_list)
 #     for word in ordered_input_word_list:
-#         root = root_affix.get_root(word)
-#         similar_list = edit_distance.get_distance_word_list(word)
+#         root = youdict_root.get_root(word)
+#         similar_list = edit_distance.get_similar_word_list(word)
 #         mem_str = youdict_mem.get_mem(word)
 #         line = word + '\\' + root + '\\'
 #         for similar in similar_list:
@@ -76,18 +76,18 @@ print('all: '+str(len(input_word_list)))
 #         print(line)
 #         f.write(line)
 #         f.write('\n')
-
-
+#
+#
 # with open('pure_word_list.txt', 'w', encoding='utf-8') as f:
-#     ordered_input_word_list = root_affix.put_word_list_in_order(input_word_list)
+#     ordered_input_word_list = cigencizhui_root.put_word_list_in_order(input_word_list)
 #     for word in ordered_input_word_list:
 #         print(word)
 #         f.write(word)
 #         f.write('\n')
-
-
+#
+#
 # with open('output/anki_word_image_list.txt', 'w', encoding='utf-8') as f:
-#     ordered_input_word_list = root_affix.put_word_list_in_order(input_word_list)
+#     ordered_input_word_list = cigencizhui_root.put_word_list_in_order(input_word_list)
 #     for word in ordered_input_word_list:
 #         word = word.strip()
 #         line = word
@@ -95,7 +95,7 @@ print('all: '+str(len(input_word_list)))
 #             line += "\\<img src=\"{}.jpg\" />".format(word+str(i))
 #         f.write(line)
 #         f.write('\n')
-
+#
 
 with open(gre_class_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()

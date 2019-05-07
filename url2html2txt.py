@@ -68,7 +68,7 @@ def get_mem_txt(html_text):
 def get_root_from_web(word):
     url = 'https://www.youdict.com/w/' + word
     html = get_html(url)
-    root = get_root_txt(html)
+    root = get_root_txt(html.text)
     return root
 
 
@@ -81,8 +81,8 @@ if __name__ == '__main__':
     ip_list = get_dynamic_ip()
     print(ip_list)
     html = get_html(url, ip_list[2])
-    root = get_root_txt(html)
+    root = get_root_txt(html.text)
     print(root)
-    mem = get_mem_txt(html)
+    mem = get_mem_txt(html.text)
     print(mem)
 

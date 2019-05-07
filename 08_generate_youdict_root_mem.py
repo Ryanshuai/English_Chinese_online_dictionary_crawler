@@ -19,7 +19,7 @@ word_list = sorted(word_list, key=str.lower)
 
 # check ###########################################################################################################
 check_list = list()
-for word in tqdm(word_list):
+for word in tqdm(word_list, desc='checking'):
     # print(word)
     if word == 'con':
         continue
@@ -35,7 +35,7 @@ if len(check_list) > 0:
 # # ###########################################################################################################
 root_line_list = list()
 mem_line_list = list()
-for word in tqdm(word_list):
+for word in tqdm(word_list, desc='decoding'):
     if word == 'con':
         continue
     html_txt_path = html_txt_dir + '\\' + word + '.txt'
@@ -54,10 +54,12 @@ to_txt = 'D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt'
 with open(to_txt, 'w', encoding='utf-8') as f:
     for line in root_line_list:
         f.write(line)
+        f.write('\n')
 
-to_txt = 'D:\github_project\make_anki_word_list\youdict_root\youdict_mem.txt'
+to_txt = 'D:\github_project\make_anki_word_list\youdict_mem\youdict_mem.txt'
 with open(to_txt, 'w', encoding='utf-8') as f:
     for line in mem_line_list:
         f.write(line)
+        f.write('\n')
 
 
