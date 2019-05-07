@@ -16,6 +16,7 @@ gre3000_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
 gre_class_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
+internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 
 input_txt_list = list()
 # input_txt_list.append(tst_txt)
@@ -27,7 +28,7 @@ input_txt_list.append(toefl_red_txt)
 # input_txt_list.append(gre300_txt)
 # input_txt_list.append(gre_foot_txt)
 # input_txt_list.append(gre_red_txt)
-
+# input_txt_list.append(internal_txt)
 
 input_word_set = set()
 for file in input_txt_list:
@@ -46,6 +47,7 @@ input_txt_list_2 = list()
 input_txt_list_2.append(gre3000_txt)
 input_txt_list_2.append(gre_foot_txt)
 # input_txt_list_2.append(gre_red_txt)
+# input_txt_list.append(internal_txt)
 
 input_word_set_2 = set()
 for file in input_txt_list_2:

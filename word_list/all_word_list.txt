@@ -321,8 +321,8 @@ agriculture
 agronomy
 aground
 ahead
-Aid
 aid
+Aid
 ail
 ailment
 Aim
@@ -335,8 +335,8 @@ airline
 airplane
 airport
 airtight
-aisle
 Aisle
+aisle
 akin
 alabaster
 alacrity
@@ -354,8 +354,8 @@ alga
 algebra
 alias
 alibi
-Alien
 alien
+Alien
 alienate
 align
 alike
@@ -378,8 +378,8 @@ allocation
 Allow
 allow
 allowance
-Alloy
 alloy
+Alloy
 allude
 allure
 allurement
@@ -399,8 +399,8 @@ alphabet
 alphabetical
 already
 Also
-alter
 Alter
+alter
 alteration
 altercate
 altercation
@@ -1568,8 +1568,8 @@ byproduct
 byre
 bystander
 byword
-byzantine
 Byzantine
+byzantine
 cab
 cabal
 cabbage
@@ -7429,8 +7429,8 @@ mawkish
 maxim
 maximize
 maximum
-may
 May
+may
 maybe
 mayhem
 mayor
@@ -9517,8 +9517,8 @@ prosperous
 prostitute
 prostrate
 protagonist
-Protean
 protean
+Protean
 protect
 protection
 protective
@@ -11684,8 +11684,8 @@ stupid
 stupor
 sturdy
 stutter
-stygian
 Stygian
+stygian
 style
 stylish
 stylistic
@@ -12134,8 +12134,8 @@ texture
 than
 thanatoid
 thank
-Thanksgiving
 thanksgiving
+Thanksgiving
 that
 thatch
 thaw
@@ -13417,3 +13417,4 @@ zoo
 zoom
 zoophilous
 zygote
+

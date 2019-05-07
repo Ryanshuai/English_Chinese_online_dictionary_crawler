@@ -1,7 +1,4 @@
 
-
-
-
 # ####################################################### build filter list
 tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
 cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
@@ -14,7 +11,7 @@ gre3000_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
 gre_class_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
-
+internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 
 input_txt_list = list()
 input_txt_list.append(cet4_txt)
@@ -26,7 +23,7 @@ input_txt_list.append(toefl_class)
 input_txt_list.append(gre3000_txt)
 input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
-
+input_txt_list.append(internal_txt)
 
 word = 'emolument'
 for file in input_txt_list:

@@ -1,4 +1,3 @@
-import yaml
 from tqdm import tqdm
 from writemdict.writemdict import MDictWriter
 from similar_word import Distance_Similar, No_Root_Similar
@@ -8,7 +7,6 @@ from youdict_mem import Youdict_Mem
 
 # ####################################################### build filter list
 all_word_list = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
-
 
 with open(all_word_list, 'r',encoding='utf-8') as f:
     word_list = f.read().splitlines()
@@ -28,7 +26,6 @@ for word in tqdm(input_word_set, desc='root_dict.mdx'):
         dictionary[word] = root
     else:
         no_root_list.append(word)
-
 
 writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com and yaml")
 outfile = open("output/root_dict.mdx", "wb")
@@ -95,7 +92,6 @@ for word in tqdm(input_word_set, desc='order_root_dict.mdx'):
         dictionary[word] = root
     else:
         no_root_list.append(word)
-
 
 writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com and yaml")
 outfile = open("output/root_dict.mdx", "wb")

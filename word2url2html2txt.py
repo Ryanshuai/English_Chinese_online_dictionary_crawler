@@ -1,6 +1,7 @@
 import requests ##导入requests
 from bs4 import BeautifulSoup ##导入bs4中的BeautifulSoup
 import telnetlib
+import os
 
 
 def get_dynamic_ip():
@@ -11,7 +12,7 @@ def get_dynamic_ip():
     return ip_list
 
 
-def get_html(url, ip=None):
+def get_html_from_url(url, ip=None):
     if ip is None:
         head = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}  ##浏览器请求头（大部分网站没有这个请求头会报错、请务必加上哦）
         html = requests.get(url, headers=head, verify=False)
@@ -25,11 +26,40 @@ def get_html(url, ip=None):
     # p = requests.get('http://icanhazip.com', headers=head, proxies=proxy)
     # print('------------------------')
     # print(p.text)
-    return html
+    return html.text
 
 
-def get_root_txt(html_text):
-    Soup = BeautifulSoup(html_text, 'lxml')  ##使用BeautifulSoup来解析我们获取到的网页（‘lxml’是指定的解析器 具体请参考官方文档哦）
+def get_word_html_text_from_web(word):
+    url = 'https://www.youdict.com/w/' + word
+    html_text = get_html_from_url(url)
+    save_word_html_text_to_dir(word, html_text)
+    return html_text
+
+
+def save_word_html_text_to_dir(word, html_text, dire='youdict_word_html/'):
+    to_txt = dire+word+'.txt'
+    with open(to_txt, 'w', encoding='utf-8') as f:
+        f.write(html_text)
+
+
+def get_word_html_text_from_txt_dir(word):  # .txt must exists
+    html_text_dir = 'D:\github_project\make_anki_word_list\youdict_word_html/'
+    html_text_path = html_text_dir + '\\' + word + '.txt'
+    with open(html_text_path, 'r', encoding='utf-8') as f:
+        html_text = f.read()
+    return html_text
+
+
+def get_word_html_from_everywhere(word):
+    if os.path.exists('D:\github_project\make_anki_word_list\youdict_word_html/' + word + '.txt'):
+        html_text = get_word_html_text_from_txt_dir(word)
+    else:
+        html_text = get_word_html_text_from_web(word)
+    return html_text
+
+
+def get_root_txt_from_html_text(html_text):
+    Soup = BeautifulSoup(html_text, 'lxml')
     Soup = Soup.find(attrs={"id": "youdict"})
     Soup = Soup.find_all(attrs={"class": "container"})[-1]
     Soup = Soup.find(attrs={"class": "row"})
@@ -46,8 +76,8 @@ def get_root_txt(html_text):
     return root_txt
 
 
-def get_mem_txt(html_text):
-    Soup = BeautifulSoup(html_text, 'lxml')  ##使用BeautifulSoup来解析我们获取到的网页（‘lxml’是指定的解析器 具体请参考官方文档哦）
+def get_mem_txt_from_html_text(html_text):
+    Soup = BeautifulSoup(html_text, 'lxml')
     Soup = Soup.find(attrs={"id": "youdict"})
     Soup = Soup.find_all(attrs={"class": "container"})[-1]
     Soup = Soup.find(attrs={"class": "row"})
@@ -65,25 +95,6 @@ def get_mem_txt(html_text):
         return ''
 
 
-def get_root_from_web(word):
-    html = save_word_html_to_dir(word)
-    root = get_root_txt(html.text)
-    return root
-
-
-def save_word_html_to_dir(word, di='youdict_word_html/'):
-    base_url = 'https://www.youdict.com/w/'
-    url = base_url + word
-    html = get_html(url)
-    # print(html.text)
-
-    to_txt = di+word+'.txt'
-    with open(to_txt, 'w', encoding='utf-8') as f:
-        f.write(html.text)
-        f.write('\n')
-    return html
-
-
 if __name__ == '__main__':
     # ws = Word_Spider()
     # txt = ws.get_men_root('dictator')
@@ -93,8 +104,8 @@ if __name__ == '__main__':
     ip_list = get_dynamic_ip()
     print(ip_list)
     html = get_html(url, ip_list[2])
-    root = get_root_txt(html.text)
+    root = get_root_txt_from_html_text(html.text)
     print(root)
-    mem = get_mem_txt(html.text)
+    mem = get_mem_txt_from_html_text(html.text)
     print(mem)
 

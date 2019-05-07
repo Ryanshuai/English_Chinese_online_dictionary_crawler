@@ -1,5 +1,5 @@
 import yaml
-import url2html2txt
+import word2url2html2txt
 
 
 class Cigencizhui_Root:
@@ -46,7 +46,7 @@ class Youdict_Root:
     def get_root_from_all(self, word):
         root = self.w_r_dict.get(word, '')
         if len(root) == 0:
-            root = url2html2txt.get_root_from_web(word)
+            root = word2url2html2txt.get_root_from_web(word)
         return root
 
     def get_root(self, word):
