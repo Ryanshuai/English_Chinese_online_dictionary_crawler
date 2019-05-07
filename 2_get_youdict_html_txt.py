@@ -2,6 +2,7 @@ import os
 import eventlet
 from concurrent.futures import ThreadPoolExecutor
 import requests
+from url2html2txt import save_word_html_to_dir
 
 eventlet.monkey_patch()
 
@@ -21,18 +22,6 @@ def get_html(url, ip=None):
     # print('------------------------')
     # print(p.text)
     return html
-
-
-def save_word_html_to_dir(word, di='youdict_word_html/'):
-    base_url = 'https://www.youdict.com/w/'
-    url = base_url + word
-    html = get_html(url)
-    # print(html.text)
-
-    to_txt = di+word+'.txt'
-    with open(to_txt, 'w', encoding='utf-8') as f:
-        f.write(html.text)
-        f.write('\n')
 
 
 if __name__ == '__main__':

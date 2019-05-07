@@ -66,10 +66,22 @@ def get_mem_txt(html_text):
 
 
 def get_root_from_web(word):
-    url = 'https://www.youdict.com/w/' + word
-    html = get_html(url)
+    html = save_word_html_to_dir(word)
     root = get_root_txt(html.text)
     return root
+
+
+def save_word_html_to_dir(word, di='youdict_word_html/'):
+    base_url = 'https://www.youdict.com/w/'
+    url = base_url + word
+    html = get_html(url)
+    # print(html.text)
+
+    to_txt = di+word+'.txt'
+    with open(to_txt, 'w', encoding='utf-8') as f:
+        f.write(html.text)
+        f.write('\n')
+    return html
 
 
 if __name__ == '__main__':

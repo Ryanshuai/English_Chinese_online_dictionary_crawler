@@ -16,12 +16,11 @@ input_word_set = set(word_list)
 
 
 # ##################################################### root youdict yaml
-print('start root_dict.mdx')
 no_root_list = list()
 youdict_root = Youdict_Root()
 yaml_root = Yaml_Root()
 dictionary = dict()
-for word in tqdm(input_word_set):
+for word in tqdm(input_word_set, desc='root_dict.mdx'):
     root = youdict_root.get_root_str_for_mdx(word)
     if root == '':
         root = yaml_root.get_root(word)
