@@ -13,7 +13,7 @@ with open(all_word_list, 'r',encoding='utf-8') as f:
 input_word_set = set(word_list)
 
 
-##################################################### Levenshtein similar
+##################################################### distance similar
 edit_distance = Distance_Similar()
 dictionary = dict()
 for word in tqdm(input_word_set, desc='distance_similar.mdx'):

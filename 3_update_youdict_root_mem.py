@@ -1,4 +1,5 @@
 import make_all_list
+import re
 import os
 from tqdm import tqdm
 from word2url2html2txt import get_root_txt_from_html_text, get_mem_txt_from_html_text, get_word_html_text_from_web
@@ -57,30 +58,19 @@ if __name__ == '__main__':
     # check ###########################################################################################################
     multi_thread_check_and_save(word_list)
 
-    # ###########################################################################################################
-    root_line_list = list()
-    mem_line_list = list()
+    # internal word check #############################################################################################
     internal_word_set = set()
-    for word in tqdm(word_list, desc='decoding'):
-        if word == 'con':
-            continue
-        html_text_path = html_text_dir + '\\' + word + '.txt'
-        with open(html_text_path, 'r', encoding='utf-8') as f:
-            html_txt = f.read()
-        root_txt = get_root_txt_from_html_text(html_txt)
-        internal_word = find_internal_word_from_youdict_root_str(root_txt)
-        if len(internal_word) > 0:
-            if internal_word[-1] == '.':
-                internal_word = internal_word[:-1]
-            tqdm.write(internal_word)
-            internal_word_set.add(internal_word)
-        mem_txt = get_mem_txt_from_html_text(html_txt)
-        root_line_list.append(word+'\\'+root_txt)
-        mem_line_list.append(word+'\\'+mem_txt)
-        # print('----------------------')
-        # print(word)
-        # print(word+'\\'+root_txt)
-        # print(word+'\\'+mem_txt)
+    with open('D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt', encoding='utf-8') as f:
+        line_list = f.readlines()
+        for line in line_list:
+            line = line.strip()
+            word, root = line.split('\\')
+            internal_word = find_internal_word_from_youdict_root_str(root)
+            if len(internal_word) > 0:
+                if internal_word[-1] == '.':
+                    internal_word = internal_word[:-1]
+                # tqdm.write(internal_word)
+                internal_word_set.add(internal_word)
 
     internal_word_list = list(internal_word_set)
     with open('D:\github_project\make_anki_word_list\word_list\internal_word.txt', 'w', encoding='utf-8') as f:
@@ -89,6 +79,26 @@ if __name__ == '__main__':
                 continue
             f.write(word)
             f.write('\n')
+    multi_thread_check_and_save(internal_word_list)
+
+    # ###########################################################################################################
+    root_line_list = list()
+    mem_line_list = list()
+    for word in tqdm(word_list, desc='decoding'):
+        if word == 'con':
+            continue
+        html_text_path = html_text_dir + '\\' + word + '.txt'
+        with open(html_text_path, 'r', encoding='utf-8') as f:
+            html_txt = f.read()
+        root_txt = get_root_txt_from_html_text(html_txt)
+        mem_txt = get_mem_txt_from_html_text(html_txt)
+        root_line_list.append(word+'\\'+root_txt)
+        mem_line_list.append(word+'\\'+mem_txt)
+        # print('----------------------')
+        # print(word)
+        # print(word+'\\'+root_txt)
+        # print(word+'\\'+mem_txt)
+
 
     to_txt = 'D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt'
     with open(to_txt, 'w', encoding='utf-8') as f:

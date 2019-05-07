@@ -321,8 +321,8 @@ agriculture\词根agro, 农业。culture, 培育。
 agronomy\
 aground\
 ahead\
-aid\来自古法语aide,辅助，帮助，缩写自拉丁语adjuta,帮助，过去分词格于adiuvare,帮助，来自 ad-,去，往，-juv,年青人，词源同adjutant,juvenile,young.
 Aid\来自古法语aide,辅助，帮助，缩写自拉丁语adjuta,帮助，过去分词格于adiuvare,帮助，来自 ad-,去，往，-juv,年青人，词源同adjutant,juvenile,young.
+aid\来自古法语aide,辅助，帮助，缩写自拉丁语adjuta,帮助，过去分词格于adiuvare,帮助，来自 ad-,去，往，-juv,年青人，词源同adjutant,juvenile,young.
 ail\来自PIE*agh, 恐惧，害怕,字母g脱落。词源同awe, 敬畏，ugly, 丑陋。由恐惧衍生出敬畏，丑陋，忧患，病痛等。
 ailment\ail,生病的，-ment,名词后缀。
 Aim\estimate的缩写。
@@ -378,15 +378,15 @@ allocation\
 Allow\1.前缀al-同ad-, 去，往. 词根laud-, 表扬，词源同laudable，表扬，许可。引申词义准许。
 allow\1.前缀al-同ad-, 去，往. 词根laud-, 表扬，词源同laudable，表扬，许可。引申词义准许。
 allowance\allow,发津贴，-ance,名词后缀。
-Alloy\前缀al-同ad-. -loy同词根lig, 绑，组合。特指把贵金属和贱金属合在一起冶炼。
 alloy\前缀al-同ad-. -loy同词根lig, 绑，组合。特指把贵金属和贱金属合在一起冶炼。
+Alloy\前缀al-同ad-. -loy同词根lig, 绑，组合。特指把贵金属和贱金属合在一起冶炼。
 allude\前缀al-同ad-.词根lud, 玩耍, 见ludic, 玩耍的。原指开玩笑，嘲笑，后暗指，影射。
 allure\前缀al-同ad-. 单词 lure, 诱惑。
 allurement\
 alluring\
 allusion\
-ally\前缀al-同ad-. 词根lig, 绑定。
 Ally\前缀al-同ad-. 词根lig, 绑定。
+ally\前缀al-同ad-. 词根lig, 绑定。
 almost\组合词。al同all, 全部的。most, 大多数的。
 alms\词源不详。
 aloft\来自短语on loft. 单词loft, 阁楼，高空，lift的名词。
@@ -442,8 +442,8 @@ amendment\
 amenity\来自词根am，爱，愉悦。令人愉悦的（设施）。
 amiable\来自词根am, 爱。
 amicable\
-Amid\
 amid\
+Amid\
 amino\
 amiss\
 amity\来自词根am, 爱，友好。
@@ -895,8 +895,8 @@ auditory\
 augment\来自词根aug, 增加。
 augur\au同词根av, 鸟，见aviation, 航空。-gur同词根gar, 说，拟声词，见garrulous, 话多的。来自古罗马时期以鸟占卜，以确定吉凶。
 augury\
-August\以罗马皇帝Augustus Caesar命名的月份。
 august\以罗马皇帝Augustus Caesar命名的月份。
+August\以罗马皇帝Augustus Caesar命名的月份。
 aunt\来自拉丁语amita, 同amma. 鼻音m,n对应。
 aural\来自词根aur, 耳朵，同ear.
 auspices\
@@ -1566,8 +1566,8 @@ byproduct\
 byre\词源同booth, bothy.
 bystander\
 byword\
-byzantine\来自其创建者的名字Byzas of Megara.
 Byzantine\来自其创建者的名字Byzas of Megara.
+byzantine\来自其创建者的名字Byzas of Megara.
 cab\来自拉丁词caper, 山羊，词源同caprice, cabriolet. 原指一种颠簸的马车，犹如蹦跳的山羊。
 cabal\来自希伯来语，义为神秘的，词源同Cabala. 现词义来自于17世纪英国历史上组成阴谋集团的五个大臣姓名首字母缩小(Clifford, Arlington,Buckingham,Ashley,and Lauderdale)
 cabbage\来自词根cap, 头，词源同captain, chief. 形容洋白菜的形状。
@@ -2809,8 +2809,8 @@ cruise\来自cross, 穿起，穿过。
 crumb\来自古英语cruma, 面包屑，碎片。可能同crisp, 卷的， 脆的。
 crumble\来自crumb, 面包屑。-le, 表反复。
 crumple\词源同crisp, crimp, 卷的，脆的。
-crusade\词源同cross,十字架，因战士携带十字架而得名。
 Crusade\词源同cross,十字架，因战士携带十字架而得名。
+crusade\词源同cross,十字架，因战士携带十字架而得名。
 crush\拟声词。
 crust\来自PIE*kreus,冷冻，结晶，词源同crystal,cryogenic.原指由冷冻形成的硬壳。
 crustacean\来自crust,硬壳，-acean,表属性，见cetacean,鲸目动物。
@@ -5416,6 +5416,7 @@ grocer\来自gross, 总计，汇总。原指批发商，现也指杂货商。
 grocery\
 grog\来自grogram, 粗松斜纹布，来自18世纪英国海军上将Edward Vernon的昵称Old Grog, 因其常偏好这种布料的斗篷而得名，他曾命令其水手将烈性朗姆酒兑水稀释以防止喝醉，这种兑水的朗姆酒最后就被戏称为grog酒。
 groggy\来自grog, 格洛格酒。
+grogram\来自gross grain 的缩写词，即粗纹理布料。
 groom\来自古英语grome, 男仆。词源同grow, crew.
 groove\词源同carve, grave.
 grope\词源同grab, grip. 由抓住引申词义摸索，探索。
@@ -7491,8 +7492,8 @@ mawkish\来自中古英语mauk,蛆，蛆虫，缩写自mathek,来自Proto-German
 maxim\来自拉丁语maxima,来自maximum的阴性格，-a,表阴性。即最重要的训导，引申词义格言，座右铭。
 maximize\来自maximum,最大，-ize,使。即使最大化。
 maximum\来自拉丁语magnus,大的，巨大的，词源同magnate,magnum.-im,最高级后缀，词源同ultimate,intimate.-um,中性格，词源同datum.即大的最高级中性名词，引申词义最大量，最高限度等。
-may\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
 May\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
+may\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
 may be\
 maybe\来自may be.
 mayhem\来自古法语mayhem,来自PIE*mai,砍，劈，词源同maim,mangle.引申词义伤害，损伤，骚乱，混乱。
@@ -7808,6 +7809,7 @@ monologue\mono-,单个的，-logue,对话，词源同dialogue.引申词义独白
 monomania\mono-,单个的，mania,发狂。
 monopolize\来自monopoly,垄断。
 monopoly\mono-,单个的，-poly,卖，词源同oligopoly,polypoly.即只有一家卖家，引申词义垄断，独占。
+monos\
 monotone\mono-,单个的，tone,调子。用于比喻义单调。
 monotonous\来自monotone,单调。
 monotony\来自monotone,单调。
@@ -7930,8 +7932,8 @@ murky\来自murk,昏暗。即昏暗的，引申词义暧昧的。
 murmur\拟声词，模仿咕哝地声音。
 muscle\来自拉丁语musculus,小老鼠，肌肉，来自mus,老鼠，词源同mouse,-cul,小词后缀。因古人认为鼓起的肌肉形如跳跃的小老鼠而得名。
 muscular\来自muscle,肌肉。
-Muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
 muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
+Muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
 museum\来自Muse,缪斯女神，-um,表地点。字面意思即缪斯女神的圣殿，与缪斯女神对话的地方。在古希腊时期用以指学校，图书馆，艺术学校，现仅用于指图书馆。
 mushroom\来自古法语meisseron,蘑菇，可能来自moss,苔藓，潮湿的地方。即在潮湿的地方长出来的菌类。拼写俗词源化。
 music\来自拉丁语musica,音乐，诗歌，来自希腊语mousike techni,即the technology of Muses,献给智慧女神缪斯的艺术。后专有化指音乐。
@@ -9614,8 +9616,8 @@ prosperous\来自prosper,使繁荣，昌盛。
 prostitute\来自拉丁语prostituere,卖淫，来自pro-,向前，-stit,站立，词源同stand,institute.字面意思即站在前面，引申词义买卖，供挑选等。
 prostrate\来自拉丁语prostratus,俯伏的，来自prosternere,俯伏，拜倒，来自pro-,向前，sternere,展开，张开，词源同stratum,structure.
 protagonist\prota-,第一的，-agon,做，表演，词源同act,agent.
-Protean\来自希腊语Proteus,海神，能化身为各种形状。引申词义多变的。
 protean\来自希腊语Proteus,海神，能化身为各种形状。引申词义多变的。
+Protean\来自希腊语Proteus,海神，能化身为各种形状。引申词义多变的。
 protect\来自拉丁语protegere,保护，覆盖，来自pro-,向前，-teg,遮盖，覆盖，词源同protege,detective.-ct,过去分词格。
 protection\来自protect,保护。
 protective\

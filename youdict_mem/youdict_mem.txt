@@ -321,8 +321,8 @@ agriculture\
 agronomy\agronomy-a(一),gro-grow(生长,种植),nomy-农民。一门跟生长种植以及农民有关的学科 n.农学,农艺学。
 aground\
 ahead\
-aid\
 Aid\
+aid\
 ail\ail(疼痛)哎哟\\2. ail 【哎哦】 疼痛 ，感到不适，生病，处境艰难
 ailment\
 Aim\1. 由古法语 Old French aesmer ( from Latin aestimare "appraise" ) 缩略、简化而来。\\2. 同源词：estimate, esteem, aim.
@@ -378,15 +378,15 @@ allocation\
 Allow\
 allow\
 allowance\
-Alloy\
 alloy\
+Alloy\
 allude\1、以玩笑(play, joke, jest)的口吻提及，当然就不是明说了，而是暗示、暗指，暗讽，影射，转弯抹角地说到(提及)了。\\2、带有介词性质含义的前缀在构成单词后，如果该单词有不及物性质，那么它后面再跟介词时，往往跟前缀的介词性质含义相同。\\3、al- "to" + lud- + -e.
 allure\1. all + ure, 全是诱饵.
 allurement\
 alluring\
 allusion\1、以玩笑(play, joke, jest)的口吻提及，当然就不是明说了，而是暗示、暗指，暗讽，影射，转弯抹角地说到(提及)了。\\2、带有介词性质含义的前缀在构成单词后，如果该单词有不及物性质，那么它后面再跟介词时，往往跟前缀的介词性质含义相同。\\3、al- "to" + lus- + -ion.
-ally\
 Ally\
+ally\
 almost\
 alms\1. alms与almoner、eleemosynary同源。\\2. 它是由希腊语eleemosyne逐步简化而来。\\3. eleemosyne: ele-emo-syne or ele-em-osyne; from eleemon "compassionate," from eleos "pity, mercy," of unknown origin, perhaps imitative of cries for alms.\\4. 谐音“爱募施、俺募施”-------爱募捐、施舍。
 aloft\
@@ -442,8 +442,8 @@ amendment\1. amend (法律文件的小修小改)修正案.
 amenity\1. am- "love" => amen- "pleasant".\\2. amen- + -ity.\\3. => delightfulness, pleasantness.\\4. 【记】音：阿门，常对上帝说阿门能带来精神上的愉快，去教堂时穿着也有礼仪
 amiable\
 amicable\
-Amid\
 amid\
+Amid\
 amino\
 amiss\
 amity\
@@ -895,8 +895,8 @@ auditory\
 augment\
 augur\
 augury\
-August\1. 可能的来源有两种，其中一种可理解为：aug- "increase" + -ust (-ist的变体，最高级后缀)。
 august\1. 可能的来源有两种，其中一种可理解为：aug- "increase" + -ust (-ist的变体，最高级后缀)。
+August\1. 可能的来源有两种，其中一种可理解为：aug- "increase" + -ust (-ist的变体，最高级后缀)。
 aunt\
 aural\1. ear => aur- "listen" => aural.\\2. air => aura => aural.\\3. aurora => aura => aural.
 auspices\
@@ -1566,8 +1566,8 @@ byproduct\
 byre\
 bystander\
 byword\
-byzantine\
 Byzantine\
+byzantine\
 cab\cab           出租汽车   “开吧！出租汽车”
 cabal\
 cabbage\
@@ -2809,8 +2809,8 @@ cruise\
 crumb\1. 谐音“垮了(啦)面包，块了(啦)面包”
 crumble\1. 谐音“垮了吧！垮啦吧！垮了崩”\\2. crumb => crumble.
 crumple\crimp压出褶\\crumple弄皱
-crusade\1. 处在重大的发展的十字路口，肯定需要改革。
 Crusade\1. 处在重大的发展的十字路口，肯定需要改革。
+crusade\1. 处在重大的发展的十字路口，肯定需要改革。
 crush\1. 谐音“垮了兮！垮啦兮！”
 crust\1. 壳生锈了，外壳生锈了。
 crustacean\
@@ -5416,6 +5416,7 @@ grocer\
 grocery\
 grog\
 groggy\
+grogram\
 groom\1. 在屋里等待新娘的哥哥.
 groove\1. grave => grub => groove.
 grope\1. grape ===> grope.\\2. g- (瓜[gua]的首字母) + rope (绳、线 => 藤) => 顺藤摸瓜(地去摸索、探索)，是不是很形象啊？\\3. 绳子前的哥哥在摸索，顺着绳子去摸索嘛！\\4. originally "lay hold of, seize, touch, attain".\\5. grope <===>gripe, grip.
@@ -7491,8 +7492,8 @@ mawkish\
 maxim\
 maximize\
 maximum\
-may\may---------"美"----------------少女\\may 五月——媚 \\联想：五月春光明“媚”。
 May\may---------"美"----------------少女\\may 五月——媚 \\联想：五月春光明“媚”。
+may\may---------"美"----------------少女\\may 五月——媚 \\联想：五月春光明“媚”。
 may be\
 maybe\
 mayhem\maim使残废。\\mayhem严重伤害罪。
@@ -7808,6 +7809,7 @@ monologue\
 monomania\
 monopolize\
 monopoly\
+monos\
 monotone\1. mono- + ton- "tone" + -e.\\2. 含义：of one tone, sameness of tone.\\3. => lacking in variety.
 monotonous\1. mono- + ton- "tone" + -ous.\\2. 含义：of one tone.\\3. => lacking in variety, uninteresting.
 monotony\1. mono- + ton- "tone" + -y.\\2. 含义：of one tone, sameness of tone.\\3. => lacking in variety, uninteresting, wearisome, tiresome.
@@ -7930,8 +7932,8 @@ murky\1. morning => morn => murk => mirk, mirky, murky.
 murmur\
 muscle\1. from Latin musculus "a muscle," literally "little mouse," diminutive of mus "mouse" (see mouse).\\2. So called because the shape and movement of some muscles (notably biceps) were thought to resemble mice.
 muscular\
-Muse\
 muse\
+Muse\
 museum\
 mushroom\
 music\
@@ -9614,8 +9616,8 @@ prosperous\
 prostitute\
 prostrate\
 protagonist\1、prot- "first" + agon- + -ist.\\2、本身的直接含义：leading person in any cause or contest. => actor who plays the chief or first part, principal character in a story, drama, etc.\\3、Mistaken sense of "advocate, supporter" (1935) is from misreading of Greek protos as Latin pro- "for".
-Protean\
 protean\
+Protean\
 protect\
 protection\
 protective\
