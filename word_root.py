@@ -46,11 +46,9 @@ class Youdict_Root:
     def get_root_from_all(self, word):
         root = self.w_r_dict.get(word, '')
         if len(root) == 0:
-            root = word2url2html2txt.get_root_from_web(word)
+            html_text = word2url2html2txt.get_word_html_from_everywhere(word)
+            root = word2url2html2txt.get_root_txt_from_html_text(html_text)
         return root
-
-    def get_root(self, word):
-        return self.get_root_from_all(word)
 
     def get_root_str_for_mdx(self, word):
         root = self.w_r_dict.get(word, '')
@@ -66,9 +64,9 @@ class Youdict_Root:
 class Yaml_Root:
     def __init__(self):
         with open('D:/github_project/make_anki_word_list/yaml_root/1 词缀词根.yaml', encoding='utf-8') as f:
-            self.root_content = yaml.load(f)
+            self.root_content = yaml.load(f, Loader=yaml.FullLoader)
         with open('D:/github_project/make_anki_word_list/yaml_root/2 单词列表.yaml', encoding='utf-8') as f:
-            word_content = yaml.load(f)
+            word_content = yaml.load(f, Loader=yaml.FullLoader)
             self.word_dict = dict()
             for word_context in word_content:
                 word = word_context[0]
@@ -81,6 +79,8 @@ class Yaml_Root:
         else:
             return ''
 
+    def get_root_str_for_mdx(self, word):
+        return self.get_root(word)
 
 if __name__ == '__main__':
     yr = Yaml_Root()

@@ -321,8 +321,8 @@ agriculture\词根agro, 农业。culture, 培育。
 agronomy\
 aground\
 ahead\
-Aid\来自古法语aide,辅助，帮助，缩写自拉丁语adjuta,帮助，过去分词格于adiuvare,帮助，来自 ad-,去，往，-juv,年青人，词源同adjutant,juvenile,young.
 aid\来自古法语aide,辅助，帮助，缩写自拉丁语adjuta,帮助，过去分词格于adiuvare,帮助，来自 ad-,去，往，-juv,年青人，词源同adjutant,juvenile,young.
+Aid\来自古法语aide,辅助，帮助，缩写自拉丁语adjuta,帮助，过去分词格于adiuvare,帮助，来自 ad-,去，往，-juv,年青人，词源同adjutant,juvenile,young.
 ail\来自PIE*agh, 恐惧，害怕,字母g脱落。词源同awe, 敬畏，ugly, 丑陋。由恐惧衍生出敬畏，丑陋，忧患，病痛等。
 ailment\ail,生病的，-ment,名词后缀。
 Aim\estimate的缩写。
@@ -335,8 +335,8 @@ airline\
 airplane\
 airport\
 airtight\
-aisle\来自词根ala-, 翼，借指走廊，过道等。拼写受单词isle影响，最终拼写俗化为aisle.
 Aisle\来自词根ala-, 翼，借指走廊，过道等。拼写受单词isle影响，最终拼写俗化为aisle.
+aisle\来自词根ala-, 翼，借指走廊，过道等。拼写受单词isle影响，最终拼写俗化为aisle.
 akin\来自短语 of kin.
 alabaster\可能来自埃及语。
 alacrity\来自拉丁语alacer, 渴望，欢快，词源同allegro, 快板。
@@ -354,8 +354,8 @@ alga\
 algebra\来自阿拉伯语al jabr. al, 定冠词。-gebra同 jabr, 接骨，喻指计算，阿拉伯数学家Khwarizmi的数学论文标题。
 alias\拉丁词。词根al, 其它，同else.
 alibi\拉丁词。词根al, 其它，同else.
-Alien\拉丁词。词根al, 其它，同else.
 alien\拉丁词。词根al, 其它，同else.
+Alien\拉丁词。词根al, 其它，同else.
 alienate\
 align\前缀ad-, 去往。法语lign, 同line, 线，插入字母g。
 alike\
@@ -442,8 +442,8 @@ amendment\
 amenity\来自词根am，爱，愉悦。令人愉悦的（设施）。
 amiable\来自词根am, 爱。
 amicable\
-amid\
 Amid\
+amid\
 amino\
 amiss\
 amity\来自词根am, 爱，友好。
@@ -738,8 +738,8 @@ arrogant\
 arrogate\前缀ar-同ad-, 向，往. 词根rog-, 要求，词源同reach.
 arrow\来自arc, 弧，弓。拼写受row影响俗化。
 arroyo\前缀ar-同ad-. -royo, 同词根rug, 皱，见corrugated, 起皱的。指矿道，山谷。
-Arsenal\来自阿拉伯语dar as-sina’ah. dar, 仓库。sina’ah，技艺，制造。进入意大利语指军火库。同英国阿森纳球队。
 arsenal\来自阿拉伯语dar as-sina’ah. dar, 仓库。sina’ah，技艺，制造。进入意大利语指军火库。同英国阿森纳球队。
+Arsenal\来自阿拉伯语dar as-sina’ah. dar, 仓库。sina’ah，技艺，制造。进入意大利语指军火库。同英国阿森纳球队。
 arson\来自词根ard, 火，燃烧。
 arsonist\
 art\来自词根ar, 连接，组合。
@@ -870,6 +870,7 @@ attendant\
 attention\
 attenuate\前缀at-同ad-. 词根ten, 持有，握住，见tenure. 引申义伸长，拉伸，见tend, 引申义变细，减轻，见该词，或extenuate, 减轻。
 attest\前缀at-同ad-. 词根test, 见证，来自PIE *tri-st, *tri同three, 三。st,站。即第三者，见证者，词源同testis, 睾丸，testament，证词。单词test, 测试，同词根terra, 土，见terrestrial, 领土的。原指土制陶罐用来检测贵金属如金，银纯度。字母r,s音变。
+Attic\来自Attic, 雅典别称，指该地一种建筑风格。
 attic\来自Attic, 雅典别称，指该地一种建筑风格。
 attire\前缀at-同ad-. -tire同单词tier, 准备，安排，层级。服装是身份的象征，所以该词特指比较正式的衣服。
 attitude\aptitude的变体。原指绘画或雕像时模特的姿势，通常都看起来比较优雅，后指傲慢的态度。
@@ -1196,6 +1197,7 @@ berate\前缀be-, 强调。rate, 责备，古词，同拉丁词reputare, 反复�
 bereft\前缀be-, 强调。-reave, 剥夺，词源同rip, rob.
 berserk\ber, 同bear, 熊。serk, 同sartorial, 缝制。原指熊皮制成的衣服。
 berth\词源不详，可能同bear, 承载。
+beryl\来自南印度语。因在印度南部城市Belur开采而得名，为brilliant原词。
 beseech\
 beset\前缀be-, 强调。set, 放置。来自军事用语，指包围。
 beshrew\
@@ -1498,6 +1500,7 @@ budge\词源同boil, 沸腾，膨胀。插入字母d.
 budget\来自拉丁词bulga, 皮袋子，钱夹。词源同ball, 膨胀，鼓起，球。预算来自钱夹比喻义。比较 bourse, 钱夹，股票交易所。
 buff\来自buffalo leather, 水牛皮，黄褐色。爱好者义来自美国历史上1820年纽约志愿者救火队的制服颜色，这群志愿者在当时享有非常大的声誉。
 buffalo\词源同bov, 牛，见bovine, 牛的。
+buffalo leather\
 buffet\来自法语bufet, 桌子，橱柜。后指餐厅自助餐。
 buffoon\buff, 吹，引人发笑，拟声词，同puff. -oon, 大词后缀，多用于贬义。
 bug\来自古英语词bugge, 妖怪，令人害怕之物。后指昆虫。故障义据说来自大发明家爱迪生，在检察某机器故障时发现是由于里面死了一个小虫。
@@ -1588,6 +1591,7 @@ cajole\co-, 强调。-jole, 同jay, 松鸦，俚语义傻瓜。
 cake\来自PIE *gog，圆块，块状，词源同cog, cudgel.原指圆块状的物体或块状面包，而非现在所理解的蛋糕。与cook同词源性已被否定。
 calamitous\来自calamity, 灾难。
 calamity\来自calamus, 芦苇。指不结实，豆腐渣。
+calamus\
 calcify\来自calcium，钙。
 calcium\来自词根calc, 小石子。词源同calculate.
 calculable\
@@ -1744,6 +1748,7 @@ cataclysm\cata-, 向下。-clysm, 冲洗，流，词源可能同flow, flood. 原
 cataclysmal\
 catalog\cata-,向下，-log,说，读，词源同legible,lecture.
 catalogue\cata-, 向下。-log, 说，读，词源同legible,lecture.
+catalyse\cata-, 向下，强调。-lyse, 同lose,松开。即使松开的，起催化作用的。
 catalyst\来自catalyse，催化。
 catalyze\
 catastrophe\cata-, 向下。-strophe, 转，词源同turn, tropical,storm.即急转而下的。
@@ -1756,8 +1761,8 @@ caterpillar\cat, 猫。-pil, 毛，词源同peel, depilatory(脱毛)。因其毛
 caterwaul\cat, 猫。-waul, 嚎叫，拟声词。
 catharsis\词源不详，由古希腊哲学家亚里士多德所创。词源同英语常见名Catherine.
 cathedral\cata-, 向下。-hed, 坐，词源同sit, seat. 指主教教堂，圣座，chair原型。
-catholic\cata-, 向下。-hol, 整个的，全部的，词源同holy, whole, hologram(全息图)。用于宗教术语，即无所不包的。
 Catholic\cata-, 向下。-hol, 整个的，全部的，词源同holy, whole, hologram(全息图)。用于宗教术语，即无所不包的。
+catholic\cata-, 向下。-hol, 整个的，全部的，词源同holy, whole, hologram(全息图)。用于宗教术语，即无所不包的。
 cattle\来自capital, 资产，资本，因牛在农耕社会有着无比重要的作用而引申此词义。比较castor，海狸。
 caucus\可能来自北美印第安土著语，义为长者。
 caulk\来自词根calc, 石子，石灰，词源同calculate, chalk. 因旧时用石灰补船缝而产生此义。
@@ -1934,6 +1939,7 @@ choice\词源同choose.
 choir\来自PIE*gher, 围，围栏，词源同yard, chorus. 即围起来唱歌跳舞的一群人。
 choke\由cheek衍生出来的词，词义由脸颊引申为窒息。
 chokehold\
+chol\
 choleric\来自chol, 胆囊，同gall. 古代医学或生理学认为胆囊或胆汁决定人的性情和脾气，因此，胆囊出问题就是说一个人的脾气很坏，容易激怒。参照humor, 体液，体液学说。
 cholesterol\chol, 胆囊，同gall。-ster, 固化，见sterile. -ol, 化学名词后缀，醇，见xylitol.
 choose\来自PIE*geus, 选择，品尝，词源同gusto, disgust.
@@ -1948,6 +1954,7 @@ chorus\来自PIE*gher, 围，圈，词源同yard, 指围成一圈唱歌跳舞的
 Christ\来自PIE*ghrei, 刮，涂，擦，词源同cream, christen. 即傅圣油者，通过仪式入教者。
 Christian\
 Christmas\Christ，基督。mass, 弥撒，仪式。
+chroma\来自PIE*ghreu, 刮，涂，擦，词源同grit, gravel，进一步来自*sker, 砍，劈，词源同carve, shear. 词义由刮，上色过渡到色彩，色度。
 chromatic\来自chroma, 色彩。此处用于比喻义，指给音乐增添色彩。比较coloratura.
 chromosome\chromo, 颜色。-some, 身体，见somatic, 躯体的。
 chronic\来自希腊词khronos, 时间，见Chronos，时间之神，词源不确定。部分学者认为Chronos是泰坦主神Cronus的另一面，希腊神话中的Cronus吞噬Zeus等亲生子女则象征着过去对未来的吞噬和抑制。
@@ -1955,6 +1962,7 @@ chronical\
 chronological\
 chronometer\chrono, 时间。-meter, 测量仪器。
 chrysanthemum\chrys, 金色。-anthem, 花。-um, 中性名词后缀。
+chub\词源不详。
 chubby\来自chub, 白鲑。
 chuck\来自chock拼写变体。模仿大块物件落地的声音。
 chuckle\拟声词。-le, 表反复。
@@ -2224,6 +2232,7 @@ commit\com-, 强调。-mit, 派遣，过去分词-miss, 词源同mission. 该词
 commitment\来自commit, 承诺。
 committed\
 committee\
+commode\com-, 强调。-mod, 测量，匹配，词源同mode, measure. 即测量过的，舒适的。后指使人舒服的物品。
 commodious\
 commodity\来自commode, 舒适的物品。词义演变比较goods, 商品，来自good, 好的。
 common\com-, 强调。-mon, 公共，词源同mean, communicate.
@@ -2501,6 +2510,7 @@ contained\
 container\
 containment\来自contain, 持，握，包含。
 contaminate\con-, 强调。-tam, 接触，来自-tag变体，词源同tactile, tangible。即被接触过的，被污染的。
+contemn\con-, 强调。-tem，砍，切，词源同tome, anatomy. 即被切掉的无用部分，不屑一顾的。
 contemplate\con-, 强调。-tem，砍，切，词源同tome, anatomy，temple. 本义为一块保留（切下来）的用来占卜的神圣之地，后用来指思考的地方，沉思，考虑。
 contemplation\
 contemporary\con-, 强调。-temp, 时间，词源同temporary.
@@ -2592,6 +2602,7 @@ cooperative\
 coordinate\co-, 强调。-ord, 秩序，词源同order.
 cop\来自词根cap, 抓，握，词源同capture, captive.
 cope\来自拉丁词colp, 击，打，来自PIE*skel, 砍，劈，词源同scissor, cleave. 词义由击，打到对付，处理。
+cophinus\
 copious\来自copy, 复印，大量的。
 copper\来自拉丁词Cyprian, 因产自Cyprus而得名。
 copulate\co-, 强调。ap-,连接，词源同apt,couple.
@@ -2609,10 +2620,12 @@ corner\词源同horn, 角，引申义转角，角落。
 cornerstone\
 cornucopia\corn, 同horn, 角。copia, 大量，丰富，词源同copy. 来自希腊神话中宙斯为报答母山羊Amalthea的养育之恩，赐予这只山羊羊角提供取之不尽的物品的神力。
 corny\来自corn, 谷物。俚语词，即种田的人谈的，乡巴佬的。
+corolla\来自PIE*sker, 转，编织，词源同cradle,crown. 指编好的花冠。
 corollary\来自corolla, 花冠。字面意思即买花要付钱，付钱买花。后用于逻辑术语，指推论。
 corona\词源同corolla, 花冠。因形似花冠而得名。
 coronation\来自crown, 王冠，词源同corolla, 花冠。即带上王冠举行加冕典礼。
 coroner\来自crown, 王冠。原指王室管家，后功能和职责发生了变化。
+corp\
 corporate\来自词根corp，身体，见corporeal. 即成为一体的，成立法人实体的公司。
 corporation\
 corporeal\来自PIE*kwrep,身体。
@@ -2649,6 +2662,7 @@ cost\co-, 强调。-st, 站。字面意思即站在旁边的，要求投入的�
 costly\
 costume\来自拉丁词consuetudinem, 习惯，习俗，词源同custom. 来自con-, 强调 , -suet, 自己的，词源同self. 即自身的习惯，后指历史时期的穿着服装，古装。
 cosy\词源不详。
+cot\1.幼儿床，来自南印度语。
 coterie\来自cot, 村舍。原指小村里的村民组织，通常具有排外性。
 coterminous\co-, 强调。-term, 终点，界限，词源同terminus.
 cottage\来自古英语cote，村舍，小屋。
@@ -2726,6 +2740,7 @@ craven\词源不详。可能来自词根crep, 破碎，劈里叭啦，词源同d
 craving\
 crawl\词源同creep.
 crayon\来自拉丁词creta, 粉笔，石灰，见Cretaceous, 白垩纪。
+craze\词源不确定，原义为破碎，破裂，见crazy paving，可能来自crack, 破裂声。并引申至心理含义，精神破裂，发狂。
 crazy\来自craze, 发狂。
 cream\来自拉丁词chrisma（油膏，词源同Chrism）和cramum（奶油）的合成词。
 crease\来自crest的拼写变体。
@@ -2771,7 +2786,9 @@ criticize\
 critique\来自PIE*krei, 区分，筛选，判断，词源同crime, crisis. 即进行区分，判断，进行评论。
 croak\拟声词。
 crochet\词源同crook, 弯钩。因钩针形如小弯钩而得名。
+crock\来自PIE*sker, 弯，转，词源同cruse, crucible. 即制造陶器，通过不断的旋转使土坯更均匀。俚语义，尿壶，胡说。
 crockery\来自crock, 陶器。
+crony\来自词根chrono, 时间，见chronicle, chronology.
 cronyism\来自crony, 密友。-ism , 主义，思想。
 crook\来自PIE*sker, 转，弯，词源同curve, crank.
 crooked\
@@ -2921,6 +2938,7 @@ dawn\来自PIE*dhegwh, 燃烧，发光，词源同day, yesterday. 引申义曙�
 day\来自PIE*dhegwh, 燃烧，发光，词源同fever, yester.引申义天亮，白天。
 daylight\
 daytime\
+daze\可能同dizzy.
 dazzle\来自daze, 发晕。
 dazzling\
 de-emphasize\
@@ -3166,6 +3184,7 @@ depression\
 deprivation\
 deprive\de-, 夺去，损毁。-priv, 自己的，私人的，词源同private, property.
 depth\来自deep的名词形式。
+depute\de-, 向下，强调。-put, 思考，词源时同compute, impute. 即经过仔细思考的授权。
 deputy\来自depute, 授权，使担任副职，代表。
 deracinate\de-, 损毁，压去。-rac, 根，来自radicina, 词源同root. 即损毁其根，使背井离乡。
 deranged\de-, 向下，脱离。range, 范围，排列。即脱离顺序，引申义发狂的。
@@ -3454,6 +3473,7 @@ disinterested\
 disjointed\dis-, 不，非，使相反。jointed,连接。
 disjunction\dis-, 不，非，使相反。junction,连接。
 disjunctive\
+disk\来自拉丁语discus, 圆盘，词源同disc, dish. 用于指电脑磁盘。
 dislike\dis-, 不，非，使相反。like, 喜欢。
 dislocate\dis-, 不，非，使相反。locate, 位于，放置。即脱离原来位置，脱臼。
 dislocation\
@@ -3565,6 +3585,7 @@ divisive\
 divorce\词源同divert, 转开。引申词义离婚。
 divulge\di-, 分开，散开，来自dis-变体。-vulg, 平民，民众，词源同vulgar, vulgarity. 即在公众中传播，引申词义泄露。
 dizzy\来自PIE*dheu, 尘土，烟雾，词源同dust,dull. 引申词义模糊的，眩晕的。
+do off\
 docile\来自词根doc, 教，教导，词源同doctor.引申词义可教导的，可驯服的。
 dock\来自词根duc, 引导，词源同duke, conduct. 用于指码头，船坞。
 docket\词源不详。可能来自词根duc, 引导，词源同duck, conduct. 用来指单据文件。
@@ -3663,6 +3684,7 @@ drain\词源同dry, 排空，干。
 drainage\
 drama\来自PIE*dere, 工作，创作，来自PIE*dhe 的扩大形式，词源同do. 用来指戏剧。
 dramatic\
+drape\来自PIE*dhrebh, 击，打，即对棉花，麻布等原材料的初步加工及弹制，其原义见drab. 后该词词义通用化，也用来指加工过的帘子，帷幕等。
 drastic\来自drama, 戏剧。引申义戏剧般的，急剧的。
 draught\来自PIE*dhragh, 拉，吸出，词源同drag,draw. 引申义通风气流，棋子，喝一口。
 draw\来自PIE*dhragh, 拉，吸出，词源同drag. 引申义画画，描绘。
@@ -3883,6 +3905,7 @@ elegiac\
 elegy\来自希腊语elegos, 哀诗，哀歌。
 element\来自elementum, 基础，基本。
 elementary\来自element, 基础，基本。
+elementum\
 elephant\来自拉丁语elephantus，象。
 elephantine\
 elevate\e-, 向外。-lev, 举起，轻，词源同light , lever.
@@ -3892,6 +3915,7 @@ elicit\e-, 向外。-lic, 诱惑，吸引，词源同lace, delicious.
 eligible\e-, 向外。-lig, 选出，词源同college, elect.
 eliminate\e-, 向外。-limin, 界限，门槛，词源同limit, sublime.
 elite\来自法语。e-, 向外。-lit, 选出，字母c脱落，词源同eligible, elect.
+ellipse\el-, 进入，同en-. -lipse, 留下，词源同eclipse, leave. 即缺了一块的，后且做数学术语。
 ellipsis\词源同ellipse, 缺了一块的，用于语法结构指省略。
 elliptical\来自ellipse, ellipsis.
 elm\来自PIE*el, 红棕色，词源同elm, eland.
@@ -4071,6 +4095,7 @@ entertain\enter-, 更里面，中间。-tain, 握，维持，词源同contain, t
 entertainment\
 enthrall\来自entertain, 招待，维持，娱乐。thrall, 奴隶，束缚。即使成为奴隶，引申义吸引。
 enthralling\
+enthuse\en-, 进入，使。-thus, 神，词源同theology, theist. 即鬼神附体，发狂，狂热。
 enthusiasm\来自enthuse，热情。
 enthusiastic\
 entice\词源不详，可能来自拉丁语titio, 火把，即煽风点火，引诱。或来自titillate, 挠痒，挑逗。
@@ -4588,6 +4613,7 @@ fellowship\fellow, 同伴。-ship, 名词后缀，同friendship. 后用于学术
 felon\词源不确定。一种说法认为来自拉丁词根fe, 吮吸，特指男人之间的口交，在古罗马时期这种行为是为人所不耻的和被鄙视的，因而引申该词义。
 felonious\
 felony\来自felon, 重罪。
+felt\来自PIE*pel, 击，打，推动，词源同filter, impel. 即击打或弹制处理过的羊毛或棉花。比较fustian.
 female\来自拉丁词根fe, 吮吸，吸奶，乳汁，词源同felicity, fecund. -m, 鼻音字母。即喂奶的人，女人。
 feminine\
 feminism\来自female, 女性的。-ist, 主义，思想。
@@ -4708,6 +4734,7 @@ flabbergast\
 flabby\
 flaccid\来自辅音丛fl, 扑腾，拍打，拟声词。用来形容肌肉扑腾晃动的，松驰的。
 flag\来自辅音丛fl, 扑腾，拍打，拟声词。即模仿旗帜或菖蒲在风中晃动的声音。引申义热情衰减，主要用于形容词unflagging, 不懈的。
+flagellate\来自PIE*bhlag, 击打，鞭笞，词源同flail, flog.
 flagellum\词源同flagellate, 鞭笞。用于解剖学名词。
 flagging\
 flaggy\
@@ -4933,6 +4960,7 @@ frail\缩写自拉丁语fragilis, 易碎的，词源同fragile.
 frame\来自PIE*pro, 向前，词源同forth, from, proceed. 其原义为向前，推进，用来指建筑框架和基础结构。后词义通用化。
 framework\
 frank\来自Frank, 法兰克人，部落名。在公元五世纪，整个西欧仍处在一种野蛮的部落时代，整个社会被分成自由人，俘虏，和奴隶三个等级，而Frank人做为战胜级，享受唯一的自由权。后部落名通用化，赋予诸多美好的词义，如自由的，高贵的，美丽的，优雅的，大方的，真诚的等。后主要用于坦率的，其它词义逐渐废弃。参照电影《庞贝末日》。
+Frank\来自Frank, 法兰克人，部落名。在公元五世纪，整个西欧仍处在一种野蛮的部落时代，整个社会被分成自由人，俘虏，和奴隶三个等级，而Frank人做为战胜级，享受唯一的自由权。后部落名通用化，赋予诸多美好的词义，如自由的，高贵的，美丽的，优雅的，大方的，真诚的等。后主要用于坦率的，其它词义逐渐废弃。参照电影《庞贝末日》。
 frantic\来自frenetic的拼写变体，发狂的。
 fraternal\来自拉丁语frater, 兄弟，词源同brother.
 fraternity\来自拉丁语frater, 兄弟，词源同brother.
@@ -4986,6 +5014,7 @@ frothy\
 frown\来自古法语frognier, 皱眉，哼鼻子。可能来自拟声词，模仿哼鼻子的声音，表达不满。引申词义皱眉。
 frowsy\
 frowzy\
+fructus\
 frugal\来自fructus, 果实，词源同fruit. 原义为丰产的，丰富的，衍生词义节约的，节俭的，即节俭才能富裕之义。比较thrive, 繁盛，thrift，节俭。
 frugality\
 fruit\来自fructus, 果实，来自PIE*bhrug, 农业收成，收获，进一步来自PIE*bher, 裂开，词源同bore, break. 即果实成熟裂开之意。原指土地上的各种收成，后固定指水果。
@@ -5038,6 +5067,7 @@ furthermore\
 furtive\来自拉丁语fur, 小偷，贼。进一步来自PIE*bher, 携带，带来，词源同bring, infer.
 fury\来自拉丁语furia, 狂怒，狂暴。
 fuse\来自拉丁语fundere, 倾注，倾泻，词源同foundry, alchemy, confused. 用于冶炼学术语，如冶金，炼铁，玻璃冶炼等，引申词义融化，融合。
+fusilier\来自法语fusilier, 火枪，来自拉丁语focus, 火炉，火。因17世纪的火枪是由燧石点火发射。
 fusillade\来自fusilier, 火枪。
 fusion\来自fuse, 融化，聚合。后用于核物理学名词。
 fuss\词源不详。通常认为来自拟声语，指大惊小怪的人。
@@ -5047,7 +5077,9 @@ fusty\来自古法语fuste, 瓶塞，酒塞，来自拉丁语fustis, 短棍，�
 futile\来自拉丁语fundere, 倾注，倾泻，词源同foundry, alchemy, confused. 引申词义流走的，徒劳的。
 futility\
 future\来自拉丁语futurus, 将来，未来，来自PIE*bheue, 存在，是，词源同be, physic.
+gab\拟声词。
 gabble\来自gab, 唠叨。
+gad\来自PIE*ghei, 刺，词源同gar, goad. 游荡义词源不详，可能是来自放牛，游荡，漫游。
 gadfly\来自gad, 刺，尖头棒。fly, 昆虫。
 gadget\词源不详，用来指各种不知名的小装置。拼写变体widget.
 gaffe\原义为钩子，同gaff. 失礼义词源不详，可能是来自拟声词，鸭子叫声，拙劣的说话。
@@ -5119,6 +5151,7 @@ gavel\词源不详。可能来自旧时参加行业公会需上交一定数额�
 gawky\
 gay\词源不详，可能同joy, gaudy. 原义为欢乐的，因与同性恋联系在一起，该词义现已少用。同性恋义来自同性恋行话，据说是来自gay cat，快乐猫咪。
 gaze\来自古诺斯语ga, 凝视。
+gazette\来自意大利威尼斯方言gazeta, 喜鹊，拟声词，模仿喜鹊的叫声，同时也指威尼斯当地的小铜币。与报纸的联系存在争议，一种说法是把报童比做小喜鹊，另一种说法是一张报纸刚好值一小铜币而得名。
 gazetteer\来自gazette, 报纸。原用于记者地名索引词典，后词义通用化。
 gear\来自Proto-Germanic*garwjan, 准备，装备，词源同garb.
 gem\来自PIE*gembh, 齿，梳齿，词源同comb. 因其未打磨前梳齿状结晶而得名。
@@ -5172,6 +5205,7 @@ gesture\来自词根ger, gest, 含有，带来，词源同exaggerate, gesture. �
 get\来自PIE*ghend, 得到，抓住。词源同forget, guess.
 geyser\来自PIE*gheu, 喷涌，词源同foundry, gush.
 ghastly\来自ghose, 鬼。
+ghose\
 ghost\来自PIE*gheis, 兴奋，恐惧，臆想，词源同ghastly, zeitgeist.
 giant\来自希腊语gigas, 巨大，词源同gigabyte.
 gibbous\
@@ -5190,6 +5224,7 @@ gin\词源同juniper, 杜松，刺柏。
 ginger\来自梵语。
 gingerly\词源不详，通常认为来自gently的拼写变体，原义为优雅的，引申义谨慎的。
 giraffe\来自阿拉伯语。
+gird\来自PIE*gher, 围，绕，词源同yard,garden.
 girder\来自gird, 围，绕，引申义支撑。
 girdle\来自gird, 围，绕。
 girl\词源不详。
@@ -5253,6 +5288,7 @@ gnomic\来自PIE*gno, 知道，了解，知识，词源同know, can,cognizance.
 goad\来自PIE*ghei, 刺，刺激，词源同gar, goad.
 goal\来自古英语词gol, 边界，词源不详。可能来自go, 走，离开，目标。后用于指球门。
 goat\来自PIE*gheid, 山羊。因山羊在西方文化里通常为不好的形象，引申义老色鬼。
+gob\词源不详，可能是来自吞咽东西的声音。
 gobble\来自gob, 嘴。-le, 表反复。
 goblet\来自gob, 嘴。-let, 小词后缀。
 god\来自PIE*gheu, 涌出，倾泻，祭酒，词源同gush, gust. 即祭酒来召唤神灵。
@@ -5277,6 +5313,7 @@ gosling\gos, 鹅。-ling, 小词后缀。
 gospel\来自good spell的缩写。spell, 符咒，音讯。
 gossamer\gos, 鹅。-samer, 来自summer的变体，指深秋的短暂的阳气回升时节，小阳春。因这个时候常会出现形似鹅毛的蛛丝，或因这个时节为吃鹅正当令而得名。后指一种丝织品。
 gossip\gos, 来自god, 上帝。sip, 姐妹，词源同sibling, sister. 即上帝的姐妹，通常指妇女们聚在一起闲聊，闲侃，引申词义流言蜚语。
+Goth\来自Goth, 日耳曼族名，通常带有野蛮，粗鲁或黑色的含义，用来命名一种摇滚风格。
 Gothic\来自Goth, 哥特，目耳曼民族名。
 gouge\来自拉丁语gulbia, 凿。可能进一步来自PIE*skel, 砍，切，词源同scale, coup. 字母l软化u.
 gourd\来自拉丁语cucurbita, 葫芦，词源可能同cucumber.
@@ -5377,6 +5414,7 @@ grit\来自PIE*ghrei, 刮，擦，磨，词源同gravel, grind. 指沙粒，盐�
 groan\拟声词，呻吟的声音。
 grocer\来自gross, 总计，汇总。原指批发商，现也指杂货商。
 grocery\
+grog\来自grogram, 粗松斜纹布，来自18世纪英国海军上将Edward Vernon的昵称Old Grog, 因其常偏好这种布料的斗篷而得名，他曾命令其水手将烈性朗姆酒兑水稀释以防止喝醉，这种兑水的朗姆酒最后就被戏称为grog酒。
 groggy\来自grog, 格洛格酒。
 groom\来自古英语grome, 男仆。词源同grow, crew.
 groove\词源同carve, grave.
@@ -5403,6 +5441,7 @@ grueling\来自PIE*ghreu, 刮，磨，词源同grit, grind. 引申义折磨人�
 gruesome\词源同grisly, 可怕的。-some, 形容词后缀，来自some.
 gruff\词源不详。可能来自拟声词，模仿沙哑的声音。
 grumble\拟声词，模仿咕哝的声音。比较grouch, grouse,grunt.
+grump\拟声词，模仿抱怨的声音，引申义爱抱怨的人，脾气坏的人。
 grumpy\来自grump, 坏脾气。
 gruntling\
 guarantee\词源同warranty.
@@ -5456,6 +5495,7 @@ habitat\词源同habitable,适宜居住的。
 habituate\
 hack\来自PIE*keg,砍，劈，钩，词源同hook,haggle,hew.引申词义侵入别人的计算机，即黑掉。
 hacker\来自hack,砍，劈。后麻省理工学院学生借用该词来指电脑高手，黑客等。
+hackney\
 hackneyed\来自hackney,老马养殖场，引申词义老马，陈腐的。
 haemostat\
 haft\词源同have,持有，握住。用于指刀柄。
@@ -5476,6 +5516,7 @@ hall\来自古英语heall,屋顶覆盖的厅堂，住所，来自PIE*kel,隐藏�
 hallmark\来自Goldsmith’s Hall in London,伦敦金器所，18世纪伦敦的金器银器官方权威评测机构，mark,标记。即金银纯度标记，引申词义特征，特点。
 hallow\
 hallowed\来自古英语halig,神圣的，词源同holy.
+hallucinate\来自拉丁语alucinari,恍惚，出神，来自希腊语alaomai,漫游，流浪，来自PIE*al,走，漫游，词源同amble,exile.后17世纪英国医生Thomas Browne借用该拉丁词来指人产生的幻觉。
 hallucination\来自hallucinate,产生幻觉。
 hallucinogen\来自hallucinate,产生幻觉，-gen,产生，词源同generate.
 halo\来自希腊语halos,日晕，月晕，后引申词义圣人头上的光环，光轮。其原义为圆形门槛围栏，词源不详，可能来自PIE*skel,弯，转，词源同leg,close,isosceles.
@@ -5483,6 +5524,7 @@ halt\来自古法语halte,停下，词源同hold.即使停止，停下。
 halting\
 ham\来自古英语hamm,膝弯，膝盖骨，词源同hamstring,Hamburg.引申词义大腿，猪大腿肉，火腿。词义拙劣演员来自1880年美国滑稽歌舞剧The Ham-fat man,因其无聊过火的表演而得名。词义业余广播员来自amateur radio,出于自嘲的意味缩写成ham.
 ham-handed\
+Hamburg\德国城市。burg,城堡，ham-,词义不确定，可能来自古德语hamma,弯，转，膝弯，引申词义河流弯曲处，即建于河湾处的城堡。
 hamburger\来自Hamburg,德国城市汉堡。通常认为因19世纪大量德国汉堡移民将这种食物引进美国而得名，并由该词衍生后缀-burger,包子。
 hammer\来自中古英语hamer,锤子，来自PIE*ekmo,石头，来自PIE*ak,尖的，锋利的，词源同acid,cone,cuneiform.拼写比较humor.
 hamper\来自古法语hanap,杯子，酒杯，后引申词义装杯子的大篮子。防碍义词源不详，参照习语basket case,困境。
@@ -5507,6 +5549,7 @@ hangdog\hang,悬挂，dog,狗。比喻用法。
 hanger\来自hang,悬挂。引申词义衣架。
 hanker\可能来自hang,悬挂，-er,表反复。引申词义翘首以盼，渴望。
 hankering\来自hanker,渴望。
+hap\来自古英语hap,机会，运气，词源同happen,happy.
 haphazard\hap,发生，运气，机会，hazard,风险，危害。即运气不好的，处于危险的，引申词义杂乱的，随意的。
 hapless\hap,运气，机会，-less,没有。
 happen\hap,发生，运气，机会，词源同happy.即好运发生，后用于中性词即可指发生的好运也可指坏运。
@@ -5582,6 +5625,7 @@ health\来自heal,康复，-th,名词后缀。
 healthy\
 heap\可能来自古英语heah,高的，词源同high.由高引申词义堆积，大块。
 hear\来自PIE*kous,听，倾听，来自*ak-ous,*ak,尖的，敏税，词源同acid,acumen,*ous,听，感知，词源同ear,auricle,audit.
+hear say\
 hearing\
 hearken\hear,听，-k,表强调，-en,使。引申词义倾听，聆听。
 hearsay\来自hear say,边听边说，引申词义道听途说。
@@ -5607,6 +5651,7 @@ hedonist\来自希腊语hedone,甜美，享乐，词源同sweat,-ist,人。引�
 hedonistic\
 heed\来自PIE*kadh,躲避，保护，词源同hat,hood.引申词义注意，留心。
 heel\来自PIE*kenk,弯，转，膝弯，脚弯，词源同hock,kink,-el,小词后缀。引申词义脚跟。拼写比较nail,tile.
+heft\来自heave的古过去分词，后词性由形容词变为做名词。
 hefty\来自heft,举起，搬动，词源同heavy.
 hegemony\来自希腊语hegemon,领导者，来自PIE*sag,寻找，寻求，探路者，词源同seek,sagacious.引申词义领导权，支配权，霸权。
 height\来自high的名词形式。
@@ -5723,6 +5768,8 @@ hit\来自古英语hittan,接触，掉落，来自PIE*keid,掉落，掉下，词
 hitch\来自中古英语icchen,猛拉，猝动，引申词义钩住。词义搭免费车缩写自hitchhike.
 hitherto\hither,这里，to,向。引申词义迄今。
 hive\来自古英语huf,蜂箱，来自PIE*keup,容器，箱子，词源同cooper,hove,cup.
+hlot\
+hoar\来自古英语har,灰白的，老的，词源同herring,hare.引申词义霜。
 hoard\来自古英语hord,宝藏，藏宝处，来自PIE*skeu,覆盖，隐藏，词源同hide,house.引申词义贮藏，囤积。
 hoarse\来自古英语hos,沙哑的，来自Proto-Germanic*haisa,沙哑的，可能是模仿干咳的声音。
 hoary\来自hoar,灰白的。引申词义头发灰白的，陈旧的。
@@ -5745,6 +5792,7 @@ holy\来自古英语halig,神圣的，来自Proto-Germanic*hailaga,来自PIE*kai
 homage\来自古法语homage,对领主的效忠，来自拉丁语homo,人，词源同human.原指中世纪时下属或封臣对领主的效忠仪式，即“我是你的人”，该词与fealty的区别在于，homage为对单一领主的效忠，而fealty可以是对不同领主的忠诚。
 home\来自古英语ham,村庄，屋子，居住地，来自Proto-Germanic*haimaz,词源同hamlet,haunt.来自PIE*kei,聚居，定居，安家，词源同city,civil.现词义局限为家，住所。
 homely\home,家，-ly,形容词后缀。引申褒义词义家的，舒服的，贬义词义平凡的，相貌平庸的。
+homeopath\homeo-,一致的，同样的，-path,治疗，词源同pathology.
 homeopathy\来自homeopath,顺势治疗。
 homeostasis\homeo-,一致的，同样的，stasis,静止。引申词义内环境稳定，即身体对外部变化作出的自我调整。
 homespun\home,家，spin,纺织。即家纺的，引申词义朴素的。
@@ -5812,12 +5860,14 @@ however\how,怎样，ever,永远，表强调。
 howl\拟声词，模仿嚎叫的声音。
 howler\来自howl,嚎叫。比喻用法。
 hoyden\
+huant\
 hub\车轮工匠行话，可能来自hubbe,大块，来自PIE*kap,抓住，持，握，词源同capable,heave,hob.引申词义轮轴，中心。
 hubbub\拟声词，喧闹声。
 hubris\来自希腊语hybris,对神的放肆无礼。引申词义傲慢，狂妄。
 huckster\huck,蹲下，叫卖，词源同hawker,-ster,人。
 huddle\可能来自PIE*skeu,遮蔽，隐藏，词源同hide,hut,-le,表反复。引申词义蜷缩，挤在一起。
 hue\来自古英语hyd,来自Proto-Germanic*hudiz,来自PIE*skeu,遮蔽，隐藏，词源同hide,hut.引申词义颜色，色彩，外表。词义演变比较color,来自PIE*kel,隐藏，词源同hole,cell.
+huff\拟声词，模仿发怒时的呼气声。
 huffy\来自huff,生气，发怒。
 hug\来自中古英语hugge,拥抱，可能来自huck,蹲下，蹲坐，词源同huckster.
 huge\来自中古英语huge,来自Proto-Germanic*haugaz,山丘，高地，词源同high.由高地引申词义巨大的。
@@ -5859,6 +5909,7 @@ husbandry\来自husband的古义，农夫，耕作者，-ry,名词后缀。后�
 hush\拟声词。
 husk\来自PIE*skeu,隐藏，覆盖，词源同hide,hose.引申词义保护，谷壳，豆荚等。
 husky\来自husk,谷壳。即像谷壳一样粗糙的或谷壳磨擦的声音，形容声音沙哑的。
+hustle\来自荷兰语hutselen,摇动，搅拌，扔，后受英语拼写习惯影响字母t,s置换，词干hot-,hut-在日耳曼语系中义为摇动。进入英语后引申词义前后摇摆，摆来摆去，引申词义猛推，猛挤，强迫，以及妓女拉客，骗子骗钱等。受美国电影的影响，开始出现褒义化，如侠盗，神偷等，参照电影《美国骗局》。
 hustler\来自hustle,欺诈，诈骗。俚语义妓女。
 hut\来自古法语hutte,村舍，来自PIE*skeu,隐藏，遮盖，词源同hide,house.后该词用于指简陋的小棚，小舍，house用于指屋子，大型建筑物。
 hybrid\来自拉丁语hybrida,家猪和野猪杂交的后代。引申词义杂种，杂交。
@@ -5977,6 +6028,7 @@ immense\im-,不，非，-mens,测量，词源同meter,measurable.即没法测量
 immensity\
 immerse\im-,进入，使，-mers,浸入，词源同emerge,submerse.
 immigrant\来自immigrate,移民，移居。
+immigrate\im-,进入，使，migrate,迁移，移居。
 imminent\im-,进入，使，-min,逼迫，突出，词源同mount,eminent.引申词义迫近的，临近的。
 immoderate\im-,不，非，moderate,适度的。
 immolate\im-,进入，使，-mol,磨，磨碎，词源同mill,emolument.即献上磨碎的肉作为祭品，后引申词义烧死。
@@ -6083,6 +6135,7 @@ impulse\im-,进入，使，pulse,冲击，震动。
 impulsive\来自impulse,冲动。
 impunity\im-,不，非，-pun,惩罚，词源同punish.即不处罚的，引申词义免于惩罚。
 impute\im-,进入，使，-put,考虑，思考，计算，词源同compute,repute.即经过考虑的，引申词义归因于，归咎于。
+in deed\
 inactivate\来自inactive,不积极的，-ate,使。引申词义使停止。
 inactive\in-,不，非，active,积极的。
 inadvertence\
@@ -6178,6 +6231,7 @@ incur\in-,进入，使，-cur,跑，词源同course,current.即跑进来，引�
 incursion\in-,进入，使，-curs,跑，词源同course,cursive.
 indebted\in-,进入，使，debt,债务。引申词义欠债的，欠人情的，感激的。
 indecency\来自indecent,下流的，猥亵的。
+indecent\in-,不，非，decent,体面的，得体的。即不体面的，引申词义下流的，猥亵的。
 indecipherable\in-,不，非，decipherable,可辨认的。
 indecisive\in-,不，非，decisive,有决断力的。
 indecorous\in-,不，非，decorous,体面的，得体的。
@@ -6326,6 +6380,7 @@ ingredient\in-,进入，使，-gred,走，层级，词源同grade,degree.即走�
 inhabit\in-,进入，使，-habit,持有，握住，词源同habitable,habitat.引申词义居住，栖息。
 inhabitant\来自inhabit,居住，栖息。
 inhale\in-,进入，使，-hal,吸，呼吸，词源同exhale,halitosis.
+inhere\in-,进入，使，在内，-her,连结，连接，词源同adhere,hesitate.引申词义内在，存在。
 inherent\来自inhere,内在，存在。
 inherit\in-,进入，使，-her,继承，词源同heir,heredity.即使继承，引申词义遗传。
 inheritance\来自inherit,继承。
@@ -6555,6 +6610,7 @@ introspect\
 introspective\
 introvert\intra-,在内，-vert,转，词源同extrovert,convert.即向内转，引申词义内向的。
 intrude\in-,进入，使，-trud,推进，逼迫，词源同obtrude,threat.引申词义侵入，侵犯。
+intuit\in-,进入，使，-tuit,看，词源同tuition,tutor.即从里面看，考虑，思考，引申词义直觉，凭直觉知道。
 intuition\来自intuit,直觉，直觉感知。
 intuitive\
 intumescence\
@@ -6652,6 +6708,7 @@ jabber\拟声词，模仿含混不清说话的声音。比较gabble,gibberish.
 jacket\jack,即Jack,-et,小词后缀。即小Jack,用于指这种衣服。另一种说法是来自古法语Jacque,人名Jack的法语形式，在古法语时为农民常用名，代指法国农民，即农民伯伯的衣服。
 jade\来自法语le jade,来自西班牙语piedra de la ijada,冶疗肾病的玉石，来自piedra,石头，词源同petrify,ijada,回肠，肾部。据说这种石头可以治疗和缓解肾部疾病而得名。
 jaded\来自jade,老马。比喻用法。比较hackneyed.
+jag\词源不详，可能来自拟声词，刺，戳，捅。比较jab.
 jagged\来自jag,锯齿状缺口，破布。引申词义凹凸不平的，锯齿状的。
 jail\来自拉丁语caveola,笼子，词源同cage,cave.引申词义监狱。拼写比较nail,rule.
 jam\词源不详，可能来自cram变体，塞进，强塞，引申词义堵塞，塞车。果酱义可能来自同一词源，即把水果压碎制成果酱。
@@ -6674,6 +6731,7 @@ jealousy\来自jealous,羡慕的，妒忌的。
 jeans\来自中古法语jean fustian,热那亚厚棉布，来自古法语Jannes,即意大利城市Genoa.
 jeer\词源不详，可能来自拟声词，模仿嘲笑的声音。或来自cheer的变体，词义贬义化。
 jejune\来自拉丁语ieiunus,空的，干的，字面意思为绝食，饥饿，来自PIE*ieg,献祭，牺牲，神圣的，词源同hagiography,hagiology.引申词义单调的，空洞的。比较其同源词dine,dinner.
+jell\来自拉丁语gelare,冷，冰冻，词源同cold,glacier.引申词义结为一体，胶体。
 jelly\来自jell,胶体。引申词义胶状物，果冻，肉冻。
 jeopardize\来自jeopardy,危害，-ize,使。即使危害，伤及。
 jeopardy\来自古法语jeu parti,一种机会平等的赌博游戏，来自jeu,赌博，玩乐，词源同joke,parti,分开，均等，词源同par,part.引申词义危险，风险，危害。比较dicey,hazard.
@@ -6692,6 +6750,7 @@ jilt\词源不详，可能来自Jill,常见女性名字，词义贬义化，用�
 jiltee\
 jingoism\来自19世纪克里米亚战争后英国与俄国国际关系紧张时候的一首流行歌曲，其中的一段歌词为：“We don’t want to fight,But by Jingo!if we do,We’ve got the ships,we’ve got the men,We’ve got the money too.”大意即我们不想打战，我们爱好和平，但是上帝啊，如果你想打，我们奉陪，并由此创造出jingoism.比较chauvinist.
 jingoist\
+jitter\可能来自方言词chitter,颤抖，颤动，拟声词，模仿剧烈颤抖的声音或颤音。比较chatter.
 jitters\来自jitter,抖动，剧烈跳动。引申词义紧张不安。
 job\缩写自短语jobbe of worke,即piece of work.词源不详，可能来自中古英语gobbe,一块，词源同gob,或来自chop,剁，砍，即砍下来的一块。后词义通用化，用于指一件事，一项工作或任务，物件等。
 jobbery\
@@ -6712,9 +6771,13 @@ jot\来自希腊语iota,即字母i,在希腊字母中书写最小，引申词义
 journal\来自古法语jornel,天，一天时间，一天的工作，来自拉丁语diurnalis,一天的，词源同daily.部分学者认为其拼写变化由字母d到字母j可能是来自后拉丁语时期，字母i变成字母j后导致首字母d脱落造成的。词义由一天的工作引申日志，日报，期刊，一天的新闻等。
 journalist\来自journal,新闻，-ist,人。即从事新闻工作的人。
 journey\来自古法语journee,一天的行程或工作，来自拉丁语diurnum,天，一天，词源同diurnal.后词义不再受一天的行程所局限，引申词义行程，长途旅程。
+joust\来自古法语joster,争斗，马上打斗，来自拉丁语iuxta,靠近，接近，来自jungere,连接，接在一起，词源同join,jugular,juncture.引申词义短兵相接，骑马比武，及辩论，讨论等。
+Jove\古罗马神话主神，来自拉丁语Iovis,来自PIE*dyeu, 发光，照耀，词源同divine,Zeus.常用于口语by Jove,神啊，天啦。
 jovial\来自Jove,古罗马神话主神，木星。字面意思即木星的，来自古代占星术概念，在木星位出生的孩子性格会比较开朗和活泼，引申词义欢乐的。
 joy\来自古法语joie,来自拉丁语gaudium,欢乐，愉悦，词源同enjoy,gaudy.
+jubilaeus\
 jubilant\来自jubilate,欢呼。引申词义喜气扬扬的，欢欣鼓舞的。
+jubilate\来自拉丁语jubilare,呼喊，呼叫，呼朋引伴，来自PIE*yu,欢乐的叫声，呼喊。引申词义欢乐的，喜气扬扬的。
 jubilation\
 jubilee\来自jubilaeus,周年大庆，来自希腊语iobelos,来自希伯来语yobhel,山羊，羊角，周年大庆。
 judge\来自古法语jugier,判断，审判，来自拉丁语iudicare,判断，审判，来自ius,正义，公理，法律，词源同just,justice,dicere,说，词源同dictate,diction.即依法进行判断，审理和裁决。引申词义法官，审判员。拼写比较bridge,edge,lodge.
@@ -6788,6 +6851,7 @@ kite\来自古英语cyta,鹰，鸢，拟声词，模仿这种鸟的叫声，引�
 kitten\来自拉丁语cattus,猫，词源同cat.
 kleptomania\来自希腊语kleptein,偷盗，来自PIE*klep,偷盗，来自*kel的扩大形式，隐藏，覆盖，词源同cell,hole.-mania,发狂。
 knack\词源不详，可能来自拟声词，击打的声音。原义为花招，诡计，后引申词义特殊的技能，本领。
+knacker\可能来自古诺斯语hnakkur,马鞍，hnakki,马背，词源同neck.后引申词义老马，像老马一样筋疲力尽。词义杀死可能来自knack,击，打，砍杀。
 knackered\来自knacker,老马。即像老马一样的，疲倦的。比较hackneyed,jaded.
 knave\来自古英语cnafa,小伙，仆人，来自Proto-Germanic*knabo,小伙，年青人，来自PIE*gnebh,压，压紧，来自*gen的扩大形式，压，弯，捏，成团，词源同knob,knead.其原义可能为一块木头，圆棍，年青人或培训期的骑士所持有的武器，而乡绅或贵族通常持刀剑。参照bachelor,年青人，词源同bacillus,杆菌。
 knead\来自古英语cnedan,来自Proto-Germanic*knedana,来自PIE*gnet,压，捏，来自*gen的扩大形式，压，弯，捏，成团，词源同knob.引申词义揉，捏。
@@ -6888,6 +6952,7 @@ latency\
 latent\来自PIE*la,隐藏，遗忘，词源同Lethe,lethargy.
 later\来自later的比较级形式。
 lateral\来自拉丁语latus,边，侧面，可能来自PIE*plat,平的，词源同plan,flat.引申词义水平的，侧面的。
+lath\来自高地德语lade,厚木板，引申词义板条，板筋，词源同lattice.
 lathe\词源不详，可能来自lade,装载，承载，原用来指钻子，后引申词义车床。
 Latin\来自拉丁语Latinus,即Latium，古罗马地名，词源同latitude,展开，宽度。即Latium人的语言，拉丁语。
 latitude\来自拉丁语latus,宽的，来自PIE*stel,*ster,展开，词源同locus,structure,stratum,字母l,r音变。即展开的宽度，后用于地理纬度，比较longitude.
@@ -6899,6 +6964,7 @@ laudatory\来自laud,赞美。
 laugh\来自PIE*kleg,笑声，拟声词。
 laughter\来自laugh的名词形式。
 launch\来自lance,长矛，原指掷出长矛，引申词义发射，发动。
+launder\来自拉丁语lavandaria,洗衣工，词源同lava,lavatory.引申词义洗钱。
 laundry\来自launder,洗熨衣物。
 laureate\来自laurel,月桂树，象征着胜利，后用作最优秀的诗人的荣誉。
 laurel\词源不详，可能来自希腊语Daphne,希腊神话仙女，因逃避阿波罗追求，投河自尽，死后化作月桂树，阿波罗感慨万千，用桂树编成的花冠奖励古希腊最优秀的诗人。
@@ -6942,6 +7008,7 @@ least\来自古英语laesest,最小的，less的最高级。
 leather\来自PIE*letro,皮，皮鞋。可能进一步来自PIE*skel,切，撕，词源同scale,shell.比较corium,carnal.
 leave\来自PIE*leubh,关心，爱，许可，词源同love,believe.引申词义许可，批准，准假。
 leaven\来自拉丁语levare,升起，举起，变轻，词源同light,lever.引申词义发酵，酵母。
+lech\词源同lick,舔，引申词义好色。词义演变比较felon,felony.
 lecherous\来自lech,好色。
 lechery\
 lectern\来自拉丁语legere,读，词源同lecture.原指教堂的读经台，后用来指讲台。
@@ -7059,6 +7126,7 @@ linen\来自拉丁语linum,亚麻，黄麻，词源同line,linseed.
 liner\来自line,线，引申词义航线，渡轮，衬里。
 linger\来自古英语lengan,延长，加长，词源同long.引申词义逗留，流连。
 lingo\来自拉丁语lingua,舌头，语言。用以指外国话，外国语。
+lingual\来自拉丁语lingua,舌头，语言，词源同tongue,language.
 linguist\来自lingual,语言的。
 linguistic\
 linguistics\来自lingual,语言的。
@@ -7090,6 +7158,7 @@ literature\来自拉丁语litera,书写，字母，词源同letter.引申词义�
 lithe\来自PIE*lent,弯曲，词源同linden,relent,可能进一步来自PIE*le,松开，放开，词源同let,lenient.
 lithosphere\litho-,石头，sphere,圈，层。
 litigant\来自litigate,诉讼。
+litigate\来自拉丁语litigare,争论，争吵，lit-,争论，来自PIE*stel,ster,展开，拉紧，词源同structure,strict,ag-,做，行为，词源同agent,exigent.引申词义诉讼，打官司。
 litigation\
 litigious\来自litigate,诉讼。
 litre\来自拉丁libra,平衡，秤，用于液量单位升，词源同Libra,level.
@@ -7189,6 +7258,7 @@ luck\词源不详，原指赌博中的财运。
 lucky\
 lucrative\来自lucre,钱财。
 lucre\来自拉丁语lucrum,财富，收益，常用于贬义指不义之财。可能来自PIE*rei,撕，抢，词源同rob,rip.比较loot.
+lucubrare\
 lucubrate\来自lucubrare,在灯光下工作，词源同light.引申词义努力。
 lucubration\
 ludicrous\来自拉丁语ludere,游戏，玩乐，词源同allude,prelude.
@@ -7227,6 +7297,7 @@ luxurious\来自luxury,奢华，奢侈。
 luxury\来自拉丁语luxus,过度，宏伟，壮观，可能来自PIE*las,缺乏管制，淫荡，放纵，词源同lust.其原义为自我放纵的，淫荡的，性交等。后词义中性化，用来指感官的愉悦，享受。后词义再次贬义化，用来指奢华，奢侈。
 lynch\缩写自Lynch law,私刑法。词源有多种版本，其中一个版本是1780年美国弗吉利亚州某小镇治安长官William Lynch,因经常私自拘禁，惩罚，处死犯人而被人所知。
 lynxeyed\
+lyra\
 lyric\来自lyra,里拉琴，引申词义抒情的。
 macabre\来自古法语danse Macabre,即dance of Death,词源不详。可能来自对拉丁语Chorea Machabaeorum的意译，即Maccabees Chorea.其中Maccabees为犹太教世袭祭司家庭，在公元前2世纪至1世纪时为抵抗希腊和叙利亚联军的入侵，家庭成员大量战死。后世根据这一历史改编成戏剧展现了这段悲惨的故事。引申词义可怕的，恐怖的。参照百度百科马加比家族。
 macadam\来自19世纪苏格兰土建工程师John McAdam,字面意思即son of Adam.其于1822年设计了一种用颗粒大小一致的碎石子铺路的在当时领先的筑路技术。后这一技术被进一步改良，使用柏油和碎石搅拌以使路面更坚固耐用。
@@ -7255,6 +7326,7 @@ magma\来自希腊语magma,油膏，软膏，来自PIE*mag,揉，捏，词源同
 magnanimity\
 magnanimous\magn-,大的，-anim,思想，精神，灵魂，词源同animal,unanimous.引申词义宽宏的，大度的。
 magnate\来自拉丁语magnus,伟大的，巨大的，富贵的，词源同major,master.引申词义伟人，贵族等，但现多含贬义。
+magnesia\来自拉丁语magnesia,来自希腊语Magnesia lithos,即来自Magnesia的石头，lithos,石头，词源同lithology.Magnesia为古希腊地名，来自当地人的族名Magnetes.因石头中发现镁砂而得名。
 magnesium\来自magnesia,镁砂，-um,金属元素后缀。
 magnet\来自拉丁语magnetum,磁石，来自希腊语Magnes lithos,即来自Magnesia的石头，lithos,石头，词源同lithology.Magnesia为古希腊地名，来自当地人的族名Magnetes.因石头中发现天然磁石而得名。比较magnesia.
 magnetic\
@@ -7313,9 +7385,11 @@ manager\来自manage,管理。
 mandate\来自拉丁语mandatum,命令，委托，交付，来自manus,手，词源同manual, -dat,给予，词源同data,date.即交付给某人，引申词义授权，命令等。
 mandatory\来自mandate,命令。即命令的，引申词义强制的，法定的。
 maneuver\
+mange\来自古法语manjue,痒，来自mangier,吃，来自拉丁语manducare,吃，咀嚼，来自拉丁语mandere,咀嚼，词源同mandible,mouth.后用于指动物的皮肤病，即兽疥癣。
 mangle\可能来自古法语mahaignier,伤害，使受伤，使残疾，来自PIE*mai,砍，切，词源同maim,mayhem.进一步来自PIE*smi,砍，切，词源同smith.或来自拉丁语mancus,伤害，伤残，来自PIE*man-ko,使手伤残，来自*man,手，词源同manual,*ko,磨，削，使锋利，词源同cone,hone.
 mangy\来自mange,兽疥癣。引申词义肮脏的，污秽的。
 mania\来自拉丁语mania,发狂，发疯，来自PIE*men,思想，思考，词源同mind,mention.-ia,疾病后缀。即脑子出问题的，着迷的，或发狂，发疯。
+maniac\来自mania的形容词形式，后用做名词，指发狂的人。
 maniacal\来自maniac,发狂的人。
 manicure\mani-,手，词源同manual,cure,处理，护理，治疗。引申词义指甲护理。
 manifest\来自拉丁语manifestus,清晰的，明显的，抓个正着的，来自manus,手，词源同manual,-fest,击，打，抓住，词源同infest,offend.引申词义显现，展现。
@@ -7345,8 +7419,8 @@ maple\缩写自古英语mapultreow,枫树，来自Proto-Germanic*maplo,节，结
 mar\来自古英语merran,毁坏，损毁，来自Proto-Germanic*marzjan,来自PIE*mers,骚扰，使混乱，可能来自PIE*mer,刮，磨，伤害，词源同mortar.
 marasmus\
 marble\来自古法语marbre的拼写异化形式，来自拉丁语marmor,来自希腊语marmoros,大理石，明亮的石头，可能来自PIE*mer,发光，闪光，词源同mere,morning.后用于指用小石子磨成的弹子游戏，但后来随着玻璃技术的成熟，多用于指玻璃弹子。
-March\来自拉丁语Martius mensis,即战神Mars月。比较January,May.
 march\来自拉丁语Martius mensis,即战神Mars月。比较January,May.
+March\来自拉丁语Martius mensis,即战神Mars月。比较January,May.
 mare\来自古英语mere,来自mearh的阴性格，来自Proto-Germanic*markhjon,来自PIE*mark,马。部分学者认为该词来自古高卢词源，也有部分学者认为该词最终来自汉藏语系，即ma,马。
 margarine\来自法语margarine,人造黄油，最终来自希腊语margaron,珍珠，词源同margaric,Margaret.该物质通常由动物脂肪或油脂提炼而成，其结晶体与珍珠相似，因此其发明者19世纪法国科学家Hippolyte Mege Mouries借用该希腊词来命名。
 margin\来自拉丁语marginem,边缘，边界，来自PIE*merg,记号，标记，边界，词源同mark,march.引申词义湖边，河边，页边等。
@@ -7400,6 +7474,7 @@ maternity\来自maternal,母亲的，-ity,名词后缀。比喻用法。
 mathematical\
 mathematics\来自拉丁语mathematica(复数)，数学，来自希腊语mathema,科学，知识，数学知识，来自manthanein,学习，来自PIE*mendh,学习，可能最终来自PIE*men,思想，思考，词源同mind,mania.
 maths\
+matriarch\matr-,母亲，-arch,管理，词源同anarchy.比喻用法。
 matriarchy\来自matriarch,女族长，-y,名词后缀。比喻用法。
 matriculate\来自拉丁语matriculare,登记，登记入学，来自mater,母亲，词源同mother.比喻用法。比较Alma Mater.
 matrix\来自拉丁语matrix,子宫，母体，来自mater,母亲。引申词义社会环境，并用于指科学术语矩阵。见电影《黑客帝国》。
@@ -7418,6 +7493,7 @@ maximize\来自maximum,最大，-ize,使。即使最大化。
 maximum\来自拉丁语magnus,大的，巨大的，词源同magnate,magnum.-im,最高级后缀，词源同ultimate,intimate.-um,中性格，词源同datum.即大的最高级中性名词，引申词义最大量，最高限度等。
 may\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
 May\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
+may be\
 maybe\来自may be.
 mayhem\来自古法语mayhem,来自PIE*mai,砍，劈，词源同maim,mangle.引申词义伤害，损伤，骚乱，混乱。
 mayor\来自major的法语拼写，即主要的，重要的。后用为名词用于镇长或市长的头衔。
@@ -7431,6 +7507,7 @@ meaning\来自mean,意思，意味着。
 means\来自mean,中间的。后形容词做名词，引申词义调解人，调停人，有影响力的人，最终用于指方式，方法，并引申词义钱财，财富。
 meantime\mean,中间的，其间，time,时间。引申词义同时。
 meanwhile\mean,中间的，其间，while,一段时间。
+measle\
 measly\来自measle,麻疹，-y,形容词后缀。即患麻疹的，俚语义可怜的，可鄙视的，或很小的，微不足道的等。
 measure\来自古法语mesurer,测量，来自拉丁语mensurare,测量，检测，来自PIE*me,测量，词源同meter,commensurate.
 measured\来自measure,测量，衡量。比喻用法。
@@ -7521,6 +7598,7 @@ metabolism\meta-,改变，-bol,扔，投，词源同hyperbole,ballet,ballistic.�
 metal\来自拉丁语metallum,金属，矿产，采石场，矿物质，来自希腊语metallon,金属，矿石，矿砂，词源同metal. 可能来自PIE*smi,砍，切，词源同smith,blacksmith,goldsmith.
 metallic\来自metal,金属。
 metamorphose\来自metamorphosis,变形，质变。
+metamorphosis\meta-,改变，-morph,形状，词源同form.- osis,表状态。
 metaphor\meta-,改变，-phor,带来，词源同bring.引申词义改变方式，用于语法指暗喻，隐喻。
 metaphysical\
 metaphysics\来自希腊语ta metaphysika,写在物理学后面的作品，来自meta,在后，physika,物理，词源同Physics.原指古希腊哲学家亚里士多德的编辑者在编辑完其物理方面的作品之后编辑其它作品所用的标题，后来被拉丁学者误解为超越物理的学问，即玄学，引申词义玄而上学。并由该词衍生出科学名词前缀meta-,元，始，玄。
@@ -7548,7 +7626,9 @@ microprocessor\micro-,微小的，processor,处理器。
 microscope\micro-,微小的，-scope,看，词源同telescope.比喻用法。
 microscopic\
 microwave\micro-,微小的，wave,波，水波。
+mid\
 middle\来自古英语middel,来自Proto-Germanic*medjaz,来自PIE*medhyos,中间的，词源同medial,mezzo.可能来自PIE*med,测量，词源同measure,modal,*yos,比较级后缀，现-er原型，即精确测量的，引申词义中间的。
+midge\来自古英语mygg,小虫，蚋，蠓，来自Proto-Germanic*mugjon,来自PIE*mu,小昆虫，小虫，拟声词，模仿小虫嗡嗡的声音，词源同moth,mosquito.该词为小虫范指。
 midget\来自midge,小虫，蠓，-et,小词后缀。比喻用法。
 midst\来自mid,中间的，-s,所有格后缀，-t,寄生字母。比较against.
 miff\拟声词，不耐烦的声音。引申词义使恼怒，激怒。
@@ -7636,6 +7716,7 @@ mishandle\mis-,坏的，错的，不好的，handle,处理。
 mishap\mis-,坏的，错的，不好的，hap,机会，运气，词源同happy.
 misinform\mis-,坏的，错的，不好的，inform,通知。
 mislead\mis-,坏的，错的，不好的，lead,引导。
+misname\mis-,坏的，错的，不好的，name,命名。
 misnomer\来自misname,命名不当。
 misogamy\
 misperceive\
@@ -7651,6 +7732,7 @@ missionary\来自mission,使命。即有使命的人，用于指传教士。
 misspend\mis-,坏的，错的，不好的，spend,花费。引申词义挥霍，浪费。
 mist\来自古英语mist,薄雾，水气，来自Proto-Germanic*mikhstaz,可能来自PIE*meus,水气，湿的，词源同moss,moist.
 mistake\mis-,坏的，错的，不好的，take,采取手段。即采取错误手段，引申词义错误，失误。
+mister\来自master的弱化形式，用于对人的敬称。
 mistress\来自mister,主人，先生，-ess,表阴性。即女主人，主妇。
 misunderstand\mis-,坏的，错的，不好的，understand,理解。
 misuse\mis-,坏的，错的，不好的，use,使用。
@@ -7659,6 +7741,7 @@ mitigate\来自拉丁语mitigare,成熟，变软，温顺，来自mitis,成熟�
 mitten\来自古法语mite,露指手套，来自拉丁语medius,中间的，词源同middle,medial.即半手套。
 mix\来自拉丁语miscere,混合，来自PIE*meik,混合，词源同miscellany,mixture.
 mixture\来自mix,混合，-t,过去分词后缀，-ure,名词后缀。引申词义混合体。
+mnemonic\来自希腊语mnemon,记忆，来自PIE*men,记忆，思考，考虑，词源同man,mind.即与记忆相关的，引申词义助记的，助记符号。前mne-为mon的韵律重复，拼写比较memory.
 mnemonics\来自mnemonic,记忆的，助记的，-ics,学说。
 moan\可能来自拟声词，模仿呻吟的声音。
 moat\来自古法语mote,城墙，护堤，来自拉丁语mota,城墙，小山，山上城堡，来自Proto-Germanic*muto,泥土，污泥，来自PIE*smut,污泥的，脏的，词源同smut,mud.后词义由城墙过渡到护城河。
@@ -7705,6 +7788,7 @@ momentum\来自拉丁语momentum,运动，变化，冲击，词源同moment,move
 monarch\mon-,单个的，-arch,统治，管理，词源同anarchy.即单人统治，引申词义君主，帝王。
 monarchy\来自monarch,君主，帝王。
 monastery\来自希腊语monasterion,来自monos,单个的，独自的，词源同monk.-terion,表地点。即一个人住的地方，后用于指修道院，隐修院。
+monastic\来自monos,单个的，独自的，词源同monk.引申词义伴侣的，清修的。
 monasticism\来自monastic,僧侣的，-ism,主义，思想。引申词义僧侣生活。
 Monday\来自古英语mondaeg,即moon day,月亮日。比较sunday.
 monetary\来自拉丁语moneta,硬币，铸币，铸币处，词源同mint,money.
@@ -7742,6 +7826,7 @@ moonshine\比喻用法，比喻偷偷摸摸。
 mopery\
 moral\来自拉丁语moralis,举止，行为，得体的举止，来自mos,品行，性格，风俗，习惯，来自PIE*mo,努力，辛劳，做事方式，词源同mood,mores,mole.引申词义道德的，道义的。
 morale\来自moral,道义，道德，-e,阴性格。用于军事行话指士气，道义力量，正义之师。
+moralist\来自moral,道德的，-ist,人。讽刺用法。
 moralistic\来自moralist,道学家。引申词义说教的。
 morality\来自moral,道德的，-ity,名词后缀。引申词义道德，准则。
 morass\来自Proto-Germanic*mari,湖，海，词源同moor,marsh,marine.即像湖一样的，后用于指湿地，沼泽。引申词义困境。
@@ -7752,6 +7837,7 @@ more\来自古英语mara,更大，更多，更强，更好，来自ma,多的，�
 moreover\more,更加，over,在上。
 mores\来自拉丁语mores,习惯，风俗，道德，来自mos的拉丁语复数形式，词源同mood,moral,morose.
 moribund\来自拉丁语mori,去死，将死，词源同mortal,murder.-bund,工具格后缀，将成为，词源同be.
+morn\来自古英语morgen,太阳升起，早晨，来自Proto-Germanic*murgana,早晨，来自PIE*mer,闪光，发光，微光，词源同mere,murk.
 morning\来自morn,早晨，-ing,动名词后缀。
 moron\来自希腊语moron,笨蛋。带有强烈的感情色情。
 morose\来自拉丁语moris,习惯，风俗，举止，词源同moral,mores,moody.即合乎举止的，按风俗的，引申词义无所适从的，忧郁的，闷闷不乐的。
@@ -7803,6 +7889,7 @@ move\来自拉丁语movere,移动，运动，词源同mobile,motion.引申词义
 movement\来自move,移动，-ment,名词后缀。引申词义乐章。
 movie\缩写自moving picture.
 mow\来自古英语mmawan,割，来自PIE*me,割，割草，割谷，可能是拟声词，词源同meadow.
+Moxie\来自Moxie,一种开创于1876 年的美国保健品饮料商标，其广告词为”build up your nerve”.该 词本身可能来自北美印第安某植物名。后来引申词义勇气，力量等。
 moxie\来自Moxie,一种开创于1876 年的美国保健品饮料商标，其广告词为”build up your nerve”.该 词本身可能来自北美印第安某植物名。后来引申词义勇气，力量等。
 much\来自英语micel,大的，多的，来自PIE*meg,大的，多的，词源同magnate,maximum.后用做 副词。
 mucilage\
@@ -7810,6 +7897,7 @@ muckrake\
 mud\来自Proto-Germanic*mud,淤泥，泥浆，来自PIE*smeu,meu,湿的，脏的，泥泞的。最终词源 可能同mucus,muggy.
 muddle\来自mud,泥浆，-le,表反复。引申词义搅混，使困惑，杂乱。
 muddy\来自mud,泥浆。
+muff\来自拉丁语muffula,厚手套，暖手筒。
 muffle\来自muff,厚手套。-le,表反复。引申词义裹住，覆盖。
 muffled\
 muffler\来自muffle,裹住，覆盖。引申词义围巾，后用于指枪支的消音器。
@@ -7837,10 +7925,12 @@ muniments\
 munition\
 mural\缩写自mural painting,壁画，来自拉丁语murus,墙，墙壁，来自PIE*mei,修建，巩固，防御 工事，可能来自PIE*mo,辛劳，劳作，词源同mole,防洪堤，城墙，大型工事。
 murder\来自古英语morthor,秘密杀害，非法谋杀，来自Proto-Germanic*murthra,杀害，来自PIE*mer, 将死，死去，词源同morbid,mortal.-ther,工具格后缀。
+murk\来自PIE*mer,闪光，闪烁，词源同morning,morrow.引申词义昏暗，黑暗。
 murky\来自murk,昏暗。即昏暗的，引申词义暧昧的。
 murmur\拟声词，模仿咕哝地声音。
 muscle\来自拉丁语musculus,小老鼠，肌肉，来自mus,老鼠，词源同mouse,-cul,小词后缀。因古人认为鼓起的肌肉形如跳跃的小老鼠而得名。
 muscular\来自muscle,肌肉。
+Muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
 muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
 museum\来自Muse,缪斯女神，-um,表地点。字面意思即缪斯女神的圣殿，与缪斯女神对话的地方。在古希腊时期用以指学校，图书馆，艺术学校，现仅用于指图书馆。
 mushroom\来自古法语meisseron,蘑菇，可能来自moss,苔藓，潮湿的地方。即在潮湿的地方长出来的菌类。拼写俗词源化。
@@ -7975,6 +8065,7 @@ neur-neuron\
 neuralgia\
 neurology\neuro-,神经，-logy,学说。
 neurosis\neuro-,神经，-osis,疾病症状。
+neuter\来自拉丁语neuter,中性的，来自ne-,无，没有，uter,两者中的一个，词源同either.引申词义两个都不是，中性的，阉割。
 neutral\来自neuter,中性的。
 neutralize\来自neuter,中性的。引申词义使中立，使无效。
 neutron\来自neutral,中性的，-on,物理名词后缀，来自eon.
@@ -8043,6 +8134,7 @@ noncommittal\
 nonconformist\
 nondescript\non-,无，非，description,描述，特征。
 none\缩写自no one.
+none the less\
 nonentity\non-,无，非，entity,实体，实质。比喻用法。
 nonesuch\
 nonetheless\来自none the less,尽管。比较nevertheless,despite.
@@ -8074,6 +8166,7 @@ nostalgia\来自希腊语nostos,回家，家乡，来自PIE*nes,我们，词源�
 nostalgic\
 nostrum\来自拉丁语nostrum remedium,家乡药，祖传神药，nostrum,我们的，家乡的，词源同us,our,remedium,治疗，药，词源同remedy.用来形容一些江湖骗子，比较quack.
 not\缩写自naught,零，无，没有。
+not withstanding\
 notability\
 notable\来自note,注意，留意。即值得注意的，值得留意的。
 notate\
@@ -8192,6 +8285,7 @@ obtain\ob-,向前，朝向，-tain,伸，抓，词源同contain,tenure.引申词
 obtainable\
 obtrude\ob-,向前，朝向，-trud,插，推，词源同extrude,threat.即前插，前推，引申词义强行闯入。
 obtrusive\来自obtrude,前插，强行闯入，-ive,形容词后缀。引申词义炫耀的，扎眼的。
+obtund\ob-,向前，朝向，-tund,击，打，使钝化，来自PIE*steu,击，打，词源同obtuse,contusion,type.
 obtundent\
 obtuse\来自obtund,使迟钝，-s,过去分词后缀。引申词义迟钝的，愚蠢的。
 obverse\ob-,向前，朝向，-verse,转，词源同versus,converse.即向前转，引申词义对立面，正面。
@@ -8243,6 +8337,7 @@ offspring\off,离开，spring,弹，跳，生长。比喻用法。
 offstage\
 often\来自古英语oft,经常，频繁，来自Proto-Germanic*ufta,频繁地。
 ogle\来自Proto-Germanic*augon,来自PIE*okw,眼睛，词源同eye,ocular.-le,表反复。引申词义色迷迷的看。
+oidum\
 oil\来自拉丁语oleum,油，橄榄油，词源同olive.后词义通用化，也用于指石油，原油等。
 ointment\来自古法语oignement,油膏，来自拉丁语unguentum,油膏，来自PIE*ongw,涂抹，抹油，词源同unguent,unctuous.-ment,名词后缀。
 okay\
@@ -8294,6 +8389,7 @@ opiate\来自opium,鸦片，-ate,表属性。引申词义鸦片制剂。
 opine\来自拉丁语opinari,发表观点，表达意见，词源同opinion.
 opinion\来自拉丁语opinari,发表观点，表达意思，来自PIE*op,选择，分辨，词源同option.
 opinionated\比喻用法。
+opium\来自拉丁语opium,鸦片，来自希腊语opion,罂粟汁，来自opos,蔬菜汁，植物汁。
 opponent\op-,相对，对着的，-pon,放置，词源同pose,component.即对着放的，引申词义反对者，对手。
 opportune\来自拉丁语opportunus,合适的，有利的，来自短语ob portum veniens,朝向港口的风，来自ob,朝向，向前，portum,港口，词源同port,veniens,来，词源同advent.后引申词义适当的，有机会的。比较inopportune.
 opportunistic\
@@ -8305,6 +8401,7 @@ oppressive\来自oppress,压制，压迫，-ive,形容词后缀。
 opprobrious\来自opprobrium,谴责，抨击。
 opprobrium\来自拉丁语opprobrare,嘲笑，奚落，谴责，来自op-,相对，对着的，probrum,耻辱，羞辱，可能来自PIE*pro,向前，向前嘲笑，词源同reproach,approach,problem.-brum,工具格后缀，词源同vertebra.
 opt\来自拉丁语optare,选择，词源同option.
+optic\来自拉丁语opticus,眼睛的，来自希腊语ops,眼睛，来自PIE*okw,看，词源同eye,ocular,biopsy.
 optical\来自optic,眼的，眼睛的，引申词义视力的，光学的。
 optimal\来自optimum,最优，最佳。
 optimism\来自optimum,最优，最佳，-ism,主义，思想。比喻用法。
@@ -8343,6 +8440,7 @@ organize\来自organ,运行，器官，组织机构，-ize,使。即使有组织
 orgy\来自希腊语orgia,神秘仪式，尤指祭祀酒神Bacchus的仪式，来自PIE*werg,工作，做工，举行仪式，词源同organ,work.因在这种仪式上通常会大量饮酒，酒后乱性，通常演变成狂欢会，纵欲会甚至最终出现极其淫荡的场面。
 orient\专有名词，来自拉丁语oriens,东方，太阳升起的方向，来自oriri,升起，来自PIE*ergh,升起，词源同origin,orchestra.
 oriental\
+orientate\来自orient,朝向，定位。
 orientation\来自orientate,朝向，定位。引申词义定位，方向，职前培训等。
 origin\来自拉丁语origo,升起，上升，来自oriri,升起，出现，来自PIE*ergh,升起，上升，词源同orient,orogeny.引申词义起源，发源。
 original\来自origin,起源，发源。引申词义原创的。
@@ -8396,6 +8494,7 @@ outfit\out-,向外，fit,匹配，装配。原指船只远行的配备，引申�
 outfox\out-,超过，fox,狐狸，智慧。
 outgas\
 outgoing\out-,向外，go,走。比喻用法。
+outgrow\out-,超过，grow,生长，增长。
 outgrowth\来自outgrow,长出，向外长。引申词义长出物，分支。
 outing\来自out,向外，出门，-ing,动名词后缀。引申词义远足。
 outlandish\out-,向外，超过，land,土地。原指外国人，引申词义古怪的。
@@ -8517,10 +8616,12 @@ palette\来自拉丁语pala,铲，铁锹，可能缩写自patella,小盘子，�
 palings\
 palisade\来自pale,木桩，围栏，-ade,集合名词后缀。
 pall\缩写自appall,震惊，害怕，来自ap-,向，-pall,苍白，惨白，词源同pale,pallor.引申词义厌恶，厌倦，厌烦。
+pallere\
 palliate\来自拉丁语pallium,斗篷，覆盖，可能来自pellis,皮，膜，词源同film,pelt,surplice.即戴上斗篷，引申词义减轻痛苦，缓和，通常治标不治本。
 palliation\
 palliative\来自palliate,减轻，缓和，-ive,形容词后缀。引申词义权宜之计。
 pallid\来自pallor,苍白。
+pallor\来自pallere,苍白的，发白的，来自PIE*pel,苍白的，发白的，词源同fallow,pale.引申词义恐惧，害怕。
 palm\来自拉丁语palma,手掌，棕榈叶，棕榈树，来自PIE*pel,展开，平的，词源同plan,plain.
 palmy\来自palm,棕榈，胜利。
 palpable\来自palpate,触摸。
@@ -8531,6 +8632,7 @@ palter\
 paltry\来自低地德语palter,破布，布条，来自Proto-Germanic*palto,破布，碎布，-y,形容词后缀。引申词义破布般的，无价值的，微不足道的。
 pamper\可能来自pap,流食，软质食物，-er,表反复。即塞满食物，引申词义娇惯，纵容。插入鼻音字母m,比较instinct,stick.
 pamphlet\来自希腊语pamphilos,众人所爱，来自pan-,众，所，philos,爱，词源同philosophy.现词义来自中世纪的一首爱情诗”Pamphilus,seu de Amore”，大意是“众人之所爱，何为爱”，amore,爱，爱情，词源同amateur.因这首诗流传如此之广，人们用小纸片大量传抄。后引申词义小册子，传单。
+Pan\来自古英语panne,锅，盘，可能来自PIE*pete,展开，词源同feather,patella.后引申动词词义淘金，即用锅洗砂子淘金，并用于俚语严厉批评。字母t脱落，比较fain,来自古英语fagen.
 pan\来自古英语panne,锅，盘，可能来自PIE*pete,展开，词源同feather,patella.后引申动词词义淘金，即用锅洗砂子淘金，并用于俚语严厉批评。字母t脱落，比较fain,来自古英语fagen.
 panacea\来自希腊语panakes,万灵药，来自pan,全部，所有，akos,治疗，词源同pediatric,psychiatric.
 panache\来自中古法语pennache,羽毛，来自拉丁语pinnaculum,小翅膀，词源同pen.-culum,工具格后缀。引申词义炫耀，神气十足。
@@ -8539,6 +8641,7 @@ panda\来自法语panda,小熊猫，小猫熊，借自尼泊尔语，原指尼�
 pandemic\pan-,全部，所有，-dem,人民，词源同democracy,demotic.即全民传染的。
 pandemonium\pan-,全部，所有，demon,魔鬼。即地狱，引申词义混乱，骚乱。
 pander\来自中古英语Pandare,英国中世纪文学之父乔叟根据古希腊荷马史诗改编的作品《Troylus and Cryseyde》中的人物，其原型为古希腊特洛伊王子Pandaros,促成了特洛伊战争时期青年男女Troylus and Cryseyder的美好爱情，后词义过渡到媒人，皮条客，性交易中介，并最终引申词义逢迎，投其所好等。
+pane\来自拉丁语pannum,一块布，来自PIE*pan,布，纺织品。引申词义窗帘，窗玻璃。
 panegyric\来自拉丁语panegyricus,节日致辞，颂辞，颂文，pan-,全部，所有，-agyric,广场，集会，词源同agora,gregarious.即公共集会的庆祝辞。
 panel\来自pane,布条，-el,小词后缀。即小布条，引申词义面板，金属板，窗玻璃。后用于指在布条上列举名字的陪审团成员或讨论小组清单。
 pang\可能改编自prong,叉子。引申词义剧痛。
@@ -8567,6 +8670,7 @@ paragon\来自意大利语paragone,磨刀石，试金石，来自para-,在旁，
 paragraph\para-,在旁，在周围，-graph,写。即在旁边写的，写在旁边的，引申词义分段符号，段落。
 parallel\来自希腊语parallelos,并列，平行，para-,在旁，在周围，-allel,改变，另外的，词源同else,alternate.即在旁边的另外一条，引申词义平行的，并列的。
 parallelism\来自parallel,平行的，并列的，-ism,主义，思想，观点。比喻用法。
+paralyse\para-,在旁，在周围，-lys,松，松开，词源同analyse,lose.比喻用法。
 paralytic\来自paralyse,瘫痪。
 paralyze\
 parameter\para-,在旁，在周围，-meter,测量，规定，词源同meter,measure.引申词义参数，规范。
@@ -8631,6 +8735,7 @@ pastel\来自paste,面团，-el,小词后缀。即小面团，后用于指揉成
 pasteurize\来自该消毒法的发明者法国19世纪细菌学家Louis Pasteur,该姓氏字面意思为牧师或牧场主。
 pastiche\来自意大利语pasticcio,面团，混成曲，集锦，来自拉丁语pasta,面团。即揉成一团的，比喻用法。
 pastime\缩写自pass time.
+pastor\来自拉丁语pascere,放牧，喂养，来自PIE*pa,喂食，喂养，词源同food,company.即放牧者，引申词义牧师。-t,过去分词格。
 pastoral\来自pastor,放牧，牧师。比喻用法。
 pastry\来自拉丁语pasta,面团，面食，-ry,名词后缀。引申词义糕点，油酥面团。
 pasture\来自拉丁语pascere,放牧，喂养，来自PIE*pa,喂食，喂养，词源同food,company.-ure,名词后缀。即放牧的地方。
@@ -8721,6 +8826,7 @@ pell-mell\此处pell为mell韵律重复词，来自古法语mesler,混合，混�
 pellucid\来自拉丁语pellucere,透过，光线穿过，来自pel-,整个的，来自per-在字母l开头词根前的异化，lucere,照耀，光照，词源同light,translucent.引申词义透明的，清晰的。
 pelt\来自拉丁语pellere,击，打，推，驱打，词源同compel,propel.引申词义猛击，投掷。
 pen\来自拉丁语penna,羽毛，翎，来自PIE*petna,展开，翅膀，来自*pet,展开，词源同feather,compete.原指鸟翎制成的笔，后词义通用化。拼写比较pan,patella.
+penal\来自拉丁语poena,处罚，惩罚，来自希腊语poine,处罚，罚金，来自PIE*kwei,弥补，支付，赎罪，词源同pain,punish.
 penalize\来自penal,处罚的，处罚的。
 penalty\来自penal,处罚的，处罚的。后用于指体育运动罚球，罚点球等。
 penance\来自古法语peneance,来自拉丁语paenitentia,忏悔，悔罪，词源同penitence.
@@ -8762,6 +8868,7 @@ percipient\per-,完全的，-cip,抓住，词源同capable,participate.引申词
 percolate\来自拉丁语percolare,过滤，渗透，来自per-,通过，colum,筛子，筛选，词源同colander,coliform.
 percussion\per-,完全的，-cuss,摇，击打，词源同discuss,concussion.用于指打击乐器。
 percussionist\
+peregrinate\来自拉丁语peregrinari,到国外旅行，来自per-,通过，穿过，-egri,耕作，土地，此处代指本国的领土，词源同agriculture.引申词义长途跋涉，旅行，见闻等。
 peregrination\来自peregrinate,旅行，到国外旅行。尤指漫长而缓慢的旅行。
 peremptory\per-,整个的，-empt,拿，带，词源同exempt.assumptive.即整个的拿走，引申词义强硬的，专横的。
 perennial\per-,整个的，-enn,年，词源同annual.原义为终年的，终年不凋的，后引申词义多年的，长久的。
@@ -8871,6 +8978,7 @@ petulance\
 petulant\来自拉丁语petere,祈求，要求，词源同appetite,feather.引申词义过分的，无礼的，不谦虚的。现词义可能是受pettish影响。
 phantom\来自拉丁语phantasma,幽灵，鬼魂，词源同phantasm.
 pharisaic\来自Pharisee,法利赛人，自恃清高者。
+Pharisee\严守律法的古犹太教派成员。来自希腊语Pharisaios,来自希伯来语parash,分开的。即分开的教派，与其它教派不同的教派，该教派以严守律法著称，但同时被其它教派认为过于表面，过于做作，因此，引申词义伪善者，自恃清高者。
 pharmaceutical\来自pharmacy,制药，-eut,-ical,形容词后缀。
 pharmacology\来自pharmacy,制药，-logy,学说。
 pharmacy\来自希腊语pharmakeia,用药，药品，制药，治疗，巫术，来自pharmakis,巫术，魔力，咒语。词义演变比较leech,医生，古义为念咒的人。
@@ -8888,6 +8996,7 @@ philistine\《圣经》中记载的与以色列打战的一支巴勒斯坦人。
 philogyny\
 philosopher\来自philosophy,哲学。
 philosophy\philo-,爱，爱好，-soph,思考，智慧，词源同Sophia,sophist.引申词义哲学家。
+phlegm\来自拉丁语phlegma,痰，黏液（古医学体液理论构成人体的血液，黏液，胆汁，黑胆汁四种体液之一），来自希腊语phlegma,发热，由体热所致的多痰症，来自phlegein,燃烧，发热，来自PIE*bhel,照耀，燃烧，词源同blaze,bleach.后在中世纪医学理论认为体内多痰会致人冷淡，迟钝，但是，被误解为冷淡是冷静，镇定的表现，因此，产生模糊和矛盾的词义。
 phlegmatic\来自phlegm,冷淡，迟钝，冷静，镇定。
 phoenix\来自拉丁语phoenix,来自希腊语phoinix,神话中的阿拉伯神鸟，每五百年浴火重生，其字面意思可能为紫色的。这种神鸟体现在古代多个不同文明的神话传说中，中国神话中为凤凰，印度神话中为Garuda,《西游记》中大鹏金翅鸟的原型。
 phone\缩写自telephone.
@@ -8899,6 +9008,7 @@ photography\来自photography,照相。
 photosynthesis\phot-,光，synthesis,合成作用。
 phrase\来自拉丁语phrasis,措辞，表达，来自希腊语phrazein,表达，告知，说话，可能来自phren,思考，意志，智慧，来自PIE*gwhren,思想，思考，词源同frantic,frenetic.
 phraseologist\
+physic\来自拉丁语physica,自然知识，来自希腊语physis,自然，来自phyein,生长，产生，存在，来自PIE*bheue,生长，存在，词源同be,physics,physiology.引申词义自然科学，自然疗法，医学，药术等。
 physical\来自physic,自然科学，-al,形容词后缀。引申词义大自然的，自然界的，物质的，身体的，肉体的，躯体的，物理的等。
 physician\来自physic,医学，医冶，-ian,人。
 physicist\来自physics,物理学，-ist,人。
@@ -8969,15 +9079,18 @@ pitiful\来自pity,可怜，同情。
 pitiless\来自pity,可怜，同情，-less,无，没有。
 pittance\来自古法语pitance,可怜，同情，施舍，词源同pity.-ance,名词后缀。引申词义微薄的工资。
 pity\来自古法语pitet,可怜，同情，怜悯，关切，来自拉丁语pietas,职责，虔诚，笃信宗教，词源同piety,pious.词义演变由虔诚引申为行善，关爱世人，可怜，同情，怜悯等。
+pivot\来自古法语pivot,绞链，门合页。引申词义中心，枢轴，核心等。
 pivotal\来自pivot,核心。
 placate\来自拉丁语placate,安抚，取悦，来自PIE*plak,平的，来自PIE*pele,放平，展开，词源同please,place.词义由放平引申为放低身段，安抚等。
 place\来自拉丁语placea,地点，位置，来自platea,庭院，开阔地，来自PIE*plat,铺平，展开，来自PIE*pele,放平，展开，词源同plan,plate.并引申诸多词义。
 placebo\来自拉丁语placate,安抚，安慰，-bo,将来指示格，词源同gazebo.
+placere\
 placid\来自拉丁语placate,安抚，安慰，词源同please,placate.引申词义安抚的，平静的。
 plagiarism\来自拉丁语plagiare,绑架，来自plaga,罗网，鸟网，网笼，来自PIE*plek,弯，转，编织，词源同ply,complicate.后引申词义抄袭，剽窃。-ism,主义，思想。
 plagiarize\来自plagiarism,抄袭，剽窃，-ize,使，做。
 plague\来自拉丁语plaga,瘟疫，灾害，来自plangere,击，打，哀伤，捶胸顿足，来自PIE*plak,击，打，捶胸，可能来自声词，捶胸哀叹的声音，词源同plangent,apoplexy.比喻用法。
 plain\来自拉丁语planus,平的，来自PIE*pele,展开，放平，词源同plan,place.引申诸相关词义。
+plaint\来自古法语plainte,哀伤，悲伤，来自拉丁语plangere,哀悼，悲痛，词源同plague,plangent.拼写比较point,pungent.用于法律术语指起诉，诉状。
 plaintiff\来自plaint,起诉，诉讼，-iff,形容词后缀，对应-ive.后词性由形容词变为名词，引申词义原告，起诉人。
 plaintive\来自plaint,哀伤，悲痛，-iff,形容词后缀。
 plait\来自古法语pleir,折叠，编织，来自拉丁语plicare,折叠，编织，词源同ply,complicate.引申词义辫子。
@@ -9018,6 +9131,7 @@ pledge\来自古法语plege,保证，来自Proto-Germanic*plego,责任，担保�
 plenitude\来自plenty,大量的，众多的。
 plentiful\来自plenty,大量的，众多的。
 plenty\plen-,全体的，全部的，-ty,名词后缀。引申词义大量，众多。
+pleonasm\来自希腊语pleonazein,过多，超过，来自pleon,更多的，来自PIE*ple,装满，填满，词源同 fill,full.-asm,名词后缀。引申词义冗言，赘述。
 pleonastic\来自pleonasm,冗言，赘述，-astic,形容词后缀。
 plethora\来自希腊语plethein,使装满，来自PIE*ple,装满，填满，词源同fill,full.引申词义过多，过量， 充血症。-ora,名词后缀。
 pliable\来自ply,弯，转，-able,形容词后缀。
@@ -9048,6 +9162,7 @@ plutocracy\pluto-,财富，-cracy,统治，词源同democracy.
 ply\来自拉丁语plicare,弯，转，折叠，编织，扭，词源同imply,complicate,complex.引申诸相关词义。
 pneumonia\pneumon-,肺，-ia,炎症。
 poach\来自古法语pochier,放入口袋，包起来，来自poche,包，包裹，来自Proto-Germanic*puk,袋子，来自PIE*bu,beu,鼓起，膨胀，词源同ball,pock,pouch.后用于比喻义像蛋白包裹着蛋黄，引申词义炖，煨，煮。
+pock\来自古英语pocc,脓肿，水泡，来自Proto-Germanic*puk,袋子，来自PIE*beu,鼓起，膨胀，词源同poach,pouch.引申词义痘痕，麻子，小洞，小坑等。
 pocket\来自古英语pocket,袋子，麻袋，来自Proto-Germanic*puk,鼓起，膨胀，来自PIE*beu,鼓起，膨胀，词源同poach,pouch.-et,小词后缀。即小袋子，引申词义口袋，钱财，资金等。
 pococurante\
 pod\来自中古英语pod,豆荚，豆壳，来自古英语pad,外衣，斗篷，覆盖，来自Proto-Germanic*paido,外衣，外套，来自PIE*baite,羊毛衣服。
@@ -9097,6 +9212,7 @@ polygamy\poly-,多，复，聚，-gam,结婚，配对，词源同gamete,monogamy
 polyglot\poly-,多，复，聚，-glot,语言，舌头，词源同glossary.
 polygon\poly-,多，复，聚，-gon,边，词源同knee,heptagon
 polymath\poly-,多，复，聚，-math,知识，学习，词源同mathematics,mind.
+pomegranate\pome,苹果，水果，-gran,颗粒，词源同grain.即有籽的苹果，用于指石榴。
 pomp\来自古法语pompe,盛况，盛典，壮观的仪式，来自拉丁语pompa,游行，行列，来自希腊语pompe,庄严的仪式，行列，古希腊时期的重要节日，如祭祀酒神Dionysus,来自pempein,派遣，送出，行进。后词义贬义化为炫耀，展示，讲排场等。
 pomposity\来自pompous,浮化的，浮夸的。
 pompous\来自pomp,炫耀，捧场。比喻用法。
@@ -9163,6 +9279,7 @@ posture\来自拉丁语positura,姿势，位置，来自ponere,放置，词源�
 posturer\
 pot\来自古法语pot,壶，罐，容器，来自Proto-Germanic*puttaz,壶，罐，来自PIE*budn,容器，可能来自PIE*beu,鼓起，膨胀，词源同ball,pouch,pocket.另一种说法是来自拉丁语potus,饮水杯，词源同potion,部分词源学家对这一猜测持否定态度。
 potable\来自拉丁语potare,饮用，饮水，词源同potion.
+potash\来自pot,罐，ash,灰。即罐子里面存放的草木灰，为古代制作碱的方法。
 potassium\来自potash,钾碱，-um,化学元素。
 potation\
 potato\1560s,来自西班牙语patata,来自加勒比海地语batata,红薯，甜薯。后用于指秘鲁产的土豆，土豆早先的名字为bastard potato,因最初土豆不如红薯美味，但后随着土豆越来越重要，人们以potato命名土豆，而以sweet potato命名红薯。
@@ -9505,6 +9622,7 @@ protective\
 protein\proto-,原始的，最早的，-ine,化学名词后缀，氨。后拼写变为protein.
 protest\来自拉丁语protestari,公开声明，见证，证实，来自pro-,向前，testari,证实，见证，词源同attest,testament.因通常用于指证实不好的东西，后引申词义抗议，反对。
 protestation\来自protest,声明，断言。
+Proto-Germanic\
 protocol\proto-,原始的，最早的，-col,胶，词源同glue,collagen.即最早粘上去的，引申词义协议，草案，后引申词义官方文件，特别用于指政府外交部的官方文件，外交礼仪，后词义通俗化。
 proton\proto-,原始的，最早的，-on,物理名词后缀，来自electron.
 prototype\proto-,原始的，最早的，type,种类。
@@ -9517,9 +9635,11 @@ proud\来自古英语prud,卓越的，壮观的，傲慢的，高傲的，可能
 prove\来自拉丁语probare,检验，证明，测试，来自pro-,向前，-be,成为，是，词源同be.
 provenance\pro-,向前，-ven,到来，词源同venue,advent.引申词义起源，出处。
 provender\
+proverb\pro-,向前，-verb,说，词源同verbal.引申词义谚语，格言等。
 proverbial\来自proverb,谚语。比喻用法。
 provide\pro-,提前，-vid,看，词源同evident,visit.即提前看到的，有预见性的，引申词义准备，未雨绸缪，后用于指提供，供应，规定等。
 provided\来自provide,规定。即在某规定下的，引申词义如果，假如。
+providence\pro-,提前，-vid,看，词源同evident,visit.-ence,名词后缀。即提前看到的，未卜先知，引申词义上帝，神，苍天。
 provident\pro-,提前，-vid,看，词源同evident,visit.即提前看到的，有预见性的，引申词义准备，未雨绸缪。
 providential\来自providence,上帝，神，苍天。引申词义天赐的，及时的等。
 province\来自拉丁语provincia,行省，特指古罗马统治下意大利之外的领土，来自pro-,向前，-vinc,胜利，占领，词源同victor,victory.
@@ -9531,6 +9651,7 @@ provisory\
 provocation\来自provoke,挑衅，激怒，-ation,名词后缀。
 provocative\来自provoke,挑衅，激怒，-ative,形容词后缀。
 provoke\pro-,向前，-vok,说话，叫喊，词源同voice,invoke.引申词义挑衅，挑逗。
+prow\来自古法语proue,船首，来自拉丁语prora,船首，来自pro,向前，在前，来自PIE*per,向前，词源同forth.
 prowess\来自prow,勇敢的，-ess,名词后缀。引申词义非凡的技能，造诣。
 prowl\来自中古英语prollen,潜行，词源不详。来自PIE*per,向前，词源同forth.
 proximate\来自拉丁语proximus,最近的，来自prope的最高级，来自prope,近的，来自pro的扩大形式，词源同propinquity,approximate.-im,最高级后缀，词源同maximum,ultimate.
@@ -9559,6 +9680,7 @@ publication\来自拉丁语publicare,使公开化，使公众化，词源同publ
 publicity\来自public,公众的，公开的，-ity,名词后缀。
 publicize\来自public,公众的，公开的，-ize,使。
 publish\来自拉丁语publicare,使公开化，使公众化，-ish,动词后缀，词源同finish.引申词义出版，发行等。
+puck\可能来自爱尔兰语poc,捅，击球，词源同poke.后用于指冰球运动。
 pucker\来自pock,鼓起，口袋，词源同pocket.-er,表反复。后引申词义皱起，噘嘴等。
 puckish\来自puck,淘气小妖，-ish,形容词后缀。
 pudding\来自中古英语poding,香肠，来自Proto-Germanic*pud,膨胀，鼓起，来自PIE*bu,膨胀，词源同pout.
@@ -9625,6 +9747,7 @@ push\来自古法语poulser,推动，推进，来自拉丁语pulsare,击，打�
 pushover\
 pushy\比喻用法。
 pusillanimous\来自拉丁语pusillis,非常弱小的，瘦弱的，来自pullus的不规则小词形式，词源同pullet,foal.-anim,呼吸，勇气，词源同animal.引申词义胆怯的。
+puss\原为感叹词，呼唤猫咪的声音，后成为小猫本身。
 pussy\来自puss,猫咪，-y,表亲昵。后引申俚语词义女阴。
 put\来自中古英语puten,来自古英语*putian,推，安放，放置，词源不详。
 putative\来自拉丁语putare,计算，判断，思考，词源同compute,repute.
@@ -9677,6 +9800,7 @@ quest\来自拉丁语quaere, 疑问， 询问， 查问， 可能来自PIE*kwo, 
 question\来自quest,探索，疑问。引申词义问题。
 questionnaire\来自question,问题。-aire,名词后缀，即-ary.引申词义调查问卷。
 queue\来自古法语cue,尾巴，来自拉丁语coda,尾巴。词源同coda,coward.引申词义队伍，行列。
+quib\来自拉丁语quibus,怎样，如何，哪方面，何种程度，来自PIE*kwo,疑问代词词干，词源同 quality,quantity,who,how.引申词义吹毛求疵，盯着小问题不放，逃避问题实质。
 quibble\来自quib,逃避问题实质。-le,表反复。
 quibbler\
 quick\来自古英语cwic,活的，有生命的，来自PIE*gweie,存活，生命，词源同zoo,vival.引申词义 快速的，敏捷的。
@@ -9792,9 +9916,11 @@ rarefy\来自 rare,稀薄的，罕见的，-fy,使。引申词义使精深，使
 rarely\
 raring\
 rash\可能来自俗拉丁语*rasicare,刮，擦，来自拉丁语 radere,刮，擦，词源同 rat,eraser.
+rasp\来自古法语 rasper,刮，摩擦，可能为拟声词。
 raspy\来自 rasp,刺耳声。
 rat\来自中古英语 rat,老鼠，来自古英语 raet,老鼠，来自 Proto-Germanic*ratto,刮，咬，来自 PIE*red, 刮，咬，词源同 rodent,eraser.
 rate\来自拉丁语 rata,固定的，解决的，来自 reri 的过去分词，来自 reri,计算，思考，来自 PIE*rei, 计算，思考，词源同 read,reason.引申诸相关词义。
+rathe\
 rather\来自 rathe,早的，急切的，-er,比较级后缀。即更早的，更快的，引申副词词义相当，颇，相 较。
 ratification\
 ratify\来自 rate,评估，评价，-fy,使。即经过评估的。
@@ -9809,6 +9935,7 @@ raucous\来自拉丁语 raucus,沙哑声，来自 PIE*reu,发出沙哑的叫声�
 ravage\来自古法语 ravage,破坏，毁灭，来自 ravir,破坏，来自拉丁语 rapere,抓走，夺走，词源同 rape,ravish.
 rave\来自古法语 raver,来自 resver 拼写变体，来自 resver,做白日梦，发疯，游荡，词源同 reverie,rove. 最终词源不详。引申词义狂欢，热烈，热烈赞扬等。
 ravel\来自荷兰语 ravelen,解开，缠绕，来自 rafel,碎毛线，碎线。词义的矛盾性可能是来自碎毛线 一松开就缠绕在一起。常见于复合词 unravel,解开。
+raven\来自古英语 hraefn,渡鸦，大乌鸦，来自 PIE*ker,尖叫声，拟声词，词源同 crow,crane.
 ravenous\来自 raven,饥饿，狼吞虎咽。
 ravine\来自古法语 ravine,急流，洪水，来自拉丁语 rapina,抢劫，掠夺，来自 rapere,抓走，夺走，词 源同 rape,rapid.比喻用法。
 ravish\来自古法语 ravir,抓住，抓走，来自拉丁语 rapere,抓走，夺走，词源同 rape,rapt.-ish,动词后 缀。引申词义使销魂，使狂喜。
@@ -9916,6 +10043,7 @@ recourse\re-,向后，往回，-cour,跑，词源同 course,current.即跑回来
 recover\来自古法语 recovrer,回来，恢复，来自拉丁语 recuperare,恢复，重新获取，来自 re-,再，重 新，-cup,抓住，得到，词源同 capable,have,recuperate.该词与 re-cover 为不同词源。
 recovery\
 recreant\re-,再，重新，反复，-cre,心，词源同 heart,credo,miscreant.-ant,人。即反复改变信仰的人， 见风驶舵的人，引申词义懦夫，叛徒，后用于指胆小的，怯懦的。
+recreate\re-,再，重新，create,创造。
 recreation\来自 recreate,再创始。比喻用法。
 recriminate\来自拉丁语 recriminari,申诉，指责，来自 re-,向后，再次，criminari,谴责，指认有罪，词源 同 crime.引申词义反责，反控。
 recrudesce\来自拉丁语 recrudescere,伤口再次裂开，re-,再，重新，crude,原始的，粗糙的。比喻用法， 即回到原来的状态，引申词义复发。-esce,表起始。
@@ -10070,8 +10198,8 @@ remove\re-,向后，离开，move,移动，运动。引申词义移除，去除�
 remunerate\来自拉丁语 remunerari,支付，奖励，来自 re-,向后，往回，munerari,给予，来自 munus,相互， 礼物，职责，服务，词源同 mutual,municipal.即对别人的服务应支付的报酬。比较 emolument.
 remuneration\来自 remunerate,付酬，支付报酬。
 remunerative\来自 remunerate,付酬，支付报酬。
-renaissance\来自古法语 renaissance,重生，再生，来自拉丁语 renasci,重生，再生，来自 re-,再，重新，nasci, 生育，出生，来自 PIE*gene,生育，词源同 natal,nascent,gene.引申词义文艺复兴。
 Renaissance\来自古法语 renaissance,重生，再生，来自拉丁语 renasci,重生，再生，来自 re-,再，重新，nasci, 生育，出生，来自 PIE*gene,生育，词源同 natal,nascent,gene.引申词义文艺复兴。
+renaissance\来自古法语 renaissance,重生，再生，来自拉丁语 renasci,重生，再生，来自 re-,再，重新，nasci, 生育，出生，来自 PIE*gene,生育，词源同 natal,nascent,gene.引申词义文艺复兴。
 rend\来自古英语 hrendan,撕开，撕裂，来自 West Germanic*randijan,撕开，词源同 rand,rind.
 render\来自古法语 rendre,给回，呈现，出产，来自俗拉丁语*rendere,给予，给回，异化自 reddere, 返回，给予，来自 red-,向后，往回，dare,给予，来自 PIE*do,给予，词源同 donate,edit.引申 诸相关词义。
 rendering\来自 render,提供，表达，表演。
@@ -10110,6 +10238,7 @@ replacement\
 replenish\re-,再，重新，-plen,满的，词源同 fill,plenary.
 replete\re-,再，重新，-plet,满的，词源同 fill,complete.
 replica\来自拉丁语 replica,复制，重复，来自 replicare,复制，词源同 replicate.
+replicare\
 replicate\来自 replicare,重复，复制，来自 re-,再次，-plic,弯，转，词源同 ply,complicate.
 reply\来自 replicare,回复，答复，来自 re-,向后，往回，-plic,弯，转，词源同 ply,complicate.
 report\re-,向后，往回，-port,携带，承载，词源同 comport,portable.即带回去，引申诸相关词义。
@@ -10294,6 +10423,7 @@ reward\re-,表强调，-ward,看，注视，词源同 award,guard,regard.字面�
 rewarding\来自 reward,奖励，报酬。
 rhapsodize\来自 rhapsody,狂想曲，狂热表达，-ize,使。比喻用法。
 rhapsody\
+rhetor\
 rhetoric\
 rhetorical\来自 rhetor,演说家，修辞学者。比喻用法。
 rhinestone\Rhine,莱茵，stone,石，石头。因发现于莱茵河畔而得名。
@@ -10307,6 +10437,7 @@ ribald\来自古法语 ribalt,无赖，浪荡子，可能来自 riber,淫荡的�
 ribbon\来自古法语 riban,丝带，来自 ruban 拼写变体，来自荷兰语 ringhband,项链，领结，可能来自 ring,环形，band,带子。引申诸相关词义。
 rice\来自古法语 ris,来自意大利语 riso,来自拉丁语 oriza,来自希腊语 oryza,最终来自梵语 vrihi-s, 米饭，大米，词源同 risotto.
 rich\来自中古英语 riche,有权的，有钱的，来自古英语 rice,有权的，来自 PIE*reg,统治，管理， 词源同 regal,regulate.引申诸相关比喻义。词义的演变体现了权钱的关系。
+rickets\词源不详，原为英语方言，可能来自古英语 wrickken,扭曲，来自 PIE*wer,弯，转，词源同 wring,wrangle.
 rickety\来自 rickets,佝偻病，-y,形容词后缀。比喻用法。
 rid\来自古诺斯语 rhthja,清理土地，清理垃圾，来自 Proto-Germanic*reudijan,清理土地，来自 PIE*reudh,清理土地。后词义通用化，用以指摆脱，清除。
 riddle\词源同 read,读，理解，猜测，-le,小词后缀。引申词义谜，谜语。
@@ -10315,7 +10446,9 @@ rider\
 ridge\来 自 古 英 语 hrycg, 人 的 背 部 ， 驮 畜 的 背 部 ， 来 自 Proto-Germanic*hrugjaz, 背 ， 来 自 PIE*skreuk,*sker,弯，转，词源同 ring,curve.后引申词义山脊，山脉。
 ridicule\
 ridiculous\来自 riducule,嘲笑，嘲弄。
+riducule\
 rife\来自古英语 rife,大量的，普通的，盛行的，来自 Proto-Germanic*rif,可能来自 PIE*rei,撕，扯， 砍，词源同 river,rift.通常用于形容坏事的盛行。
+riff-raff\
 rifle\来自古法语 rifler,掠夺，抢劫，刮，来自 Proto-Germanic*rifana,刮，抢，来自 PIE*rei,撕，砍， 抓，词源同 rive,rift.引申词义挖槽，词义来复枪缩写自 rifled pistol,槽孔火枪。-le,表反复。
 rift\来自北欧某语言，比较挪威语 rift,裂缝，来自 Proto-Germanic*rifana,刮，抢，来自 PIE*rei, 撕，砍，抓，词源同 rive,rifle.引申词义分裂，分歧。
 rig\可能来自北欧某语言，最终来自 PIE*reig,绑定，来自 PIE*reg,拉直，管理，词源同 rack,regulate. 引申词义帆，索具，后引申动词义操纵，控制等。
@@ -10373,6 +10506,7 @@ role\来自法语 role,角色，写有演员台词的纸卷，来自古法语 ro
 roll\来自古法语 rolle,纸卷，文件，来自拉丁语 rotulus,纸卷，来自 rota,轮子，词源同 rotary,round. 引申诸相关词义。
 roller\来自 roll,卷，滚动。
 rollicking\来自 roll 和 frolic 的合成词，-ing,动名词后缀。
+Romance\来自 Romance,罗曼语。用以指兴起于中世纪的用罗曼语写作的骑士冒险故事小说，常常含 有大量的英雄救美的情节，后由该词引申词义浪漫，风流韵事，且成为主要词义。
 romance\来自 Romance,罗曼语。用以指兴起于中世纪的用罗曼语写作的骑士冒险故事小说，常常含 有大量的英雄救美的情节，后由该词引申词义浪漫，风流韵事，且成为主要词义。
 romantic\来自 romance,浪漫，-itic,形容词后缀。
 romanticize\
@@ -10506,6 +10640,7 @@ sampler\
 sanatorium\
 sanctify\sanct-,神圣的，-fy,使。即使神圣，原指对有德行的人和虔诚的人宣圣，封为圣徒，引申词义 批准，认可。
 sanctimonious\来自 sanctimony,伪善，虚伪，-ous,形容词后缀。
+sanctimony\sanct-,神圣的，-mony,名词后缀。词义贬义化。
 sanction\sanct-,神圣的，-ion,名词后缀。即神圣的存在，封神，祝圣，引申正面词义批准，反面词义 处罚。
 sanctuary\sanct-,神圣的，-ary,表地方。即圣所，圣殿，引申诸相关词义。
 sand\来自古英语 sand,沙，来自 Proto-Germanic*samdaz,沙，来自 PIE*sem,倾泻，涌出。引申动词 词义磨砂，用砂纸打磨。
@@ -10582,6 +10717,7 @@ scarcity\scarce,缺少的，小足的，-ity,名词后缀。
 scare\
 scarf\词源不详，可能最终来自 PIE*sker,弯，转，编织，词源同 ring,crown,shrimp.引申词义围巾， 头巾。
 scarification\
+scathe\来自古诺斯语 skatha,伤害，来自 Proto-Germanic*skath,伤害，来自 PIE*sket,伤害，可能进一 步来自 PIE*sek,砍，切，词源同 segment,sharp.常见于复合词 unscathed,未受伤害的。
 scathing\来自 scathe,伤害，损伤，-ing,形容词后缀。引申词义严厉批评的。
 scatter\来自中古英语 scateren,分散，散开，可能最终来自 PIE*sek,砍，切，削，词源同 segment,dissect.
 scavenge\回构自 scavenger,搭荒者，捡破烂者。
@@ -10604,6 +10740,7 @@ school\来自拉丁语 schola,授课，讲堂，学校，字面意思即空闲�
 science\来自古法语 science,知识，学习，习得，来自拉丁语 scientia,知识，学识，专长，来自 scire, 知道，了解，字面意思即区分，鉴别，来自 PIE*skei,砍，切，劈，分开，词源同 shed,shin,scythe. 词义演变比较 intelligence,智能，智商，原义为选择和区分的能力。后词义专门化为科学。
 scientific\来自 science,科学，-ent,形容词后缀，-fic,做，产生，得到，词源同 fact,efficient.
 scientist\来自 science,科学，-ent,形容词后缀，-ist,人。
+scintilla\来自拉丁语 scintilla,火花，火星，-illa,小词后缀，来自 PIE*skai,闪耀，闪烁，照耀，词源同 shine,sheen,shimmer.引申词义微量，一点点等。
 scintillate\来自 scintilla,火花，火星，-ate,使。引申词义才智，智慧等。
 scintillating\
 scion\来自古法语 sion,cion,幼枝，接穗，可能来自古法语 scier,剪，切，来自拉丁语 secare,剪，切， 词源同 segment,scythe.引申词义后人，子孙，尤指名门望族的子弟。
@@ -10640,6 +10777,7 @@ screen\来自中古英语 scren,挡风屏，炉挡，火炉栏，来自 Proto-Ge
 screw\来自中古英语 screw,螺旋，螺丝，可能来自 PIE*sker,弯，转，词源同 ring,curve,shrimp.引申 动词词义旋，拧等。
 screwdriver\
 scribble\来自 scribe,写，-le,表反复。引申词义乱写，乱画。
+scribe\来自拉丁语 scribere,写，来自 PIE*skribh,刻，划，扩大形式自 PIE*sker,砍，切，削，词源同 score,shear,scrabble.引申词义抄书匠，抄书吏。
 scrimp\来自 scrimp,缩写的，不足的，来自 Proto-Germanic*skrimp,收缩，缩小，来自 PIE*sker,弯， 转，词源同 shrink,shrimp.引申动词词义节省，缩紧等。
 script\来自 scribe,写，-pt,过去分词格。词性由形容词作名词使用，引申诸相关词义。
 scripture\script-,写，-ure,名词后缀。引申词义经文，经典。
@@ -10660,6 +10798,7 @@ sculpt\来自拉丁语 sculpere,雕刻，雕塑，来自 PIE*skel,砍，切，�
 sculptor\sculpt-,雕刻，雕塑，-or,人。
 sculpture\sculpt-,雕刻，雕塑，-ure,名词后缀。引申词义雕像，雕塑品。
 scum\来自中古英语 scum,泡沫，浮渣，来自 Proto-Germanic*skumaz,覆盖，隐藏，来自 PIE*skeu, 覆盖，隐藏，词源同 hide,skim.引申比喻义渣滓，败类等。
+scurrile\
 scurrilous\来自 scurrile,粗俗的笑话，黄段子，来自拉丁语 scurrilis,小丑一样的，来自 scurra,二流子， 流氓，小丑。引申词义诽谤的，恶语中伤的。
 scurry\来自 hurry 的韵律重复构词。
 scurvy\来自 scurfy 的拼写变体形式，用于指坏血病。
@@ -10792,6 +10931,7 @@ sequential\
 sequester\来自古法语 sequestrer,使分开，使隔离，来自拉丁语 sequestrare,使妥善保管，使安全，来自 sequester,中间的，调解的，引申词义中间人，调解人，受托人，可能来自 sequi,追随，跟随， 词源同 sequence,second.词义演变比较 seconder,支持者，后援者。后引申词义扣押，没收， 强制管理。
 sequestrate\来自 sequester,使分开，使隔离，-ate,动词后缀。
 sequoia\一种美洲大型红杉，命名来自 Sequoya,北美印第安民族 Cherokee 的一位语言学者，为该民 族发明了文字，后以其命名以表达对他的尊敬。-ia,表类属，如 gardenia,栀子花。
+seraph\基督教中级别最高的天使，来自希伯来语 seraphim,炽天使，复数形式于*saraph,来自 saraph, 燃烧，火焰。
 seraphic\来自 seraph,天使，-ic,形容词后缀。
 sere\
 serendipitous\
@@ -10803,6 +10943,7 @@ serial\来自 series,连续，系列，-al,形容词后缀。
 series\来自拉丁语 series,顺序，次序，连续，来自 serere,连接，来自 PIE*ser,连接，词源同 social,sort.
 serious\来自拉丁语 serius,严重的，严肃的，认真的，来自 PIE*swer,重的。
 sermon\来自拉丁语 sermonem,说话，谈话，讨论，演说，字面意思即把字词组合在一起，来自 PIE*ser, 连接，排列，词源同 serial,series,sort.-mon,名词后缀。现词义缩写自 sermo religiosus,说道， 布教，字面意思即 religious sermon,宗教演说，宗教讲演。
+serpent\来自古法语 serpent,蛇，来自拉丁语 serpens,蛇，爬行生物，来自 serpere,爬行，来自 PIE*serp, 爬行，词源同 herpetology,herpes.
 serpentine\来自 serpent,蛇，-ine,形容词后缀。引申词义蛇一样的，蜿蜒的。
 serrate\来自拉丁语 serra,锯子，可能来自*sec-ra,来自 secare,切，砍，词源同 secateurs,segment.
 serrated\
@@ -10845,6 +10986,7 @@ shale\来自古英语 scealu,壳，鳞片，来自 Proto-Germanic*skalo,切片�
 shall\来自古英语 sceal,有责任，有义务，应当，来自 Proto-Germanic*skal,欠，应当，来自 PIE*skel, 欠，应当，词源同 should.
 shallow\来自古英语 sceald,浅的，来自 Proto-Germanic*skalaz,晒干的，浅的，来自 PIE*skel,使变干， 可能来自 PIE*skai,照耀，照射，词源同 shine,sheen.引申比喻义浅薄的。
 sham\可能来自 Proto-Germanic*skamo,遮盖，隐藏，来自 PIE*skem,遮盖，隐藏，词源同 hide,shame. 引申词义假象，伪装等。
+shamble\来自 shamble,凳子，桌子，肉摊，来自古英语 scamol,脚凳，来自拉丁语 scamnum,凳子，来 自 PIE*skabh,支撑，可能来自 PIE*skap,切，削，词源同 shaft,杆，轴。用于指一种四条腿向 外张开的长凳，古代用于卖肉。引申比喻义外翻着腿走路，拖着脚走，蹒跚，即像这种凳子 一样。
 shambles\来自 shamble,肉摊，-s,复数后缀。引申词义屠宰场，比喻义混乱，肮脏之地。其原义见英国 相关街道名，如约克郡古街 The Shambles,曼彻斯特 Shambles Square,原先都是肉市场。
 shame\来自古英语 scamu,羞耻，羞愧，来自 Proto-Germanic*skamo,覆盖，隐藏，来自 PIE*skem,*kem, 覆盖，隐藏，可能来自*skeu,覆盖，隐藏，词源同 hide,shoe.引申诸相关词义。
 shammer\
@@ -11258,6 +11400,7 @@ soothsayer\sooth,真实，事实，-say,说，-er,人。即说出事实真相的
 sop\来 自 中 古 英 语 sop, 小 礼 物 ， 小 贿 赂 ， 来 自 古 英 语 sopa, 用 汤 汁 浸 泡 的 面 包 片 ， 来 自 Proto-Germanic*supo,汤，浓汤，来自 PIE*seue,液体，汁液，词源 soup,sup.引申词义用于安 抚的小恩小惠，小礼物，来自或受影响自古希腊神话中的女神谕 Sibyl 用汤汁浸的面包片讨
 sophism\来自希腊语 sophos,有知识的，有智慧的，-ism,主义，思想，行为。字面意思即有智慧的思 想和行为，后词义贬义化为谬论，诡辩。
 sophist\来自希腊语 sophos,有知识的，有智慧的，来自 PIE*sap,尝试，品尝，鉴别，词源同 sapient, 有智慧的。-ist,人。字面意思即有智慧的人，智者，哲人，后词义多用于贬义化指诡辩家， 诡辩者。
+sophisticate\
 sophisticated\来自 sophisticate,诡辩，强词夺理，-ed,形容词后缀。字面意思即诡辩的，强词夺理的，后词 义由贬义转褒义，用于形容人老练的，见过世面的，或机器复杂的，先进的，精密的等。
 sophistication\sophisticated,复杂的，精密的，-ion,名词后缀。
 sophistry\sophist,诡辩，-ry,学术，学问。
@@ -11307,6 +11450,7 @@ sparkle\spark,火花，火星，-le,表反复。
 sparkling\sparkle,闪烁火花，-ing,形容词后缀。
 sparring\
 sparse\来自拉丁语 sparse,散开的，播洒的，来自 spargere,散开，播种，来自 PIE*sperg,播，洒，溅， 来自 PIE*sper,播，洒，词源同 sprinkle,spread,intersperse.引申词义稀少的，稀疏的等。
+Sparta\古希腊城邦，Laconia 王国首府，人民以崇尚简朴，勇猛好战，说话简洁，国家实行军事化 管理著称。名字可能来自希腊语 sparte,绳子，草绳，来自 PIE*sper,编织，词源同 spiral.据说 斯巴达人投草为界，并以此为城。实际上，斯巴达也是既没有城墙，也没有像样的街道。参 照百度百科及电影《斯巴达 300 勇士》。
 spartan\来自 Sparta,斯巴达。因斯巴达人以崇尚简朴著称而引申该词义。
 spasmodic\spasm,痉挛，阵发性发作，-odic,形容词后缀，比较 sporadic.
 spat\
@@ -11400,6 +11544,7 @@ spontaneous\来自拉丁语 spontaneus,自由意志的，自发的，来自短�
 spoof\由英国 20 世纪喜剧家 Arthur Roberts 杜撰，原为一种酒吧赌胆量猜硬币游戏。可能来自拟声 构词，模仿虚张声势的声音。比较 bluff,吓唬，愚弄，虚张声势。后用于指讽刺剧或滑稽模 仿剧。
 spoon\来自中古英语 spone,勺，匙，木片，来自古英语 spon,木片，削片，来自 Proto-Germanic*spenuz, 木片，削片，来自 PIE*spe,长木条，词源同 spade.
 sporadic\来自 spore,孢子，-adic,形容词后缀。即孢子状的，引申词义间发性的，断断续续的等。
+spore\来自希腊语 spora,种子，播种，来自 speirein,播种，来自 PIE*sper,播洒，播种，词源同
 sport\缩写自 disport,嬉戏，消遣，玩乐，来自 dis-,离开，-port,承担，担负，词源同 comport,porter. 后词义限定为体育运动。引申比喻义穿戴，炫耀，即抖擞精神。
 sportsman\sports,体育运动，man,人。
 spot\来自中古英语 splot,来自古英语 splott,斑点，污迹，来自 Proto-Germanic*spluttaz,小块，分开， 来自 PIE*spel,分开，劈开，词源同 spill,split.引申诸相关词义。
@@ -11417,6 +11562,7 @@ sprinkle\来自 PIE*spreg,播，洒，溅，词源同 spark,spread,sperm.-le,表
 sprinkling\sprinkle,撒，洒，喷，-ing,动名词后缀。引申词义喷洒物，少量等。
 sprint\词源可能同 spring,弹，跳，蹦。引申词义短跑，冲刺。
 sprout\来自古英语-sprutan,发芽，出现，来自 Proto-Germanic*sprut,发芽，来自 PIE*spreud,发芽， 来自 PIE*sper,喷，洒，播种，词源同 spark,sprinkle.引申诸相关词义。
+Spruce\来自 Spruce,拼写变体自 Pruce,普鲁士，欧洲历史地名，德意志境内最强大的邦国，后统一了 德意志。该树因从普鲁士进口到英国而得名，是制作家具的优质木材，也是奢华的代名词。 因此，引申词义装饰，打扮。
 spruce\来自 Spruce,拼写变体自 Pruce,普鲁士，欧洲历史地名，德意志境内最强大的邦国，后统一了 德意志。该树因从普鲁士进口到英国而得名，是制作家具的优质木材，也是奢华的代名词。 因此，引申词义装饰，打扮。
 spry\
 spun\
@@ -11524,6 +11670,7 @@ stellar\来自拉丁语 stella,星星，来自 Proto-Italic*sterola,星星，来
 stem\来自古英语 stemn,植物茎，树干，来自 Proto-Germanic*stamniz,站立，来自 PIE*sta,站立，词 源同 stand,state.引申诸相关词义。
 stench\来自古英语 stenc,气味，臭味，香味，来自 Proto-Germanic*stankwiz,气味，来自 PIE*steug, 扩大形式于 PIE*steu,推，击，释放，词源同 steep,type.后词义仅限于指臭味。
 stencil\来自中古英语 stencellen,装饰以明亮图案，来自中古法语 estencele,闪光片，火星，火花，来 自通俗拉丁语*stincilla,置换自 scintilla,火星，火花，词源同 scintilla,scintillate.引申诸相关词 义。
+Stentor\
 stentorian\来自 Stentor,传说中特洛伊战争中的传令官，其声音比得上 50 个人一起大吼，来自希腊语 stenein,吼叫，大吼，来自 PIE*sten,吼叫声，雷声，词源同 thunder,astonish.引申词义洪亮的， 大声的。
 step\来自古英语 steppan,踏步，走，前进，来自 Proto-Germanic*stapjana,踏步走，来自*stapiz,脚 步，来自 PIE*stebh,支撑，踩踏，词源同 stamp,stump.引申诸相关词义。
 stereo\缩写自 stereophonic,立体声的。
@@ -11662,9 +11809,10 @@ stupendous\来自拉丁语 stupere,震惊，困惑，词源同 stupid.-end,现�
 stupid\来自拉丁语 stupere,震惊，困惑，迷惑，发晕，来自 PIE*stupe,击，打，扩展自 steu,击，打， 词源同 steep,stoop,type.引申词义愚蠢的，糊涂的。
 stupor\来自拉丁语 stupor,恍惚，麻木，神志不清，来自 stupere,震惊，困惑，词源同 stupid.
 sturdy\词源不详，可能最终来自 PIE*sta,站立，词源同 stand,store.引申词义结实的，坚固的。
+stutt\
 stutter\来自 stutt,口吃，来自中古英语 stutten,口吃，来自 Proto-Germanic*staut,推，击，打，来自 PIE*steu,推，击，打，词源同 stub,study,stupid.-er,表反复。
-stygian\来自拉丁语 Stygius,来自希腊语 Stygios,来自 Styx,古希腊神话中的冥河。引申词义阴森的， 可怖的。
 Stygian\来自拉丁语 Stygius,来自希腊语 Stygios,来自 Styx,古希腊神话中的冥河。引申词义阴森的， 可怖的。
+stygian\来自拉丁语 Stygius,来自希腊语 Stygios,来自 Styx,古希腊神话中的冥河。引申词义阴森的， 可怖的。
 style\来自中古英语 stile,笔，书写工具，写作风格，举止，行为，来自古法语 estile,风格，举止， 桩，刺，插入，来自拉丁语 stilus,桩，笔，书写工具，写作风格，来自 PIE*steig,刺，插，词 源同 stick,sting.拼写比较 rule,regulate.引申词义头发的造型，设计，样式等。
 stylish\style,风格，举止，时尚，-ish,形容词后缀。
 stylistic\stylist,风格师，文体家，-ic,形容词后缀。
@@ -11780,11 +11928,13 @@ sunlit\
 sunrise\sun,太阳，rise,升起。
 sunset\sun,太阳，set,坐下，落山。
 sunshine\sun,太阳，shine,照耀。
+sup\来自古英语 supan,喝，吸，品尝，来自 Proto-Germanic*supanan,喝，吸，来自 PIE*sub,来自 PIE*seue,汁液，液体，词源同 sip,sop,soup.常用于形容小口喝，吸，啜，抿等。
 super\来自拉丁语 super,在上面，上方。引申诸相关词义。
 superabound\
 superannuated\super-,超过，-ann,年，词源同 annual.比喻用法，超过年龄的。
 superb\来自拉丁语 superbus,卓越的，壮观的，等同于 super,在上，超过，be,存在，成为。
 supercilious\来自 supercilium,眉毛，-ous,形容词后缀。比喻用法，形容人眉毛高扬，目空一切。
+supercilium\来自拉丁语 supercilium,眉毛，来自 super,在上，上面，cilium,眼睑，来自 celare,遮盖，隐藏， 来自 PIE*kel,遮盖，隐藏，词源同 cell,hole.
 superficial\super-,在上，上方，-fic,脸，表面，词源同 face.即面上的，表面的。
 superficiality\
 superfluity\
@@ -11859,6 +12009,7 @@ sustained\
 sustenance\sustain,维持，保持，-ance,名词后缀。引申词义食物，营养。
 suture\来自拉丁语 sutura,缝纫品，缝补品，来自 suere,缝纫，缝补，来自 PIE*syu,绑，缝补，词源 同 sew,couture.
 svelte\来自法语 svelte,苗条的，来自意大利语 svellere,拔出，来自通俗拉丁语*exvellere,拔出，来自 ex-,向外，vellere,拔，拉，来自 PIE*wel,拉，撕，词源同 wool,vulture.
+swag\来自辅音丛 sw-,弯，转，摇摆，摇晃，比较 swing,sway,sweep,swipe.引申动词词义摇摆地走， 名词词义包裹，行囊，俚语词义脏物，被盗物品等。
 swagger\来自 swag,摇摆地走，-er,表反复。引申词义昴首阔步，夸耀，炫耀。
 swallow\来自古英语 swealwe,燕子，来自 Proto-Germanic*swalwo,燕子。
 swamp\混 合 词 ， 来 自 中 古 英 语 swam, 沼 泽 ， 和 中 古 英 语 sompe, 沼 泽 ， 最 终 都 来 自 Proto-Germanic*sumpaz,沼泽，泥沼，词源同 sump.引申比喻义陷入沼泽，淹没，疲于应付等。
@@ -11942,6 +12093,7 @@ tactful\来自 tact,老练，得体。
 tactic\来自拉丁语 tactica,安排，词源同 tact.引申词义战术，策略。
 tactile\来自拉丁语 tactus,触摸，感觉，感知，来自 tangere,触摸，碰，词源同 tangent,contact.
 tactless\来自 tact,老练，得体，-less,无，没有。
+tadde\
 tadpole\来自 tadde,蟾蜍，词源同 toad,pol,头，词源同 poll.引申词义蝌蚪。
 tag\词源不详，可能来自 PIE*tag,接触，固定，安排，词源同 tangent,taxonomy.引申诸相关词义。
 tail\来自古英语 taegl,尾巴，来自 Proto-Germanic*tagla,尾巴，尾毛，来自 PIE*dok,尾巴上的毛， 来自 PIE*dek,撕，扯，分开。
@@ -11957,6 +12109,7 @@ talkthon\
 tall\来自中古英语 tall,漂亮的，英俊的，谦和的，来自 Proto-Germanic*talaz,温和的，温顺的， 来自 PIE*del,瞄准，计算，思考，词源同 tale,talk.后引申词义长得高的。词义演变比较 hand,handsome.
 tally\来自古法语 taille,木头上的刻痕，来自拉丁语 talea,砍，切，小枝，词源同 tailor,retail.引申词 义记录，积分表等，词义一致来自古代的一种借贷方法，把一块记录有欠债的小木条从中劈 成两半，债务人和债权人各持一半，以做为还款凭证。比较 indenture,契约，合同。
 talon\来自古法语 talon,人或动物的后脚跟，来自拉丁语 talus,跟踝。后用于指鸟或禽的爪子。
+tambour\
 tambourine\来自 tambour,鼓，-ine,小词后缀。
 tame\来自古英语 tam,驯服的，畜养的，来自 Proto-Germanic*tamaz,驯服，畜养，来自 PIE*deme, 驯服，畜养，来自 PIE*dem,家，家园，词源同 domicile,domesticate,adamant.
 tamp\回构自 tampion,塞子，炮栓，引申词义捣实，压紧，鼓捣。
@@ -12001,6 +12154,7 @@ tax\来自拉丁语 taxare,评估，估计，征税，反复格于 tangere,接�
 taxi\缩写自 taximeter cab,计程马车，计程车，来自 taximeter,计程表，计价器。
 taxing\来自 tax,征税，课税。比喻用法。
 taxonomist\来自 taxonomy,分类学，-ist,人。
+taxonomy\来自希腊语 taxis,安排，排列，分类，-nomy,学说。
 tea\来自马来语 teh,据说是来自厦门闽南语 t'e,原先拼做 chaa,最终来自汉语茶。
 teach\来自古英语 taecan,指出，展示，教导，来自 Proto-Germanic*taikijan,展示，指出，来自 PIE*deik, 展示，指出，词源同 dictionary,token.现主要用于教育相关词义。
 teacher\来自 teach,教育，-er,人。.
@@ -12081,6 +12235,7 @@ tepid\来自拉丁语 tepere,使微热，温热，来自 PIE*tep,加热。
 tergiversate\来自拉丁语 tergiversari,背向，逃避，来自 tergum,背，来自 PIE*dhregh,跑，词源同 truck,-vers, 转，词源同 versus.引申词义支吾，逃避，回避事实等。
 term\来自 term-,边界，终端，引申词义术语，措辞，期限等。比较 define,finish.
 termagant\来自 Termagant,异化自古法语 Tervagant,来自意大利语 Trivagante,词源不确定，常解释为 tri-, 三，-vag,漫游，流浪，词源同 vagrant.代表新月的三个阶段，用于指伊斯兰教的新月标志， 参照 Red Crescent.该词为中世纪欧洲在神秘剧表演中，欧洲人强加给穆斯林教徒的神，认为 Tergamant 是穆斯林教徒所崇拜的除穆罕默德之外的神，通常为暴力的，专横的，好争吵的 形象，最后固定为暴躁的女神。引申词义泼妇，悍妇。
+Termagant\来自 Termagant,异化自古法语 Tervagant,来自意大利语 Trivagante,词源不确定，常解释为 tri-, 三，-vag,漫游，流浪，词源同 vagrant.代表新月的三个阶段，用于指伊斯兰教的新月标志， 参照 Red Crescent.该词为中世纪欧洲在神秘剧表演中，欧洲人强加给穆斯林教徒的神，认为 Tergamant 是穆斯林教徒所崇拜的除穆罕默德之外的神，通常为暴力的，专横的，好争吵的 形象，最后固定为暴躁的女神。引申词义泼妇，悍妇。
 terminal\termin-,边界，终端，-al,形容词后缀。即终端的，后形容词作名词使用。
 terminate\termin-,边界，终端，-ate,使。引申词义结束，终止，杀死。
 termination\
@@ -12427,6 +12582,7 @@ tribal\tribe,部落，-al,形容词后缀。
 tribe\来自拉丁语 tribus,部落，宗族，地区，特指古罗马城邦三个宗族集团，即现在为人们熟知的 Latins,Sabines,Etruscans.可能来自 tri-,三，-be,存在，词源同 be,phylum.或来自 PIE*treb,居住， 聚居，词源同 thorp,troop.
 tribulation\来自拉丁语 tribulare,压制，镇压，折磨，来自 terere,转，刮，摩擦，词源同 turn,throw.-bul, 工具格后缀，词源同 table,tintinnabulation.引申词义忧患，痛苦磨难等。
 tribunal\来自 tribune,审判台，-al,名词后缀。引申词义特别法庭，裁判所等。
+tribune\来自拉丁语 tribunus,部落首领，后用于指治安官，地方法官或其它官员称呼，在古罗马时期 特指保护普通民众利益的保民官，来自 tribus,部落，词源同 tribe.
 tributary\来自拉丁语 tribuere,支付，分配，给予，部落间的财富分配或其它，来自 tribus,部落，词源 同 tribe,contribution.引申词义河流的支流。
 tribute\来自拉丁语 tribuere,支付，分配，给予，部落间的财富分配或其它，来自 tribus,部落，词源 同 tribe.引申词义贡品，贡金等。
 trick\来自古法语 trichier,欺骗，诡计，来自拉丁语 tricari,逃避，回避，来自 tricae,琐碎，胡扯，混 乱，可能来自 PIE*ter,转，卷入，词源同 turn,intricate,extricate.引申词义花招，把戏等。
@@ -12517,6 +12673,7 @@ tusk\来自古英语 tusc,犬牙，磨牙，来自 Proto-Germanic*tunthskaz,牙�
 tussle\来自 tousle 拼写变体，来自 tease,拔羊毛，-le,表反复。引申词义扭打，争斗。
 tutor\来自拉丁语 tutor,保护者，看护者，过去分词形式施动格于 tueri,保护，看护，来自 PIE*ste,*sta, 站立，词源同 stand,institute.引申词义教师，导师等。
 tuxedo\来自 Tuxedo Park,19 世纪末纽约的社会上层人士和富人聚会的某乡村俱乐部，由于是私人聚 会，穿着既不能太正式，又不能太马虎，于是就发明了这种半正式的晚礼服。该名字词源不 详，可能是来自当地早期的印第安人土著语，词义可能为狼或熊。
+Tuxedo Park\
 tweak\来自古英语 twiccian,拔，拉，来自 Proto-Germanic*twikkijana,钉，掐，系牢，系紧，词源同 twitch.引申诸相关词义。
 twelve\来自古英语 twelf,十二，字面意思即剩下两个，来自 Proto-Germanic*twa-lif,十二，来自 PIE*dwo,二，词源同 two,PIE*leip,停留，留下，词源同 leave.比较 eleven.
 twenty\来自 two,二，-ty,十，词源同 ten.
@@ -12525,6 +12682,7 @@ twig\来自古英语 twig,细枝，小枝，来自 Proto-Germanic*twigga,叉子�
 twin\词源同 two,二。引申词义成双的，成对的等，后用于指双胞胎。
 twine\来自 twin 的对词，引申词义双股线，合股线，线，绳等。
 twinge\来自古英语 twengan,掐，拧，来自 Proto-Germanic*twangjan,掐，拧，来自 PIE*twengh,拧， 挤压，可能来自 PIE*dwo,二，词源同 thong,two,twine.
+twink\来自古英语 twincan,眨眼，闪烁，可以来自拟声词，比较 wink.
 twinkle\来自 twink,闪烁，闪耀，-le,表反复。
 twinkling\
 twist\可能来自 two,二，-st,表反复。引申词义缠绕在一起，旋转，转动等。
@@ -12581,6 +12739,7 @@ unconsolidated\
 uncouth\un-, 不，非，couth, 有礼貌的，词源同can, could.
 uncover\
 unctuous\来自unctus,傅油，词源同unguent, -ct, 过去分词后缀。引申词义油滑的。
+unctus\
 undaunted\
 undemanding\
 under\来自PIE*ndher,在下面，来自PIE*ni的扩大格，词源同nether, beneath.其中*dher为PIE*ther,*ter的变体形式，印欧语比较级后缀，词源同farther, other, interior, ulterior.
@@ -12834,6 +12993,7 @@ valuable\来自value,价值。
 value\来自PIE*wal,强健的，勇敢的，引申词义有价值的，词源同valor,valiant,wield.
 valve\来自PIE*wel,转，旋转，词源同voluble,involve,用来指阀门。
 van\缩写自caravan,拖车，大篷车，用来指小货车。
+vandal\来自拉丁语Vandalus,日耳曼部落名，于公元455年将罗马洗劫一空，因而引申该词义。
 vandalism\来自vandal,破坏公物者。
 vandalize\
 vanguard\来自法语avant-garde,先锋，先头部队，avant,前面，为advance原型，garde,护卫，词源同guard.
@@ -12880,6 +13040,7 @@ velocity\来自拉丁语volo,飞，词源同volatile,volley,引申义极快的�
 velvet\来自拉丁语villus,毛发，绒毛，来自PIE*wel,撕，拔，词源同wool,vulture,用于指天鹅绒。
 velvety\来自velvet,天鹅绒，丝绒。
 venal\来自拉丁语venum,出售，词源同vendor，引申词义见利忘义，卖友求荣等。
+vend\缩写自拉丁语venumdare,出售，售卖，来自venum,出售，dare,给予，词源同donate.
 vendetta\来自意大利语vendetta,仇怨，血仇，来自拉丁语vindicta,报仇，复仇，字母c脱落，词源同vindictive,vengeful.
 vendor\来自vend,出售。
 veneer\来自法语fornir,提供，装饰，词源同furnish,引申词义薄片镶饰。
@@ -12922,6 +13083,7 @@ verse\来自拉丁语versus,转，翻转，词源versus,toward。引申词义诗
 versed\来自拉丁语versus,转，翻转，词源versus,toward。引申词义反复的，精通的。
 version\来自拉丁语versus,转，翻转，词源versus,toward。引申词义版本。
 versus\来自拉丁语versus,转，来自PIE*wer,转，弯，词源converse,toward。引申词义转向对方的，相对，相比。
+vertebra\来自拉丁语vertebra,关节，脊椎，来自PIE*wer,转，弯，词源convert,toward,-bra,工具格后缀，词源同vestibule.引申词义连接关节的脊椎。
 vertebrate\来自vertebra,脊椎。
 vertex\来自拉丁语vertex,顶点，最高点，来自vert-,转，词源同convert,versus,-ax,最高级后缀，词源同apex,next, approximate.
 vertical\来自vertex,顶点，引申义垂直的。
@@ -12960,18 +13122,21 @@ vicissitudes\
 vicissitudinous\
 victim\来自拉丁语victima,祭品，献祭的人或动物，来自PIE*weik,选择，选出祭品，牺牲，词源同Wicca,witch。由祭品引申词义受害者。
 victimize\来自victim,受害者。
+victor\来自拉丁语vincere,战胜，击败，克服，来自PIE*weik,战斗，词源同convince,convict,vanquish.可能进一步来自PIE*wei,弯，转，扭打，词源同wring,wrest。
 victory\来自victor,胜利。
 victuals\
 video\来自拉丁语videre,看，词源同visit,evident。
 vie\缩写自拉丁语invitare,挑战，竞争，词源同invite.
 view\来自法语，来自拉丁语videre,看，词源同visit,evident.
 viewpoint\view,看，point,点。引申词义看法，观点。
+vigil\来自拉丁语vigil,警醒，看守，来自PIE*weg,有活力的，积极的，词源同vigor,wake。引申词义守夜，值夜。
 vigilant\来自vigil,警醒，警觉，守夜。
 vigilante\来自西班牙语，值勤人，来自vigil,警醒，警觉，守夜。
 vignette\来自法语vigne,葡萄，词源同vine,wine,插入字母g，比较campaign,来自campania,平地。原义为书页页边的装饰插图，因形如葡萄藤而得名，后引申词义简介，花絮。
 vigorous\
 vile\来自拉丁语vilis,便宜的，低贱的，来自PIE*wes,买，卖，词源同venal（见利忘义的）。引申词义邪恶的，可耻的。
 vilify\来自vile,邪恶的，-fy,使，即中伤，使邪恶。
+villa\来自拉丁语villa,村庄，农场，来自PIE*weik,宗族，家庭，聚居区，-illa,小词后缀。引申词义别墅。可能进一步来自PIE*wei,转，弯，耕作，词源同week,wicker,比较colony,culture.
 village\来自villa,村庄。
 villain\来自villa,村庄，农场。其原义为村民，词义贬义化为恶棍，无赖。
 villainous\
@@ -12981,6 +13146,7 @@ vindictive\来自vindicate,提供证据，反驳指责，后引申词义指复�
 vinegar\vin-,葡萄，葡萄酒，-egar,酸的，词源同acid。用来指醋。
 vinegared\
 vintner\词源同wine,葡萄酒。即葡萄酒制造商。
+viola\来自拉丁语vitula,弦乐器，可能来自Vitula,罗马欢乐女神。
 violate\词源同violence,暴力，引申词义违背，违反。
 violence\来自拉丁语vis,力量，能量，强健，来自PIE*weie,追寻，渴求，猎捕，词源同Venus,win, venison。后词义贬义化，用来指暴力。
 violent\来自violence,暴力。
@@ -13019,6 +13185,7 @@ vitalize\
 vitamin\最早写做vitamine,来自vit-,生命，-amine,氨。后证实这种物质不属于氨基，因此字母e脱落。
 vitiate\来自拉丁语vitium,错误，缺陷，污点，词源同vice,vicious。即中伤，找茬，伤害等。
 vitrify\来自拉丁语vitrum,玻璃，词源同water,水，-fy,使。
+vitriol\来自拉丁语vitrum,玻璃，镜子，铜镜，词源同vitreous,后用于指硫化铁，蓝矾，可能因为其颜色相似而得名。该物质加热后分离出硫酸，因此，引申词义尖酸的，尖刻的。
 vitriolic\来自vitriol,尖刻，尖酸。
 vituperate\
 vituperative\
@@ -13074,6 +13241,7 @@ wag\来自PIE*wegh,走，移动，词源同way,wagon。引申义摇摆。
 wage\来自PIE*wadh, 承诺，誓言，词源同wed,engage。原指承诺对别人的服务的报酬，引申义工资，原仅限于手工和机械劳动所得，后词义通用化。同时，用做词义承诺参战，发动战争，后词义通用化指开展或发动某运动。
 waggish\来自wag,摇摆，摇尾，引申义讲笑话，扮小丑，诙谐幽默的。
 wagon\来自PIE*wegh,移动，运输，词源同way,vehicle。引申词义运货马车，货车，货车车厢等。
+waif\来自PIE*weip,摇动，摇摆，词源同wipe,vibrate。引申词义漂浮物，无主物，走偏的动物等，后主要指无家可归的小孩，流浪儿。
 wail\拟声词。比较woe.
 wainscot\wain,马车，战车，-scot,分开，隔板，词源同shed,shit.原指上等的车板，后用来指护墙板。
 waist\来自PIE*wegs,增加，来自PIE*aug的扩大形式，词源同augment,wax。引申词义腰。
@@ -13146,6 +13314,7 @@ weather\来自PIE*we-dhro,吹，天气，词源同wind,风，*dhro,名词后缀�
 weathering\来自weather,天气，风化，经受。
 weave\来自PIE*webh,转，编织，词源同web,weft.
 web\来自PIE*webh,转，编织，词源同weave,weft。引申义织网，网络。
+wed\来自PIE*wedh,承诺，誓言，词源同engagement。引申义结婚，婚姻。
 wedding\来自wed,结婚。
 wedge\来自Proto-Germanic*wagjaz,楔子，来自PIE*wegh,移动，运送，词源同way,wehicle。用于指楔子，拼写受dge影响，比较bridge,judge,knowledge.
 Wednesday\来自古英语wodnesdaeg,即Woden’s day,来自日耳曼主神Woden，对应罗马主神Jupiter.

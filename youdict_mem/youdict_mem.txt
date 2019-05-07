@@ -321,8 +321,8 @@ agriculture\
 agronomy\agronomy-a(一),gro-grow(生长,种植),nomy-农民。一门跟生长种植以及农民有关的学科 n.农学,农艺学。
 aground\
 ahead\
-Aid\
 aid\
+Aid\
 ail\ail(疼痛)哎哟\\2. ail 【哎哦】 疼痛 ，感到不适，生病，处境艰难
 ailment\
 Aim\1. 由古法语 Old French aesmer ( from Latin aestimare "appraise" ) 缩略、简化而来。\\2. 同源词：estimate, esteem, aim.
@@ -335,8 +335,8 @@ airline\
 airplane\
 airport\
 airtight\
-aisle\
 Aisle\
+aisle\
 akin\
 alabaster\
 alacrity\
@@ -354,8 +354,8 @@ alga\
 algebra\
 alias\1. ali- + -as (拉丁语后缀).\\2. => other name, another call.
 alibi\1. 该词直接取自拉丁语词汇，没做任何简化或变形。\\2. 其本意为：elsewhere, somewhere else. 现今含义由此得到引申。\\3. ali- + -bi (拉丁语位置格、方位格后缀)。\\4. => "the plea of having been elsewhere when an action took place".
-Alien\1. ali- + -en (形容词后缀).\\2. => "of or belonging to another, foreign, alien, strange," also, as a noun, "a stranger, foreigner".\\3. alien         外国的，侨民“侨民爱恋外国的一切”
 alien\1. ali- + -en (形容词后缀).\\2. => "of or belonging to another, foreign, alien, strange," also, as a noun, "a stranger, foreigner".\\3. alien         外国的，侨民“侨民爱恋外国的一切”
+Alien\1. ali- + -en (形容词后缀).\\2. => "of or belonging to another, foreign, alien, strange," also, as a noun, "a stranger, foreigner".\\3. alien         外国的，侨民“侨民爱恋外国的一切”
 alienate\1. ali- + -en (形容词后缀) + -ate.\\2. => make another's, estrange, "make estranged" (in feelings or affections).
 align\
 alike\
@@ -442,8 +442,8 @@ amendment\1. amend (法律文件的小修小改)修正案.
 amenity\1. am- "love" => amen- "pleasant".\\2. amen- + -ity.\\3. => delightfulness, pleasantness.\\4. 【记】音：阿门，常对上帝说阿门能带来精神上的愉快，去教堂时穿着也有礼仪
 amiable\
 amicable\
-amid\
 Amid\
+amid\
 amino\
 amiss\
 amity\
@@ -738,8 +738,8 @@ arrogant\1. 谐音“傲落跟头”------太傲慢导致栽跟头。
 arrogate\
 arrow\
 arroyo\
-Arsenal\1. The English soccer club Arsenal gets its name from its original home in Woolwich, south London, where there used to be a British government arsenal(英国政府兵工厂).\\2. 阿森纳足球俱乐部（Arsenal Football Club），简称阿森纳队，昵称：枪手、 兵工厂。
 arsenal\1. The English soccer club Arsenal gets its name from its original home in Woolwich, south London, where there used to be a British government arsenal(英国政府兵工厂).\\2. 阿森纳足球俱乐部（Arsenal Football Club），简称阿森纳队，昵称：枪手、 兵工厂。
+Arsenal\1. The English soccer club Arsenal gets its name from its original home in Woolwich, south London, where there used to be a British government arsenal(英国政府兵工厂).\\2. 阿森纳足球俱乐部（Arsenal Football Club），简称阿森纳队，昵称：枪手、 兵工厂。
 arson\
 arsonist\
 art\
@@ -870,6 +870,7 @@ attendant\1. at- "to" + tend- + -ant.\\2. literally "stretch toward".\\3. => giv
 attention\1. at- "to" + tent- + -ion.\\2. literally "stretch toward".\\3. => give attention to, pay attention to, take care of.\\4. The notion is of "stretching" one's mind toward something.\\5. 该词是动词attend的名词形式。noun of action from attend.
 attenuate\1. at- "to" + tenu- + -ate.\\2. 含义：make thin, make less.\\3. => enfeebled, weak.\\4.【信号处理】专业术语，对比记忆，信号放大与衰减：amplify（放大）<===> attenuate（衰减、减弱）。
 attest\
+Attic\
 attic\
 attire\1. center <==> centre.\\2. tier ==> Old French: tire "order, row, dress".\\3. => a- "to" + tire "order, row, dress".\\4. Attire：我太啊。我太太啊，她就爱买衣服----穿着，装饰，好衣服。
 attitude\
@@ -1196,6 +1197,7 @@ berate\
 bereft\
 berserk\【记】源自bear + shirt 身披熊皮的发狂斗士
 berth\1. 谐音“泊斯” --- 停泊于斯 --- 停泊在此处。\\2. 谐音“泊室” --- 停泊的房间 --- 停泊的地方。\\3. probably from bear (v.) + noun suffix -th as in strength, health, etc.
+beryl\
 beseech\
 beset\
 beshrew\
@@ -1498,6 +1500,7 @@ budge\
 budget\1. bulge 与 budget 同源，都源于拉丁语 bulga (皮包).
 buff\
 buffalo\布法罗（水牛城）--- 美国城市名。
+buffalo leather\
 buffet\1. 谐音“巴菲特”----股神“巴菲特”投资失利，深受打击。\\2. buffer => "something that absorbs a blow".\\3. buffer => buffet.\\4. 谐音“不费”-----吃自助餐不费钱、花销很低----便餐馆，自助餐，餐具柜。
 buffoon\buffoon ：谐音：“不疯”=小丑的疯疯癫癫都是装出来的=小丑
 bug\【八个】八个臭虫
@@ -1588,6 +1591,7 @@ cajole\cajole ：谐音联想：A：你会爱我多久？B：可久了（cajole�
 cake\
 calamitous\
 calamity\
+calamus\
 calcify\
 calcium\1. 音译“钙”。
 calculable\
@@ -1744,6 +1748,7 @@ cataclysm\
 cataclysmal\
 catalog\
 catalogue\1、cata- "down, completely" + log- "count, reckon" + -ue.\\2、字面含义：count down. => 即使用点数、清点的方式进行登记、造册。=> 编制目录、目录。\\3、cata- "down, completely" 表示：完成、做完、即表示动作的完成。\\4、也就是完成点数、清点。=> 进一步引申为登记、造册、记载。=> 进一步引申为：编制目录、目录。
+catalyse\
 catalyst\
 catalyze\
 catastrophe\
@@ -1756,8 +1761,8 @@ caterpillar\1. Etymologically, a caterpillar is a 'hairy cat'.\\2. 由于毛毛�
 caterwaul\
 catharsis\
 cathedral\
-catholic\1. cat- "according to, relating to, about" + hol- + -ic.\\2. => "on the whole, in general, relating to all".\\3. => universal, general.\\4. => "of the doctrines of the ancient Church," literally "universally accepted".\\5. Etymologically, the Catholic Church is the universal church, comprising all Christians.\\6. General sense of "of interest to all, universal".\\7. 天主教，国际惯称“大公教会”，语源为“天下为公”的公，别名“圣教会，普世教会，圣而公教会”，是主张大公主义的基督教三大教派分支之一，也是强调普世性的宗徒继承教会。根据中国古话“至高莫若天、至尊莫若主”译作“天主”。天主教，直译大公、或至公主义，意指“统括一切的“、“包罗万象的”、“宽容大量的”。至公主义的诞生，也象征着基督教脱离它的母体犹太教，成为不分种族、不分国籍的大公宗教。
 Catholic\1. cat- "according to, relating to, about" + hol- + -ic.\\2. => "on the whole, in general, relating to all".\\3. => universal, general.\\4. => "of the doctrines of the ancient Church," literally "universally accepted".\\5. Etymologically, the Catholic Church is the universal church, comprising all Christians.\\6. General sense of "of interest to all, universal".\\7. 天主教，国际惯称“大公教会”，语源为“天下为公”的公，别名“圣教会，普世教会，圣而公教会”，是主张大公主义的基督教三大教派分支之一，也是强调普世性的宗徒继承教会。根据中国古话“至高莫若天、至尊莫若主”译作“天主”。天主教，直译大公、或至公主义，意指“统括一切的“、“包罗万象的”、“宽容大量的”。至公主义的诞生，也象征着基督教脱离它的母体犹太教，成为不分种族、不分国籍的大公宗教。
+catholic\1. cat- "according to, relating to, about" + hol- + -ic.\\2. => "on the whole, in general, relating to all".\\3. => universal, general.\\4. => "of the doctrines of the ancient Church," literally "universally accepted".\\5. Etymologically, the Catholic Church is the universal church, comprising all Christians.\\6. General sense of "of interest to all, universal".\\7. 天主教，国际惯称“大公教会”，语源为“天下为公”的公，别名“圣教会，普世教会，圣而公教会”，是主张大公主义的基督教三大教派分支之一，也是强调普世性的宗徒继承教会。根据中国古话“至高莫若天、至尊莫若主”译作“天主”。天主教，直译大公、或至公主义，意指“统括一切的“、“包罗万象的”、“宽容大量的”。至公主义的诞生，也象征着基督教脱离它的母体犹太教，成为不分种族、不分国籍的大公宗教。
 cattle\
 caucus\caucus：高阁事。高层内阁的事——政党高层会议。
 caulk\1. chalk => caulk.\\2. calc- "stone, pebble, limestone, lime" => caulk.\\3. => stop up chinks with lime.\\4. caulk----"卡壳"---填塞，堵住.
@@ -1934,6 +1939,7 @@ choice\
 choir\1. chorus => choir.\\2. carol, choreography, chorus => choir.
 choke\
 chokehold\
+chol\
 choleric\
 cholesterol\1. gall => chole- "gall" + ster- "solid, stiff" + -ol.\\2. ster- => 固醇、固醇正好意译、证明了它是固体，由此也很好、一目了然地显现了该词根的本义。\\3. melancholy =》 cholesterol.
 choose\1. from PIE root *geus- "taste, choose"; the root that forms words for "taste" in Greek and Latin, but mostly meaning "try" or "choose" in Germanic and Celtic.
@@ -1948,6 +1954,7 @@ chorus\
 Christ\1. Christ 译为“基督”是音译，按照广东话粤语而翻译的，最早翻译的为“ 基利斯督 ”，后来简称为“基督”。\\2. 因为利玛窦最早是到了澳门，并且在广东肇庆最早开始的宣教工作，所以他的很多发音都带有粤语色彩。利玛窦不是英国人，作为一位耶稣会的传教士，他按照拉丁文的“Christos”，发音更接近希腊文的“Χριστοs”，用今天的汉语拼音来拼写应该是接近于“Hristos”（“赫利斯多斯”）。\\3. 耶稣（Jesus）是名字，基督（Christ）是职位，好比某某主席、某某书记、某某经理、某某老师一样，前面的某某是名字，后面的是其所任职位。现在有好多自称为基督的，其实他们不是基督，基督只有一位，就是耶稣，除他以外，再没有基督。所以经常看到“耶稣”被合在一起称为“耶稣基督”。
 Christian\
 Christmas\
+chroma\
 chromatic\
 chromosome\
 chronic\
@@ -1955,6 +1962,7 @@ chronical\
 chronological\
 chronometer\
 chrysanthemum\1. 词根词缀: chrys- "gold" (词根含义：金色的) + anth- "flower" (词根含义：花) + -em (希腊语后缀) + -um (拉丁语后缀).\\2. 词根 chrys- 的记忆方法可以将其与单词 crystal（水晶） 联系起来，因为它们都与金(晶)有关，其拼写非常相近。\\3. 字面含义："golden flower"，即“金色的花儿”，因为菊花的颜色就是金色的，由此引申为菊花，类似单词还有：marigold.\\4. 周杰伦有一首非常著名的歌《菊花台》，其英文名就是《Chrysanthemum Terrace》。\\5. 拼写记忆方法：chry + san + the + mum 哭丧的这个妈妈需要菊花。
+chub\
 chubby\chubby：粗臂、掐臂。粗胳膊的----丰满的，圆滚滚的。
 chuck\1. Onomatopoeic dialect term for chicken, imitative of a hen's cluck.\\2. chick => chuck.\\3. chock => chuck.\\4. chunk => chuck.\\5. 谐音“卡壳”。
 chuckle\1. 谐音“插科” --- 插科打诨 --- 科：指古典戏曲中的表情和动作；诨：诙谐逗趣的话。文学、曲艺演员在表演中穿插进去的引人发笑的动作或语言。\\2. 在维吾尔语中，“恰克恰克”(“qakqak”)用来表示笑话。恰克恰克”，是随着人们日常交流中的玩笑、趣语以及语言技巧的不断发展而产生的，是一种以逗人发笑为目的而说的具有幽默性的话语”。\\3. 谐音“卡壳” --- 她那咯咯的笑声突然“卡壳”了。
@@ -2224,6 +2232,7 @@ commit\1. commit a blunder(crime) 犯错误(罪).\\2. commit suicide 自杀.
 commitment\
 committed\
 committee\
+commode\
 commodious\
 commodity\
 common\
@@ -2501,6 +2510,7 @@ contained\
 container\1. con- "together" + -tain + -er.\\2. => hold together.
 containment\1. con- "together" + -tain + -ment.\\2. => hold together.\\3. 就是说“你逃不出我的手掌心”。
 contaminate\
+contemn\1、con- + temn- ( intensive prefix ).
 contemplate\1、con- "intensive prefix" + templ- "area for the taking of auguries" + -ate.\\2、字面意思：mark out a space for observation" (as an augur does). => gaze attentively, observe, act of looking at, religious musing.
 contemplation\1、con- "intensive prefix" + templ- "area for the taking of auguries" + -ation.\\2、字面意思：mark out a space for observation" (as an augur does). => gaze attentively, observe, act of looking at, religious musing.
 contemporary\
@@ -2592,6 +2602,7 @@ cooperative\
 coordinate\
 cop\1、cap- => cop.
 cope\1. 谐音“靠谱”----她处理事情很靠谱。\\2. coup <=====> cope.\\3. cap, cape, chapel => cope.\\4. cap => cape.\\5. => 'come to blows with' and 'contend with' to 'handle successfully'.\\6. It may ultimately be descended from Latin caput 'head'.\\7. literally, "hit, punch, blow".\\8. 他办事，我放心。
+cophinus\
 copious\
 copper\
 copulate\
@@ -2609,10 +2620,12 @@ corner\
 cornerstone\
 cornucopia\
 corny\
+corolla\
 corollary\1、coroll- + -ary.\\2、该词的原始字面含义为：money paid for a garland. 引申为：gift, gratuity, something extra.\\3、最终引申为：推论，必然的结果。\\4. => a proposition proved from another that has been proved.\\5. 该词的原意为“因为花环而得到的赏钱”，进而比拟而引申为“因为定理而得到的推论、结果”。\\6. 区分：corollary, coronary: 前者是一个指小词，其中间部分的“-ol-, -olla-”是指小词缀，所以字面意思是“little garland”。
 corona\
 coronation\1. corone => coroune => crown.\\2. crown => *croun- => *coroun- => coron-.\\3. coron- + -ation.\\4. => a crowning.
 coroner\1、coron- + -er.\\2、最初该词表示保护皇家财产的官职，但是后来其职能逐渐变窄，直到最后只做验尸的职能，因此，该词也就演变成了如今的含义。
+corp\
 corporate\
 corporation\
 corporeal\corporal肉体的,身体的。\\corporeal肉体的,身体的。
@@ -2649,6 +2662,7 @@ cost\
 costly\
 costume\cosplay（角色扮演）就是英文 Costume Play 的简略写法，一般指利用服装、饰品、道具以及化妆来扮演动漫作品、游戏中的角色。
 cosy\
+cot\1. cottage => cote => cot.\\2. 小屋太小，只能容下轻便小床。
 coterie\1. cottage => cote, cot "hut, cottage" => coterie "tenant of a cote".\\2. 同一个屋檐下的佃农，即隶属于同一个地主的佃农。\\3. Coterie Magazine 同人杂志; coterie publication 同人刊物; Tanbi Coterie 耽美同人.
 coterminous\
 cottage\
@@ -2726,6 +2740,7 @@ craven\1. crave => craven: 形容以恳求、渴求的方式求饶的那种状�
 craving\
 crawl\1. 谐音“靠挪哦、可挪哦”---靠挪动着前进----爬行，匍匐前进。
 crayon\1. c (音“刻”) + ray + on => 把五彩的光线刻在上面。=》为什么我们看到的是彩色蜡笔，是因为它反射的光线在我们的眼里呈现的是彩色。\\2. 对比：terra cotta: 赤土；terra creta：白土、白垩。\\3. Latin creta "chalk" => crayon, cretaceous.\\4. The Latin word for "chalk" was creta.\\5. Latin creta "chalk, pipe-clay" => cray- (很像“clay”, 意思也差不多，用白色、彩色的黏土画画儿) + -on => crayon.\\6. 蜡笔小新: Crayon Shin-chan.\\7. 韩国女子组合: 蜡笔团(Crayon Pop).\\8. clay + on, gray + on => crayon.
+craze\
 crazy\
 cream\
 crease\1. crease => *creast => crest.\\2. crest => *creast => crease.\\3. grease => crease: 脂肪太多，赘肉都一叠一叠地折叠着垂下。\\4. 谐音“裤内折(多音字，这里将其念着：she, 折本的“折”)、裤蕾折(多音字，这里将其念着：she, 折本的“折”)”-------裤子的蕾丝边折了，有折痕。\\5. creek, creep, crook, crumple => a widespread group of Germanic kr- words meaning "bent, hooked" => cr- + ease (放松的、松弛的) => crease: 非常放松的、松弛的而导致的弯曲而形成的折痕、皱纹。相反地不松弛，而是拉得很紧的话，显然就不会形成折痕。\\6. 区别：crease, cease: 有一句著名的诗词说得非常好“有花堪折直须折，莫待无花空折枝”，通过这句诗词就可以非常形象地区分开这两个单词。
@@ -2771,7 +2786,9 @@ criticize\
 critique\
 croak\1. 青蛙的叫声.
 crochet\
+crock\
 crockery\1. 谐音“烤了壳泥、烤了烤泥”。\\2. c- (拼音“烤”) + rock + -ery => 烤成像岩石一样坚硬的东西、器皿。想一想岩石不也是各种各样的泥土在长期的地质作用下形成的吗？
+crony\
 cronyism\
 crook\1. encroach =》crook.\\2. 搞各种歪门邪道，想方设法、拐弯而抹角地骗取、欺骗。\\3. 去勾引别人上当、骗别人上钩。
 crooked\
@@ -2921,6 +2938,7 @@ dawn\
 day\
 daylight\
 daytime\
+daze\1. 谐音“呆若”-----呆若木鸡。\\2. 谐音“大热”-----大热天，光线很强烈，容易中暑，进而使人眩晕；光线也很耀眼、眩目。
 dazzle\1. daze => dazzle.
 dazzling\
 de-emphasize\
@@ -3166,6 +3184,7 @@ depression\
 deprivation\
 deprive\
 depth\
+depute\1. de- "away, off" + put- "cut, prune" + -e.\\2. literally "cut off, cut away, prune".\\3. 由“切，切开”引申为“分配，分派，指派”之意。\\4. => allot, assign, appoint.\\5. => one given the full power of an officer without holding the office.
 deputy\1. de- "away, off" + put- "cut, prune" + -y.\\2. literally "cut off, cut away, prune".\\3. 由“切，切开”引申为“分配，分派，指派”之意。\\4. => allot, assign, appoint.\\5. => one given the full power of an officer without holding the office.
 deracinate\
 deranged\
@@ -3454,6 +3473,7 @@ disinterested\
 disjointed\
 disjunction\
 disjunctive\
+disk\
 dislike\
 dislocate\1. dis- "away" + loc- + -ate.\\2. => put out of place, out of joint.
 dislocation\
@@ -3565,6 +3585,7 @@ divisive\
 divorce\1、divert => divert- => divort- => *divors- => divorc- "separate, leave one's husband" + -e => divorce.
 divulge\
 dizzy\
+do off\
 docile\
 dock\“dock”音似“到客”——“夜半钟声‘dock’船”——船坞
 docket\1. dock "删减、缩减、剪短" + -et.\\2. 由此引申为：摘要，概要；标签，签条；说明。\\3. 又由于 dock 含有“犯人栏，被告人席”之意，所以又由此引申到了法律方面的含义。\\4. dock 的“犯人栏，被告人席”之意又是由 dock 的“船坞、码头”之意引申而来。
@@ -3663,6 +3684,7 @@ drain\1. dry => drain.\\2. dry => drain,drought.\\3. dry + rain => drain.
 drainage\
 drama\
 dramatic\
+drape\1. drap- + -e.\\2. => ornament with cloth hangings, cover with drapery.
 drastic\dry stick 干柴烈火→非常猛烈\\2. 谐音“抓撕踢磕，抓撕踢刻”----既抓且撕，猛踢磕打，这丫也太狠了！。
 draught\1. from drag, draw. draught 与 drag，draw 同源或者说就源于这两个单词。draft is spelling variant of draught.\\2. Most of its modern English meanings are fairly transparently descended from the idea of 'pulling': 'draught beer', for example, is 'drawn' from a barrel.\\3. Of the less obvious ones, 'current of air' is air that is 'drawn' through an opening;\\4. the game draughts comes from an earlier, Middle English sense of draught, 'act of drawing a piece across the board in chess and similar games';\\5. while draft 'provisional plan' was originally 'something drawn or sketched'.\\6. draw => draught, draft. dry => drought.
 draw\
@@ -3883,6 +3905,7 @@ elegiac\
 elegy\1. 同源反义词：elegy <==> eulogy.\\2. Elegy: 哀礼祭----哀歌，挽歌。\\3. 谐音“哀乐记”。
 element\
 elementary\
+elementum\
 elephant\
 elephantine\
 elevate\
@@ -3892,6 +3915,7 @@ elicit\1. ex- "out" + lic- / licit- (lacere "entice, lure, deceive", related to 
 eligible\1. 被选出的。
 eliminate\1. e- "out" + limin- + -ate.\\2. To eliminate somebody is literally to "kick them out of doors".\\3. => exclude, expel waste from the body.
 elite\
+ellipse\
 ellipsis\
 elliptical\
 elm\1. whelm => 我们在榆树的遮盖、覆盖下非常的凉快，炎炎烈日晒不到我们。\\2. 纽黑文市（英语：City of New Haven），又称纽海文市，为美国康涅狄格州的第二大城，纽黑文市的别名为“榆木市”或"榆城"（Elm City），因为纽黑文市曾经拥有为数众多和历史悠久的榆树。尽管这些榆树近年来都受到荷兰榆树病（Dutch Elm Disease）的感染，纽黑文仍旧是一个充满绿意的城市。世界著名的耶鲁大学就坐落在此。\\3. 耶鲁 =》 谐音联想到：揶揄、鲁豫（鲁豫有约） =》 然后到：榆树 =》很像成语接龙啊。
@@ -4071,6 +4095,7 @@ entertain\1. enter- (inter-) + -tain.\\2. => keep or hold someone's mind among m
 entertainment\1. enter- (inter-) + -tain + -ment.\\2. => keep or hold someone's mind among many different and interesting things.\\=> keep or hold something like amusing or treat between / among people.\\=> keep or hold something attractive or interesting among / in one's mind.\\3. 所谓花花世界、五彩缤纷、其乐无穷，由此引申义：娱乐，助兴。\\4. 类推：The original Old French version of enterprise was emprise.\\5. => The original Old French version of entertain was *emtenir(*emtain).\\6. 因此这里的enter-前缀应该说还含有“in”的含义，这还可以从单词enter及该前缀的源头可以看出来。\\7. enter- "in" => hold or keep one's mind in something, hold (in), keep (in), maintain (in).
 enthrall\1. slave => slav- => *thlav- => *thrav- => *thrau- => thrall.\\2. 这是一种缺乏理据性的根据音变规律和原理做出的一种联想和近义关联。其目的在于使单词更易于理解和记忆。\\3. 因此这种联想不是天马行空地乱联想，而是根据音变规律做出的一种比较合理的联想。\\4. en- "make, put in" + thrall.\\5. => hold in mental bondage.\\6. enthrall 的变体：enthral (en- + -thral [thrall]).\\7. Enthrall: en 因thrall（情）丝（缠）绕，陷入情网----迷惑，迷住。猪八戒进盘丝洞也是被蜘蛛精的丝绕了，所以被迷惑，迷住了。
 enthralling\1. slave => slav- => *thlav- => *thrav- => *thrau- => thrall.\\2. 这是一种缺乏理据性的根据音变规律和原理做出的一种联想和近义关联。其目的在于使单词更易于理解和记忆。\\3. 因此这种联想不是天马行空地乱联想，而是根据音变规律做出的一种比较合理的联想。\\4. en- "make, put in" + thrall + -ing.\\5. => hold in mental bondage.\\6. enthrall 的变体：enthral (en- + -thral [thrall]).
+enthuse\
 enthusiasm\
 enthusiastic\
 entice\Entice: 引他死，还是有点猪八戒进盘丝洞的感觉，被----引诱，怂恿。
@@ -4588,6 +4613,7 @@ fellowship\
 felon\
 felonious\
 felony\Finesse: 非难事，要想把难事变成非难事，就要有----技巧，手段，计谋。 
+felt\
 female\
 feminine\
 feminism\
@@ -4708,6 +4734,7 @@ flabbergast\
 flabby\1. variant of flappy, which is recorded in the sense of "softly fleshy" from 1590s; see flap.\\2. 为什么从 flap 到 flappy 会变成 “softly fleshy”之意呢？因为只有柔软的、松软的、有柔性的翅膀才容易拍动，拍动的效果也才更好，其二，正因为翅膀的这种特性，翅膀也就会下垂，因此也就引申出了：下垂的、松垂的等含义。
 flaccid\1. flaggy => flaccid.\\2. flabby => flaccid.
 flag\
+flagellate\
 flagellum\
 flagging\
 flaggy\
@@ -4933,6 +4960,7 @@ frail\1. flail, frail: 打谷子用扁担，l 是扁担、连盖，r像一朵花
 frame\
 framework\
 frank\
+Frank\
 frantic\frantic狂乱的。\\frenetic狂乱的。\\frenzied狂乱的。\\2. frenetic => frantic.
 fraternal\
 fraternity\
@@ -4986,6 +5014,7 @@ frothy\
 frown\【记法】分解为：fr（肥肉）＋own（自己的），自己身上的肥肉 \\【联想】谁看到自己身上长满了肥肉都会皱眉头\\2. brow => *frow- + n (象形，两边眉毛皱在一起形成挤压的皱纹的样子) => frown.
 frowsy\
 frowzy\frowzy	"服劳役"的人，不整洁的，污秽的。
+fructus\
 frugal\1. [吃饭只吃]腐乳够了.\\2. 只吃豆腐乳(就)够了。\\3. 谐音“腐乳够” => 吃饭只吃腐乳就够了。
 frugality\
 fruit\
@@ -5038,6 +5067,7 @@ furthermore\
 furtive\1. bear => fer- "carry" => Latin fur (genitive furis) "thief" (literally 'someone who carries things off') => furt- "theft, robbery" => furtive.\\2. Etymologically, someone who is furtive 'carries things away like a thief'.
 fury\1. 电影《狂怒》（Fury）情节设定在1945年二战硝烟即将消散之时，同盟国军队准备在欧洲战场发动最后一轮猛烈攻击。\\2. 谐音“复女”-----“复仇女神”简称“复女”。\\3. Furies: 复仇三女神.
 fuse\分析：fuse——“辐射”的近似拼音。\\记忆：难道保险丝也会有辐射？
+fusilier\
 fusillade\
 fusion\
 fuss\fuss ....乏事..........琐碎小事\\2. 发丝，头发丝儿大小的事也奇怪----大惊小怪。\\3. 音：烦死、烦事，为一些小事而烦死，而混乱。\\4. fussing：谐音“发神”----发神经、总是很神经质。
@@ -5047,7 +5077,9 @@ fusty\
 futile\1. futil- + -e.\\2. which etymologically means 'that pours away', hence 'useless'.\\3. futility: f(音“弗、否”) + utility(实用) => 不实用 => 无用.\\4. futility => futile.\\5. f- (音“弗、否”) + ut- "use" => fut- "useless" => futile.
 futility\1. futil- + -ity. => worthlessness.\\2. which etymologically means 'that pours away', hence 'useless'.\\3. futility: f(音“弗、否”) + utility(实用) => 不实用 => 无用.\\4. futility => futile.\\5. f- (音“弗、否”) + ut- "use" => fut- "useless" => futile.
 future\
+gab\
 gabble\“gab-”谐音“嘎巴”。 ▼中西悟语▼小嘴儿“嘎巴嘎巴”可能说了。
+gad\
 gadfly\
 gadget\
 gaffe\
@@ -5119,6 +5151,7 @@ gavel\1. gavel 是gave + l(象棒子) 给你一棒槌→小木槌。
 gawky\
 gay\
 gaze\1. gazelle（n 瞪羚）=> gaze.\\2. 谐音“给视”。
+gazette\1. 区别：gazelle（n 瞪羚）, gazette: 羚(ling)的声母与单词gazelle后面的字母相同，都是字母l，所以由此可以区别开来。
 gazetteer\
 gear\
 gem\1. gem- => gem.
@@ -5172,6 +5205,7 @@ gesture\1、gest- "behave, act" + -ure.\\2、字面含义：action, behavior. =>
 get\
 geyser\
 ghastly\
+ghose\
 ghost\【钩死它】钩死它――鬼魂
 giant\
 gibbous\
@@ -5190,6 +5224,7 @@ gin\1.  金酒有许多称呼：香港、广东地区称为毡酒；台北称为
 ginger\1. 音：精姜儿。
 gingerly\“gingerly”谐音“精着嘞、精心着嘞”
 giraffe\1. 法国电影：长颈鹿扎拉法(Zarafa).\\2. from Arabic zarafa.
+gird\1. yard (Old English geard "enclosure") => gird "put a belt or girdle around; encircle, surround".\\2. gird + -er => girder.\\3. 同源词：garth, gird, girth, girdle.\\4. 其它相关的同源词：garden, yard, orchard.
 girder\1. yard (Old English geard "enclosure") => gird "put a belt or girdle around; encircle, surround".\\2. gird + -er => girder.\\3. 同源词：garth, gird, girth, girdle.\\4. 其它相关的同源词：garden, yard, orchard.
 girdle\1. circle <====> girdle.
 girl\
@@ -5253,6 +5288,7 @@ gnomic\
 goad\
 goal\
 goat\
+gob\
 gobble\Gobble: 够饱、搞饱，吃得够饱----贪婪地吃，吞没。
 goblet\1. 谐音“高杯里头”。
 god\1. 回文构词：dog  god, live  evil, desserts  stressed.\\2. 上帝倒立： god => dog.
@@ -5277,6 +5313,7 @@ gosling\
 gospel\
 gossamer\
 gossip\1. 谐音"搞事婆". 助记法:喜欢(说闲话)的人都是搞事婆.
+Goth\
 Gothic\1. 音译“哥特”。
 gouge\1. 谐音“沟沟、沟掘、高掘”。
 gourd\
@@ -5377,6 +5414,7 @@ grit\grate嘎吱磨碎。 \\grit用磨料磨。 \\grind磨碎,碾碎。\\2. grat
 groan\
 grocer\
 grocery\
+grog\
 groggy\
 groom\1. 在屋里等待新娘的哥哥.
 groove\1. grave => grub => groove.
@@ -5403,6 +5441,7 @@ grueling\
 gruesome\【记】音：割乳，古代有种酷刑
 gruff\1. rough => gruff.\\2. ga- (Germanic completive prefix) + rough => gruff.\\3. 音：哥 rough，这位大哥很rough\\4. 童话故事：《三只坏脾气的山羊》：《The Three Billy Goats Gruff》。\\5. 谐音“哥鲁夫”----哥哥是一个粗鲁的家伙----粗鲁的，生硬的；声音粗哑的。
 grumble\1. 拟声词, 咕哝咕哝什么。\\2. 谐音“咕哝吧、哥rumble”\\3. rumble => grumble.\\4. 可看成是growl + rumble；几乎等于rumble，象声词。
+grump\
 grumpy\1. grumble => grump + -y => grumpy.\\2. grumble <====> grump, grumpy, grunt.\\3. Grumpy Cat 是一只红遍网络的猫，由于总是一副苦逼的表情，被网友成为“脾气暴躁猫”。\\4. 不爽猫(Grumpy Cat)又名暴躁猫，是2012人气最高的喵星人，2012年走红的的喵星人，它原名叫塔妲·索斯（Tardar Sauce），是猫咪网络推手、好莱坞经纪人拉希什(BenLashes)的明星客户。天生臭脸引人追捧.\\5. 《暴熊大战 Grumpy Bears》是一款休闲游戏.\\6. Grumpy Cat 不爽猫 ; 暴躁猫 ; 坏脾气猫 ; 臭脸猫\\7. 谐音“哥乱脾”-----哥总是乱发脾气。
 gruntling\
 guarantee\1. 卫兵蚂蚁眯着眼睛保证蚂蚁窝的安全(或：蚁后的安全)。\\2. guar- (guard) + ant + ee (eye: 眼睛)。
@@ -5456,6 +5495,7 @@ habitat\
 habituate\
 hack\hack............还 砍..................劈;砍
 hacker\音译“黑客”。
+hackney\
 hackneyed\
 haemostat\
 haft\shaft矛柄。\\haft把柄。\\helve斧柄。
@@ -5476,6 +5516,7 @@ hall\1. 同源词：cell, hell, hall.\\2. 要喝水的同学请全部去大厅�
 hallmark\
 hallow\1. 万圣节halloween就来源于此单词。\\2. Halloween: Scottish shortening of Allhallow-even "Eve of All Saints, last night of October".\\3. 形近词：wallow, tallow, swallow, shallow, sallow, hallow, callow, fallow.
 hallowed\
+hallucinate\
 hallucination\
 hallucinogen\
 halo\1. hallow => halo.\\2. Halo（中文名为光环或光晕）是一个由Bungie创造的科幻游戏系列，而版权和发行商为微软游戏工作室。游戏有四部，故事的中心人物和主角是Master Chief（士官长），是一个经过一个叫“斯巴达二期”的计划改造而成的人类超级战士。另外士官长也有一个AI同伴，也是故事的女主角，名叫Cortana（科塔娜）。\\3. 《光环4：航向黎明号》：《Halo 4: Forward Unto Dawn》。\\4. hallow => hal- + -o (象形：环状物) =》神圣的光环。
@@ -5483,6 +5524,7 @@ halt\1. hold => halt.
 halting\
 ham\
 ham-handed\
+Hamburg\
 hamburger\1. 音译“汉堡包”。
 hammer\
 hamper\
@@ -5507,6 +5549,7 @@ hangdog\
 hanger\
 hanker\音“喊渴、很渴”---很渴望。
 hankering\
+hap\1. happen => perhaps.\\2. happen => hap.\\3. happen => hapless.
 haphazard\1. happen => perhaps.\\2. happen => hap.\\3. happen => hapless.\\4. hap "chance, luck" + hazard.
 hapless\1. happen => perhaps.\\2. happen => hap.\\3. happen => hapless.
 happen\1. happen => perhaps.\\2. happen => hap.\\3. happen => hapless.
@@ -5582,6 +5625,7 @@ health\
 healthy\
 heap\
 hear\ear 耳朵——hear听（通过耳朵听）
+hear say\
 hearing\
 hearken\
 hearsay\
@@ -5607,6 +5651,7 @@ hedonist\
 hedonistic\
 heed\
 heel\1. 谐音“鞋(四川方言发音：hai)哦、后哦”------鞋后哦-----脚后哦-----脚后跟哦。\\2. high heel 高跟鞋.\\3. heels 高跟鞋.\\4. 阿喀琉斯之踵（Achilles' Heel），原指阿喀琉斯的脚跟，因是其唯一一个没有浸泡到神水的地方，是他唯一的弱点。后来在特洛伊战争中被人射中致命，现在一般是指致命的弱点，要害。\\\阿喀琉斯，是凡人珀琉斯和美貌仙女忒提斯的宝贝儿子。忒提斯为了让儿子炼成“金钟罩”，在他刚出生时就将其倒提着浸进冥河，遗憾的是，乖儿被母亲捏住的脚后跟却不慎露在水外，全身留下了惟一一处“死穴”。后来，阿喀琉斯被太阳神阿波罗一箭射中了脚踝而死去。后人常以“阿喀琉斯之踵”譬喻这样一个道理：即使是再强大的英雄，他也有致命的死穴或软肋。
+heft\
 hefty\1. heave => heft => hefty.
 hegemony\1. seek => hegemony.\\2. seek => PIE root *sag- "to seek out, track down, trace" => heg- / hege- (like sist- => hist-) "to lead, guide" => hegemony.\\3. 谐音“黑哥money，黑姐money”-----这太霸权、太霸道了。\\4. he-他，“gemony”音形似“Germany”——他来自德国（希特勒）——霸权主义，霸权，德国在二战时曾经是霸权主义国家。\\5. hegemony→hege(→形近：huge 庞大的)+mony(→money 钱)→钱多，有经济实力→有了经济实力，就可以谋求霸权，所谓有奶便是娘，有钱才是老大，有钱就是爷，就像今天的美国一样，美元霸权。
 height\高度(height)达八(eight)尺
@@ -5723,6 +5768,8 @@ hit\
 hitch\1. 我女巫(witch)，掉水沟(ditch)，p 投掷(披头士)(pitch)，高被沟(hitch).\\2. hitchhike => hitch.\\3. 拼车服务Hitch不仅能帮你省钱，还让你交到新朋友.\\4. 电影：《全民情敌》：《Hitch》：希什（Hitch）是纽约城的传奇人物，隐姓埋名的他从事着极具梦幻色彩的职业——约会专家。因为大多数男人都会在求爱的过程中遇到困境，这种障碍来自于试图讨取欢心时迷失了自我。于是，“全民情敌”希什出现了，作为爱情战术顾问。\\5. hitch (from the notion of hitching a sled to a moving vehicle) + hike => hitchhike.\\6. hook => hitch.
 hitherto\
 hive\
+hlot\
+hoar\1. hare (grey animal): 取名自它的颜色，野兔皮毛基本上都是呈灰色、灰白色的。\\2. herring (grey fish): 取名自它的颜色，鲱鱼的颜色都是灰色、灰白色的。\\3. hare, herring => hoar, hoary.
 hoard\1. hide => hoard. hide 与 hoard 同源。\\2. => that which one hides, hidden treasure, treasure, valuable stock or store.\\3. => from PIE root *keu- / *skeu- "cover, conceal" (see hide).\\4. 第二层含义：hurdle => hoard.\\\herd兽群。\\horde一群人。\\hoard积聚。\\\climb攀爬。\\climber攀爬者。\\clamber攀爬。
 hoarse\hoarse：hoar－吼，se－嘶。吼的过度声音嘶哑了——嘶哑的，粗哑的。\\吼得声音都嘶哑了。\\2. 【嚎嘶】嚎嘶的嗓子嘶哑的\\3. horse => hoarse => 马“啊啊啊(a)”地嘶哑地吼叫。
 hoary\
@@ -5745,6 +5792,7 @@ holy\holy a. 神圣的〔神圣的厚礼(谐音)〕
 homage\home+age  家里年长的人受尊敬\\1. "allegiance or respect for one's feudal lord," from homme "man," from Latin homo (genitive hominis) "man"\\2. homicide => homage.
 home\
 homely\
+homeopath\
 homeopathy\
 homeostasis\
 homespun\
@@ -5812,12 +5860,14 @@ however\
 howl\howl---------"号、嚎"-----------咆哮，大声哭笑\\2. howl 【嚎，嗥呕】嗥 叫
 howler\
 hoyden\1. The now archaic hoyden 'high-spirited girl' [16] was borrowed from Dutch heiden 'heathen'.\\2. heathen => hoyden.
+huant\
 hub\集线器
 hubbub\
 hubris\
 huckster\1. hawk => huck- + -ster => huckster.
 huddle\谐音“好多”\\1. hide => huddle.
 hue\1. HSL色彩模式 / HSL色彩模型: HSL色彩的表述方式是：H(hue)色相，S(saturation)饱和度，以及L(lightness)亮度。\\2. 颜色模型(RGB、HSL、HSB、、CMY、CMYK, 等等).\\3. 谐音“呼”----呼叫 =》hue and cry.
+huff\1. 谐音“哈呼”-----模拟吹气的声音。\\2. apparently imitative of exhaling. Extended sense of "bluster with indignation".\\3. 引申义：气鼓鼓的样子、气鼓鼓的说。\\4.  huff and puff：虚张声势；咆哮；暴怒，暴跳如雷。
 huffy\
 hug\
 huge\
@@ -5859,6 +5909,7 @@ husbandry\
 hush\1. 拟声词.\\2. hush..........哈 嘘..........安 静
 husk\1. house => husk.\\2. Etymologically, a husk is probably a 'little house'.\\3. the notion being, of course, that it 'houses' seeds or fruits.\\4. The derivative husky was coined in the 16th century; its use for 'hoarse' comes from the idea of having dry husks in the throat (the husky dog [19] is an entirely different word, probably an alteration of Eskimo).\\5. 音: 厚撕壳，厚的撕去的壳
 husky\1. The derivative husky was coined in the 16th century; its use for 'hoarse' comes from the idea of having dry husks in the throat (the husky dog [19] is an entirely different word, probably an alteration of Eskimo).\\2. from husk on the notion of "dry as a husk." Earlier (1550s) "having husks." Sense of "tough and strong" (like corn husks) is first found 1869, American English.\\3. 哈士奇：哈士奇名字的由来，是源自其独特的嘶哑叫声。哈士奇性格多变，有的极端胆小，有的极端暴力，进入大陆和家庭的哈士奇，都已经没有了野性，比较温顺，是一种流行于全球的宠物犬。
+hustle\1. 哈娑舞（英：Hustle，又译“哈梭”、“哈斯尔”）是对1970年代数种十分流行的迪斯科舞的昵称。一般可以将哈娑舞归类于摇摆舞(Swing dance)。\\2. 《飞天大盗》（Hustle），英国电视剧：一部曲折离奇悬念迭出的偷盗戏码，讲五人诈骗团伙的行骗故事，每集一个案子，他们只诈骗贪婪的人，奢望不劳而获的人，拥有不义之财的人。\\3. 电影：美国骗局：American Hustle.\\4. 电影：川流熙攘: Hustle & Flow.
 hustler\
 hut\1. hide => hut. hide 与 hut 同源。\\2. => cottage, covering structure.\\3. hide => hut, hoard, house, huddle.
 hybrid\
@@ -5977,6 +6028,7 @@ immense\
 immensity\
 immerse\1. immerse in 沉浸在。
 immigrant\
+immigrate\
 imminent\1. im- "into, in, on, upon" + min- "jut, jut out, project" + -ent.\\2. => overhang, impend.\\3. => 引申义、比喻义：be near, be at hand.\\4. 该词的含义及其含义变迁及其构词原理和 impend 类似，可以说是基本相同。
 immoderate\
 immolate\
@@ -6083,6 +6135,7 @@ impulse\1、im- "into, in, on, upon" + puls- "drive, push" + -e.\\2、含义：d
 impulsive\1、im- "into, in, on, upon" + puls- "drive, push" + -ive.\\2、含义：drive on, drive into; 推进、推动、驱动、冲动、脉冲。
 impunity\1、im- "not" + pun- + -ity.
 impute\
+in deed\
 inactivate\
 inactive\
 inadvertence\1、ad- "to" + vert-.\\2、字面含义：turn toward. => turn sb to sth. => give attention to, direct one's attention to. => 注意、留意。\\3、in- "not" + advert + -ence.
@@ -6178,6 +6231,7 @@ incur\1. in- "into, in, on, upon" + curr- => incurr- => incur.\\2. => lead sth r
 incursion\
 indebted\1. in- "in" + debt + -ed.\\2. => involve in debt, under obligation for favors or services.
 indecency\
+indecent\
 indecipherable\
 indecisive\
 indecorous\
@@ -6326,6 +6380,7 @@ ingredient\
 inhabit\
 inhabitant\
 inhale\
+inhere\
 inherent\1. adhere => inherent.
 inherit\1. in + her + it => 在她肚子里，那将来不就要“继承”吗？
 inheritance\
@@ -6555,6 +6610,7 @@ introspect\
 introspective\
 introvert\1、intro- + vert-.
 intrude\
+intuit\
 intuition\
 intuitive\1. tutor, tuition => intuitive.
 intumescence\
@@ -6652,6 +6708,7 @@ jabber\1. jabber 和 gibber 这对拟声词它们是同源拟声，gibber influe
 jacket\1. 音译“夹克、夹克衫”。
 jade\
 jaded\
+jag\1. job 还有一层含义“刺，戳，捅”，这时它与 jab 同源同义，jab 就是 job 的变体形式。\\2. 可以说 job / jab / jag 它们都是同源词，它们都是对“刺，戳，撕”等动作所产生的声音的拟声，所以说它们都是拟声词。\\3. jag 除了有“刺，戳，撕”的含义外，还有表示“刺，戳，撕”的结果、状态。\\4. jagged 就表示这种结果、状态的形容词形式。\\5. 就如 jabber 和 gibber 这对拟声词它们是同源拟声，gibber influenced by jabber. 双写字母b就是对这种吱吱喳喳、喋喋不休的声音的形象模拟和描述，可以说其中蕴含做讽刺和贬义。\\6. 就像 giggle 这个拟声词双写字母g加-le，就表示这种动作的重复性，没完没了、不停的重复下去，即：咯咯地笑，咯咯笑个不止。
 jagged\1. job 还有一层含义“刺，戳，捅”，这时它与 jab 同源同义，jab 就是 job 的变体形式。\\2. 可以说 job / jab / jag 它们都是同源词，它们都是对“刺，戳，撕”等动作所产生的声音的拟声，所以说它们都是拟声词。\\3. jag 除了有“刺，戳，撕”的含义外，还有表示“刺，戳，撕”的结果、状态。\\4. jagged 就表示这种结果、状态的形容词形式。\\5. 就如 jabber 和 gibber 这对拟声词它们是同源拟声，gibber influenced by jabber. 双写字母b就是对这种吱吱喳喳、喋喋不休的声音的形象模拟和描述，可以说其中蕴含做讽刺和贬义。\\6. 就像 giggle 这个拟声词双写字母g加-le，就表示这种动作的重复性，没完没了、不停的重复下去，即：咯咯地笑，咯咯笑个不止。
 jail\1. 谐音“监哦”----监牢哦。
 jam\1. MM 的家塞满果酱.\\2. jam谐音“酱”
@@ -6674,6 +6731,7 @@ jealousy\zeal 热情                   jealousy 嫉妒 (zeal ← jeal)\\1. jeal-
 jeans\1. Genoa (意大利城市热那亚，其古法语拼写形式为：Janne / Jannes, 中期法语又音变为： jean / Jean) => Gene => gen- => 音变：jean.\\2. 因该城市最先生产这种斜纹布而得名。\\3. jean => 复数：jeans.
 jeer\
 jejune\jejune------"(June)六月就(je)摘了" ---------不成熟的；贫弱的
+jell\jell: 胶。形成胶一样凝固的东西——成胶状，成果冻状；（主意，思想等）变得明确。（思想凝固成形）
 jelly\
 jeopardize\1. jeopard: 姐姐怕危险.
 jeopardy\1. jeopardy-----姐怕的----------危险.
@@ -6692,6 +6750,7 @@ jilt\
 jiltee\
 jingoism\
 jingoist\谐音“军国主义”
+jitter\1. chatter, twitter => chitter " twitter, chatter; tremble, shiver[英国方言]" => jitter "tremble, shiver".\\2. => extreme nervousness, move agitatedly.
 jitters\1. twitter / chatter => chitter "imitative of birds" => jitter.
 job\job 【找吧】 工作
 jobbery\
@@ -6712,9 +6771,13 @@ jot\1. borrowing of Latin jota, variant spelling of Greek iota "the letter -i-,"
 journal\
 journalist\
 journey\1. 谐音“接你” -> 旅行回来，家人来接你。
+joust\1. The underlying meaning of joust is simply an 'encounter'. which originally meant 'bring together', and hence by extension 'join battle' and 'fight on horse-back'.\\2. join, juxtapose => joust, jostle.
+Jove\
 jovial\
 joy\
+jubilaeus\
 jubilant\jubil音“举杯噢”→宴会上有人大叫，“举杯噢！”\\2. jovial <===> jubilant.
+jubilate\
 jubilation\
 jubilee\
 judge\1、ju- / jus- + dic- => jude (虚拟的一个复合词) => judge.\\2、-d- <=> -dg-.\\3. Etymologically, a judge is someone who 'speaks the law'.\\judge...........夹挤（手指）...........法官;审判员\\misjudge........没事夹挤（尚不明事实就用刑）.....误判\\      （古代用刑的一种，夹板夹手指）
@@ -6788,6 +6851,7 @@ kite\
 kitten\
 kleptomania\1. klepto- (谐音“可乐扒(爬)偷、快乐扒(爬)偷、客落魄偷”).
 knack\1. knack→音“耐渴”→骆驼具有耐渴的特殊能力.\\2. knack→knock(v. 敲，敲打)→敲门，窍门-------中英文均谐音，不是巧合胜似巧合，真是巧合中的巧合。\\3. 谐音“耐克”------“耐克”品牌成功的窍门、诀窍。
+knacker\
 knackered\
 knave\
 knead\音：捏的，泥的，泥的是捏制的
@@ -6888,6 +6952,7 @@ latency\
 latent\1. lethe "forgetfulness, oblivion" => latere "to lie hidden" => latent.\\2. lethe => latent.\\3. => "concealed, secret".
 later\
 lateral\
+lath\
 lathe\1. 他累死在车床边上。\\2. la + the => 拿这个东西到车床上去加工。
 Latin\
 latitude\
@@ -6899,6 +6964,7 @@ laudatory\
 laugh\
 laughter\
 launch\
+launder\
 laundry\
 laureate\
 laurel\1. 维纳斯很美，但被迫嫁给伏尔甘，她于是偷情和Mars，被阿波罗看见了，阿就到处去说，Mars 就要打他，被宙斯拦下，维纳斯的儿子是Cupid 爱神丘比特 cupidity [人们对爱情是]贪婪，维要Cupid 给阿波罗最喜欢的河神的女儿达芙妮射了一支铅箭，而给阿波罗一支金箭，女生沿着希腊神话中最著名的Meander 河跑，这条河是阿波罗和他的双生妹黛安娜上班的地方，这条河后来变成了弯延曲折的意思，是太阳升起，月亮落下的地方，达芙妮后来要河神把她变成树也不愿意嫁给阿波罗，后来她变成了一棵月桂树，等阿波罗来时，他的心爱女人已经变成了一棵树，他于是摘下树枝系在自己头上，这是桂冠的由来。\\2. 阿波罗心中永远的痛.
@@ -6942,6 +7008,7 @@ least\
 leather\
 leave\谐音“离吾”。
 leaven\
+lech\
 lecherous\1. 谐音“乐赤裸色”。
 lechery\
 lectern\
@@ -7059,6 +7126,7 @@ linen\1. line => linen.
 liner\
 linger\分析：ling——“铃”的拼音；er——“儿”的拼音。\\记忆：上课的铃声都响了，儿子还逗留在课室外面。
 lingo\
+lingual\
 linguist\
 linguistic\
 linguistics\
@@ -7090,6 +7158,7 @@ literature\
 lithe\1. lent- => lithe (with characteristic loss of "n" before "th" in English).\\2. => soft, mild, gentle, meek.
 lithosphere\
 litigant\
+litigate\
 litigation\
 litigious\
 litre\
@@ -7189,6 +7258,7 @@ luck\
 lucky\
 lucrative\
 lucre\“lucre”音似“卢克”——卢布和马克——都是“钱”
+lucubrare\
 lucubrate\
 lucubration\
 ludicrous\1、lud- + -icrous(复合后缀：-ic, -er, -ous).\\2. 谐音“六弟可乐死”------因为太滑稽了，把六弟给乐死了。
@@ -7227,6 +7297,7 @@ luxurious\
 luxury\1. 用牛奶洗脸.
 lynch\1. 凌迟 => 私刑处死。
 lynxeyed\
+lyra\
 lyric\
 macabre\
 macadam\
@@ -7255,6 +7326,7 @@ magma\
 magnanimity\
 magnanimous\
 magnate\
+magnesia\
 magnesium\
 magnet\
 magnetic\
@@ -7313,9 +7385,11 @@ manager\
 mandate\1. command => mandate.\\2. command => mand-.\\3. 男生和你约会，道明寺和杉菜约会就是命令(流星花园里面的男女主角).\\4. have a date with sb.(比较暧昧的)约会.\\5. man + date: 大男子主义的强势男生要约会时，喜欢用命令的口气跟女生约会。
 mandatory\
 maneuver\1. 一个男的想永远控制你，法文词。
+mange\
 mangle\1. mangle	“猛割”， 毁损、撕成碎片
 mangy\
 mania\1. mind => mania.\\2. mind => man- + -ia.
+maniac\
 maniacal\
 manicure\
 manifest\1. That which is manifest is etymologically 'grasped by the hand'.\\2. infest => manifest.
@@ -7345,8 +7419,8 @@ maple\1. 加拿大被称为枫树之国。maple is ample.\\2. 谐音“媒婆”
 mar\
 marasmus\
 marble\
-March\
 march\
+March\
 mare\1. ma(马) + re(阿姨) => 马中的阿姨是不是母的(女的)！\\2. 马阿姨 => 马中的阿姨(母的).\\3. 谐音“马儿”
 margarine\1. 音译“麦淇淋”。
 margin\
@@ -7400,6 +7474,7 @@ maternity\
 mathematical\
 mathematics\
 maths\
+matriarch\1、matri- + arch-.
 matriarchy\1、matri- + -archy.
 matriculate\1. 当然你可以理解为通过登记、注册使其成为有据可查的源头；通过登记、注册、录取才进入、入学，那么登记、注册、录取就相当于入学、进入的源头啦，因为你通过它才能入学啊。
 matrix\
@@ -7418,6 +7493,7 @@ maximize\
 maximum\
 may\may---------"美"----------------少女\\may 五月——媚 \\联想：五月春光明“媚”。
 May\may---------"美"----------------少女\\may 五月——媚 \\联想：五月春光明“媚”。
+may be\
 maybe\
 mayhem\maim使残废。\\mayhem严重伤害罪。
 mayor\
@@ -7431,6 +7507,7 @@ meaning\
 means\
 meantime\
 meanwhile\
+measle\
 measly\
 measure\
 measured\
@@ -7521,6 +7598,7 @@ metabolism\
 metal\
 metallic\
 metamorphose\
+metamorphosis\
 metaphor\
 metaphysical\1. beyond physic => beyond nature.
 metaphysics\
@@ -7548,7 +7626,9 @@ microprocessor\
 microscope\
 microscopic\
 microwave\
+mid\
 middle\
+midge\
 midget\1. 谐音“迷(mini)极的”---迷你(mini)到极点的。
 midst\
 miff\
@@ -7636,6 +7716,7 @@ mishandle\
 mishap\1. happen => perhaps.\\2. happen => hap.\\3. happen => hapless.\\4. mis- "bad" + hap.
 misinform\
 mislead\
+misname\
 misnomer\
 misogamy\1、miso- + gam- "marriage" + -y.
 misperceive\1、per- "thoroughly" + -ceiv- + -e.\\2、literally "take entirely".\\3、figuratively "grasp with the mind, learn, comprehend, recognize, notice".\\4、如今，在英语里只使用其比喻义、引申义。\\5、mis- "wrong, wrongly" + perceive.
@@ -7651,6 +7732,7 @@ missionary\
 misspend\
 mist\mist 【迷失的】雾
 mistake\1、mis- "wrongly" + take.\\2、字面含义：take in error, take wrongly.
+mister\
 mistress\
 misunderstand\1、mis- "wrongly" + under + stand.\\2、字面含义：stand in the midst of.\\3、站在其中，沐浴在知识的海洋里，所谓内行、内行，身在其中，才解其味也；因此，只有身在其中，才能理解、明白。\\4、At here, the under is not the usual word meaning "beneath," but from Old English under, from PIE *enter- "between, among". 另见：undertake.
 misuse\1、mis- "badly, wrongly" + use.
@@ -7659,6 +7741,7 @@ mitigate\
 mitten\
 mix\
 mixture\
+mnemonic\
 mnemonics\
 moan\
 moat\1. mount / mountain => mound => moat.\\2. m- (漠河) + oat => 护城河里填满了燕麦。\\3. mo- (漠河) + at => 在漠河。\\4. 谐音“茅塔”-----茅塔河(位于湖北省十堰市)。
@@ -7705,6 +7788,7 @@ momentum\1. 动量表示为物体的质量和速度的乘积，因此动量是�
 monarch\1、mon- "alone, only" + arch-.
 monarchy\1、mon- "alone, only" + -archy.
 monastery\
+monastic\
 monasticism\
 Monday\
 monetary\
@@ -7742,6 +7826,7 @@ moonshine\
 mopery\
 moral\1. 妈妈口头上都是讲道德的 n. morality.\\2. 妈妈总是把道德挂在嘴边。\\3. 妈妈总是在口头上告诫我们要讲道德。
 morale\
+moralist\
 moralistic\
 morality\
 morass\
@@ -7752,6 +7837,7 @@ more\
 moreover\
 mores\
 moribund\moribund(末日伴的) 垂死的
+morn\
 morning\
 moron\1. 盲人.
 morose\1. 冇玫瑰 --> 没爱情。
@@ -7803,6 +7889,7 @@ move\move 移动——movie电影（电影通过移动画面来放映）
 movement\
 movie\
 mow\1. math, aftermath, mead, meadow => mow.\\2. mow => mead, meadow "mowed land".\\3. mow => aftermath "grass grows secondly after first mowed".\\4. 谐音“茅”----茅草、茅草堆。\\5. 谐音“茅”----茅刀----割茅草的刀。
+Moxie\
 moxie\
 much\
 mucilage\
@@ -7810,6 +7897,7 @@ muckrake\
 mud\1. 谐音“马的”----泥马的。-----泥。\\2. muddy, muddle => mud.
 muddle\1. perhaps frequentative formation from mud.
 muddy\
+muff\笨蛋 muff 木夫, 麻夫\\mutt 木头
 muffle\1. 音：麻缚，麻覆，用麻布包裹起来；\\2. muffle 音“马蜂”→用头巾裹住头躲避马蜂\\3. 马弗炉是英文Muffle furnace翻译过来的。Muffle是包裹的意思，furnace是炉子，熔炉的意思。马弗炉在中国的通用叫法有以下几种：电炉、电阻炉、茂福炉、马福炉。马弗炉是一种通用的加热设备，依据外观形状可分为箱式炉、管式炉、坩埚炉。\\4. 马弗炉(muffle furnace)的通常有一层厚厚的耐火层和保温层。本来马弗炉是烧气的，燃烧部分和方形炉膛部分是分开的，这种分开或隔焰结构，及其闷的严严实实的炉腔，这个结构叫muffle，所以叫马弗炉。后来虽改为电加热，但始终保留了这个名字。
 muffled\
 muffler\
@@ -7837,10 +7925,12 @@ muniments\1、muni- "defend, fortify, protect" + -ment + -s.\\2、引申义：�
 munition\1、mun- "defend, fortify, protect" + -ition(复合后缀：-ite, -ion).\\2、字面含义：a defending, fortification, protecting, defensive walls.
 mural\1、mur- + -al.\\2、含义：pertaining to walls; painting on a wall, short for mural painting.
 murder\
+murk\
 murky\1. morning => morn => murk => mirk, mirky, murky.
 murmur\
 muscle\1. from Latin musculus "a muscle," literally "little mouse," diminutive of mus "mouse" (see mouse).\\2. So called because the shape and movement of some muscles (notably biceps) were thought to resemble mice.
 muscular\
+Muse\
 muse\
 museum\
 mushroom\
@@ -7975,6 +8065,7 @@ neur-neuron\
 neuralgia\
 neurology\
 neurosis\
+neuter\
 neutral\
 neutralize\
 neutron\
@@ -8043,6 +8134,7 @@ noncommittal\
 nonconformist\
 nondescript\
 none\1. no + one => none.\\2. none => non-.
+none the less\
 nonentity\
 nonesuch\
 nonetheless\
@@ -8074,6 +8166,7 @@ nostalgia\
 nostalgic\
 nostrum\nostrum no（不）+strum（发音“私传”）：秘方药不对外私传
 not\
+not withstanding\
 notability\
 notable\
 notate\
@@ -8192,6 +8285,7 @@ obtain\1. ob- "to" + -tain.\\2. => hold, take hold of, get possession of, acquir
 obtainable\1. ob- "to" + -tain + -able.\\2. => hold, take hold of, get possession of, acquire.
 obtrude\1. ob- "toward" + trud- + -e.\\2. => thrust into, push into, thrust upon, thrust onto, push onto.\\\extrude挤出,伸出,突出。\\protrude伸出,突出。\\obtrude伸出,突出。\\不管是ex-(出去)还是pro-(向前),还是ob-(朝着)不都是-trude-(推)出去吗?
 obtrusive\1. ob- "toward" + trus- + -ive.\\2. => thrust into, push into, thrust upon, thrust onto, push onto.
+obtund\
 obtundent\
 obtuse\1. Obtuse：我不会吐丝，而别的蚕都吐——笨的、钝角的\\2. 这也是为什么 obtuse angle，obtuse triangle 被翻译为钝角和钝角三角形的原因。
 obverse\1、ob- "toward, against" + vers- + -e.\\2、含义：turn toward or against, turned against, directed toward. => turned toward the observer, frontal.\\3、也就是转到对立面、转到对应面，转到面前形成对峙的局面，转到面对面的对立、对峙局面；从常识来讲，去对抗、对峙肯定都是使用正面或者主要的一面或者旗鼓相当的一面嘛。
@@ -8243,6 +8337,7 @@ offspring\
 offstage\
 often\
 ogle\Ogle 女性色迷迷地看男性 Leer 男性色迷迷地看女性
+oidum\
 oil\oil.............哦 油..................油\\oil 油——熬油\\联想：买油就是为了“熬油”。
 ointment\1. ungu- 谐音“俺膏、昂膏”-----昂贵的膏药。=> ointment.\\2. 谐音“额要涂抹它”。
 okay\
@@ -8294,6 +8389,7 @@ opiate\
 opine\1. opinion => opine.
 opinion\
 opinionated\
+opium\1. 音译“鸦片、阿片”。\\2. 鸦片，又叫阿片，俗称大烟。\\3. 希腊人称其音为“阿扁”。公元六世纪初，阿拉伯人把罂粟传到了波斯，波斯人变“扁”音为“片”，称其为“阿片”。在公元七八世纪的时候，罂粟作为药材从印度等地传入中国，中国人把“阿”音又发成了“鸦”音。从此，在中国就有了“鸦片（或雅片）”一词。
 opponent\1. op- "against" + pon- + -ent.\\2. literally "set against, set opposite". => oppose, object to.
 opportune\
 opportunistic\
@@ -8305,6 +8401,7 @@ oppressive\
 opprobrious\
 opprobrium\
 opt\
+optic\
 optical\
 optimal\
 optimism\
@@ -8343,6 +8440,7 @@ organize\
 orgy\orgy org（器官）+y：器官上满足：纵欲狂欢；参考：性高潮：organsm
 orient\
 oriental\1. o‐太阳 ri‐升起，太阳升起，从东方进入.
+orientate\
 orientation\1. New Oriental School 新东方.\\2. 耶稣死时面向西方，从西边照过来的光是死亡之光.
 origin\
 original\
@@ -8396,6 +8494,7 @@ outfit\
 outfox\
 outgas\
 outgoing\
+outgrow\
 outgrowth\
 outing\
 outlandish\1. exotic <===> outlandish. 构词原理及其含义差不多。
@@ -8517,10 +8616,12 @@ palette\1、pal- "stake, wooden post" + -ette.\\2、原始含义：flat wooden b
 palings\
 palisade\
 pall\1、pall- "cloak, coverlet, covering" => pall.\\2、该词的第二层含义：shortened form of appall, 也就是由appall缩略而来。
+pallere\
 palliate\1、palli- + -ate.\\2、字面含义为：cloaked, cover with a cloak, conceal. => alleviate without curing.
 palliation\1、palli- + -ation.\\2、字面含义为：cloaked, cover with a cloak, conceal. => alleviate without curing.
 palliative\1、palli- + -ative.\\2、字面含义为：cloaked, cover with a cloak, conceal. => alleviate without curing.
 pallid\1、pall- + -id.
+pallor\1、pall- + -or.
 palm\【谐音】啪——手掌拍击的声音
 palmy\
 palpable\1. feel => palpable.\\2. 音：拍拍吧。
@@ -8531,6 +8632,7 @@ palter\
 paltry\paltry 发音“破碎”:无价值
 pamper\1. 帮宝适(Pampers)：婴儿用品品牌。\\2. 谐音“胖胖儿”
 pamphlet\
+Pan\pan盘——盘
 pan\pan盘——盘
 panacea\panacea       万灵药     “盼那些万灵药”
 panache\
@@ -8539,6 +8641,7 @@ panda\〔小熊猫盼〈pan〉长大〈da〉〕
 pandemic\
 pandemonium\
 pander\
+pane\panel => pane.
 panegyric\1. pan- + egyr- + -ic.\\2. => 该词的本义为：public assembly (especially in honor of a god), originally an adjective, "for a public festival".\\3. 该词缩略自: panegyrikos (logos) "(a speech) given in a public assembly".\\4. 由此引申为代指：public eulogy.\\5. 本义为全部到公共场合集会的形容词含义。
 panel\
 pang\1、pain + sting.\\2. pang ...........碰.....................（一阵）剧痛
@@ -8567,6 +8670,7 @@ paragon\
 paragraph\
 parallel\1、par- / para- "beside" + allel-.\\2、字面意思就是：beside one another.
 parallelism\
+paralyse\
 paralytic\
 paralyze\1. 躺在你旁边的那东西.
 parameter\
@@ -8631,6 +8735,7 @@ pastel\1. paste => pastel.\\2. literally "material reduced to a paste".\\3. past
 pasteurize\
 pastiche\
 pastime\1. 娱乐时光总是过得特别快.\\2. past + time => 字面意思：消磨时间、打发时间。消遣；娱乐；游戏就是被人们都认为是用来打发时间。
+pastor\
 pastoral\
 pastry\
 pasture\
@@ -8721,6 +8826,7 @@ pell-mell\
 pellucid\
 pelt\
 pen\
+penal\1、pen- + -al
 penalize\1、pen- + -al + -ize.
 penalty\1、pen- + -al + -ty.
 penance\1. penitence => penance.
@@ -8762,6 +8868,7 @@ percipient\
 percolate\
 percussion\1. discussion => percussion.
 percussionist\
+peregrinate\
 peregrination\
 peremptory\
 perennial\
@@ -8871,6 +8978,7 @@ petulance\
 petulant\
 phantom\
 pharisaic\
+Pharisee\
 pharmaceutical\
 pharmacology\
 pharmacy\
@@ -8888,6 +8996,7 @@ philistine\
 philogyny\
 philosopher\1、philo- + soph- + -er.\\2、literally "lover of wisdom".
 philosophy\1、philo- + -sophy.\\2、literally "love of knowledge, pursuit of wisdom".
+phlegm\
 phlegmatic\1、flame => flam- => flem- => flegm- => phlegm- + -atic => phlegmatic.\\2、该词字面含义是：受温度、热度影响的一种体液，而中世纪医学认为，那种温度、热度很低的体液会导致冷漠、冷淡；因此该词引申为：冷漠、冷淡。
 phoenix\
 phone\1. iPhone (苹果手机) => phone.
@@ -8899,6 +9008,7 @@ photography\
 photosynthesis\
 phrase\
 phraseologist\
+physic\
 physical\
 physician\
 physicist\
@@ -8969,15 +9079,18 @@ pitiful\
 pitiless\
 pittance\1. pittance (原指出家人的口粮，一般由别人出于pity而捐赠)。
 pity\
+pivot\
 pivotal\
 placate\
 place\
 placebo\
+placere\
 placid\
 plagiarism\
 plagiarize\
 plague\1、plag- + -ue.\\2、=> malignant disease strike to people, or that disease makes people pain and agony.\\3、想象一下让人们哀鸿遍野的瘟疫以及天灾人祸吧！\\4. pl- + argue => plargue => plague.\\5. 漂亮(pl)美眉每天和你争吵(argue)，在你面前唠叨、争吵个不停、没完没了，就连花儿(r)都是受不了而凋谢掉落了，更何况你呢？因此这对你来说简直就是灾难，就像瘟疫一样想摆脱都摆脱不了，这简直就是对你的折磨，让你苦恼不已。\\6. 所以娶个漂亮美眉并不一定是好事，她很可能脾气大、你得惯着她，伺候她，稍不顺心就和你争吵、对你纠缠不休，让你痛苦不堪，对你来说简直就是灾难。\\7. 因此，敬告各位男同胞们，千万不要跟漂亮美眉争吵，否则是灾难性的后果！\\8. plague 读作:铺雷哥。越南丛林里铺地雷的哥哥染上了瘟疫。
 plain\1. 因为简单、平白、坦率，自然就很容易看清楚、看明白。=> 清楚的、明白的、明显的。
+plaint\
 plaintiff\
 plaintive\1、-plaint- + -ive.\\2、=> lamenting, mournful, sad.
 plait\1. Pleat, plait, are essentially the same word.\\2. pleat <=====> plait.\\3. plic- / plicat- / plict- "fold, twist" => pleat, plait.
@@ -9018,6 +9131,7 @@ pledge\1. 在漂亮美眉的边缘、旁边向她发誓一定会爱她到永远�
 plenitude\
 plentiful\
 plenty\
+pleonasm\
 pleonastic\
 plethora\
 pliable\
@@ -9048,6 +9162,7 @@ plutocracy\
 ply\
 pneumonia\“pneumon”音似“牛毛”，ia-后缀：病——“肺炎”是小儿常见多发病，是一种患 者多如“牛毛”的“病”
 poach\1. poke =》poach.\\2. pocket and pouch => poach.
+pock\
 pocket\
 pococurante\
 pod\1. 谐音“破的”------破茧而出的。\\2. iPod (苹果公司音乐播放器) => i- +‎ pod.\\3. iPod 词源：Coined (and trademarked) by Apple, apparently from i- +‎ pod, suggesting a small place to keep things.\\4. iPod => pod- broadcast => podcast: 播客。
@@ -9097,6 +9212,7 @@ polygamy\1、poly- + gam- "marriage" + -y.
 polyglot\
 polygon\
 polymath\
+pomegranate\
 pomp\1. from Latin pompa "procession, pomp," from Greek pompe meant literally 'sending, a sending' (it was derived from the verb pempein 'send').\\2. it came to be used metaphorically for a 'solemn procession or parade' (as being something that was 'sent out' on its way), and hence for the concomitant 'display' or 'ostentation'.\\3. 手机品牌：深圳市盛况科技有限公司(POMP).\\4. 谐音“庞铺”------庞大铺张的场面。\\5. 谐音“庞培”--------庞培古城是非常浮华、壮丽、宏大的。
 pomposity\
 pompous\
@@ -9163,6 +9279,7 @@ posture\1. post- + -ure.\\2. 含义：position, posture.
 posturer\
 pot\〔颠倒词〕壶(pot)的盖子在其顶端(top) 
 potable\
+potash\
 potassium\
 potation\
 potato\
@@ -9505,6 +9622,7 @@ protective\
 protein\
 protest\
 protestation\
+Proto-Germanic\
 protocol\
 proton\
 prototype\1、proto- + typ- "pattern, model, mold" + -e.
@@ -9517,9 +9635,11 @@ proud\
 prove\
 provenance\
 provender\
+proverb\
 proverbial\
 provide\
 provided\
+providence\
 provident\
 providential\
 province\
@@ -9531,6 +9651,7 @@ provisory\
 provocation\
 provocative\
 provoke\
+prow\
 prowess\1. proud => prowess.\\2. proud => pride, prowess.
 prowl\1. Midnight Prowl 午夜潜行.\\2. Polar Prowl 极地漫游: 极地漫游(VCD)(野生动物地球村系列).\\3. pro- "forward" + owl (猫头鹰) => prowl: 像猫头鹰一样向前潜行、搜寻猎物。
 proximate\
@@ -9559,6 +9680,7 @@ publication\
 publicity\
 publicize\
 publish\
+puck\
 pucker\
 puckish\
 pudding\音译“布丁”
@@ -9625,6 +9747,7 @@ push\1、puls- "drive, push" => push.
 pushover\
 pushy\1、puls- "drive, push" => push.\\2、push + -y.
 pusillanimous\pusillanimous-----"怕"see animals-------胆小的
+puss\
 pussy\
 put\
 putative\
@@ -9677,6 +9800,7 @@ quest\【例】in quest of adventure寻求冒险活动\\【助记】quest(谐音
 question\
 questionnaire\
 queue\
+quib\
 quibble\1. 谐音“诡辩(单词首字母q与字母g形近，因此将其当作字母g来发音，因此得到此谐音)、诡吧、诡驳”。\\2. qui, quae, quo <====> quibble <=====> quiz.
 quibbler\
 quick\
@@ -9792,9 +9916,11 @@ rarefy\
 rarely\
 raring\
 rash\1. rush => rash.\\2. rather => rash.\\3. ras- "scrape" => rash.\\4. The connecting notion would be of itching.
+rasp\1. grasp => rasp => 哥哥抓住、紧握粗锉刀用力地锉磨，想将工具磨快，在锉磨的过程中发出了刺耳的刮擦声。
 raspy\
 rat\
 rate\
+rathe\
 rather\
 ratification\
 ratify\
@@ -9809,6 +9935,7 @@ raucous\1. *reu-（拟声词根）=》 rut, roar, raucous, rumor, riot.\\2. from
 ravage\
 rave\1. rabies => rave.\\2. rabies => rabere "be mad, rave" <= rab-.\\3. rab- "be mad, rave" => rabies, rave, rage.
 ravel\1. Unraveling the Mysteries of the Universe. => 揭开宇宙之谜。\\2. How to Unravel a Sweater to Recycle Yarn. => 怎么把毛衣拆开并回收毛线。\\3. Unravel Mysteries.\\4. The seemingly contradictory senses of this word (ravel and unravel are both synonyms and antonyms) are reconciled by its roots in weaving and sewing: as threads become unwoven, they get tangled.\\5. The prefix 'un-' is either reversive or intensive, according as ravel is taken to mean 'tangle' or 'untangle'.\\6. ravel-----"热窝（上的蚂蚁）"---使混乱，使纠缠\\7. 谐音“乱舞、乱舞哦、乱喔、乱窝”。
+raven\1. raven English has two separate words raven.\\2. The bird-name is originated in imitative of the raven's harsh croaking.\\3. The verb raven 'prey, plunder', nowadays encountered virtually only in its present participle ravening and the derived ravenous, goes back ultimately to Latin rapere 'seize by force'.
 ravenous\
 ravine\1. 由该词的词源信息可知，它主要是指水流经由强力、暴力冲刷而形成的沟壑、深谷。\\2. 雷维恩深谷。
 ravish\
@@ -9916,6 +10043,7 @@ recourse\
 recover\
 recovery\1、re- "back, again" + cover- + -y.\\2、字面含义为：get back, get again, regain.
 recreant\
+recreate\1、re- "again" + creat- + -e.\\2、字面含义：refresh oneself by some amusement, refreshment or curing of a person, refreshment by eating, create again.\\3、主要是指工作累了后，通过娱乐、休息的方式使身心得到恢复；重现、重建饱满的精神/身体状态。
 recreation\1、re- "again" + creat- + -ion.\\2、字面含义：refresh oneself by some amusement, refreshment or curing of a person, refreshment by eating, create again.\\3、主要是指工作累了后，通过娱乐、休息的方式使身心得到恢复；重现、重建饱满的精神/身体状态。\\4. 每当娱乐过后，这个人像被重新创造出来一样。
 recriminate\
 recrudesce\
@@ -10070,8 +10198,8 @@ remove\
 remunerate\1、re- "back" => "这里理解为、引申为：repay, 回报" + muner- + -ate.\\2、字面含义：repay for the service or work. => 报酬，酬劳。
 remuneration\1、re- "back" => "这里理解为、引申为：repay, 回报" + muner- + -ation.\\2、字面含义：repay for the service or work. => 报酬，酬劳。
 remunerative\1、re- "back" => "这里理解为、引申为：repay, 回报" + muner- + -ative.\\2、字面含义：repay for the service or work. => 报酬，酬劳。
-renaissance\1. re- "again" + naiss- + -ance.\\2. => reborn, be born again.
 Renaissance\1. re- "again" + naiss- + -ance.\\2. => reborn, be born again.
+renaissance\1. re- "again" + naiss- + -ance.\\2. => reborn, be born again.
 rend\1. heart rended 撕心裂肺\\2. rend one's heard 动人\\3. 谐音“韧带”----韧带容易撕裂。\\4. 谐音“刃的”----手刃仇人的------手刃仇人，就是将仇人劈裂、撕裂成两半儿或多半儿。\\5. rend <====> rind.
 render\1. Vulgar Latin *rendere (formed by dissimilation or on analogy of its antonym, prendre "take"), from Latin reddere "give back, return, restore," from red- "back" + comb. form of dare "give".\\2. rend- "give back, present, yield, deliver; repeat, say again".\\3. *rendere => rendre => render.\\4. => hand over, deliver; return; represent, depict.\\5. surrender, rent => render.
 rendering\
@@ -10110,6 +10238,7 @@ replacement\
 replenish\1. 再次使其满.\\3. ple- / plet- "fill" => plen- "fill full".
 replete\
 replica\1、re- "back, again" + plic- "fold" + -a.
+replicare\
 replicate\
 reply\
 report\
@@ -10294,6 +10423,7 @@ reward\
 rewarding\
 rhapsodize\
 rhapsody\
+rhetor\
 rhetoric\
 rhetorical\
 rhinestone\
@@ -10307,6 +10437,7 @@ ribald\1. It is a derivative of the verb riber 'sleep around'. This is turn went
 ribbon\
 rice\
 rich\
+rickets\
 rickety\
 rid\1. 谐音“离的”
 riddle\
@@ -10315,7 +10446,9 @@ rider\1. rider=附加条款应该这么理解：骑在正式条款上的东西�
 ridge\谐音“磊脊”----由很多石头堆积而形成的山脊。\\谐音“里脊”---大家都吃过里脊肉，但是很多人应该不知道里脊是什么意思，里脊(肉)顾名思义就是脊椎骨里侧、内侧(的肉)。动物的脊椎骨就像山脊一样。所以他们才都用一个“脊”字来表达。\\1. bridge => ridge => 架在山脊之间的桥梁。\\2. 美国著名地名：橡树岭(Oak Ridge)：又被音译为“奥克里季”。美国田纳西州东部坎伯兰山区新兴城市。第二次世界大战中在此修建了最早的铀分离工厂及有关科研、实验机构。
 ridicule\
 ridiculous\
+riducule\
 rife\
+riff-raff\
 rifle\1. 音译“来复枪”。
 rift\1. rive => rift.\\2. 类似：drive => drift, thrive => thrift.\\3. 谐音“裂缝的”。
 rig\
@@ -10373,6 +10506,7 @@ role\
 roll\
 roller\
 rollicking\
+Romance\
 romance\
 romantic\音译“罗曼蒂克”
 romanticize\
@@ -10506,6 +10640,7 @@ sampler\
 sanatorium\
 sanctify\
 sanctimonious\
+sanctimony\
 sanction\1. The root / stem sanct- has meaning of 'ordaining of something as sacred or inviolable', hence more broadly a 'decree, sanction'.\\2. => 依法...(prescribe by law) => 宣布针对某种行为的法律。=> 因此如果某种行为是合法的，就会得到支持、鼓励、批准、认可(常与with，without连用)，不可数名词；如果某种行为是违法的，那么就会被制裁、处罚(常与against，on连用)，可数名词，常用复数。
 sanctuary\
 sand\
@@ -10582,6 +10717,7 @@ scarcity\
 scare\
 scarf\1. 红领巾(Red scarf)。
 scarification\
+scathe\1. 谐音“死烤死、死砍死、使烤死、使砍死”。\\2. scythe => scathe.
 scathing\1. 谐音“死烤死、死砍死、使烤死、使砍死”。\\2. scythe => scathe.
 scatter\
 scavenge\1. show => *scow- => *scaw- => *scav- => *scavage => scavager => scavenger => scavenge "search, look at, inspect".\\2. With intrusive -n- (c.1500) as in harbinger, passenger, messenger.\\3. 谐音“拾街(四川方言：gai)瘟鸡、拾街蚊圾、拾街蚊子、扫街蚊圾”。
@@ -10604,6 +10740,7 @@ school\
 science\
 scientific\
 scientist\
+scintilla\
 scintillate\
 scintillating\
 scion\
@@ -10640,6 +10777,7 @@ screen\
 screw\
 screwdriver\
 scribble\1. 谐音“是可潦吧”。
+scribe\
 scrimp\skimp吝啬,节省。\\scrimp吝啬,节省。
 script\
 scripture\
@@ -10660,6 +10798,7 @@ sculpt\
 sculptor\1. sculpt- + -or.
 sculpture\
 scum\1. skim <====> scum.\\2. sky "cover" => scum.\\3. scum is etymologically a 'layer on top' of something.\\4. 区别：scrum, scum: 有花儿就会为花儿而争抢、扭打，没花儿就是垃圾、废物、浮渣。
+scurrile\
 scurrilous\1. scurrilous jokes 粗俗笑话, 下流笑话。
 scurry\1. perhaps from hurry-scurry, a reduplication of hurry.\\2. hurry => scurry.
 scurvy\
@@ -10792,6 +10931,7 @@ sequential\
 sequester\
 sequestrate\
 sequoia\1. 红杉资本：Sequoia Capital
+seraph\1、炽天使（或音译撒拉弗、色辣芬或西拉冰；英文：众数为Seraphim，单数为Seraph)。
 seraphic\
 sere\
 serendipitous\
@@ -10803,6 +10943,7 @@ serial\
 series\
 serious\
 sermon\
+serpent\音似“蛇喷他”——能喷毒液的蛇——大毒蛇
 serpentine\
 serrate\
 serrated\
@@ -10845,6 +10986,7 @@ shale\
 shall\
 shallow\1. 形近词：wallow, tallow, swallow, shallow, sallow, hallow, callow, fallow.
 sham\sham→shame(n. 羞耻)→造假者应感到羞耻
+shamble\1. shambles => shamble.\\2. sh- (瞎走) + amble (缓行，缓步，慢步) => shamble. 瞎走、闭着眼睛走导致不稳。\\3. shamble(音：跚步)蹒跚地走.
 shambles\1. Shambles Square 新夏波斯广场: 因为以前是卖肉的地方.\\2. Shambles Glacier 尚布勒斯冰川: So named by the FIDS because of the very broken nature of the glacier's surface.\\3. The Shambles 肉铺街: There are also streets known as "The Shambles" in other towns in the United Kingdom.
 shame\
 shammer\
@@ -11258,6 +11400,7 @@ soothsayer\
 sop\1. soup (汤) => sup => sop => sip.
 sophism\1、soph- + -ism.
 sophist\1、soph- + -ist.
+sophisticate\1、soph- + -isticate (复合后缀)。
 sophisticated\1、soph- + -isticated (复合后缀)。
 sophistication\1、soph- + -istication (复合后缀)。
 sophistry\1、sophist, the earlier form is sophister.\\2、sophister => sophistr- + -y.\\3、sophister + -y => sophistery => sophistry.
@@ -11307,6 +11450,7 @@ sparkle\
 sparkling\
 sparring\1. perhaps spur, spear => spar.\\2. ex- (see ex-) + parare "make ready, prepare," hence "ward off, parry".\\3. 荷兰SPAR连锁超市：在荷兰，"SPAR"的意思是杉树。SPAR的LOGO的含义：永不落叶的杉树。\\4. SPAR: spar n. 圆材（如桅、桁等）spar平台的含义来源于此，spar平台即为单柱式海洋石油钻井平台。\\5. spar => sparring.
 sparse\1、spars- + -e.
+Sparta\
 spartan\
 spasmodic\
 spat\
@@ -11400,6 +11544,7 @@ spontaneous\
 spoof\
 spoon\1. spoon <====> spade.
 sporadic\1. *sper- "to strew" => sperm, spore, sporadic, sprawl, spray, spread, sprout.\\2. Sporadic means etymologically 'scattered like seed'.\\3. sperm, spore => sporadic.\\4. sprout => sporadic.\\5. spore => sporadic.\\6. spread => sporadic.
+spore\1. 谐音“是孢”-----是孢子。\\2. sperm <====> spore.
 sport\
 sportsman\
 spot\1. 专家(sp)在现场认出了那个有斑点的罐子(pot).\\2. Blogspot.com
@@ -11417,6 +11562,7 @@ sprinkle\1、sperg- => sprink- + -le => sprinkle.\\2. frequentative of spring.\\
 sprinkling\1、sperg- => sprink- + -le => sprinkle.\\2、sprinkle + -ing.\\3、含义：small amount.
 sprint\1. 谐音“死跑赢他”-----(字母r与字母y形近，故以字母y为谐音)冲刺，全速跑。\\2. Sprint (斯普林特) -------- 美国著名的电信公司之一。
 sprout\1. r 是花，发芽.\\2. 专家种的花长出来了.\\3. 有花儿是发芽(sprout), 无花儿是喷发、喷射(spout).
+Spruce\1. 谐音“是普鲁士”。\\2. Prussia => *Pruce => spruce (denoting Prussia or something originating in Prussia).\\3. 首字母s的赘入，无法确定，可能是连读音变的结果，或者可以理解为加强之意。
 spruce\1. 谐音“是普鲁士”。\\2. Prussia => *Pruce => spruce (denoting Prussia or something originating in Prussia).\\3. 首字母s的赘入，无法确定，可能是连读音变的结果，或者可以理解为加强之意。
 spry\
 spun\
@@ -11524,6 +11670,7 @@ stellar\
 stem\
 stench\1. stink => stench.\\2. drink => drench.
 stencil\
+Stentor\
 stentorian\
 step\
 stereo\1. stereos "solid" (see sterile) => stereo.\\2. a mathematical term denoting the measurement of solid or threedimensional objects.\\3. steroid(类固醇) => stereo.
@@ -11662,9 +11809,10 @@ stupendous\1. Latin stupere "be stunned, be struck senseless" (see stupid) => st
 stupid\
 stupor\
 sturdy\身体强壮(sturdy)是学习（study）的本钱
+stutt\
 stutter\1. 谐音“舌打套儿、舌打头儿”。
-stygian\
 Stygian\
+stygian\
 style\
 stylish\
 stylistic\
@@ -11780,11 +11928,13 @@ sunlit\
 sunrise\
 sunset\
 sunshine\
+sup\1. soup (汤) => sup => sop => sip.
 super\
 superabound\
 superannuated\
 superb\1. 比b 级货要好的.\\2. 超过了best, 比best还好。
 supercilious\
+supercilium\
 superficial\1. super- "above" + fici- + -al.\\2. => of the surface.\\3. => concerned only with outward appearances.\\4. => "not deep, without thorough understanding, cursory" (of perceptions, thoughts, etc.).
 superficiality\
 superfluity\
@@ -11859,6 +12009,7 @@ sustained\1. sus- "up from below" + -tain + -ed.\\2. => hold up, support, endure
 sustenance\1. sus- "up from below" + ten- + -ance.\\2. => hold up, support, endure.\\3. => means of living, subsistence, livelihood, action of sustaining life by food.
 suture\
 svelte\
+swag\
 swagger\1. swing => swag.\\2. frequentative form of swag.\\3. sway => swag => swagger.
 swallow\1. 形近词：wallow, tallow, swallow, shallow, sallow, hallow, callow, fallow.\\2. 蛇在一个低矮的墙上，准备吞食这只燕子。
 swamp\1. 谐音“死亡泊”-----死亡的沼泊、沼泽泊。\\2. 沼泽是一个很恐怖的地方，很容易沉入淤泥里死掉。
@@ -11942,6 +12093,7 @@ tactful\
 tactic\
 tactile\
 tactless\
+tadde\
 tadpole\
 tag\1. tag along with sb.
 tail\tale 故事，传说——tail尾巴 \\口诀：；老师讲了一个小壁虎断尾巴的故事。
@@ -11957,6 +12109,7 @@ talkthon\
 tall\
 tally\1. tailor => tally.
 talon\
+tambour\
 tambourine\1. "弹拨铃"
 tame\
 tamp\
@@ -12001,6 +12154,7 @@ tax\
 taxi\1. shortening of taximeter cab.\\2. taximeter "automatic meter to record the distance and fare".\\3. Medieval Latin taxa "tax, charge."\\4. 音译“的士”，这是按粤语音译的，所以从普通话的角度看差异很大。我们经常说的“打的”，就是源自粤语。出租车在香港和广东较早出现，于是粤语中也就相应地有了“搭的士”的说法，后来就简化变成了“打的”。
 taxing\
 taxonomist\
+taxonomy\
 tea\
 teach\
 teacher\
@@ -12081,6 +12235,7 @@ tepid\
 tergiversate\
 term\
 termagant\
+Termagant\
 terminal\
 terminate\
 termination\
@@ -12427,6 +12582,7 @@ tribal\
 tribe\
 tribulation\
 tribunal\1. tribe => tribunal.
+tribune\
 tributary\
 tribute\
 trick\
@@ -12517,6 +12673,7 @@ tusk\
 tussle\
 tutor\
 tuxedo\
+Tuxedo Park\
 tweak\1. PIE base *twi- "two", from root of two => twist, tweak, twitch, twig.\\2. 扭东西时其实就是两端朝两个相反的方向转动，所以意思就是由此引申而来的。
 twelve\
 twenty\
@@ -12525,6 +12682,7 @@ twig\1. from the Germanic base *twi- 'two', and so etymologically it presumably 
 twin\1、PIE root dwo-, dwi- "two, double" => two, twice, twain, twin, duo.
 twine\
 twinge\
+twink\
 twinkle\1. wink => twinkle.\\2. t-(谐音“他”) + wink + -le (frequentative suffix) => twinkle: 他闪耀、他眨眼。\\3. Twinkle Twinkle Little Star：《一闪一闪亮晶晶》（又译《一闪一闪小星星》，英文原称Twinkle, Twinkle, Little Star，又称《小星星》）是一首相当著名的英国儿歌，旋律出自于法国民谣《啊！妈妈，我要告诉你》（Ah! vous dirai-je, Maman）.有好几个国家用不同的语言歌唱过。在我们中国就有那首“ 一闪一闪亮晶晶，满天都是小星星”。
 twinkling\
 twist\1. PIE base *twi- "two", from root of two => twist, tweak, twitch, twig.\\2. 扭东西时其实就是两端朝两个相反的方向转动，所以意思就是由此引申而来的。
@@ -12581,6 +12739,7 @@ unconsolidated\
 uncouth\1. 以后由于人性中存在的一种对陌生人和外国人的厌恶的倾向使它的词义逐渐引申为如今的含义。\\2. couth 的原始含义也已废弃不用，而如今的含义是由 uncouth 逆构而成。\\3. couth 是古英语中 can 的过去分词，其本义为：known, have learned, be acquainted with. 后受到 uncouth 的那种对熟人与陌生人之间的偏见，而引申为：有教养的，文明的，文雅的，温文尔雅的。因为人都倾向于认为自己的人都是开化的、文明的、有教养的人，而外人、外邦、陌生人都是未开化的、不文明的、粗野的人。\\4. un- "not" + couth. 本义为：unknown, unfamiliar. 引申为：不文明的，粗鲁的，无教养的，不雅的。
 uncover\
 unctuous\
+unctus\
 undaunted\
 undemanding\
 under\
@@ -12834,6 +12993,7 @@ valuable\1、val- "be worth, be of value" + -ue.\\2、value => valu- + -able.
 value\1、val- "be worth, be of value" + -ue.
 valve\1. volv- "roll" => valve, literally "that which turns".\\2. => section of a folding or revolving door.
 van\〔近形词〕运货车(van)上是盐〈yan〉包\\\分析：van——“玩”的近似拼音。\\记忆：我开着客货两用车出去玩。\\1. shortening of vanguard.\\2. advance => van.\\3. shortening of caravan.\\4. Century Dictionary suggests this was perhaps regarded as *carry-van.\\5. nav- <====> van.\\6. v- (vehicle) + an => van: 一辆车。
+vandal\
 vandalism\
 vandalize\
 vanguard\1. avant: from Latin abante, a compound of ab "from" (see ab-) and ante "before" (see ante).\\2. avant + guard => vanguard.
@@ -12880,6 +13040,7 @@ velocity\我们在学物理的时候，都知道表示速度的是字母“v”,
 velvet\1. wool => velvet.
 velvety\
 venal\1、ven- "for sale" + -al.\\2、字面意思就是：offered for sale, capable of being obtained for a price.
+vend\1、vend- => vend.\\2、ven- "for sale" + dare "give, grant, offer, put".\\3、字面意思就是：sell, offer for sale.
 vendetta\
 vendor\
 veneer\
@@ -12922,6 +13083,7 @@ verse\1、vers- + -e.\\2、The metaphor is of plowing, of "turning" from one lin
 versed\1. verse (v.) => 过去式及其过去分词：versed.
 version\1、vers- + -ion.\\2、字面含义：a turning.\\3、也就是其中一种翻译、释义、解释、改写、版本。这里取的是turn的引申义：翻译、释义、解释、改写、变体(对变换、转变的引申)。
 versus\1、vers- + -us(拉丁语后缀，显然该词直接源于拉丁语，没做任何变动).\\2、含义：turned toward or against. => action of one party against another.
+vertebra\1、vertere => verte- + -bra(工具格后缀：instrumental suffix).\\2、字面含义：something to turn on. => any bone of the spinal column, joint or articulation of the body, joint of the spine.\\3、vertebra => vertebr- / vertebro-: vertebra.
 vertebrate\1、vertere => verte- + -bra(工具格后缀：instrumental suffix).\\2、字面含义：something to turn on. => any bone of the spinal column, joint or articulation of the body, joint of the spine.\\3、vertebra => vertebr- / vertebro-: vertebra.\\4、vertebr- + -ate.
 vertex\1、vert- + -ex.\\2、字面含义：that which turns, the turning point. => whirling column, whirlpool. => highest point, the point opposite the base in geometry.\\3、其原始含义或者说最初含义为：whirling column, whirlpool. 也就是：漩涡，漩涡所涌出的漩涡柱；想象一下升起的漩涡柱顶端的顶点。再想象一下咱们物理学中的“钟摆模型”，其自由转动只会低于其中心的转动点。\\4. 转折点---顶点就是发生转折的点。
 vertical\1、from Latin vertex (genitive verticis) "highest point".\\2、verticis => vertic- + -al.\\3、含义：of or at the vertex, directly overhead, straight up and down(引申义).
@@ -12960,18 +13122,21 @@ vicissitudes\
 vicissitudinous\
 victim\
 victimize\
+victor\
 victory\
 victuals\
 video\
 vie\1. invite => vie.\\2. Vie is ultimately the same word as invite. It is a shortened version of the now defunct envie (Old French version of invite, from Latin) 'make a challenge'.\\3. which meant 'challenge' as well as 'invite'.\\4. 谐音“外”---你不服是不是？咱们到外边儿去比划比划。
 view\
 viewpoint\
+vigil\1. wake => vigil.
 vigilant\
 vigilante\
 vignette\1. vine => vigne "vine" (古法语的同源音变词) + -ette (法语指小后缀).\\2. "decorative design," originally a design in the form of vine tendrils around the borders of a book page, especially a picture page.\\3. Sense transferred from the border to the picture itself, then to a type of small photographic portrait with blurred edges.
 vigorous\1. 六人个的精力，gor 个.
 vile\vile 邪恶的                 evil 邪恶的\\2. 谐音“歪哦、歪恶”----歪门邪道、又歪又恶。\\3. evil => vile.
 vilify\
+villa\
 village\
 villain\1. 拉丁语 villa 'country house' => villain.\\2. villa 原指“农庄住宅、庄园”，而 villain 则指为 villa 的主人工作的“农奴、农民”，后来贵族由于阶级优越感以及他们对农民的阶级偏见，往往把意指农民、乡下人的词语同“愚昧、粗野、邪恶”等概念相联系，由此含义出现了贬降。\\3. 同源词：villa, villain, village.
 villainous\
@@ -12981,6 +13146,7 @@ vindictive\
 vinegar\1. 酒变酸即为醋，或者说酸味的酒就是醋。\\2. 发音联想：为你哥，几个女孩儿为了你哥而争风吃醋。
 vinegared\
 vintner\
+viola\1. from Italian viola, from Medieval Latin vitula "stringed instrument," perhaps from Vitula, Roman goddess of joy (see fiddle).
 violate\
 violence\
 violent\
@@ -13019,6 +13185,7 @@ vitalize\
 vitamin\1. vit- "life" + -amin (原为-amine, 由于后来发现其中没有氨基酸，顾将后面的字母e去掉了，其实作为物质的代称，现在加不加字母e都没什么关系啦)。\\2. 该词有两种译名，一种是意译，即“维生素”，表示维持生命的元素，顾简称为维生素；另一种是音译，即“维他命”，根据发音直译过来的，很好理解。
 vitiate\
 vitrify\
+vitriol\
 vitriolic\
 vituperate\
 vituperative\
@@ -13074,6 +13241,7 @@ wag\wiggle 音“喂狗”→拿东西喂狗，狗就会摆动尾巴\\2. *wegh- 
 wage\
 waggish\
 wagon\
+waif\1. wave => waive => waif.\\2. 就像波浪一样随波逐流。\\3. 萍水相逢，萍水相逢尽是他乡之客，身世浮沉雨打萍。\\4. => 飘流物，流浪汉，无家可归者，(尤指)流浪儿。\\5. 【记法】分解为：wai（外）＋f（放）\\6. 【联想】一个被外放的人是无家可归的
 wail\1. woe => wail.\\2. Wailing Wall: 哭墙\\3. 谐音“哇哦、哇哀哦”。\\4. w- (谐音“我”) + ail => wail.\\5. w＝weep，ail（v 得小病）。
 wainscot\
 waist\谐音“围死她”
@@ -13146,6 +13314,7 @@ weather\〔我们(we)正在(at)听她(her)预报天气〕
 weathering\
 weave\1. 相信很多人都用过或者听说过 Dreamweaver 这款大名鼎鼎的软件吧，Adobe Dreamweaver，简称“DW”，中文名称"梦想编织者"，是一款非常牛逼的所见即所得的网页编辑器，是网页制作三剑客之一。\\2. Dreamweaver => Dream + weave + -er.
 web\
+wed\
 wedding\
 wedge\
 Wednesday\

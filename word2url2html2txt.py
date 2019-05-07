@@ -2,6 +2,8 @@ import requests ##导入requests
 from bs4 import BeautifulSoup ##导入bs4中的BeautifulSoup
 import telnetlib
 import os
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def get_dynamic_ip():
@@ -17,7 +19,6 @@ def get_html_from_url(url, ip=None):
         head = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}  ##浏览器请求头（大部分网站没有这个请求头会报错、请务必加上哦）
         html = requests.get(url, headers=head, verify=False)
         html.encoding = 'utf-8'
-        return html
     else:
         proxy = {'http': ip}
         head = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}  ##浏览器请求头（大部分网站没有这个请求头会报错、请务必加上哦）

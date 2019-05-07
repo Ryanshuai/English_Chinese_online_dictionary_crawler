@@ -60,7 +60,7 @@ if __name__ == '__main__':
     # ###########################################################################################################
     root_line_list = list()
     mem_line_list = list()
-    internal_word_list = list()
+    internal_word_set = set()
     for word in tqdm(word_list, desc='decoding'):
         if word == 'con':
             continue
@@ -69,7 +69,11 @@ if __name__ == '__main__':
             html_txt = f.read()
         root_txt = get_root_txt_from_html_text(html_txt)
         internal_word = find_internal_word_from_youdict_root_str(root_txt)
-        internal_word_list.append(internal_word)
+        if len(internal_word) > 0:
+            if internal_word[-1] == '.':
+                internal_word = internal_word[:-1]
+            tqdm.write(internal_word)
+            internal_word_set.add(internal_word)
         mem_txt = get_mem_txt_from_html_text(html_txt)
         root_line_list.append(word+'\\'+root_txt)
         mem_line_list.append(word+'\\'+mem_txt)
@@ -78,7 +82,8 @@ if __name__ == '__main__':
         # print(word+'\\'+root_txt)
         # print(word+'\\'+mem_txt)
 
-    with open('output/GRE_anki_same.txt', 'w', encoding='utf-8') as f:
+    internal_word_list = list(internal_word_set)
+    with open('D:\github_project\make_anki_word_list\word_list\internal_word.txt', 'w', encoding='utf-8') as f:
         for word in tqdm(internal_word_list, desc='saving internal'):
             if word == 'con':
                 continue
