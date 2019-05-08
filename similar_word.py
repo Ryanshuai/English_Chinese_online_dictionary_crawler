@@ -3,34 +3,11 @@ import Levenshtein
 
 class Distance_Similar:
     def __init__(self):
-        cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
-        cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
-        post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'
-        toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/曲根10000词汇表.txt'
-        toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/托福红宝书.txt'
-        toefl_class = 'D:/github_project/make_anki_word_list/word_list/分类词汇.txt'
-        gre300_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
-        gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
-        gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
+        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+        with open(all_word_txt, 'r', encoding='utf-8') as f:
+            word_list = f.read().splitlines()
 
-        input_txt_list = list()
-        input_txt_list.append(cet4_txt)
-        input_txt_list.append(cet6_txt)
-        input_txt_list.append(post_txt)
-        input_txt_list.append(toefl_qu_txt)
-        input_txt_list.append(toefl_red_txt)
-        input_txt_list.append(toefl_class)
-        input_txt_list.append(gre300_txt)
-        input_txt_list.append(gre_foot_txt)
-        input_txt_list.append(gre_red_txt)
-
-        input_word_set = set()
-        for file in input_txt_list:
-            with open(file, 'r',encoding='utf-8') as f:
-                word_list = f.read().splitlines()
-                input_word_set |= set(word_list)
-
-        self.all_word_set = input_word_set
+        self.all_word_set = set(word_list)
 
     def is_word_similar(self, word1: str, word2: str):
         if word1.lower() == word2.lower():
@@ -66,41 +43,17 @@ class Distance_Similar:
         return similar_words_str
 
 
-class No_Root_Similar:
+class No_Prefix_Similar:
     def __init__(self):
         self.s_end_prefix_list = ['ex']
         self.a_prefix_list = ['a']
         self.co_prefix_list = ['co']
         self.prefix_list = ['com','con','dis','sub','pro','mis','per','pre','co','in','ex','im','en','ex','re','di','ob','ab','ad','de','un','se','e','a']
 
-        cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
-        cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
-        post_txt = 'D:/github_project/make_anki_word_list/word_list/考研词汇表.txt'
-        toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/曲根10000词汇表.txt'
-        toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/托福红宝书.txt'
-        toefl_class = 'D:/github_project/make_anki_word_list/word_list/分类词汇.txt'
-        gre300_txt = 'D:/github_project/make_anki_word_list/word_list/3000.txt'
-        gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/佛脚词.txt'
-        gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/gre红宝书.txt'
-
-        input_txt_list = list()
-        input_txt_list.append(cet4_txt)
-        input_txt_list.append(cet6_txt)
-        input_txt_list.append(post_txt)
-        input_txt_list.append(toefl_qu_txt)
-        input_txt_list.append(toefl_red_txt)
-        input_txt_list.append(toefl_class)
-        input_txt_list.append(gre300_txt)
-        input_txt_list.append(gre_foot_txt)
-        input_txt_list.append(gre_red_txt)
-
-        input_word_set = set()
-        for file in input_txt_list:
-            with open(file, 'r',encoding='utf-8') as f:
-                word_list = f.read().splitlines()
-                input_word_set |= set(word_list)
-
-        self.all_word_set = input_word_set
+        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+        with open(all_word_txt, 'r', encoding='utf-8') as f:
+            word_list = f.read().splitlines()
+        self.all_word_set = set(word_list)
 
     def remove_prefix(self, word: str):
         possible_word_without_prefix_list = list()
@@ -146,11 +99,74 @@ class No_Root_Similar:
         return similar_words_str
 
 
+class No_Suffix_Similar:
+    def __init__(self):
+        self.s_end_suffix_list = []
+        self.a_suffix_list = []
+        self.co_suffix_list = []
+        self.suffix_list = ['ability', 'ative', 'able', 'ably', 'ate', 'acity', 'acle', 'action', 'ation', 'atory', 'ed', 'ence', 'ency', 'en', 'ent', 'eous', 'ful', 'er', 'ia', 'ial', 'ian', 'ic', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'less', 'like', 'ly', 'ment', 'ness', 'o', 'on','or','ship','tic','tion','ture','y', 'e']
+
+        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+        with open(all_word_txt, 'r', encoding='utf-8') as f:
+            word_list = f.read().splitlines()
+        self.all_word_set = set(word_list)
+
+    def remove_suffix(self, word: str):
+        possible_word_without_suffix_list = list()
+        for suffix in self.a_suffix_list:
+            if word.endswith(suffix) and len(word) > 3 and word[1] == word[2]:
+                possible_word_without_suffix_list.append(word[len(suffix)+1:])
+        for suffix in self.s_end_suffix_list:
+            if word.endswith(suffix):
+                possible_word_without_suffix_list.append(word[len(suffix):])
+                possible_word_without_suffix_list.append('s'+word[len(suffix):])
+        for suffix in self.co_suffix_list:
+            if word.endswith(suffix) and len(word) > 4 and word[2] == word[3]:
+                possible_word_without_suffix_list.append(word[3:])
+        for suffix in self.suffix_list:
+            if word.endswith(suffix):
+                possible_word_without_suffix_list.append(word[:-len(suffix)])
+        return possible_word_without_suffix_list
+
+    def is_word_similar(self, word1, word2):
+        if word1.lower() == word2.lower():
+            return False
+        root1_list = self.remove_suffix(word1)
+        root2_list = self.remove_suffix(word2)
+
+        if len(set(root1_list).intersection(set(root2_list))) > 0:
+            return True
+        return False
+
+    def get_similar_word_list(self, word1):
+        similar_list = list()
+        for word2 in self.all_word_set:
+            if self.is_word_similar(word1.lower(), word2.lower()):
+                similar_list.append(word2)
+        return similar_list
+
+    def get_similar_word_str(self, word):
+        similar_words_str = ''
+        for s in self.all_word_set:
+            if self.is_word_similar(s.lower(), word.lower()):
+                if similar_words_str != '':
+                    similar_words_str += '<br>'
+                similar_words_str += s
+        return similar_words_str
+
+
 if __name__ == '__main__':
-    nrs = No_Root_Similar()
-    print(nrs.is_word_similar('separate', 'disparate'))
-    print(nrs.get_similar_word_str('inevitable'))
+    # nrs = No_Prefix_Similar()
+    # print(nrs.is_word_similar('separate', 'disparate'))
+    # print(nrs.get_similar_word_str('inevitable'))
+    # print('-------------------------')
+    # ds = Distance_Similar()
+    # # print(ds.is_word_similar('expect', 'respect'))
+    # print(ds.get_similar_word_str('inevitable'))
+
+    nrs = No_Suffix_Similar()
     print('-------------------------')
-    ds = Distance_Similar()
-    # print(ds.is_word_similar('expect', 'respect'))
-    print(ds.get_similar_word_str('inevitable'))
+    print(nrs.is_word_similar('retentive', 'retention'))
+    print(nrs.get_similar_word_str('retentive'))
+
+
