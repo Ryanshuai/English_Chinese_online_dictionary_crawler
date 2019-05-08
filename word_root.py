@@ -20,19 +20,22 @@ class Cigencizhui_Root:
 
 class Etymonline_Root:
     def __init__(self):
+        self.w_r_dict = dict()
         with open('D:\github_project\make_anki_word_list\etymonline_root\etymonline_root.txt', encoding='utf-8') as f:
-            self.ordered_root_word_list = f.read().splitlines()
+            line_list = f.readlines()
+            for line in line_list:
+                line = line.strip()
+                line = line.replace('\\', '*****', 1)
+                w, r = line.split('*****')
+                self.w_r_dict[w] = r
 
-    def put_word_list_in_order(self, filter_word_list):
-        not_seen_word_list = filter_word_list.copy()
-        res_word_list = list()
-        for root_word in self.ordered_root_word_list:
-            if root_word in filter_word_list:
-                res_word_list.append(root_word)
-                if root_word in not_seen_word_list:
-                    not_seen_word_list.remove(root_word)
-        print(len(not_seen_word_list))
-        return res_word_list
+    def get_root(self, word):
+        return self.w_r_dict.get(word, '')
+
+    def get_root_html(self, word):
+        root = self.w_r_dict.get(word, '')
+        root = root.replace('\\', '<br>')
+        return root
 
 
 class Youdict_Root:
@@ -59,7 +62,7 @@ class Youdict_Root:
         else:
             return ''
 
-    def get_root_str_for_mdx(self, word):
+    def get_root_html(self, word):
         root = self.w_r_dict.get(word, '')
         if len(root) == 0:
             return root
@@ -76,23 +79,21 @@ class Yaml_Root:
             self.root_content = yaml.load(f, Loader=yaml.FullLoader)
         with open('D:/github_project/make_anki_word_list/yaml_root/2 单词列表.yaml', encoding='utf-8') as f:
             word_content = yaml.load(f, Loader=yaml.FullLoader)
-            self.word_dict = dict()
+            self.w_r_dict = dict()
             for word_context in word_content:
                 word = word_context[0]
                 root = word_context[1][0][2]
-                self.word_dict[word] = root
+                self.w_r_dict[word] = root
 
     def get_root(self, word):
-        if word in self.word_dict:
-            return self.word_dict[word]
-        else:
-            return ''
+        return self.w_r_dict.get(word, '')
 
-    def get_root_str_for_mdx(self, word):
+    def get_root_html(self, word):
         return self.get_root(word)
+
 
 if __name__ == '__main__':
     yr = Yaml_Root()
     print(yr.get_root('abandon'))
     ra = Youdict_Root()
-    print(ra.get_root_str_for_mdx('agency'))
+    print(ra.get_root_html('agency'))

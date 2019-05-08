@@ -11,16 +11,12 @@ class Youdict_Mem:
                 self.w_r_dict[w] = r
 
     def get_mem(self, word):
-        if word in self.w_r_dict:
-            return self.w_r_dict[word]
-        else:
-             return ''
+        return self.w_r_dict.get(word, '')
 
     def get_mem_html(self, word):
-        if word in self.w_r_dict:
-            return self.w_r_dict[word].replace('\\', '<br>')
-        else:
-             return ''
+        root = self.w_r_dict.get(word, '')
+        root = root.replace('\\', '<br>')
+        return root
 
 
 if __name__ == '__main__':

@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_make_anki_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_make_anki_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_word_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_word_in_which.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_get_youdcit_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_get_youdcit_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_update_etymonline.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_update_etymonline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_update_youdict_root_mem.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_update_youdict_root_mem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etymonline_root/etymonline_root.txt" beforeDir="false" afterPath="$PROJECT_DIR$/etymonline_root/etymonline_root.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html2txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/html2txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/all_word_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/word_list/all_word_list.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youdict_mem.py" beforeDir="false" afterPath="$PROJECT_DIR$/youdict_mem.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +25,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_update_etymonline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="206">
+              <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/word_root.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="904">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youdict_mem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -55,8 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>all</find>
-      <find>还</find>
       <find>\n[\u4e00-\u9fa5]+\n</find>
       <find>\n[\u4e00-\u9fa5]\n</find>
       <find>\n[\u4e00-\u9fa5]*$</find>
@@ -85,6 +94,8 @@
       <find>image_dir</find>
       <find>\\</find>
       <find>open</find>
+      <find>dict</find>
+      <find>get_root</find>
     </findStrings>
     <replaceStrings>
       <replace>\\</replace>
@@ -98,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Ebbinghaus/add_review.py" />
         <option value="$PROJECT_DIR$/03_word_in_which.py" />
         <option value="$PROJECT_DIR$/yaml_root.py" />
         <option value="$PROJECT_DIR$/youdict_memrorise.py" />
@@ -145,10 +155,11 @@
         <option value="$PROJECT_DIR$/3_update_youdict_root_mem.py" />
         <option value="$PROJECT_DIR$/html2txt.py" />
         <option value="$PROJECT_DIR$/2_update_etymonline.py" />
-        <option value="$PROJECT_DIR$/word_root.py" />
         <option value="$PROJECT_DIR$/1_get_youdcit_image.py" />
         <option value="$PROJECT_DIR$/05_make_anki_list.py" />
         <option value="$PROJECT_DIR$/06_word_in_which.py" />
+        <option value="$PROJECT_DIR$/youdict_mem.py" />
+        <option value="$PROJECT_DIR$/word_root.py" />
       </list>
     </option>
   </component>
@@ -421,7 +432,7 @@
       <workItem from="1557217540296" duration="3098000" />
       <workItem from="1557228000930" duration="767000" />
       <workItem from="1557231876749" duration="3945000" />
-      <workItem from="1557303980113" duration="11699000" />
+      <workItem from="1557303980113" duration="12287000" />
     </task>
     <task id="LOCAL-00001" summary="add tst_txt">
       <created>1555255110403</created>
@@ -542,11 +553,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557310506370</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="etymonline txt down  utf-8">
+      <created>1557315914649</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557315914649</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165993000" />
+    <option name="totallyTimeSpent" value="166581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,7 +579,7 @@
     <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.11454652" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.11454652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -604,7 +622,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="restructure for web" />
     <MESSAGE value="multi thread down" />
-    <option name="LAST_COMMIT_MESSAGE" value="multi thread down" />
+    <MESSAGE value="etymonline txt down  utf-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="etymonline txt down  utf-8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/make_anki_word_list$3_make_mdx.coverage" NAME="3_make_mdx Coverage Results" MODIFIED="1557207996279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -869,16 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_update_youdict_root_mem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2673">
-          <caret line="99" column="13" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_make_mdx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -930,20 +939,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/youdict_mem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/word_root.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1063">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/word2url2html.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="999">
@@ -960,11 +955,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2_update_etymonline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="206">
+          <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_update_youdict_root_mem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" column="68" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdict_mem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_root.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
     </entry>
