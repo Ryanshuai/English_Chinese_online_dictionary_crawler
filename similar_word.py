@@ -104,7 +104,7 @@ class No_Suffix_Similar:
         self.s_end_suffix_list = []
         self.a_suffix_list = []
         self.co_suffix_list = []
-        self.suffix_list = ['ability', 'ative', 'able', 'ably', 'ate', 'acity', 'acle', 'action', 'ation', 'atory', 'ed', 'ence', 'ency', 'en', 'ent', 'eous', 'ful', 'er', 'ia', 'ial', 'ian', 'ic', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'less', 'like', 'ly', 'ment', 'ness', 'o', 'on','or','ship','tic','tion','ture','y', 'e']
+        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'on', 'or', 'o', 'y', 'e']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -124,7 +124,7 @@ class No_Suffix_Similar:
             if word.endswith(suffix) and len(word) > 4 and word[2] == word[3]:
                 possible_word_without_suffix_list.append(word[3:])
         for suffix in self.suffix_list:
-            if word.endswith(suffix):
+            if word.endswith(suffix) and len(word[:-len(suffix)]) >= 4:
                 possible_word_without_suffix_list.append(word[:-len(suffix)])
         return possible_word_without_suffix_list
 
@@ -166,7 +166,7 @@ if __name__ == '__main__':
 
     nrs = No_Suffix_Similar()
     print('-------------------------')
-    print(nrs.is_word_similar('retentive', 'retention'))
+    print(nrs.is_word_similar('unexceptionable', 'unexceptional'))
     print(nrs.get_similar_word_str('retentive'))
 
 
