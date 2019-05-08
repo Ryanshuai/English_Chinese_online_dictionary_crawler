@@ -32,7 +32,7 @@ class Distance_Similar:
 
         self.all_word_set = input_word_set
 
-    def is_word_similar(self, word1, word2):
+    def is_word_similar(self, word1: str, word2: str):
         if word1.lower() == word2.lower():
             return False
         if len(word1) <= 4 or len(word2) <= 4:
@@ -41,6 +41,9 @@ class Distance_Similar:
         if dis == 1:
             return True
         if word1 in word2 or word2 in word1:
+            affix_word_list = ['table', 'cable', 'inter']
+            if word1 in affix_word_list or word2 in affix_word_list:
+                return False
             return True
         return False
 
@@ -68,7 +71,7 @@ class No_Root_Similar:
         self.s_end_prefix_list = ['ex']
         self.a_prefix_list = ['a']
         self.co_prefix_list = ['co']
-        self.prefix_list = ['com','con','dis','sub','pro','mis','per','pre','co','in','ex','im','en','ex','re','di','ob','ab','ad','de','un','e','a']
+        self.prefix_list = ['com','con','dis','sub','pro','mis','per','pre','co','in','ex','im','en','ex','re','di','ob','ab','ad','de','un','se','e','a']
 
         cet4_txt = 'D:/github_project/make_anki_word_list/word_list/4-cet.txt'
         cet6_txt = 'D:/github_project/make_anki_word_list/word_list/6-cet.txt'
@@ -126,17 +129,17 @@ class No_Root_Similar:
             return True
         return False
 
-    def get_similar_word_list(self, word):
+    def get_similar_word_list(self, word1):
         similar_list = list()
-        for s in self.all_word_set:
-            if self.is_word_similar(s.lower(), word.lower()) and s.lower() != word.lower():
-                similar_list.append(s)
+        for word2 in self.all_word_set:
+            if self.is_word_similar(word1.lower(), word2.lower()):
+                similar_list.append(word2)
         return similar_list
 
     def get_similar_word_str(self, word):
         similar_words_str = ''
         for s in self.all_word_set:
-            if self.is_word_similar(s.lower(), word.lower()) and s.lower() != word.lower():
+            if self.is_word_similar(s.lower(), word.lower()):
                 if similar_words_str != '':
                     similar_words_str += '<br>'
                 similar_words_str += s
@@ -145,9 +148,9 @@ class No_Root_Similar:
 
 if __name__ == '__main__':
     nrs = No_Root_Similar()
-    print(nrs.is_word_similar('ascend', 'descend'))
-    print(nrs.get_similar_word_str('collapse'))
+    print(nrs.is_word_similar('separate', 'disparate'))
+    print(nrs.get_similar_word_str('inevitable'))
     print('-------------------------')
     ds = Distance_Similar()
     # print(ds.is_word_similar('expect', 'respect'))
-    print(ds.get_similar_word_str('agree'))
+    print(ds.get_similar_word_str('inevitable'))

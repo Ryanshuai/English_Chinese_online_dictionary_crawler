@@ -2,8 +2,9 @@ import make_all_list
 import re
 import os
 from tqdm import tqdm
-from word2url2html2txt import get_root_txt_from_html_text, get_mem_txt_from_html_text, get_word_html_text_from_web
-from concurrent.futures import ThreadPoolExecutor
+from word2url2html import get_html_from_url
+from html2txt import get_mem_txt_from_youdict_html_text, get_root_txt_from_youdict_html_text
+from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 
 
 def find_internal_word_from_youdict_root_str(root_str: str):
@@ -21,26 +22,21 @@ def find_internal_word_from_youdict_root_str(root_str: str):
         return ''
 
 
-def is_longer_than_one(x):
-    return len(x) > 2
+def thread_process(word, from_web, to_dir):
+    to_txt = to_dir + word + '.txt'
+    if not os.path.exists(to_txt):
+        print('get html and save txt: ', word)
+        url = from_web + word
+        html_text = get_html_from_url(url)
+        with open(to_txt, 'w', encoding='utf-8') as f:
+            f.write(html_text)
 
 
 def multi_thread_check_and_save(word_list):
-    pool = ThreadPoolExecutor(100)
-    for word in tqdm(word_list, desc='checking absent word'):
-        if word == 'con':
-            continue
-        word = word.strip()
-        to_txt = 'youdict_word_html/'+word+'.txt'
-        if not os.path.exists(to_txt):
-            print(word)
-            a = pool.submit(get_word_html_text_from_web, word)
-        else:
-            with open(to_txt, 'r', encoding='utf-8') as f:
-                txt = f.read()
-            if not txt.startswith('<!DOCTYPE html>'):
-                print(word)
-                a = pool.submit(get_word_html_text_from_web, word)
+    executor = ThreadPoolExecutor(max_workers=2)
+    all_task = [executor.submit(thread_process, (word, 'https://www.youdict.com/w/', 'etymonline_html_text/',))
+                for word in word_list]
+    wait(all_task, return_when=ALL_COMPLETED)
 
 
 if __name__ == '__main__':
@@ -51,11 +47,14 @@ if __name__ == '__main__':
     with open(all_word_txt, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
 
+    def is_longer_than_one(x):
+        return len(x) > 2 and x != 'con'
+
     word_list = filter(is_longer_than_one, word_list)
     word_list = map(str.strip, word_list)
     word_list = sorted(word_list, key=str.lower)
 
-    # check ###########################################################################################################
+    # check and save html #########################################################################################
     multi_thread_check_and_save(word_list)
 
     # internal word check #############################################################################################
@@ -81,7 +80,7 @@ if __name__ == '__main__':
             f.write('\n')
     multi_thread_check_and_save(internal_word_list)
 
-    # ###########################################################################################################
+    # update txt ###################################################################################################
     root_line_list = list()
     mem_line_list = list()
     for word in tqdm(word_list, desc='decoding'):
@@ -90,8 +89,8 @@ if __name__ == '__main__':
         html_text_path = html_text_dir + '\\' + word + '.txt'
         with open(html_text_path, 'r', encoding='utf-8') as f:
             html_txt = f.read()
-        root_txt = get_root_txt_from_html_text(html_txt)
-        mem_txt = get_mem_txt_from_html_text(html_txt)
+        root_txt = get_root_txt_from_youdict_html_text(html_txt)
+        mem_txt = get_mem_txt_from_youdict_html_text(html_txt)
         root_line_list.append(word+'\\'+root_txt)
         mem_line_list.append(word+'\\'+mem_txt)
         # print('----------------------')

@@ -354,12 +354,12 @@ alga\
 algebra\来自阿拉伯语al jabr. al, 定冠词。-gebra同 jabr, 接骨，喻指计算，阿拉伯数学家Khwarizmi的数学论文标题。
 alias\拉丁词。词根al, 其它，同else.
 alibi\拉丁词。词根al, 其它，同else.
-alien\拉丁词。词根al, 其它，同else.
 Alien\拉丁词。词根al, 其它，同else.
+alien\拉丁词。词根al, 其它，同else.
 alienate\
 align\前缀ad-, 去往。法语lign, 同line, 线，插入字母g。
-alike\
 Alike\
+alike\
 aliment\
 alimentary\
 Alive\
@@ -375,8 +375,8 @@ alleviate\前缀al-同ad-. 词根lev, 轻，同lever, light.
 alliance\
 allocate\前缀al-同ad-. 词根loc, 放置，见locate.
 allocation\
-Allow\1.前缀al-同ad-, 去，往. 词根laud-, 表扬，词源同laudable，表扬，许可。引申词义准许。
 allow\1.前缀al-同ad-, 去，往. 词根laud-, 表扬，词源同laudable，表扬，许可。引申词义准许。
+Allow\1.前缀al-同ad-, 去，往. 词根laud-, 表扬，词源同laudable，表扬，许可。引申词义准许。
 allowance\allow,发津贴，-ance,名词后缀。
 alloy\前缀al-同ad-. -loy同词根lig, 绑，组合。特指把贵金属和贱金属合在一起冶炼。
 Alloy\前缀al-同ad-. -loy同词根lig, 绑，组合。特指把贵金属和贱金属合在一起冶炼。
@@ -738,8 +738,8 @@ arrogant\
 arrogate\前缀ar-同ad-, 向，往. 词根rog-, 要求，词源同reach.
 arrow\来自arc, 弧，弓。拼写受row影响俗化。
 arroyo\前缀ar-同ad-. -royo, 同词根rug, 皱，见corrugated, 起皱的。指矿道，山谷。
-arsenal\来自阿拉伯语dar as-sina’ah. dar, 仓库。sina’ah，技艺，制造。进入意大利语指军火库。同英国阿森纳球队。
 Arsenal\来自阿拉伯语dar as-sina’ah. dar, 仓库。sina’ah，技艺，制造。进入意大利语指军火库。同英国阿森纳球队。
+arsenal\来自阿拉伯语dar as-sina’ah. dar, 仓库。sina’ah，技艺，制造。进入意大利语指军火库。同英国阿森纳球队。
 arson\来自词根ard, 火，燃烧。
 arsonist\
 art\来自词根ar, 连接，组合。
@@ -870,8 +870,8 @@ attendant\
 attention\
 attenuate\前缀at-同ad-. 词根ten, 持有，握住，见tenure. 引申义伸长，拉伸，见tend, 引申义变细，减轻，见该词，或extenuate, 减轻。
 attest\前缀at-同ad-. 词根test, 见证，来自PIE *tri-st, *tri同three, 三。st,站。即第三者，见证者，词源同testis, 睾丸，testament，证词。单词test, 测试，同词根terra, 土，见terrestrial, 领土的。原指土制陶罐用来检测贵金属如金，银纯度。字母r,s音变。
-Attic\来自Attic, 雅典别称，指该地一种建筑风格。
 attic\来自Attic, 雅典别称，指该地一种建筑风格。
+Attic\来自Attic, 雅典别称，指该地一种建筑风格。
 attire\前缀at-同ad-. -tire同单词tier, 准备，安排，层级。服装是身份的象征，所以该词特指比较正式的衣服。
 attitude\aptitude的变体。原指绘画或雕像时模特的姿势，通常都看起来比较优雅，后指傲慢的态度。
 attorney\前缀at-同ad-. -torn同turn, 转。转向顾客的，代表当事人利益的人。
@@ -895,8 +895,8 @@ auditory\
 augment\来自词根aug, 增加。
 augur\au同词根av, 鸟，见aviation, 航空。-gur同词根gar, 说，拟声词，见garrulous, 话多的。来自古罗马时期以鸟占卜，以确定吉凶。
 augury\
-august\以罗马皇帝Augustus Caesar命名的月份。
 August\以罗马皇帝Augustus Caesar命名的月份。
+august\以罗马皇帝Augustus Caesar命名的月份。
 aunt\来自拉丁语amita, 同amma. 鼻音m,n对应。
 aural\来自词根aur, 耳朵，同ear.
 auspices\
@@ -1761,8 +1761,8 @@ caterpillar\cat, 猫。-pil, 毛，词源同peel, depilatory(脱毛)。因其毛
 caterwaul\cat, 猫。-waul, 嚎叫，拟声词。
 catharsis\词源不详，由古希腊哲学家亚里士多德所创。词源同英语常见名Catherine.
 cathedral\cata-, 向下。-hed, 坐，词源同sit, seat. 指主教教堂，圣座，chair原型。
-Catholic\cata-, 向下。-hol, 整个的，全部的，词源同holy, whole, hologram(全息图)。用于宗教术语，即无所不包的。
 catholic\cata-, 向下。-hol, 整个的，全部的，词源同holy, whole, hologram(全息图)。用于宗教术语，即无所不包的。
+Catholic\cata-, 向下。-hol, 整个的，全部的，词源同holy, whole, hologram(全息图)。用于宗教术语，即无所不包的。
 cattle\来自capital, 资产，资本，因牛在农耕社会有着无比重要的作用而引申此词义。比较castor，海狸。
 caucus\可能来自北美印第安土著语，义为长者。
 caulk\来自词根calc, 石子，石灰，词源同calculate, chalk. 因旧时用石灰补船缝而产生此义。
@@ -7492,8 +7492,8 @@ mawkish\来自中古英语mauk,蛆，蛆虫，缩写自mathek,来自Proto-German
 maxim\来自拉丁语maxima,来自maximum的阴性格，-a,表阴性。即最重要的训导，引申词义格言，座右铭。
 maximize\来自maximum,最大，-ize,使。即使最大化。
 maximum\来自拉丁语magnus,大的，巨大的，词源同magnate,magnum.-im,最高级后缀，词源同ultimate,intimate.-um,中性格，词源同datum.即大的最高级中性名词，引申词义最大量，最高限度等。
-May\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
 may\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
+May\来自拉丁语Maius mensis,即大地女神Maia月。比较April,June.
 may be\
 maybe\来自may be.
 mayhem\来自古法语mayhem,来自PIE*mai,砍，劈，词源同maim,mangle.引申词义伤害，损伤，骚乱，混乱。
@@ -7891,8 +7891,8 @@ move\来自拉丁语movere,移动，运动，词源同mobile,motion.引申词义
 movement\来自move,移动，-ment,名词后缀。引申词义乐章。
 movie\缩写自moving picture.
 mow\来自古英语mmawan,割，来自PIE*me,割，割草，割谷，可能是拟声词，词源同meadow.
-Moxie\来自Moxie,一种开创于1876 年的美国保健品饮料商标，其广告词为”build up your nerve”.该 词本身可能来自北美印第安某植物名。后来引申词义勇气，力量等。
 moxie\来自Moxie,一种开创于1876 年的美国保健品饮料商标，其广告词为”build up your nerve”.该 词本身可能来自北美印第安某植物名。后来引申词义勇气，力量等。
+Moxie\来自Moxie,一种开创于1876 年的美国保健品饮料商标，其广告词为”build up your nerve”.该 词本身可能来自北美印第安某植物名。后来引申词义勇气，力量等。
 much\来自英语micel,大的，多的，来自PIE*meg,大的，多的，词源同magnate,maximum.后用做 副词。
 mucilage\
 muckrake\
@@ -7932,8 +7932,8 @@ murky\来自murk,昏暗。即昏暗的，引申词义暧昧的。
 murmur\拟声词，模仿咕哝地声音。
 muscle\来自拉丁语musculus,小老鼠，肌肉，来自mus,老鼠，词源同mouse,-cul,小词后缀。因古人认为鼓起的肌肉形如跳跃的小老鼠而得名。
 muscular\来自muscle,肌肉。
-muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
 Muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
+muse\来自希腊语Mousa,缪斯女神，来自PIE*men,思考，思索，词源同mind,mentor.引申词义灵感，沉思。也有观点认为其沉思义来自拉丁语musum,鼻子，词源同muzzle,原指狗把鼻子在空气中嗅，讽刺人装模作样，假装思考，游荡，若有所思。
 museum\来自Muse,缪斯女神，-um,表地点。字面意思即缪斯女神的圣殿，与缪斯女神对话的地方。在古希腊时期用以指学校，图书馆，艺术学校，现仅用于指图书馆。
 mushroom\来自古法语meisseron,蘑菇，可能来自moss,苔藓，潮湿的地方。即在潮湿的地方长出来的菌类。拼写俗词源化。
 music\来自拉丁语musica,音乐，诗歌，来自希腊语mousike techni,即the technology of Muses,献给智慧女神缪斯的艺术。后专有化指音乐。
@@ -8634,8 +8634,8 @@ palter\
 paltry\来自低地德语palter,破布，布条，来自Proto-Germanic*palto,破布，碎布，-y,形容词后缀。引申词义破布般的，无价值的，微不足道的。
 pamper\可能来自pap,流食，软质食物，-er,表反复。即塞满食物，引申词义娇惯，纵容。插入鼻音字母m,比较instinct,stick.
 pamphlet\来自希腊语pamphilos,众人所爱，来自pan-,众，所，philos,爱，词源同philosophy.现词义来自中世纪的一首爱情诗”Pamphilus,seu de Amore”，大意是“众人之所爱，何为爱”，amore,爱，爱情，词源同amateur.因这首诗流传如此之广，人们用小纸片大量传抄。后引申词义小册子，传单。
-Pan\来自古英语panne,锅，盘，可能来自PIE*pete,展开，词源同feather,patella.后引申动词词义淘金，即用锅洗砂子淘金，并用于俚语严厉批评。字母t脱落，比较fain,来自古英语fagen.
 pan\来自古英语panne,锅，盘，可能来自PIE*pete,展开，词源同feather,patella.后引申动词词义淘金，即用锅洗砂子淘金，并用于俚语严厉批评。字母t脱落，比较fain,来自古英语fagen.
+Pan\来自古英语panne,锅，盘，可能来自PIE*pete,展开，词源同feather,patella.后引申动词词义淘金，即用锅洗砂子淘金，并用于俚语严厉批评。字母t脱落，比较fain,来自古英语fagen.
 panacea\来自希腊语panakes,万灵药，来自pan,全部，所有，akos,治疗，词源同pediatric,psychiatric.
 panache\来自中古法语pennache,羽毛，来自拉丁语pinnaculum,小翅膀，词源同pen.-culum,工具格后缀。引申词义炫耀，神气十足。
 pancreas\pan-,全部，所有，-kreas,肉，生肉，词源同raw,crude.因胰腺全部由肉组成而得名。
@@ -10200,8 +10200,8 @@ remove\re-,向后，离开，move,移动，运动。引申词义移除，去除�
 remunerate\来自拉丁语 remunerari,支付，奖励，来自 re-,向后，往回，munerari,给予，来自 munus,相互， 礼物，职责，服务，词源同 mutual,municipal.即对别人的服务应支付的报酬。比较 emolument.
 remuneration\来自 remunerate,付酬，支付报酬。
 remunerative\来自 remunerate,付酬，支付报酬。
-Renaissance\来自古法语 renaissance,重生，再生，来自拉丁语 renasci,重生，再生，来自 re-,再，重新，nasci, 生育，出生，来自 PIE*gene,生育，词源同 natal,nascent,gene.引申词义文艺复兴。
 renaissance\来自古法语 renaissance,重生，再生，来自拉丁语 renasci,重生，再生，来自 re-,再，重新，nasci, 生育，出生，来自 PIE*gene,生育，词源同 natal,nascent,gene.引申词义文艺复兴。
+Renaissance\来自古法语 renaissance,重生，再生，来自拉丁语 renasci,重生，再生，来自 re-,再，重新，nasci, 生育，出生，来自 PIE*gene,生育，词源同 natal,nascent,gene.引申词义文艺复兴。
 rend\来自古英语 hrendan,撕开，撕裂，来自 West Germanic*randijan,撕开，词源同 rand,rind.
 render\来自古法语 rendre,给回，呈现，出产，来自俗拉丁语*rendere,给予，给回，异化自 reddere, 返回，给予，来自 red-,向后，往回，dare,给予，来自 PIE*do,给予，词源同 donate,edit.引申 诸相关词义。
 rendering\来自 render,提供，表达，表演。
@@ -10508,8 +10508,8 @@ role\来自法语 role,角色，写有演员台词的纸卷，来自古法语 ro
 roll\来自古法语 rolle,纸卷，文件，来自拉丁语 rotulus,纸卷，来自 rota,轮子，词源同 rotary,round. 引申诸相关词义。
 roller\来自 roll,卷，滚动。
 rollicking\来自 roll 和 frolic 的合成词，-ing,动名词后缀。
-Romance\来自 Romance,罗曼语。用以指兴起于中世纪的用罗曼语写作的骑士冒险故事小说，常常含 有大量的英雄救美的情节，后由该词引申词义浪漫，风流韵事，且成为主要词义。
 romance\来自 Romance,罗曼语。用以指兴起于中世纪的用罗曼语写作的骑士冒险故事小说，常常含 有大量的英雄救美的情节，后由该词引申词义浪漫，风流韵事，且成为主要词义。
+Romance\来自 Romance,罗曼语。用以指兴起于中世纪的用罗曼语写作的骑士冒险故事小说，常常含 有大量的英雄救美的情节，后由该词引申词义浪漫，风流韵事，且成为主要词义。
 romantic\来自 romance,浪漫，-itic,形容词后缀。
 romanticize\
 roof\来自古英语 hrof,屋顶，天花板，天空。
@@ -11564,8 +11564,8 @@ sprinkle\来自 PIE*spreg,播，洒，溅，词源同 spark,spread,sperm.-le,表
 sprinkling\sprinkle,撒，洒，喷，-ing,动名词后缀。引申词义喷洒物，少量等。
 sprint\词源可能同 spring,弹，跳，蹦。引申词义短跑，冲刺。
 sprout\来自古英语-sprutan,发芽，出现，来自 Proto-Germanic*sprut,发芽，来自 PIE*spreud,发芽， 来自 PIE*sper,喷，洒，播种，词源同 spark,sprinkle.引申诸相关词义。
-Spruce\来自 Spruce,拼写变体自 Pruce,普鲁士，欧洲历史地名，德意志境内最强大的邦国，后统一了 德意志。该树因从普鲁士进口到英国而得名，是制作家具的优质木材，也是奢华的代名词。 因此，引申词义装饰，打扮。
 spruce\来自 Spruce,拼写变体自 Pruce,普鲁士，欧洲历史地名，德意志境内最强大的邦国，后统一了 德意志。该树因从普鲁士进口到英国而得名，是制作家具的优质木材，也是奢华的代名词。 因此，引申词义装饰，打扮。
+Spruce\来自 Spruce,拼写变体自 Pruce,普鲁士，欧洲历史地名，德意志境内最强大的邦国，后统一了 德意志。该树因从普鲁士进口到英国而得名，是制作家具的优质木材，也是奢华的代名词。 因此，引申词义装饰，打扮。
 spry\
 spun\
 spunk\词源不确定，可能鼻音化自 spark,火花，火星。引申比喻义勇气，胆量。
@@ -12236,8 +12236,8 @@ tenure\ten-,持有，握住，-ure,名词后缀。
 tepid\来自拉丁语 tepere,使微热，温热，来自 PIE*tep,加热。
 tergiversate\来自拉丁语 tergiversari,背向，逃避，来自 tergum,背，来自 PIE*dhregh,跑，词源同 truck,-vers, 转，词源同 versus.引申词义支吾，逃避，回避事实等。
 term\来自 term-,边界，终端，引申词义术语，措辞，期限等。比较 define,finish.
-termagant\来自 Termagant,异化自古法语 Tervagant,来自意大利语 Trivagante,词源不确定，常解释为 tri-, 三，-vag,漫游，流浪，词源同 vagrant.代表新月的三个阶段，用于指伊斯兰教的新月标志， 参照 Red Crescent.该词为中世纪欧洲在神秘剧表演中，欧洲人强加给穆斯林教徒的神，认为 Tergamant 是穆斯林教徒所崇拜的除穆罕默德之外的神，通常为暴力的，专横的，好争吵的 形象，最后固定为暴躁的女神。引申词义泼妇，悍妇。
 Termagant\来自 Termagant,异化自古法语 Tervagant,来自意大利语 Trivagante,词源不确定，常解释为 tri-, 三，-vag,漫游，流浪，词源同 vagrant.代表新月的三个阶段，用于指伊斯兰教的新月标志， 参照 Red Crescent.该词为中世纪欧洲在神秘剧表演中，欧洲人强加给穆斯林教徒的神，认为 Tergamant 是穆斯林教徒所崇拜的除穆罕默德之外的神，通常为暴力的，专横的，好争吵的 形象，最后固定为暴躁的女神。引申词义泼妇，悍妇。
+termagant\来自 Termagant,异化自古法语 Tervagant,来自意大利语 Trivagante,词源不确定，常解释为 tri-, 三，-vag,漫游，流浪，词源同 vagrant.代表新月的三个阶段，用于指伊斯兰教的新月标志， 参照 Red Crescent.该词为中世纪欧洲在神秘剧表演中，欧洲人强加给穆斯林教徒的神，认为 Tergamant 是穆斯林教徒所崇拜的除穆罕默德之外的神，通常为暴力的，专横的，好争吵的 形象，最后固定为暴躁的女神。引申词义泼妇，悍妇。
 terminal\termin-,边界，终端，-al,形容词后缀。即终端的，后形容词作名词使用。
 terminate\termin-,边界，终端，-ate,使。引申词义结束，终止，杀死。
 termination\
