@@ -33,15 +33,14 @@ def thread_process(word, from_web, to_dir):
 
 
 def multi_thread_check_and_save(word_list):
-    executor = ThreadPoolExecutor(max_workers=2)
-    all_task = [executor.submit(thread_process, (word, 'https://www.youdict.com/w/', 'etymonline_html_text/',))
+    executor = ThreadPoolExecutor(max_workers=100)
+    all_task = [executor.submit(thread_process, word, 'https://www.youdict.com/w/', 'youdict_html_text/',)
                 for word in word_list]
     wait(all_task, return_when=ALL_COMPLETED)
 
 
 if __name__ == '__main__':
     html_text_dir = 'D:\github_project\make_anki_word_list\youdict_word_html'
-    image_dir = 'D:\github_project\make_anki_word_list\youdict_word_images'
 
     all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
     with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -84,8 +83,6 @@ if __name__ == '__main__':
     root_line_list = list()
     mem_line_list = list()
     for word in tqdm(word_list, desc='decoding'):
-        if word == 'con':
-            continue
         html_text_path = html_text_dir + '\\' + word + '.txt'
         with open(html_text_path, 'r', encoding='utf-8') as f:
             html_txt = f.read()

@@ -3,34 +3,34 @@ import re
 import os
 from tqdm import tqdm
 from word2url2html import get_html_from_url
-from concurrent.futures import ThreadPoolExecutor
+from html2txt import get_root_txt_from_etymonline_html_text
+from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 
 
-def is_longer_than_one(x):
-    return len(x) > 2
-
-
-def thread_process(word, to_dir='etymonline_html_text/'):
+def thread_process(word, from_web, to_dir):
     to_txt = to_dir + word + '.txt'
     if not os.path.exists(to_txt):
-        print('get html and save txt', word)
-        url = 'https://www.youdict.com/w/' + word
+        print('get html and save txt: ', word)
+        url = from_web + word
         html_text = get_html_from_url(url)
         with open(to_txt, 'w', encoding='utf-8') as f:
             f.write(html_text)
 
 
+def one_thread_check_and_save(word_list):
+    [thread_process(word, 'https://www.etymonline.com/search?q=', 'etymonline_html_text/',) for word in word_list]
+
+
 def multi_thread_check_and_save(word_list):
-    pool = ThreadPoolExecutor(100)
-    for word in tqdm(word_list, desc='checking absent word'):
-        if word == 'con':
-            continue
-        a = pool.submit(thread_process, word)
+    executor = ThreadPoolExecutor(max_workers=100)
+    all_task = [executor.submit(thread_process, word, 'https://www.etymonline.com/search?q=', 'etymonline_html_text/')
+                for word in tqdm(word_list)]
+    wait(all_task, return_when=ALL_COMPLETED)
 
 
 if __name__ == '__main__':
-    html_text_dir = 'D:\github_project\make_anki_word_list\youdict_word_html'
-    image_dir = 'D:\github_project\make_anki_word_list\youdict_word_images'
+    from_html_text_dir = 'D:\github_project\make_anki_word_list\etymonline_html_text'
+    save_to_txt = 'D:\github_project\make_anki_word_list\etymonline_root\etymonline_root.txt'
 
     all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
     with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -45,36 +45,21 @@ if __name__ == '__main__':
 
     # check and save html #########################################################################################
     multi_thread_check_and_save(word_list)
+    # one_thread_check_and_save(word_list)
 
     # update txt ##################################################################################################
     # root_line_list = list()
-    # mem_line_list = list()
     # for word in tqdm(word_list, desc='decoding'):
-    #     if word == 'con':
-    #         continue
-    #     html_text_path = html_text_dir + '\\' + word + '.txt'
+    #     html_text_path = from_html_text_dir + '\\' + word + '.txt'
     #     with open(html_text_path, 'r', encoding='utf-8') as f:
     #         html_txt = f.read()
-    #     root_txt = get_root_txt_from_html_text(html_txt)
-    #     mem_txt = get_mem_txt_from_html_text(html_txt)
+    #     root_txt = get_root_txt_from_etymonline_html_text(html_txt)
     #     root_line_list.append(word+'\\'+root_txt)
-    #     mem_line_list.append(word+'\\'+mem_txt)
-    #     # print('----------------------')
-    #     # print(word)
-    #     # print(word+'\\'+root_txt)
-    #     # print(word+'\\'+mem_txt)
     #
-    #
-    # to_txt = 'D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt'
-    # with open(to_txt, 'w', encoding='utf-8') as f:
+    # with open(save_to_txt, 'w', encoding='utf-8') as f:
     #     for line in root_line_list:
     #         f.write(line)
     #         f.write('\n')
-    #
-    # to_txt = 'D:\github_project\make_anki_word_list\youdict_mem\youdict_mem.txt'
-    # with open(to_txt, 'w', encoding='utf-8') as f:
-    #     for line in mem_line_list:
-    #         f.write(line)
-    #         f.write('\n')
-    #
+
+
 

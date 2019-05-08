@@ -39,6 +39,23 @@ def get_mem_txt_from_youdict_html_text(html_text):
         return ''
 
 
+def get_root_txt_from_etymonline_html_text(html_text):
+    Soup = BeautifulSoup(html_text, 'lxml')
+    Soup = Soup.find(attrs={"data-gr-c-s-loaded": "true"})
+    Soup = Soup.find(attrs={"id": "root"})
+    Soup = Soup.find(attrs={"bis_skin_checked": "1"})
+    Soup = Soup.find(attrs={"class": "container--1mazc"})
+    Soup = Soup.find(attrs={"class": "header header--1Mejf header__vanila--2dqaM"})
+    Soup = Soup.find(attrs={"class": "main main--10rAd"})
+    Soup = Soup.find(attrs={"class": "ant-row-flex ant-row-flex-space-around"})
+    Soup = Soup.find(attrs={"class": "ant-col-xs-24 ant-col-sm-24 ant-col-md-24 ant-col-lg-17"})
+    Soup = Soup.find(attrs={"class": "word--C9UPa word_4pc--2SZw8"})
+    Soup = Soup.find(attrs={"class": "heade"})
+    Soup = Soup.find(attrs={"class": "heade"})
+    Soup = Soup.find(attrs={"class": "heade"})
+    return Soup
+
+
 if __name__ == '__main__':
     # ws = Word_Spider()
     # txt = ws.get_men_root('dictator')
