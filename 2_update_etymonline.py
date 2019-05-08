@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 def thread_process(word, from_web, to_dir):
     to_txt = to_dir + word + '.txt'
     if not os.path.exists(to_txt):
-        print('get html and save txt: ', word)
+        print(word)
         url = from_web + word
         html_text = get_html_from_url(url)
         with open(to_txt, 'w', encoding='utf-8') as f:
@@ -22,9 +22,9 @@ def one_thread_check_and_save(word_list):
 
 
 def multi_thread_check_and_save(word_list):
-    executor = ThreadPoolExecutor(max_workers=100)
+    executor = ThreadPoolExecutor(max_workers=1280)
     all_task = [executor.submit(thread_process, word, 'https://www.etymonline.com/search?q=', 'etymonline_html_text/')
-                for word in tqdm(word_list)]
+                for word in word_list]
     wait(all_task, return_when=ALL_COMPLETED)
 
 
@@ -44,22 +44,23 @@ if __name__ == '__main__':
     word_list = sorted(word_list, key=str.lower)
 
     # check and save html #########################################################################################
-    multi_thread_check_and_save(word_list)
+    # multi_thread_check_and_save(word_list)
     # one_thread_check_and_save(word_list)
 
     # update txt ##################################################################################################
-    # root_line_list = list()
-    # for word in tqdm(word_list, desc='decoding'):
-    #     html_text_path = from_html_text_dir + '\\' + word + '.txt'
-    #     with open(html_text_path, 'r', encoding='utf-8') as f:
-    #         html_txt = f.read()
-    #     root_txt = get_root_txt_from_etymonline_html_text(html_txt)
-    #     root_line_list.append(word+'\\'+root_txt)
-    #
-    # with open(save_to_txt, 'w', encoding='utf-8') as f:
-    #     for line in root_line_list:
-    #         f.write(line)
-    #         f.write('\n')
+    root_line_list = list()
+    for word in tqdm(word_list, desc='decoding'):
+        html_text_path = from_html_text_dir + '\\' + word + '.txt'
+        with open(html_text_path, 'r', encoding='utf-8') as f:
+            html_txt = f.read()
+        # print(word)
+        root_txt = get_root_txt_from_etymonline_html_text(html_txt)
+        root_line_list.append(word+'\\'+root_txt)
+
+    with open(save_to_txt, 'w', encoding='utf-8') as f:
+        for line in root_line_list:
+            f.write(line)
+            f.write('\n')
 
 
 

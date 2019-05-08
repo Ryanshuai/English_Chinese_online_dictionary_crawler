@@ -25,7 +25,7 @@ def find_internal_word_from_youdict_root_str(root_str: str):
 def thread_process(word, from_web, to_dir):
     to_txt = to_dir + word + '.txt'
     if not os.path.exists(to_txt):
-        print('get html and save txt: ', word)
+        print(word)
         url = from_web + word
         html_text = get_html_from_url(url)
         with open(to_txt, 'w', encoding='utf-8') as f:

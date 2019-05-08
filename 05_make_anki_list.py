@@ -51,7 +51,7 @@ input_txt_list_2.append(gre_foot_txt)
 
 input_word_set_2 = set()
 for file in input_txt_list_2:
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
         input_word_set_2 |= set(word_list)
 

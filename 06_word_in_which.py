@@ -27,7 +27,7 @@ input_txt_list.append(internal_txt)
 
 word = 'pecuniary'
 for file in input_txt_list:
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
         if word in word_list:
             print(file)
