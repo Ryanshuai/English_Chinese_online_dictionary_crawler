@@ -14,20 +14,20 @@ input_word_set = set(word_list)
 
 
 ##################################################### distance similar
-edit_distance = Distance_Similar()
-dictionary = dict()
-for word in tqdm(input_word_set, desc='distance_similar.mdx'):
-    similar_str = edit_distance.get_similar_word_str(word)
-    if len(similar_str) > 0:
-        dictionary[word] = similar_str
-
-writer = MDictWriter(dictionary, title="Distance Similar Dictionary", description="find similar by Levenshtein distance")
-outfile = open("output/distance_similar.mdx", "wb")
-writer.write(outfile)
-outfile.close()
-
-
-# # ##################################################### no prefix similar
+# edit_distance = Distance_Similar()
+# dictionary = dict()
+# for word in tqdm(input_word_set, desc='distance_similar.mdx'):
+#     similar_str = edit_distance.get_similar_word_str(word)
+#     if len(similar_str) > 0:
+#         dictionary[word] = similar_str
+#
+# writer = MDictWriter(dictionary, title="Distance Similar Dictionary", description="find similar by Levenshtein distance")
+# outfile = open("output/distance_similar.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
+#
+#
+# ##################################################### no prefix similar
 no_prefix_similar = No_Prefix_Similar()
 dictionary = dict()
 for word in tqdm(input_word_set, desc='no_prefix_similar.mdx'):
@@ -56,30 +56,30 @@ outfile.close()
 
 
 # ##################################################### youdict mem
-youdict_mem = Youdict_Mem()
-dictionary = dict()
-for word in tqdm(input_word_set, desc='youdict_mem.mdx'):
-    mem_str = youdict_mem.get_mem_html(word)
-    if len(mem_str) > 0:
-        dictionary[word] = mem_str
-
-writer = MDictWriter(dictionary, title="Memory Dictionary", description="Memory Dictionary from www.youdict.com")
-outfile = open("output/youdict_mem.mdx", "wb")
-writer.write(outfile)
-outfile.close()
-
-
-#################################################### root youdict yaml
-assembled_root = Assembled_Root()
-
-dictionary = dict()
-for word in tqdm(input_word_set, desc='root.mdx'):
-    root = assembled_root.get_root_html(word)
-    if len(root) > 0:
-        dictionary[word] = root
-
-writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com or yaml or etymonline")
-outfile = open("output/root.mdx", "wb")
-writer.write(outfile)
-outfile.close()
-
+# youdict_mem = Youdict_Mem()
+# dictionary = dict()
+# for word in tqdm(input_word_set, desc='youdict_mem.mdx'):
+#     mem_str = youdict_mem.get_mem_html(word)
+#     if len(mem_str) > 0:
+#         dictionary[word] = mem_str
+#
+# writer = MDictWriter(dictionary, title="Memory Dictionary", description="Memory Dictionary from www.youdict.com")
+# outfile = open("output/youdict_mem.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
+#
+#
+# #################################################### root youdict yaml
+# assembled_root = Assembled_Root()
+#
+# dictionary = dict()
+# for word in tqdm(input_word_set, desc='root.mdx'):
+#     root = assembled_root.get_root_html(word)
+#     if len(root) > 0:
+#         dictionary[word] = root
+#
+# writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com or yaml or etymonline")
+# outfile = open("output/root.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
+#

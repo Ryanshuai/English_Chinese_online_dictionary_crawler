@@ -32,13 +32,13 @@ class Distance_Similar:
 
         return similar_list
 
-    def get_similar_word_str(self, word):
+    def get_similar_word_str(self, word1):
         similar_words_str = ''
-        for s in self.all_word_set:
-            if self.is_word_similar(s, word):
+        for word2 in self.all_word_set:
+            if self.is_word_similar(word1, word2):
                 if similar_words_str != '':
                     similar_words_str += '<br>'
-                similar_words_str += s
+                similar_words_str += word2
 
         return similar_words_str
 
@@ -82,7 +82,7 @@ class No_Prefix_Similar:
         root1_set = self.word_root_suffix_dict[word1]
         root2_set = self.word_root_suffix_dict[word2]
 
-        if len(root1_set | root2_set) > 0:
+        if len(root1_set & root2_set) > 0:
             return True
         return False
 
@@ -105,10 +105,10 @@ class No_Prefix_Similar:
 
 class No_Suffix_Similar:
     def __init__(self):
-        self.suffix_change_dict = {'i': ['y'], 's': ['t', 'd'], 't': ['d']}
+        self.suffix_change_dict = {'i': ['y'], 's': ['t', 'd'], 't': ['d'], 'e': ['i']}
         self.a_suffix_list = []
         self.co_suffix_list = []
-        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ant', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'on', 'or', 'o', 'y', 'e']
+        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ant', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -137,7 +137,7 @@ class No_Suffix_Similar:
         root1_set = self.word_prefix_root_dict[word1]
         root2_set = self.word_prefix_root_dict[word2]
 
-        if len(root1_set | root2_set) > 0:
+        if len(root1_set & root2_set) > 0:
             return True
         return False
 
@@ -165,7 +165,7 @@ if __name__ == '__main__':
 
     nrs = No_Prefix_Similar()
     print(nrs.is_word_similar('impervious', 'pervious'))
-    print(nrs.get_similar_word_str('inevitable'))
+    print(nrs.get_similar_word_str('expect'))
     print('-------------------------')
 
     # nrs = No_Suffix_Similar()
