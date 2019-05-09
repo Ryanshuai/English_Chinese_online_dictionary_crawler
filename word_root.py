@@ -2,23 +2,6 @@ import yaml
 import re
 
 
-class Cigencizhui_Root:
-    def __init__(self):
-        with open('D:/github_project/make_anki_word_list/cigencizhui_root/root_affix.txt', encoding='utf-8') as f:
-            self.ordered_root_word_list = f.read().splitlines()
-
-    def put_word_list_in_order(self, filter_word_list):
-        not_seen_word_list = filter_word_list.copy()
-        res_word_list = list()
-        for root_word in self.ordered_root_word_list:
-            if root_word in filter_word_list:
-                res_word_list.append(root_word)
-                if root_word in not_seen_word_list:
-                    not_seen_word_list.remove(root_word)
-        print(len(not_seen_word_list))
-        return res_word_list
-
-
 class Etymonline_Root:
     def __init__(self):
         self.w_r_dict = dict()
@@ -30,7 +13,7 @@ class Etymonline_Root:
                 w, r = line.split('*****')
                 self.w_r_dict[w] = r
 
-    def get_internal_word_list(self, root_str: str):
+    def get_internal_word_set(self, root_str: str):
         pattern = re.compile(r'\(see[^-]*?\)')
         internal_word_list = pattern.findall(root_str)
 
@@ -40,8 +23,8 @@ class Etymonline_Root:
             if len(w) > 0:
                 return w[0]
             return []
-        internal_word_list = list(map(map_fun, internal_word_list))
-        return internal_word_list
+        internal_word_set = set(map(map_fun, internal_word_list))
+        return internal_word_set
 
     def get_root(self, word):
         return self.w_r_dict.get(word, '')
@@ -50,6 +33,23 @@ class Etymonline_Root:
         root = self.w_r_dict.get(word, '')
         root = root.replace('\\', '<br>')
         return root
+
+
+class Cigencizhui_Root:
+    def __init__(self):
+        with open('D:/github_project/make_anki_word_list/cigencizhui_root/root_affix.txt', encoding='utf-8') as f:
+            self.ordered_root_word_list = f.read().splitlines()
+
+    def put_word_list_in_order(self, word_list):
+        not_seen_word_list = word_list.copy()
+        res_word_list = list()
+        for root_word in self.ordered_root_word_list:
+            if root_word in word_list:
+                res_word_list.append(root_word)
+                if root_word in not_seen_word_list:
+                    not_seen_word_list.remove(root_word)
+        print(len(not_seen_word_list))
+        return res_word_list
 
 
 class Youdict_Root:
@@ -62,30 +62,23 @@ class Youdict_Root:
                 w, r = line.split('\\')
                 self.w_r_dict[w] = r
 
-    def get_internal_word_list(self, root_str: str):
+    def get_internal_word_set(self, root_str: str):
         if root_str.startswith('来自') and root_str[2:6] != 'PIE*' and ord(root_str[2]) < 128:
             temp_root = root_str[2:].split(',')[0].split('，')[0].strip()
             if '*' in temp_root:
-                return ['']
+                return set('')
             for c in temp_root:
                 if ord(c) > 128:
-                    return ['']
+                    return set('')
             if temp_root.endswith('-'):
-                return ['']
-            return [root_str[2:].split(',')[0].split('，')[0].strip()]
+                return set('')
+            return set(root_str[2:].split(',')[0].split('，')[0].strip())
         else:
-            return ['']
+            return set('')
 
     def get_root_html(self, word):
         root = self.w_r_dict.get(word, '')
-        if len(root) == 0:
-            return root
-        internal_word_list = self.get_internal_word_list(root)
-        internal_word = internal_word_list[0]
-        if len(internal_word) == 0:
-            return root
-        internal_word_root = self.w_r_dict.get(internal_word, '')
-        return root + '<br>' + internal_word + ' ' + internal_word_root
+        return root
 
 
 class Yaml_Root:
@@ -107,6 +100,41 @@ class Yaml_Root:
         return self.get_root(word)
 
 
+class Assembled_Root:
+    def __init__(self):
+        self.youdict_root = Youdict_Root()
+        self.yaml_root = Yaml_Root()
+        self.etymonline_root = Etymonline_Root()
+        self.cigencizhui_root = Cigencizhui_Root()
+
+    def get_first_useful(self, a):
+        a = list(filter(lambda x:len(x)>0, a))
+        a.append('')
+        return a[0]
+
+    def get_all_kind_root_html(self, word):
+        youdict_root_html = self.youdict_root.get_root_html(word)
+        yaml_root_html = self.yaml_root.get_root_html(word)
+        etymonline_root_html = self.etymonline_root.get_root_html(word)
+        return youdict_root_html, yaml_root_html, etymonline_root_html
+
+    def get_internal_word_set(self, youdict_root_html, yaml_root_html, etymonline_root_html):
+        internal_word_set = self.youdict_root.get_internal_word_set(youdict_root_html)
+        internal_word_set = internal_word_set.union(self.etymonline_root.get_internal_word_set(etymonline_root_html))
+        return internal_word_set
+
+    def get_root_html(self, word):
+        root_htmls = self.get_all_kind_root_html(word)
+        internal_word_set = self.get_internal_word_set(*root_htmls)
+        html_str = word + ': ' + self.get_first_useful(root_htmls)
+        for internal_word in internal_word_set:
+            root_html = self.get_first_useful(self.get_all_kind_root_html(internal_word))
+            html_str += '<br>'
+            # html_str += '\n'
+            html_str += len(word)*' ' + '|-' + internal_word + ': ' + root_html
+        return html_str
+
+
 if __name__ == '__main__':
     # yr = Yaml_Root()
     # print(yr.get_root('abandon'))
@@ -114,13 +142,20 @@ if __name__ == '__main__':
     # ra = Youdict_Root()
     # print(ra.get_root_html('agency'))
 
-    all_word_list = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
-    with open(all_word_list, 'r', encoding='utf-8') as f:
-        word_list = f.read().splitlines()
+    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+    # with open(all_word_list, 'r', encoding='utf-8') as f:
+    #     word_list = f.read().splitlines()
+    #
+    # er = Etymonline_Root()
+    # for word in word_list:
+    #     root_text = er.get_root(word)
+    #     internal_word_set = er.get_internal_word_set(root_text)
+    #     if len(internal_word_set) > 0:
+    #         print(word, internal_word_set)
 
-    er = Etymonline_Root()
+    word_list = ['countermand', 'counterpart']
+    ar = Assembled_Root()
     for word in word_list:
-        root_text = er.get_root(word)
-        internal_word_list = er.get_internal_word_list(root_text)
-        if len(internal_word_list) > 0:
-            print(word, internal_word_list)
+        root_text = ar.get_root_html(word)
+        print(root_text)
+
