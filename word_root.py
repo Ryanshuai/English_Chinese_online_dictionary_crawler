@@ -14,7 +14,7 @@ class Etymonline_Root:
                 self.w_r_dict[w] = r
 
     def get_internal_word_set(self, root_str: str):
-        pattern = re.compile(r'\(see[^-]*?\)')
+        pattern = re.compile(r'\(see [^-]*?\)')
         internal_word_list = pattern.findall(root_str)
 
         def map_fun(s):
@@ -72,7 +72,7 @@ class Youdict_Root:
                     return set('')
             if temp_root.endswith('-'):
                 return set('')
-            return set(root_str[2:].split(',')[0].split('，')[0].strip())
+            return {temp_root}
         else:
             return set('')
 
@@ -120,18 +120,19 @@ class Assembled_Root:
 
     def get_internal_word_set(self, youdict_root_html, yaml_root_html, etymonline_root_html):
         internal_word_set = self.youdict_root.get_internal_word_set(youdict_root_html)
-        internal_word_set = internal_word_set.union(self.etymonline_root.get_internal_word_set(etymonline_root_html))
+        internal_word_set |= self.etymonline_root.get_internal_word_set(etymonline_root_html)
         return internal_word_set
 
     def get_root_html(self, word):
         root_htmls = self.get_all_kind_root_html(word)
         internal_word_set = self.get_internal_word_set(*root_htmls)
+        internal_word_set.discard(word)
         html_str = word + ': ' + self.get_first_useful(root_htmls)
         for internal_word in internal_word_set:
             root_html = self.get_first_useful(self.get_all_kind_root_html(internal_word))
-            html_str += '<br>'
-            # html_str += '\n'
-            html_str += len(word)*' ' + '|-' + internal_word + ': ' + root_html
+            html_str += '<br>' + 2*len(word)*'&nbsp;'
+            # html_str += '\n' + len(word)*' '
+            html_str += '|-' + internal_word + ': ' + root_html
         return html_str
 
 
@@ -153,9 +154,12 @@ if __name__ == '__main__':
     #     if len(internal_word_set) > 0:
     #         print(word, internal_word_set)
 
-    word_list = ['countermand', 'counterpart']
+    word_list = ['countermand', 'counterpart', 'zippy']
+    word_list = ['zippy']
     ar = Assembled_Root()
     for word in word_list:
         root_text = ar.get_root_html(word)
         print(root_text)
+        # internal_word_set = ar.get_internal_word_set(*ar.get_all_kind_root_html(word))
+        # print(internal_word_set)
 
