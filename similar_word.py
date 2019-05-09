@@ -48,7 +48,7 @@ class No_Prefix_Similar:
         self.s_end_prefix_list = ['ex']
         self.a_prefix_list = ['a']
         self.co_prefix_list = ['co']
-        self.prefix_list = ['com','con','dis','sub','pro','mis','per','pre','co','in','ex','im','en','ex','re','di','ob','ab','ad','de','un','se','e','a']
+        self.prefix_list = ['com', 'con', 'dis', 'sub', 'pro', 'mis', 'per', 'pre', 'co', 'in', 'ex', 'im', 'en', 'ex', 're', 'di', 'ob', 'ab', 'ad', 'de', 'un', 'se', 'e', 'a']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -101,10 +101,10 @@ class No_Prefix_Similar:
 
 class No_Suffix_Similar:
     def __init__(self):
-        self.s_end_suffix_list = []
+        self.y_begin_suffix_list = []
         self.a_suffix_list = []
         self.co_suffix_list = []
-        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'on', 'or', 'o', 'y', 'e']
+        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'on', 'or', 'o', 'y', 'e']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -112,11 +112,11 @@ class No_Suffix_Similar:
         self.all_word_set = set(word_list)
 
     def remove_suffix(self, word: str):
-        possible_word_without_suffix_list = list()
+        possible_word_without_suffix_list = [word]
         for suffix in self.a_suffix_list:
             if word.endswith(suffix) and len(word) > 3 and word[1] == word[2]:
                 possible_word_without_suffix_list.append(word[len(suffix)+1:])
-        for suffix in self.s_end_suffix_list:
+        for suffix in self.y_begin_suffix_list:
             if word.endswith(suffix):
                 possible_word_without_suffix_list.append(word[len(suffix):])
                 possible_word_without_suffix_list.append('s'+word[len(suffix):])
@@ -126,6 +126,9 @@ class No_Suffix_Similar:
         for suffix in self.suffix_list:
             if word.endswith(suffix) and len(word[:-len(suffix)]) >= 4:
                 possible_word_without_suffix_list.append(word[:-len(suffix)])
+                if word[-len(suffix)-1] == 'i':
+                    i2y_word = word[:-len(suffix)-1] + 'y'
+                    possible_word_without_suffix_list.append(i2y_word)
         return possible_word_without_suffix_list
 
     def is_word_similar(self, word1, word2):
@@ -166,7 +169,7 @@ if __name__ == '__main__':
 
     nrs = No_Suffix_Similar()
     print('-------------------------')
-    print(nrs.is_word_similar('unexceptionable', 'unexceptional'))
+    print(nrs.is_word_similar('alliance', 'ally'))
     print(nrs.get_similar_word_str('retentive'))
 
 

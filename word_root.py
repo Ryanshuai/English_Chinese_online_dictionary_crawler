@@ -1,4 +1,5 @@
 import yaml
+import re
 
 
 class Cigencizhui_Root:
@@ -29,6 +30,19 @@ class Etymonline_Root:
                 w, r = line.split('*****')
                 self.w_r_dict[w] = r
 
+    def get_internal_word_list(self, root_str: str):
+        pattern = re.compile(r'\(see[^-]*?\)')
+        internal_word_list = pattern.findall(root_str)
+
+        def map_fun(s):
+            s = s[5:]
+            w = re.findall(r'\w+', s)
+            if len(w) > 0:
+                return w[0]
+            return []
+        internal_word_list = list(map(map_fun, internal_word_list))
+        return internal_word_list
+
     def get_root(self, word):
         return self.w_r_dict.get(word, '')
 
@@ -48,29 +62,30 @@ class Youdict_Root:
                 w, r = line.split('\\')
                 self.w_r_dict[w] = r
 
-    def from_which_word(self, root_str: str):
+    def get_internal_word_list(self, root_str: str):
         if root_str.startswith('来自') and root_str[2:6] != 'PIE*' and ord(root_str[2]) < 128:
             temp_root = root_str[2:].split(',')[0].split('，')[0].strip()
             if '*' in temp_root:
-                return ''
+                return ['']
             for c in temp_root:
                 if ord(c) > 128:
-                    return ''
+                    return ['']
             if temp_root.endswith('-'):
-                return ''
-            return root_str[2:].split(',')[0].split('，')[0].strip()
+                return ['']
+            return [root_str[2:].split(',')[0].split('，')[0].strip()]
         else:
-            return ''
+            return ['']
 
     def get_root_html(self, word):
         root = self.w_r_dict.get(word, '')
         if len(root) == 0:
             return root
-        from_word = self.from_which_word(root)
-        if len(from_word) == 0:
+        internal_word_list = self.get_internal_word_list(root)
+        internal_word = internal_word_list[0]
+        if len(internal_word) == 0:
             return root
-        from_word_root = self.w_r_dict.get(from_word, '')
-        return root + '<br>' + from_word + ' ' + from_word_root
+        internal_word_root = self.w_r_dict.get(internal_word, '')
+        return root + '<br>' + internal_word + ' ' + internal_word_root
 
 
 class Yaml_Root:
@@ -93,7 +108,19 @@ class Yaml_Root:
 
 
 if __name__ == '__main__':
-    yr = Yaml_Root()
-    print(yr.get_root('abandon'))
-    ra = Youdict_Root()
-    print(ra.get_root_html('agency'))
+    # yr = Yaml_Root()
+    # print(yr.get_root('abandon'))
+    #
+    # ra = Youdict_Root()
+    # print(ra.get_root_html('agency'))
+
+    all_word_list = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+    with open(all_word_list, 'r', encoding='utf-8') as f:
+        word_list = f.read().splitlines()
+
+    er = Etymonline_Root()
+    for word in word_list:
+        root_text = er.get_root(word)
+        internal_word_list = er.get_internal_word_list(root_text)
+        if len(internal_word_list) > 0:
+            print(word, internal_word_list)
