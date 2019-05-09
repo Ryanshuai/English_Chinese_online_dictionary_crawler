@@ -45,7 +45,7 @@ class Distance_Similar:
 
 class No_Prefix_Similar:
     def __init__(self):
-        self.s_end_prefix_list = ['ex']
+        self.for_s_begin_root_list = ['ex']
         self.a_prefix_list = ['a']
         self.co_prefix_list = ['co']
         self.prefix_list = ['com', 'con', 'dis', 'sub', 'pro', 'mis', 'per', 'pre', 'co', 'in', 'ex', 'im', 'en', 'ex', 're', 'di', 'ob', 'ab', 'ad', 'de', 'un', 'se', 'e', 'a']
@@ -60,7 +60,7 @@ class No_Prefix_Similar:
         for prefix in self.a_prefix_list:
             if word.startswith(prefix) and len(word) > 3 and word[1] == word[2]:
                 possible_word_without_prefix_list.append(word[len(prefix)+1:])
-        for prefix in self.s_end_prefix_list:
+        for prefix in self.for_s_begin_root_list:
             if word.startswith(prefix):
                 possible_word_without_prefix_list.append(word[len(prefix):])
                 possible_word_without_prefix_list.append('s'+word[len(prefix):])
@@ -101,7 +101,7 @@ class No_Prefix_Similar:
 
 class No_Suffix_Similar:
     def __init__(self):
-        self.suffix_change_dict = {'i': 'y', 's': 't', 't': 'd'}
+        self.suffix_change_dict = {'i': ['y'], 's': ['t', 'd'], 't': ['d']}
         self.a_suffix_list = []
         self.co_suffix_list = []
         self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ant', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'on', 'or', 'o', 'y', 'e']
@@ -111,27 +111,28 @@ class No_Suffix_Similar:
             word_list = f.read().splitlines()
         self.all_word_set = set(word_list)
 
+        self.word_prefix_root_dict = dict()
+        for word in self.all_word_set:
+            print(word)
+            self.word_prefix_root_dict[word] = self.remove_suffix(word)
+
     def remove_suffix(self, word: str):
         possible_word_without_suffix_list = [word]
-        for suffix in self.a_suffix_list:
-            if word.endswith(suffix) and len(word) > 3 and word[1] == word[2]:
-                possible_word_without_suffix_list.append(word[len(suffix)+1:])
-        for suffix in self.co_suffix_list:
-            if word.endswith(suffix) and len(word) > 4 and word[2] == word[3]:
-                possible_word_without_suffix_list.append(word[3:])
         for suffix in self.suffix_list:
-            if word.endswith(suffix) and len(word[:-len(suffix)]) >= 4:
+            prefix_root = word[:-len(suffix)]
+            if word.endswith(suffix) and len(prefix_root) >= 4:
                 possible_word_without_suffix_list.append(word[:-len(suffix)])
-                if word[-len(suffix)-1] in self.suffix_change_dict:
-                    i2y_word = word[:-len(suffix)-1] + self.suffix_change_dict[word[-len(suffix)-1]]
-                    possible_word_without_suffix_list.append(i2y_word)
+                if prefix_root[-1] in self.suffix_change_dict:
+                    for change_c in self.suffix_change_dict[prefix_root[-1]]:
+                        i2y_word = prefix_root[:-1] + change_c
+                        possible_word_without_suffix_list.append(i2y_word)
         return possible_word_without_suffix_list
 
     def is_word_similar(self, word1, word2):
         if word1.lower() == word2.lower():
             return False
-        root1_list = self.remove_suffix(word1)
-        root2_list = self.remove_suffix(word2)
+        root1_list = self.word_prefix_root_dict[word1]
+        root2_list = self.word_prefix_root_dict[word2]
 
         if len(set(root1_list).intersection(set(root2_list))) > 0:
             return True
@@ -144,13 +145,13 @@ class No_Suffix_Similar:
                 similar_list.append(word2)
         return similar_list
 
-    def get_similar_word_str(self, word):
+    def get_similar_word_str(self, word1):
         similar_words_str = ''
-        for s in self.all_word_set:
-            if self.is_word_similar(s.lower(), word.lower()):
+        for word2 in self.all_word_set:
+            if self.is_word_similar(word1, word2):
                 if similar_words_str != '':
                     similar_words_str += '<br>'
-                similar_words_str += s
+                similar_words_str += word2
         return similar_words_str
 
 

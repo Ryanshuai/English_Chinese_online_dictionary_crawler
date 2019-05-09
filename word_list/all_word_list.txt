@@ -321,8 +321,8 @@ agriculture
 agronomy
 aground
 ahead
-Aid
 aid
+Aid
 ail
 ailment
 Aim
@@ -335,8 +335,8 @@ airline
 airplane
 airport
 airtight
-aisle
 Aisle
+aisle
 akin
 alabaster
 alacrity
@@ -375,11 +375,11 @@ alleviate
 alliance
 allocate
 allocation
-allow
 Allow
+allow
 allowance
-alloy
 Alloy
+alloy
 allude
 allure
 allurement
@@ -399,8 +399,8 @@ alphabet
 alphabetical
 already
 Also
-Alter
 alter
+Alter
 alteration
 altercate
 altercation
@@ -872,8 +872,8 @@ attendant
 attention
 attenuate
 attest
-Attic
 attic
+Attic
 attire
 attitude
 attorney
@@ -897,8 +897,8 @@ auditory
 augment
 augur
 augury
-august
 August
+august
 aunt
 aural
 auspices
@@ -1571,8 +1571,8 @@ byproduct
 byre
 bystander
 byword
-Byzantine
 byzantine
+Byzantine
 cab
 cabal
 cabbage
@@ -2815,8 +2815,8 @@ cruise
 crumb
 crumble
 crumple
-crusade
 Crusade
+crusade
 crush
 crust
 crustacean
@@ -7505,8 +7505,8 @@ mawkish
 maxim
 maximize
 maximum
-May
 may
+May
 may be
 maybe
 mayhem
@@ -7904,8 +7904,8 @@ move
 movement
 movie
 mow
-moxie
 Moxie
+moxie
 much
 mucilage
 muckrake
@@ -9635,8 +9635,8 @@ prosperous
 prostitute
 prostrate
 protagonist
-Protean
 protean
+Protean
 protect
 protection
 protective
@@ -10527,8 +10527,8 @@ role
 roll
 roller
 rollicking
-romance
 Romance
+romance
 romantic
 romanticize
 roof
@@ -12290,8 +12290,8 @@ texture
 than
 thanatoid
 thank
-Thanksgiving
 thanksgiving
+Thanksgiving
 that
 thatch
 thaw
