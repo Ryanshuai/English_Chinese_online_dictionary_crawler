@@ -3,7 +3,7 @@ import Levenshtein
 
 class Distance_Similar:
     def __init__(self):
-        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
             word_list = f.read().splitlines()
 
@@ -50,7 +50,7 @@ class No_Prefix_Similar:
         self.co_prefix_list = ['co']
         self.prefix_list = ['com', 'con', 'dis', 'sub', 'pro', 'mis', 'per', 'pre', 'co', 'in', 'ex', 'im', 'en', 'ex', 're', 'di', 'ob', 'ab', 'ad', 'de', 'un', 'se', 'e', 'a']
 
-        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
             word_list = f.read().splitlines()
         self.all_word_set = set(word_list)
@@ -110,7 +110,7 @@ class No_Suffix_Similar:
         self.co_suffix_list = []
         self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ant', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
 
-        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
             word_list = f.read().splitlines()
         self.all_word_set = set(word_list)

@@ -1,4 +1,4 @@
-import make_all_list
+import make_all_internal_list
 import re
 import os
 from tqdm import tqdm
@@ -32,57 +32,29 @@ def thread_process(word, from_web, to_dir):
             f.write(html_text)
 
 
-def multi_thread_check_and_save(word_list):
+def multi_thread_check_and_save(word_set):
     executor = ThreadPoolExecutor(max_workers=100)
     all_task = [executor.submit(thread_process, word, 'https://www.youdict.com/w/', 'youdict_html_text/',)
-                for word in word_list]
+                for word in word_set]
     wait(all_task, return_when=ALL_COMPLETED)
 
 
 if __name__ == '__main__':
     html_text_dir = 'D:\github_project\make_anki_word_list\youdict_word_html'
 
-    all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
-    with open(all_word_txt, 'r', encoding='utf-8') as f:
+    all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+    with open(all_word_list, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
-
-    def is_longer_than_one(x):
-        return len(x) > 2 and x != 'con'
-
-    word_list = filter(is_longer_than_one, word_list)
-    word_list = map(str.strip, word_list)
-    word_list = sorted(word_list, key=str.lower)
+    word_set = set(word_list)
+    word_set.remove('con')
 
     # check and save html #########################################################################################
-    multi_thread_check_and_save(word_list)
-
-    # internal word check #############################################################################################
-    internal_word_set = set()
-    with open('D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt', encoding='utf-8') as f:
-        line_list = f.readlines()
-        for line in line_list:
-            line = line.strip()
-            word, root = line.split('\\')
-            internal_word = find_internal_word_from_youdict_root_str(root)
-            if len(internal_word) > 0:
-                if internal_word[-1] == '.':
-                    internal_word = internal_word[:-1]
-                # tqdm.write(internal_word)
-                internal_word_set.add(internal_word)
-
-    internal_word_list = list(internal_word_set)
-    with open('D:\github_project\make_anki_word_list\word_list\internal_word.txt', 'w', encoding='utf-8') as f:
-        for word in tqdm(internal_word_list, desc='saving internal'):
-            if word == 'con':
-                continue
-            f.write(word)
-            f.write('\n')
-    multi_thread_check_and_save(internal_word_list)
+    multi_thread_check_and_save(word_set)
 
     # update txt ###################################################################################################
     root_line_list = list()
     mem_line_list = list()
-    for word in tqdm(word_list, desc='decoding'):
+    for word in tqdm(word_set, desc='decoding'):
         html_text_path = html_text_dir + '\\' + word + '.txt'
         with open(html_text_path, 'r', encoding='utf-8') as f:
             html_txt = f.read()

@@ -6,17 +6,17 @@ from word_root import Assembled_Root
 
 
 # ####################################################### build filter list
-all_word_list = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
-
-with open(all_word_list, 'r',encoding='utf-8') as f:
+all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+with open(all_word_list, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
-input_word_set = set(word_list)
+word_set = set(word_list)
+word_set.remove('con')
 
 
 ##################################################### distance similar
 # edit_distance = Distance_Similar()
 # dictionary = dict()
-# for word in tqdm(input_word_set, desc='distance_similar.mdx'):
+# for word in tqdm(word_set, desc='distance_similar.mdx'):
 #     similar_str = edit_distance.get_similar_word_str(word)
 #     if len(similar_str) > 0:
 #         dictionary[word] = similar_str
@@ -30,7 +30,7 @@ input_word_set = set(word_list)
 # ##################################################### no prefix similar
 # no_prefix_similar = No_Prefix_Similar()
 # dictionary = dict()
-# for word in tqdm(input_word_set, desc='no_prefix_similar.mdx'):
+# for word in tqdm(word_set, desc='no_prefix_similar.mdx'):
 #     similar_str = no_prefix_similar.get_similar_word_str(word)
 #     if len(similar_str) > 0:
 #         dictionary[word] = similar_str
@@ -44,7 +44,7 @@ input_word_set = set(word_list)
 # # ##################################################### no suffix similar
 # no_suffix_similar = No_Suffix_Similar()
 # dictionary = dict()
-# for word in tqdm(input_word_set, desc='no_suffix_similar.mdx'):
+# for word in tqdm(word_set, desc='no_suffix_similar.mdx'):
 #     similar_str = no_suffix_similar.get_similar_word_str(word)
 #     if len(similar_str) > 0:
 #         dictionary[word] = similar_str
@@ -58,7 +58,7 @@ input_word_set = set(word_list)
 # ##################################################### youdict mem
 # youdict_mem = Youdict_Mem()
 # dictionary = dict()
-# for word in tqdm(input_word_set, desc='youdict_mem.mdx'):
+# for word in tqdm(word_set, desc='youdict_mem.mdx'):
 #     mem_str = youdict_mem.get_mem_html(word)
 #     if len(mem_str) > 0:
 #         dictionary[word] = mem_str
@@ -73,7 +73,7 @@ input_word_set = set(word_list)
 assembled_root = Assembled_Root()
 
 dictionary = dict()
-for word in tqdm(input_word_set, desc='root.mdx'):
+for word in tqdm(word_set, desc='root.mdx'):
     root = assembled_root.get_root_html(word)
     if len(root) > 0:
         dictionary[word] = root

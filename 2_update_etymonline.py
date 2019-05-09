@@ -1,4 +1,4 @@
-import make_all_list
+import make_all_internal_list
 import re
 import os
 from tqdm import tqdm
@@ -32,16 +32,11 @@ if __name__ == '__main__':
     from_html_text_dir = 'D:\github_project\make_anki_word_list\etymonline_html_text'
     save_to_txt = 'D:\github_project\make_anki_word_list\etymonline_root\etymonline_root.txt'
 
-    all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
-    with open(all_word_txt, 'r', encoding='utf-8') as f:
+    all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+    with open(all_word_list, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
-
-    def is_longer_than_one(x):
-        return len(x) > 2 and x != 'con'
-
-    word_list = filter(is_longer_than_one, word_list)
-    word_list = map(str.strip, word_list)
-    word_list = sorted(word_list, key=str.lower)
+    word_set = set(word_list)
+    word_set.remove('con')
 
     # check and save html #########################################################################################
     # multi_thread_check_and_save(word_list)
@@ -49,7 +44,7 @@ if __name__ == '__main__':
 
     # update txt ##################################################################################################
     root_line_list = list()
-    for word in tqdm(word_list, desc='decoding'):
+    for word in tqdm(word_set, desc='decoding'):
         html_text_path = from_html_text_dir + '\\' + word + '.txt'
         with open(html_text_path, 'r', encoding='utf-8') as f:
             html_txt = f.read()

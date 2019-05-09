@@ -6,19 +6,18 @@ import os
 
 
 # ####################################################### build filter list
-tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
-all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
-
-with open(all_word_txt, 'r', encoding='utf-8') as f:
+all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+with open(all_word_list, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
+word_set = set(word_list)
+word_set.remove('con')
 
-word_list = sorted(word_list, key=str.lower)
 
 for i in range(1, 11):
     root_dir = 'D:/github_project/word_root_spider/youdict_word_images/'
     mdx_dictionary = dict()
     mdd_dictionary = dict()
-    for word in tqdm(word_list):
+    for word in tqdm(word_set):
         word = word.strip()
         # print(word)
         if os.path.exists(root_dir+word+str(i)+'.jpg'):

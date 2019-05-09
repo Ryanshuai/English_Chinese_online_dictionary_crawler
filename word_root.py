@@ -148,7 +148,7 @@ if __name__ == '__main__':
     # ra = Youdict_Root()
     # print(ra.get_root_html('agency'))
 
-    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/all_word_list.txt'
+    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
     # with open(all_word_list, 'r', encoding='utf-8') as f:
     #     word_list = f.read().splitlines()
     #
