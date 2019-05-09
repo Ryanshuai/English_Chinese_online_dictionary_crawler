@@ -28,31 +28,31 @@ input_word_set = set(word_list)
 #
 #
 # ##################################################### no prefix similar
-no_prefix_similar = No_Prefix_Similar()
-dictionary = dict()
-for word in tqdm(input_word_set, desc='no_prefix_similar.mdx'):
-    similar_str = no_prefix_similar.get_similar_word_str(word)
-    if len(similar_str) > 0:
-        dictionary[word] = similar_str
-
-writer = MDictWriter(dictionary, title="No Prefix Similar Dictionary", description="find similar by no prefix")
-outfile = open("output/no_prefix_similar.mdx", "wb")
-writer.write(outfile)
-outfile.close()
-
-
-# ##################################################### no suffix similar
-no_suffix_similar = No_Suffix_Similar()
-dictionary = dict()
-for word in tqdm(input_word_set, desc='no_suffix_similar.mdx'):
-    similar_str = no_suffix_similar.get_similar_word_str(word)
-    if len(similar_str) > 0:
-        dictionary[word] = similar_str
-
-writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
-outfile = open("output/no_suffix_similar.mdx", "wb")
-writer.write(outfile)
-outfile.close()
+# no_prefix_similar = No_Prefix_Similar()
+# dictionary = dict()
+# for word in tqdm(input_word_set, desc='no_prefix_similar.mdx'):
+#     similar_str = no_prefix_similar.get_similar_word_str(word)
+#     if len(similar_str) > 0:
+#         dictionary[word] = similar_str
+#
+# writer = MDictWriter(dictionary, title="No Prefix Similar Dictionary", description="find similar by no prefix")
+# outfile = open("output/no_prefix_similar.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
+#
+#
+# # ##################################################### no suffix similar
+# no_suffix_similar = No_Suffix_Similar()
+# dictionary = dict()
+# for word in tqdm(input_word_set, desc='no_suffix_similar.mdx'):
+#     similar_str = no_suffix_similar.get_similar_word_str(word)
+#     if len(similar_str) > 0:
+#         dictionary[word] = similar_str
+#
+# writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
+# outfile = open("output/no_suffix_similar.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
 
 
 # ##################################################### youdict mem
@@ -70,16 +70,16 @@ outfile.close()
 #
 #
 # #################################################### root youdict yaml
-# assembled_root = Assembled_Root()
-#
-# dictionary = dict()
-# for word in tqdm(input_word_set, desc='root.mdx'):
-#     root = assembled_root.get_root_html(word)
-#     if len(root) > 0:
-#         dictionary[word] = root
-#
-# writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com or yaml or etymonline")
-# outfile = open("output/root.mdx", "wb")
-# writer.write(outfile)
-# outfile.close()
-#
+assembled_root = Assembled_Root()
+
+dictionary = dict()
+for word in tqdm(input_word_set, desc='root.mdx'):
+    root = assembled_root.get_root_html(word)
+    if len(root) > 0:
+        dictionary[word] = root
+
+writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com or yaml or etymonline")
+outfile = open("output/root.mdx", "wb")
+writer.write(outfile)
+outfile.close()
+

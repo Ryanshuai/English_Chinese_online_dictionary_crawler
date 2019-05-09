@@ -17,13 +17,16 @@ class Etymonline_Root:
         pattern = re.compile(r'\(see [^-]*?\)')
         internal_word_list = pattern.findall(root_str)
 
+        pattern = re.compile(r'[^(]see \w+')
+        internal_word_list2 = pattern.findall(root_str)
+
         def map_fun(s):
             s = s[5:]
             w = re.findall(r'\w+', s)
             if len(w) > 0:
                 return w[0]
             return []
-        internal_word_set = set(map(map_fun, internal_word_list))
+        internal_word_set = set(map(map_fun, internal_word_list + internal_word_list2))
         return internal_word_set
 
     def get_root(self, word):
@@ -48,7 +51,7 @@ class Cigencizhui_Root:
                 res_word_list.append(root_word)
                 if root_word in not_seen_word_list:
                     not_seen_word_list.remove(root_word)
-        print(len(not_seen_word_list))
+        # print(len(not_seen_word_list))
         return res_word_list
 
 
