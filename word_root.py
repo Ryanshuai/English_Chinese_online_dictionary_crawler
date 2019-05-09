@@ -127,12 +127,14 @@ class Assembled_Root:
         root_htmls = self.get_all_kind_root_html(word)
         internal_word_set = self.get_internal_word_set(*root_htmls)
         internal_word_set.discard(word)
-        html_str = word + ': ' + self.get_first_useful(root_htmls)
+        html_str = ''
+        if len(self.get_first_useful(root_htmls)) > 0:
+            html_str += word + ': ' + self.get_first_useful(root_htmls)
         for internal_word in internal_word_set:
             root_html = self.get_first_useful(self.get_all_kind_root_html(internal_word))
             html_str += '<br>' + 2*len(word)*'&nbsp;'
             # html_str += '\n' + len(word)*' '
-            html_str += '|-' + internal_word + ': ' + root_html
+            html_str += '|-  ' + internal_word + ': ' + root_html
         return html_str
 
 

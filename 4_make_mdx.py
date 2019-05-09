@@ -41,20 +41,20 @@ input_word_set = set(word_list)
 # outfile.close()
 #
 #
-# # # ##################################################### no suffix similar
-# no_suffix_similar = No_Suffix_Similar()
-# dictionary = dict()
-# for word in tqdm(input_word_set, desc='no_suffix_similar.mdx'):
-#     similar_str = no_suffix_similar.get_similar_word_str(word)
-#     if len(similar_str) > 0:
-#         dictionary[word] = similar_str
-#
-# writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
-# outfile = open("output/no_suffix_similar.mdx", "wb")
-# writer.write(outfile)
-# outfile.close()
-#
-#
+# # ##################################################### no suffix similar
+no_suffix_similar = No_Suffix_Similar()
+dictionary = dict()
+for word in tqdm(input_word_set, desc='no_suffix_similar.mdx'):
+    similar_str = no_suffix_similar.get_similar_word_str(word)
+    if len(similar_str) > 0:
+        dictionary[word] = similar_str
+
+writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
+outfile = open("output/no_suffix_similar.mdx", "wb")
+writer.write(outfile)
+outfile.close()
+
+
 # # ##################################################### youdict mem
 # youdict_mem = Youdict_Mem()
 # dictionary = dict()
