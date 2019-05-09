@@ -60,7 +60,7 @@ class No_Prefix_Similar:
             self.word_root_suffix_dict[word] = self.get_remove_prefix_set(word)
 
     def get_remove_prefix_set(self, word: str):
-        possible_word_without_prefix_set = set()
+        possible_word_without_prefix_set = {word}
         for prefix in self.a_prefix_list:
             if word.startswith(prefix) and len(word) > 3 and word[1] == word[2]:
                 possible_word_without_prefix_set.add(word[len(prefix)+1:])
@@ -159,17 +159,18 @@ class No_Suffix_Similar:
 
 
 if __name__ == '__main__':
-    # nrs = No_Prefix_Similar()
-    # print(nrs.is_word_similar('separate', 'disparate'))
-    # print(nrs.get_similar_word_str('inevitable'))
-    # print('-------------------------')
     # ds = Distance_Similar()
     # # print(ds.is_word_similar('expect', 'respect'))
     # print(ds.get_similar_word_str('inevitable'))
 
-    nrs = No_Suffix_Similar()
+    nrs = No_Prefix_Similar()
+    print(nrs.is_word_similar('impervious', 'pervious'))
+    print(nrs.get_similar_word_str('inevitable'))
     print('-------------------------')
-    print(nrs.is_word_similar('alliance', 'ally'))
-    print(nrs.get_similar_word_str('retentive'))
+
+    # nrs = No_Suffix_Similar()
+    # print('-------------------------')
+    # print(nrs.is_word_similar('alliance', 'ally'))
+    # print(nrs.get_similar_word_str('retentive'))
 
 

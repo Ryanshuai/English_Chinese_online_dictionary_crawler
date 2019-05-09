@@ -13,35 +13,35 @@ with open(all_word_list, 'r',encoding='utf-8') as f:
 input_word_set = set(word_list)
 
 
-# ##################################################### distance similar
-# edit_distance = Distance_Similar()
-# dictionary = dict()
-# for word in tqdm(input_word_set, desc='distance_similar.mdx'):
-#     similar_str = edit_distance.get_similar_word_str(word)
-#     if len(similar_str) > 0:
-#         dictionary[word] = similar_str
-#
-# writer = MDictWriter(dictionary, title="Distance Similar Dictionary", description="find similar by Levenshtein distance")
-# outfile = open("output/distance_similar.mdx", "wb")
-# writer.write(outfile)
-# outfile.close()
-#
-#
-# # # ##################################################### no prefix similar
-# no_prefix_similar = No_Prefix_Similar()
-# dictionary = dict()
-# for word in tqdm(input_word_set, desc='no_prefix_similar.mdx'):
-#     similar_str = no_prefix_similar.get_similar_word_str(word)
-#     if len(similar_str) > 0:
-#         dictionary[word] = similar_str
-#
-# writer = MDictWriter(dictionary, title="No Prefix Similar Dictionary", description="find similar by no prefix")
-# outfile = open("output/no_prefix_similar.mdx", "wb")
-# writer.write(outfile)
-# outfile.close()
-#
-#
-# # ##################################################### no suffix similar
+##################################################### distance similar
+edit_distance = Distance_Similar()
+dictionary = dict()
+for word in tqdm(input_word_set, desc='distance_similar.mdx'):
+    similar_str = edit_distance.get_similar_word_str(word)
+    if len(similar_str) > 0:
+        dictionary[word] = similar_str
+
+writer = MDictWriter(dictionary, title="Distance Similar Dictionary", description="find similar by Levenshtein distance")
+outfile = open("output/distance_similar.mdx", "wb")
+writer.write(outfile)
+outfile.close()
+
+
+# # ##################################################### no prefix similar
+no_prefix_similar = No_Prefix_Similar()
+dictionary = dict()
+for word in tqdm(input_word_set, desc='no_prefix_similar.mdx'):
+    similar_str = no_prefix_similar.get_similar_word_str(word)
+    if len(similar_str) > 0:
+        dictionary[word] = similar_str
+
+writer = MDictWriter(dictionary, title="No Prefix Similar Dictionary", description="find similar by no prefix")
+outfile = open("output/no_prefix_similar.mdx", "wb")
+writer.write(outfile)
+outfile.close()
+
+
+# ##################################################### no suffix similar
 no_suffix_similar = No_Suffix_Similar()
 dictionary = dict()
 for word in tqdm(input_word_set, desc='no_suffix_similar.mdx'):
@@ -55,21 +55,21 @@ writer.write(outfile)
 outfile.close()
 
 
-# # ##################################################### youdict mem
-# youdict_mem = Youdict_Mem()
-# dictionary = dict()
-# for word in tqdm(input_word_set, desc='youdict_mem.mdx'):
-#     mem_str = youdict_mem.get_mem_html(word)
-#     if len(mem_str) > 0:
-#         dictionary[word] = mem_str
-#
-# writer = MDictWriter(dictionary, title="Memory Dictionary", description="Memory Dictionary from www.youdict.com")
-# outfile = open("output/youdict_mem.mdx", "wb")
-# writer.write(outfile)
-# outfile.close()
+# ##################################################### youdict mem
+youdict_mem = Youdict_Mem()
+dictionary = dict()
+for word in tqdm(input_word_set, desc='youdict_mem.mdx'):
+    mem_str = youdict_mem.get_mem_html(word)
+    if len(mem_str) > 0:
+        dictionary[word] = mem_str
+
+writer = MDictWriter(dictionary, title="Memory Dictionary", description="Memory Dictionary from www.youdict.com")
+outfile = open("output/youdict_mem.mdx", "wb")
+writer.write(outfile)
+outfile.close()
 
 
-##################################################### root youdict yaml
+#################################################### root youdict yaml
 assembled_root = Assembled_Root()
 
 dictionary = dict()
