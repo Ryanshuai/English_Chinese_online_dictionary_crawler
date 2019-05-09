@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/anki_profile/笔记html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/distance_similar.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/no_prefix_similar.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/no_suffix_similar.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/root.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/youdict_mem.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme/Annotation 2019-05-09 134636.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme/Annotation 2019-05-10 003647.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_word_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_word_in_which.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anki_profile/笔记html.txt" beforeDir="false" afterPath="$PROJECT_DIR$/anki_profiles/笔记html.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_root.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word_root.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="827">
-              <caret line="161" column="40" selection-start-line="161" selection-start-column="40" selection-end-line="161" selection-end-column="40" />
+            <state relative-caret-position="548">
+              <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -47,10 +54,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/anki_profile/笔记html.txt">
+        <entry file="file://$PROJECT_DIR$/anki_profiles/笔记html.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1193">
-              <caret line="217" selection-start-line="217" selection-end-line="217" />
+              <caret line="207" column="81" selection-start-line="207" selection-start-column="81" selection-end-line="207" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -110,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yaml_root.py" />
         <option value="$PROJECT_DIR$/youdict_memrorise.py" />
         <option value="$PROJECT_DIR$/get_youdcit_image.py" />
         <option value="$PROJECT_DIR$/writemdict/examples.py" />
@@ -158,9 +164,10 @@
         <option value="$PROJECT_DIR$/ttttest.py" />
         <option value="$PROJECT_DIR$/similar_word.py" />
         <option value="$PROJECT_DIR$/4_make_mdx.py" />
-        <option value="$PROJECT_DIR$/word_root.py" />
         <option value="$PROJECT_DIR$/06_word_in_which.py" />
         <option value="$PROJECT_DIR$/anki_profile/笔记html.txt" />
+        <option value="$PROJECT_DIR$/word_root.py" />
+        <option value="$PROJECT_DIR$/anki_profiles/笔记html.txt" />
       </list>
     </option>
   </component>
@@ -175,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,18 +192,19 @@
             <path>
               <item name="make_anki_word_list" type="b2602c69:ProjectViewProjectNode" />
               <item name="make_anki_word_list" type="462c0819:PsiDirectoryNode" />
-              <item name="anki_profile" type="462c0819:PsiDirectoryNode" />
+              <item name="anki_profiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/readme" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -207,17 +214,17 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/word_root.py" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\github_project\make_anki_word_list" />
-      <recent name="D:\github_project\make_anki_word_list\word_list" />
-      <recent name="D:\github_project\make_anki_word_list\kinds_of_word_list" />
-      <recent name="D:\github_project\make_anki_word_list\memorization_youdict" />
-      <recent name="D:\github_project\make_anki_word_list\affix" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\github_project\make_anki_word_list\youdict_mem" />
       <recent name="D:\github_project\make_anki_word_list\output" />
       <recent name="D:\github_project\make_anki_word_list\affix" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_project\make_anki_word_list\readme" />
+      <recent name="D:\github_project\make_anki_word_list" />
+      <recent name="D:\github_project\make_anki_word_list\word_list" />
+      <recent name="D:\github_project\make_anki_word_list\kinds_of_word_list" />
+      <recent name="D:\github_project\make_anki_word_list\memorization_youdict" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -444,7 +451,9 @@
       <workItem from="1557390483888" duration="828000" />
       <workItem from="1557391406278" duration="125000" />
       <workItem from="1557399328290" duration="2833000" />
-      <workItem from="1557412597432" duration="1040000" />
+      <workItem from="1557412597432" duration="1702000" />
+      <workItem from="1557419785240" duration="114000" />
+      <workItem from="1557421544803" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="add tst_txt">
       <created>1555255110403</created>
@@ -663,11 +672,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557411099722</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="anki 笔记">
+      <created>1557414461118</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1557414461118</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201167000" />
+    <option name="totallyTimeSpent" value="201960000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -682,7 +698,7 @@
     <frame x="673" y="0" width="2774" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.15364775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.15585852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -702,7 +718,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Run" order="5" sideWeight="0.5003897" visible="true" weight="0.50478995" />
+      <window_info anchor="right" id="Run" order="5" sideWeight="0.5003897" weight="0.50478995" />
       <window_info anchor="right" id="Debug" order="6" weight="0.37073028" />
     </layout>
     <layout-to-restore>
@@ -734,7 +750,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update word list" />
     <MESSAGE value="add web search root" />
     <MESSAGE value="add gre_class.txt" />
     <MESSAGE value="add gre_synonym.txt" />
@@ -759,7 +774,8 @@
     <MESSAGE value="list 2 set" />
     <MESSAGE value="fix | &amp; bug" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="anki 笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="anki 笔记" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/make_anki_word_list$3_make_mdx.coverage" NAME="3_make_mdx Coverage Results" MODIFIED="1557207996279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1100,8 +1116,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word_root.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="161" column="40" selection-start-line="161" selection-start-column="40" selection-end-line="161" selection-end-column="40" />
+        <state relative-caret-position="548">
+          <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -1115,10 +1131,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/anki_profile/笔记html.txt">
+    <entry file="file://$PROJECT_DIR$/anki_profiles/笔记html.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1193">
-          <caret line="217" selection-start-line="217" selection-end-line="217" />
+          <caret line="207" column="81" selection-start-line="207" selection-start-column="81" selection-end-line="207" selection-end-column="81" />
         </state>
       </provider>
     </entry>

@@ -112,14 +112,14 @@
   <div>
     <div class="img_box height_60 width_240 left_margin">
       <a href="https://www.youdict.com/w/{{单词}}">
-        <div style="font-size:25px;">
+        <div style="font-size:15px;">
           <font color='#7D3C98';><span id='sc'><b> https://www.youdict.com/w/{{单词}} </b></span></font>
         </div>
       </a>
     </div>
     <div class="img_box height_60 width_240 left_margin top_margin">
       <a href="https://www.etymonline.com/search?q={{单词}}">
-        <div style="font-size:25px;">
+        <div style="font-size:15px;">
           <font color='#7D3C98';><span id='sc'><b> https://www.etymonline.com/search?q={{单词}} </b></span></font>
         </div>
       </a>
@@ -132,20 +132,16 @@
 
 
 <div class="row top_down_margin">
-  <a href="https://www.youdict.com/w/{{单词}}">
-    <div class="img_box height_180 width_240">
-      <div class="img" style="width:100%;height:100%;">
-        {{百词斩图片}}
-      </div>
+  <div class="img_box height_180 width_240">
+    <div class="img" style="width:100%;height:100%;">
+      {{百词斩图片}}
     </div>
-  </a>
-  <a href="https://www.youdict.com/w/{{单词}}">
-    <div class="img_box height_180 width_240 left_margin">
-      <div class="img" style="width:100%;height:100%;">
-        {{bing图片}}
-      </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{bing图片}}
     </div>
-  </a>
+  </div>
   <div class="box flex left_margin">
     <div style="font-size:45px;">
       <font color='#FF9900';><span id='sc'><b> {{单词}} </b></span></font>
@@ -210,8 +206,5 @@
 
 
 <div style='font-family: Arial; font-size: 20px;visibility: hidden;'>{{发音}}</div>
-
-
-
 
 

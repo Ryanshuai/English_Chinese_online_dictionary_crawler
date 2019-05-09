@@ -137,7 +137,7 @@ class Assembled_Root:
             root_html = self.get_first_useful(self.get_all_kind_root_html(internal_word))
             html_str += '<br>' + 2*len(word)*'&nbsp;'
             # html_str += '\n' + len(word)*' '
-            html_str += '|-  ' + internal_word + ': ' + root_html
+            html_str += '|--- ' + internal_word + ': ' + root_html
         return html_str
 
 
