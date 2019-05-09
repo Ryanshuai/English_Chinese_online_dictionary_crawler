@@ -46,7 +46,7 @@ if __name__ == '__main__':
     with open(all_word_list, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
     word_set = set(word_list)
-    word_set.remove('con')
+    word_set.discard('con')
 
     # check and save html #########################################################################################
     multi_thread_check_and_save(word_set)

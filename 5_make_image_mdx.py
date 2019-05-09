@@ -10,7 +10,7 @@ all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 with open(all_word_list, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 word_set = set(word_list)
-word_set.remove('con')
+word_set.discard('con')
 
 
 for i in range(1, 11):
