@@ -1,0 +1,217 @@
+################ 正面
+
+<div class="row top_down_margin">
+    <div class="img_box height_180 width_2400"></div>
+</div>
+
+<div class="row">
+  <a href="https://www.youdict.com/w/{{单词}}">
+      <div class="img_box height_180 width_240"></div>
+  </a>
+  <a href="https://www.youdict.com/w/{{单词}}">
+      <div class="img_box height_180 width_240 left_margin"></div>
+  </a>
+  <div class="box left_margin flex">
+    <div style="font-size:45px;">
+      <font color='#FF9900';><span id='sc'><b>{{单词}}</b></span></font>
+    </div>
+  </div>
+</div>
+
+
+################ 格式
+.box{
+  background-color: #383838 ;
+  padding: 2px 2px 2px 5px;
+  text-align:left;
+}
+
+.top_down_margin{margin-top:7px; margin-bottom: 7px;}
+.top_margin{margin-top:7px;}
+.left_margin{margin-left:7px;}
+.flex{flex: 1;}
+.height_180{height: 225px;}
+.height_60{height: 70px;}
+.width_240{width: 300px; }
+.width_2400{width: 3056px; }
+.width_180{width: 200px; }
+.row{display: flex;}
+
+
+.img_box{
+  background-color: #383838 ;
+  text-align:left;
+}
+.img{
+  vertical-align:middle;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  object-fit:cover
+}
+
+
+################ 背面
+<div class="row top_down_margin">
+  <div class="img_box height_180 width_240">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片1}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片2}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片3}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片4}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片5}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片6}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片7}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片8}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片9}}
+    </div>
+  </div>
+  <div class="img_box height_180 width_240 left_margin">
+    <div class="img" style="width:100%;height:100%;">
+      {{youdict图片10}}
+    </div>
+  </div>
+  <div>
+    <div class="img_box height_60 width_240 left_margin">
+      <a href="https://www.youdict.com/w/{{单词}}">
+        <div style="font-size:25px;">
+          <font color='#7D3C98';><span id='sc'><b> https://www.youdict.com/w/{{单词}} </b></span></font>
+        </div>
+      </a>
+    </div>
+    <div class="img_box height_60 width_240 left_margin top_margin">
+      <a href="https://www.etymonline.com/search?q={{单词}}">
+        <div style="font-size:25px;">
+          <font color='#7D3C98';><span id='sc'><b> https://www.etymonline.com/search?q={{单词}} </b></span></font>
+        </div>
+      </a>
+    </div>
+    <div class="img_box height_60 width_240 left_margin top_margin">
+      <a href="https://www.youdict.com/w/{{单词}}">  </a>
+    </div>
+  </div>
+</div>
+
+
+<div class="row top_down_margin">
+  <a href="https://www.youdict.com/w/{{单词}}">
+    <div class="img_box height_180 width_240">
+      <div class="img" style="width:100%;height:100%;">
+        {{百词斩图片}}
+      </div>
+    </div>
+  </a>
+  <a href="https://www.youdict.com/w/{{单词}}">
+    <div class="img_box height_180 width_240 left_margin">
+      <div class="img" style="width:100%;height:100%;">
+        {{bing图片}}
+      </div>
+    </div>
+  </a>
+  <div class="box flex left_margin">
+    <div style="font-size:45px;">
+      <font color='#FF9900';><span id='sc'><b> {{单词}} </b></span></font>
+    </div>
+    <div style="font-size:25px;">
+      <font color='#9ACD32  ';><span id='sc'><b> {{中文释义}} </b></span></font>
+    </div>
+  </div>
+  <div class="box left_margin width_180">
+    <div style="font-size:25px;">
+      <font color='#00BFFF  ';><span id='sc'><b>{{no_prefix_similar}} </b></span></font>
+    </div>
+  </div>
+  <div class="box left_margin width_180">
+    <div style="font-size:25px;">
+      <font color='#00BFFF  ';><span id='sc'><b>{{no_suffix_similar}} </b></span></font>
+    </div>
+  </div>
+  <div class="box left_margin width_180">
+    <div style="font-size:25px;">
+      <font color='#FF9900  ';><span id='sc'><b>{{distance_similar}} </b></span></font>
+    </div>
+  </div>
+</div>
+
+
+<div class="box top_down_margin">
+  <div style="font-size:25px;">
+    <font color='#00BFFF  ';><span id='sc'><b>{{root}} </b></span></font>
+  </div>
+</div>
+
+
+<div class="box top_down_margin">
+  <div style="font-size:25px;">
+    <font color='#FF9900  ';><span id='sc'><b>{{youdict_mem}} </b></span></font>
+  </div>
+</div>
+
+
+<div class="box top_down_margin">
+  <div style="font-size:25px;">
+    <font color='#9ACD32  ';><span id='sc'><b>{{英文释义}} </b></span></font>
+  </div>
+</div>
+
+
+<div class="box top_down_margin">
+  <div style="font-size:25px;">
+    <font color='#989898  ';><span id='sc'><b> {{例句1}} </b></span></font>
+  </div>
+  <div style="font-size:25px;">
+    <font color='#989898  ';><span id='sc'><b>{{例句翻译1}} </b></span></font>
+  </div>
+  <div style="font-size:25px;">
+    <font color='#989898  ';><span id='sc'><b>{{例句2}} </b></span></font>
+  </div>
+  <div style="font-size:25px;">
+    <font color='#989898  ';><span id='sc'><b>{{例句翻译2}} </b></span></font>
+  </div>
+</div>
+
+
+<div style='font-family: Arial; font-size: 20px;visibility: hidden;'>{{发音}}</div>
+
+
+
+
+
