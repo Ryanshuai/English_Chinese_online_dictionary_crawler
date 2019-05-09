@@ -55,47 +55,51 @@ class No_Prefix_Similar:
             word_list = f.read().splitlines()
         self.all_word_set = set(word_list)
 
-    def remove_prefix(self, word: str):
-        possible_word_without_prefix_list = list()
+        self.word_root_suffix_dict = dict()
+        for word in self.all_word_set:
+            self.word_root_suffix_dict[word] = self.get_remove_prefix_set(word)
+
+    def get_remove_prefix_set(self, word: str):
+        possible_word_without_prefix_set = set()
         for prefix in self.a_prefix_list:
             if word.startswith(prefix) and len(word) > 3 and word[1] == word[2]:
-                possible_word_without_prefix_list.append(word[len(prefix)+1:])
+                possible_word_without_prefix_set.add(word[len(prefix)+1:])
         for prefix in self.for_s_begin_root_list:
             if word.startswith(prefix):
-                possible_word_without_prefix_list.append(word[len(prefix):])
-                possible_word_without_prefix_list.append('s'+word[len(prefix):])
+                possible_word_without_prefix_set.add(word[len(prefix):])
+                possible_word_without_prefix_set.add('s'+word[len(prefix):])
         for prefix in self.co_prefix_list:
             if word.startswith(prefix) and len(word) > 4 and word[2] == word[3]:
-                possible_word_without_prefix_list.append(word[3:])
+                possible_word_without_prefix_set.add(word[3:])
         for prefix in self.prefix_list:
             if word.startswith(prefix):
-                possible_word_without_prefix_list.append(word[len(prefix):])
-        return possible_word_without_prefix_list
+                possible_word_without_prefix_set.add(word[len(prefix):])
+        return possible_word_without_prefix_set
 
     def is_word_similar(self, word1, word2):
         if word1.lower() == word2.lower():
             return False
-        root1_list = self.remove_prefix(word1)
-        root2_list = self.remove_prefix(word2)
+        root1_set = self.word_root_suffix_dict[word1]
+        root2_set = self.word_root_suffix_dict[word2]
 
-        if len(set(root1_list).intersection(set(root2_list))) > 0:
+        if len(root1_set | root2_set) > 0:
             return True
         return False
 
     def get_similar_word_list(self, word1):
         similar_list = list()
         for word2 in self.all_word_set:
-            if self.is_word_similar(word1.lower(), word2.lower()):
+            if self.is_word_similar(word1, word2):
                 similar_list.append(word2)
         return similar_list
 
-    def get_similar_word_str(self, word):
+    def get_similar_word_str(self, word1):
         similar_words_str = ''
-        for s in self.all_word_set:
-            if self.is_word_similar(s.lower(), word.lower()):
+        for word2 in self.all_word_set:
+            if self.is_word_similar(word1, word2):
                 if similar_words_str != '':
                     similar_words_str += '<br>'
-                similar_words_str += s
+                similar_words_str += word2
         return similar_words_str
 
 
@@ -113,35 +117,34 @@ class No_Suffix_Similar:
 
         self.word_prefix_root_dict = dict()
         for word in self.all_word_set:
-            print(word)
-            self.word_prefix_root_dict[word] = self.remove_suffix(word)
+            self.word_prefix_root_dict[word] = self.get_remove_suffix_set(word)
 
-    def remove_suffix(self, word: str):
-        possible_word_without_suffix_list = [word]
+    def get_remove_suffix_set(self, word: str):
+        possible_word_without_suffix_set = {word}
         for suffix in self.suffix_list:
             prefix_root = word[:-len(suffix)]
             if word.endswith(suffix) and len(prefix_root) >= 4:
-                possible_word_without_suffix_list.append(word[:-len(suffix)])
+                possible_word_without_suffix_set.add(word[:-len(suffix)])
                 if prefix_root[-1] in self.suffix_change_dict:
                     for change_c in self.suffix_change_dict[prefix_root[-1]]:
                         i2y_word = prefix_root[:-1] + change_c
-                        possible_word_without_suffix_list.append(i2y_word)
-        return possible_word_without_suffix_list
+                        possible_word_without_suffix_set.add(i2y_word)
+        return possible_word_without_suffix_set
 
     def is_word_similar(self, word1, word2):
         if word1.lower() == word2.lower():
             return False
-        root1_list = self.word_prefix_root_dict[word1]
-        root2_list = self.word_prefix_root_dict[word2]
+        root1_set = self.word_prefix_root_dict[word1]
+        root2_set = self.word_prefix_root_dict[word2]
 
-        if len(set(root1_list).intersection(set(root2_list))) > 0:
+        if len(root1_set | root2_set) > 0:
             return True
         return False
 
     def get_similar_word_list(self, word1):
         similar_list = list()
         for word2 in self.all_word_set:
-            if self.is_word_similar(word1.lower(), word2.lower()):
+            if self.is_word_similar(word1, word2):
                 similar_list.append(word2)
         return similar_list
 

@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
+    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="is_word_similar faster">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_word_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_word_in_which.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_make_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_make_mdx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/similar_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/similar_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_root.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_make_mdx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+            <state relative-caret-position="410">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -42,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/similar_word.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="106" column="211" selection-start-line="106" selection-start-column="211" selection-end-line="106" selection-end-column="211" />
+            <state relative-caret-position="756">
+              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
             </state>
           </provider>
         </entry>
@@ -59,10 +56,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>，名</find>
-      <find>^2</find>
-      <find>con</find>
-      <find>con\n</find>
       <find>put_word_list_in_order</find>
       <find>save_word_html_to_dir</find>
       <find>wed</find>
@@ -89,6 +82,10 @@
       <find>zippy</find>
       <find>remove</find>
       <find>ion</find>
+      <find>ant</find>
+      <find>april</find>
+      <find>june</find>
+      <find>list</find>
     </findStrings>
     <replaceStrings>
       <replace>\\</replace>
@@ -276,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="similar_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="make_all_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="make_anki_word_list" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +286,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/similar_word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_all_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,10 +342,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.4_make_mdx" />
+        <item itemvalue="Python.make_all_list" />
         <item itemvalue="Python.06_word_in_which" />
         <item itemvalue="Python.word_root" />
         <item itemvalue="Python.ttttest" />
-        <item itemvalue="Python.similar_word" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +435,7 @@
       <workItem from="1557329425936" duration="4194000" />
       <workItem from="1557338224391" duration="1389000" />
       <workItem from="1557366056741" duration="46000" />
-      <workItem from="1557366124566" duration="13562000" />
+      <workItem from="1557366124566" duration="16066000" />
     </task>
     <task id="LOCAL-00001" summary="add tst_txt">
       <created>1555255110403</created>
@@ -615,11 +612,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557377287746</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="1">
+      <created>1557381414135</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557381414135</updated>
+    </task>
+    <task id="LOCAL-00027" summary="is_word_similar faster">
+      <created>1557383768984</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1557383768984</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189894000" />
+    <option name="totallyTimeSpent" value="192398000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,7 +709,6 @@
     <MESSAGE value="整理" />
     <MESSAGE value="nearly down" />
     <MESSAGE value="fuking final" />
-    <MESSAGE value="1" />
     <MESSAGE value="restructure for web" />
     <MESSAGE value="multi thread down" />
     <MESSAGE value="etymonline txt down  utf-8" />
@@ -709,7 +719,9 @@
     <MESSAGE value="get_internal_word_list down" />
     <MESSAGE value="Assembled_Root down" />
     <MESSAGE value="Assembled_Root done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assembled_Root done" />
+    <MESSAGE value="1" />
+    <MESSAGE value="is_word_similar faster" />
+    <option name="LAST_COMMIT_MESSAGE" value="is_word_similar faster" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/make_anki_word_list$3_make_mdx.coverage" NAME="3_make_mdx Coverage Results" MODIFIED="1557207996279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -734,11 +746,12 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$yaml_root.coverage" NAME="yaml_root Coverage Results" MODIFIED="1554555313882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$03_make_image_mdx.coverage" NAME="03_make_image_mdx Coverage Results" MODIFIED="1555297275298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$08_generate_youdict_root_mem.coverage" NAME="08_generate_youdict_root_mem Coverage Results" MODIFIED="1557205382510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/make_anki_word_list$4_make_mdx.coverage" NAME="4_make_mdx Coverage Results" MODIFIED="1557381395597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$4_make_mdx.coverage" NAME="4_make_mdx Coverage Results" MODIFIED="1557384197321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$02_make_mdx.coverage" NAME="02_make_mdx Coverage Results" MODIFIED="1557127432636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$03_word_in_which.coverage" NAME="03_word_in_which Coverage Results" MODIFIED="1555060182338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$2_get_youdict_html_txt.coverage" NAME="2_get_youdict_html_txt Coverage Results" MODIFIED="1557204004657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$html2txt.coverage" NAME="html2txt Coverage Results" MODIFIED="1557315138316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$make_all_list.coverage" NAME="make_all_list Coverage Results" MODIFIED="1557383565494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$01_make_anki_list.coverage" NAME="01_make_anki_list Coverage Results" MODIFIED="1557164201938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="debuggerHistoryManager">
@@ -944,13 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/make_all_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/word2url2html.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="999">
@@ -1054,10 +1060,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/make_all_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4_make_mdx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        <state relative-caret-position="410">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -1066,8 +1079,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/similar_word.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="106" column="211" selection-start-line="106" selection-start-column="211" selection-end-line="106" selection-end-column="211" />
+        <state relative-caret-position="756">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
         </state>
       </provider>
     </entry>
