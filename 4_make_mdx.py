@@ -2,7 +2,7 @@ from tqdm import tqdm
 from writemdict.writemdict import MDictWriter
 from similar_word import Distance_Similar, No_Prefix_Similar, No_Suffix_Similar
 from youdict_mem import Youdict_Mem
-from word_root import Assembled_Root
+from word_root import Assembled_Root, Yaml_Root
 
 
 # ####################################################### build filter list
@@ -70,16 +70,31 @@ word_set.discard('con')
 #
 #
 # #################################################### root youdict yaml
-assembled_root = Assembled_Root()
+# assembled_root = Assembled_Root()
+#
+# dictionary = dict()
+# for word in tqdm(word_set, desc='root.mdx'):
+#     root = assembled_root.get_root_html(word)
+#     if len(root) > 0:
+#         dictionary[word] = root
+#
+# writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com or yaml or etymonline")
+# outfile = open("output/root.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
+
+
+# #################################################### root youdict yaml
+yaml_root = Yaml_Root()
 
 dictionary = dict()
-for word in tqdm(word_set, desc='root.mdx'):
-    root = assembled_root.get_root_html(word)
-    if len(root) > 0:
-        dictionary[word] = root
+for word in tqdm(word_set, desc='possible_root.mdx'):
+    possible_root = yaml_root.get_possible_prefix_root_suffix_html(word)
+    if len(possible_root) > 0:
+        dictionary[word] = possible_root
 
-writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="Root and Affix Dictionary from www.youdict.com or yaml or etymonline")
-outfile = open("output/root.mdx", "wb")
+writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="possible root and affix dictionary from yaml")
+outfile = open("output/possible root.mdx", "wb")
 writer.write(outfile)
 outfile.close()
 

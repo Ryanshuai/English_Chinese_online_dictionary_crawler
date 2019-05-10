@@ -152,12 +152,12 @@
   </div>
   <div class="box left_margin width_180">
     <div style="font-size:25px;">
-      <font color='#00BFFF  ';><span id='sc'><b>{{no_prefix_similar}} </b></span></font>
+      <font color='#3498DB  ';><span id='sc'><b>{{no_prefix_similar}} </b></span></font>
     </div>
   </div>
   <div class="box left_margin width_180">
     <div style="font-size:25px;">
-      <font color='#00BFFF  ';><span id='sc'><b>{{no_suffix_similar}} </b></span></font>
+      <font color='#21618C  ';><span id='sc'><b>{{no_suffix_similar}} </b></span></font>
     </div>
   </div>
   <div class="box left_margin width_180">
@@ -170,7 +170,14 @@
 
 <div class="box top_down_margin">
   <div style="font-size:25px;">
-    <font color='#00BFFF  ';><span id='sc'><b>{{root}} </b></span></font>
+    <font color='#3498DB';><span id='sc'><b>{{root}} </b></span></font>
+  </div>
+</div>
+
+
+<div class="box top_down_margin">
+  <div style="font-size:25px;">
+    <font color='#85C1E9';><span id='sc'><b>{{possible_prs}} </b></span></font>
   </div>
 </div>
 
