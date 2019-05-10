@@ -11,8 +11,8 @@ gre_3000_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_佛脚词.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE红宝书.txt'
 gre_synonym_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
-internal_txt = 'D:\github_project\make_anki_word_list\word_list\internal_word.txt'
-all_txt = 'D:\github_project\make_anki_word_list\word_list\all.txt'
+internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
+all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 
 input_txt_list = list()
 input_txt_list.append(tst_txt)
@@ -27,7 +27,7 @@ input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
 input_txt_list.append(gre_synonym_txt)
 
-word = 'demon'
+word = 'stratum'
 for file in input_txt_list:
     with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
