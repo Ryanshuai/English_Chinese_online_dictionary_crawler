@@ -1,4 +1,4 @@
-import make_all_internal_list
+from make_all_internal_list import make_all_list
 from tqdm import tqdm
 from word2url2html import multi_thread_check_and_save
 from html2txt import get_mem_txt_from_youdict_html_text, get_root_txt_from_youdict_html_text

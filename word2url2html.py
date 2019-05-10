@@ -15,12 +15,12 @@ def get_dynamic_ip():
 
 def get_html_from_url(url, ip=None):
     if ip is None:
-        head = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}  ##浏览器请求头（大部分网站没有这个请求头会报错、请务必加上哦）
+        head = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}
         html = requests.get(url, headers=head, verify=False)
         html.encoding = 'utf-8'
     else:
         proxy = {'http': ip}
-        head = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}  ##浏览器请求头（大部分网站没有这个请求头会报错、请务必加上哦）
+        head = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}
         html = requests.get(url, headers=head, verify=False, proxies=proxy)
         html.encoding = 'utf-8'
     # p = requests.get('http://icanhazip.com', headers=head, proxies=proxy)
@@ -29,11 +29,11 @@ def get_html_from_url(url, ip=None):
     return html.text
 
 
-def thread_process(word, from_web, to_dir):
-    to_txt = to_dir + word + '.txt'
+def thread_process(word, base_url, save_dir):
+    to_txt = save_dir + word + '.txt'
     if not os.path.exists(to_txt):
         print(word)
-        url = from_web + word
+        url = base_url + word
         html_text = get_html_from_url(url)
         with open(to_txt, 'w', encoding='utf-8') as f:
             f.write(html_text)
