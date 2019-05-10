@@ -1,6 +1,7 @@
 import requests
 import os
 import urllib3
+from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
@@ -26,6 +27,28 @@ def get_html_from_url(url, ip=None):
     # print('------------------------')
     # print(p.text)
     return html.text
+
+
+def thread_process(word, from_web, to_dir):
+    to_txt = to_dir + word + '.txt'
+    if not os.path.exists(to_txt):
+        print(word)
+        url = from_web + word
+        html_text = get_html_from_url(url)
+        with open(to_txt, 'w', encoding='utf-8') as f:
+            f.write(html_text)
+
+
+def one_thread_check_and_save(word_list, base_url, save_dir):
+    [thread_process(word, base_url, save_dir) for word in word_list]
+
+
+def multi_thread_check_and_save(word_list, base_url, save_dir):
+    executor = ThreadPoolExecutor(max_workers=1280)
+    all_task = [executor.submit(thread_process, word, base_url, save_dir)
+                for word in word_list]
+    wait(all_task, return_when=ALL_COMPLETED)
+
 
 
 if __name__ == '__main__':

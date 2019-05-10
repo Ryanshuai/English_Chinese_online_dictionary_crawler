@@ -1,10 +1,7 @@
 import make_all_internal_list
-import re
-import os
 from tqdm import tqdm
-from word2url2html import get_html_from_url
+from word2url2html import multi_thread_check_and_save
 from html2txt import get_mem_txt_from_youdict_html_text, get_root_txt_from_youdict_html_text
-from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 
 
 def find_internal_word_from_youdict_root_str(root_str: str):
@@ -22,23 +19,6 @@ def find_internal_word_from_youdict_root_str(root_str: str):
         return ''
 
 
-def thread_process(word, from_web, to_dir):
-    to_txt = to_dir + word + '.txt'
-    if not os.path.exists(to_txt):
-        print(word)
-        url = from_web + word
-        html_text = get_html_from_url(url)
-        with open(to_txt, 'w', encoding='utf-8') as f:
-            f.write(html_text)
-
-
-def multi_thread_check_and_save(word_set):
-    executor = ThreadPoolExecutor(max_workers=100)
-    all_task = [executor.submit(thread_process, word, 'https://www.youdict.com/w/', 'youdict_html_text/',)
-                for word in word_set]
-    wait(all_task, return_when=ALL_COMPLETED)
-
-
 if __name__ == '__main__':
     html_text_dir = 'D:\github_project\make_anki_word_list\youdict_word_html'
 
@@ -49,7 +29,7 @@ if __name__ == '__main__':
     word_set.discard('con')
 
     # check and save html #########################################################################################
-    multi_thread_check_and_save(word_set)
+    multi_thread_check_and_save(word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
 
     # update txt ###################################################################################################
     root_line_list = list()
@@ -66,7 +46,6 @@ if __name__ == '__main__':
         # print(word)
         # print(word+'\\'+root_txt)
         # print(word+'\\'+mem_txt)
-
 
     to_txt = 'D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt'
     with open(to_txt, 'w', encoding='utf-8') as f:

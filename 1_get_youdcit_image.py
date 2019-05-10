@@ -12,24 +12,24 @@ def get_image_from_url(url):
     return image
 
 
-def save_word_image_to_dir(name, di='youdict_word_images/'):
+def save_word_image_to_dir(name, di):
 
     url = 'http://www.youdict.com/images/words/' + name + '.jpg'
     image_name = name + '.jpg'
     image = get_image_from_url(url)
-    # print('saving>>>>>>\t', di+image_name)
+    # print('saving>>>>>>/t', di+image_name)
     image.convert('RGB').save(di+image_name)
+    print(name, '\t\t\t done')
 
 
 if __name__ == '__main__':
-    # ####################################################### build filter list
     all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
     with open(all_word_list, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
     word_set = set(word_list)
     word_set.discard('con')
 
-    print('download image for {} word'.format(len(word_set)))
+    save_to_dir = 'C:/Users/YS/AppData/Roaming/Anki2/Ryan/collection.media/'
 
     # for word in word_list:
     #     save_word_image_to_dir(word)
@@ -39,8 +39,8 @@ if __name__ == '__main__':
     for word in word_set:
         for i in range(1, 11):
             name = word+str(i)
-            if not os.path.exists('youdict_word_images/'+name+'.jpg'):
-                print(name)
+            if not os.path.exists(save_to_dir+name+'.jpg'):
+                # print(name)
                 # save_word_image_to_dir(word)
-                a = pool.submit(save_word_image_to_dir, name)
+                a = pool.submit(save_word_image_to_dir, name, save_to_dir)
 
