@@ -88,13 +88,13 @@ word_set.discard('con')
 yaml_root = Yaml_Root()
 
 dictionary = dict()
-for word in tqdm(word_set, desc='possible_root.mdx'):
+for word in tqdm(word_set, desc='possible_prs.mdx'):
     possible_root = yaml_root.get_possible_prefix_root_suffix_html(word)
     if len(possible_root) > 0:
         dictionary[word] = possible_root
 
 writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="possible root and affix dictionary from yaml")
-outfile = open("output/possible root.mdx", "wb")
+outfile = open("output/possible_prs.mdx", "wb")
 writer.write(outfile)
 outfile.close()
 
