@@ -107,8 +107,8 @@ class No_Suffix_Similar:
     def __init__(self):
         self.suffix_change_dict = {'i': ['y'], 's': ['t', 'd'], 't': ['d'], 'e': ['i']}
         self.a_suffix_list = []
-        self.co_suffix_list = []
-        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'istic','able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ant', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
+        self.ing_suffix_list = ['ing']
+        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'istic','able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ary', 'ant', 'ent', 'cal', 'ful', 'ial', 'ile', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ous', 'sis', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -121,6 +121,9 @@ class No_Suffix_Similar:
 
     def get_remove_suffix_set(self, word: str):
         possible_word_without_suffix_set = {word}
+        for suffix in self.ing_suffix_list:
+            if word.endswith(suffix) and len(word) > 5 and word[-4] == word[-5]:
+                possible_word_without_suffix_set.add(word[:-5])
         for suffix in self.suffix_list:
             prefix_root = word[:-len(suffix)]
             if word.endswith(suffix) and len(prefix_root) >= 4:
@@ -170,7 +173,7 @@ if __name__ == '__main__':
 
     nss = No_Suffix_Similar()
     print('-------------------------')
-    print(nss.is_word_similar('moralistic', 'morale'))
+    print(nss.is_word_similar('whimsy', 'whimsical'))
     print(nss.get_similar_word_str('moralistic'))
 
 

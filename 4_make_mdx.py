@@ -13,7 +13,7 @@ word_set = set(word_list)
 word_set.discard('con')
 
 
-##################################################### distance similar
+# ##################################################### distance similar
 # edit_distance = Distance_Similar()
 # dictionary = dict()
 # for word in tqdm(word_set, desc='distance_similar.mdx'):
@@ -27,7 +27,7 @@ word_set.discard('con')
 # outfile.close()
 #
 #
-# ##################################################### no prefix similar
+# # ##################################################### no prefix similar
 # no_prefix_similar = No_Prefix_Similar()
 # dictionary = dict()
 # for word in tqdm(word_set, desc='no_prefix_similar.mdx'):
@@ -39,9 +39,9 @@ word_set.discard('con')
 # outfile = open("output/no_prefix_similar.mdx", "wb")
 # writer.write(outfile)
 # outfile.close()
-#
-#
-# # ##################################################### no suffix similar
+
+
+# ##################################################### no suffix similar
 no_suffix_similar = No_Suffix_Similar()
 dictionary = dict()
 for word in tqdm(word_set, desc='no_suffix_similar.mdx'):
@@ -55,7 +55,7 @@ writer.write(outfile)
 outfile.close()
 
 
-# ##################################################### youdict mem
+# # ##################################################### youdict mem
 # youdict_mem = Youdict_Mem()
 # dictionary = dict()
 # for word in tqdm(word_set, desc='youdict_mem.mdx'):
@@ -69,7 +69,7 @@ outfile.close()
 # outfile.close()
 #
 #
-# #################################################### root youdict yaml
+# # #################################################### root youdict yaml
 # assembled_root = Assembled_Root()
 #
 # dictionary = dict()
@@ -82,9 +82,9 @@ outfile.close()
 # outfile = open("output/root.mdx", "wb")
 # writer.write(outfile)
 # outfile.close()
-
-
-# #################################################### root youdict yaml
+#
+#
+# # #################################################### root youdict yaml
 # yaml_root = Yaml_Root()
 #
 # dictionary = dict()
@@ -97,4 +97,4 @@ outfile.close()
 # outfile = open("output/possible_prs.mdx", "wb")
 # writer.write(outfile)
 # outfile.close()
-
+#
