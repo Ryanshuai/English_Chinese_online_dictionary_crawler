@@ -42,17 +42,17 @@ word_set.discard('con')
 #
 #
 # # ##################################################### no suffix similar
-# no_suffix_similar = No_Suffix_Similar()
-# dictionary = dict()
-# for word in tqdm(word_set, desc='no_suffix_similar.mdx'):
-#     similar_str = no_suffix_similar.get_similar_word_str(word)
-#     if len(similar_str) > 0:
-#         dictionary[word] = similar_str
-#
-# writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
-# outfile = open("output/no_suffix_similar.mdx", "wb")
-# writer.write(outfile)
-# outfile.close()
+no_suffix_similar = No_Suffix_Similar()
+dictionary = dict()
+for word in tqdm(word_set, desc='no_suffix_similar.mdx'):
+    similar_str = no_suffix_similar.get_similar_word_str(word)
+    if len(similar_str) > 0:
+        dictionary[word] = similar_str
+
+writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
+outfile = open("output/no_suffix_similar.mdx", "wb")
+writer.write(outfile)
+outfile.close()
 
 
 # ##################################################### youdict mem
@@ -85,16 +85,16 @@ word_set.discard('con')
 
 
 # #################################################### root youdict yaml
-yaml_root = Yaml_Root()
-
-dictionary = dict()
-for word in tqdm(word_set, desc='possible_prs.mdx'):
-    possible_root = yaml_root.get_possible_prefix_root_suffix_html(word)
-    if len(possible_root) > 0:
-        dictionary[word] = possible_root
-
-writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="possible root and affix dictionary from yaml")
-outfile = open("output/possible_prs.mdx", "wb")
-writer.write(outfile)
-outfile.close()
+# yaml_root = Yaml_Root()
+#
+# dictionary = dict()
+# for word in tqdm(word_set, desc='possible_prs.mdx'):
+#     possible_root = yaml_root.get_possible_prefix_root_suffix_html(word)
+#     if len(possible_root) > 0:
+#         dictionary[word] = possible_root
+#
+# writer = MDictWriter(dictionary, title="Root and Affix Dictionary", description="possible root and affix dictionary from yaml")
+# outfile = open("output/possible_prs.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
 

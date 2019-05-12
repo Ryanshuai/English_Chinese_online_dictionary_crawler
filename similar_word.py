@@ -48,7 +48,7 @@ class No_Prefix_Similar:
         self.for_s_begin_root_list = ['ex']
         self.a_prefix_list = ['a']
         self.co_prefix_list = ['co']
-        self.prefix_list = ['com', 'con', 'dis', 'sub', 'pro', 'mis', 'per', 'pre', 'co', 'in', 'ex', 'im', 'en', 'ex', 're', 'di', 'ob', 'ab', 'ad', 'de', 'un', 'se', 'e', 'a']
+        self.prefix_list = ['com', 'con', 'dis', 'sub', 'pro', 'mis', 'per', 'pre', 'be', 'co', 'in', 'ex', 'im', 'en', 'ex', 're', 'di', 'ob', 'ab', 'ad', 'de', 'un', 'se', 'e', 'a']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -108,7 +108,7 @@ class No_Suffix_Similar:
         self.suffix_change_dict = {'i': ['y'], 's': ['t', 'd'], 't': ['d'], 'e': ['i']}
         self.a_suffix_list = []
         self.co_suffix_list = []
-        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ant', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
+        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'istic','able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'tion', 'ture', 'ate', 'ant', 'ent', 'ful', 'ial', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
@@ -163,14 +163,14 @@ if __name__ == '__main__':
     # # print(ds.is_word_similar('expect', 'respect'))
     # print(ds.get_similar_word_str('inevitable'))
 
-    nrs = No_Prefix_Similar()
-    print(nrs.is_word_similar('impervious', 'pervious'))
-    print(nrs.get_similar_word_str('expect'))
-    print('-------------------------')
-
-    # nrs = No_Suffix_Similar()
+    # nps = No_Prefix_Similar()
+    # print(nps.is_word_similar('impervious', 'pervious'))
+    # print(nps.get_similar_word_str('expect'))
     # print('-------------------------')
-    # print(nrs.is_word_similar('alliance', 'ally'))
-    # print(nrs.get_similar_word_str('retentive'))
+
+    nss = No_Suffix_Similar()
+    print('-------------------------')
+    print(nss.is_word_similar('moralistic', 'morale'))
+    print(nss.get_similar_word_str('moralistic'))
 
 
