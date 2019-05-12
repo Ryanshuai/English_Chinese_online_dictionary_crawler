@@ -32,18 +32,18 @@ for file in input_txt_list:
     with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
     if word in word_list:
-        print(word, 'is in list: ',file)
+        print(word, '\tis in list: ',file)
 
-# root = 'ning'
-# with open(all_txt, 'r', encoding='utf-8') as f:
-#     word_list = f.read().splitlines()
-# for word in word_list:
-#     if root in word:
-#         print(word)
-
-suffix = 'sis'
+root = 'mend'
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 for word in word_list:
-    if word.endswith(suffix):
-        print(word)
+    if root in word:
+        print(word, '\thas root:\t', root)
+
+# suffix = 'sis'
+# with open(all_txt, 'r', encoding='utf-8') as f:
+#     word_list = f.read().splitlines()
+# for word in word_list:
+#     if word.endswith(suffix):
+#         print(word, '\thas suffix:\t', suffix)

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="1">
+    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4_get_oxford_phonetic_symbol.txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phonetic_symbol/phonetic_symbol.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_find_word_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_find_word_in_which.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_make_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_make_mdx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/distance_similar.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output/distance_similar.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/no_prefix_similar.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output/no_prefix_similar.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_make_anki_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_make_anki_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_find_word_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_find_word_in_which.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_make_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_make_mdx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_update_bing.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/no_suffix_similar.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output/no_suffix_similar.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/possible_prs.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output/possible_prs.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/root.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output/root.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/youdict_mem.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output/youdict_mem.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/similar_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/similar_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_root.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,31 +33,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_make_mdx.py">
+        <entry file="file://$PROJECT_DIR$/3_update_youdict_root_mem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+            <state relative-caret-position="918">
+              <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_get_oxford_phonetic_symbol.txt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_find_word_in_which.py">
+        <entry file="file://$PROJECT_DIR$/ttttest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="834">
-              <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/similar_word.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1019">
-              <caret line="110" column="237" selection-start-line="110" selection-start-column="237" selection-end-line="110" selection-end-column="237" />
+            <state relative-caret-position="95">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="61" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -73,8 +73,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>is_longer_than_one</find>
-      <find>image_dir</find>
       <find>\\</find>
       <find>open</find>
       <find>dict</find>
@@ -100,9 +98,11 @@
       <find>print</find>
       <find>word_set</find>
       <find>word_list</find>
-      <find>\</find>
       <find>calli</find>
       <find>ning</find>
+      <find>sive</find>
+      <find>-s</find>
+      <find>\</find>
     </findStrings>
     <replaceStrings>
       <replace>\\</replace>
@@ -118,8 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kinds_of_word_list/tst.txt" />
-        <option value="$PROJECT_DIR$/05_make_all_list.py" />
         <option value="$PROJECT_DIR$/03_make_image_mdx.py" />
         <option value="$PROJECT_DIR$/youdict_root.py" />
         <option value="$PROJECT_DIR$/02_make_mdx.py" />
@@ -152,7 +150,6 @@
         <option value="$PROJECT_DIR$/html2txt.py" />
         <option value="$PROJECT_DIR$/youdict_mem.py" />
         <option value="$PROJECT_DIR$/单词表常用正则表达式.txt" />
-        <option value="$PROJECT_DIR$/ttttest.py" />
         <option value="$PROJECT_DIR$/anki_profile/笔记html.txt" />
         <option value="$PROJECT_DIR$/05_make_all_internal_list.py" />
         <option value="$PROJECT_DIR$/06_word_in_which.py" />
@@ -164,17 +161,20 @@
         <option value="$PROJECT_DIR$/3_update_youdict_root_mem.py" />
         <option value="$PROJECT_DIR$/2_update_etymonline.py" />
         <option value="$PROJECT_DIR$/4_update_bing.py" />
-        <option value="$PROJECT_DIR$/word_root.py" />
         <option value="$PROJECT_DIR$/anki_profiles/笔记html.txt" />
         <option value="$PROJECT_DIR$/4_make_mdx.py" />
-        <option value="$PROJECT_DIR$/06_find_word_in_which.py" />
+        <option value="$PROJECT_DIR$/word_root.py" />
         <option value="$PROJECT_DIR$/similar_word.py" />
+        <option value="$PROJECT_DIR$/06_find_word_in_which.py" />
+        <option value="$PROJECT_DIR$/ttttest.py" />
+        <option value="$PROJECT_DIR$/youdict_word_images/get_oxford_phonetic_symbol.txt.py" />
+        <option value="$PROJECT_DIR$/4_get_oxford_phonetic_symbol.txt.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="611" />
-    <option name="y" value="90" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="-27" />
     <option name="width" value="2774" />
     <option name="height" value="1180" />
   </component>
@@ -184,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,13 +200,17 @@
             <path>
               <item name="make_anki_word_list" type="b2602c69:ProjectViewProjectNode" />
               <item name="make_anki_word_list" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="phonetic_symbol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="make_anki_word_list" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make_anki_word_list" type="462c0819:PsiDirectoryNode" />
+              <item name="word_list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,17 +226,18 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/word_list/GRE_3000.txt" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\github_project\make_anki_word_list\youdict_mem" />
-      <recent name="D:\github_project\make_anki_word_list\output" />
-      <recent name="D:\github_project\make_anki_word_list\affix" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\github_project\make_anki_word_list" />
       <recent name="D:\github_project\make_anki_word_list\readme" />
       <recent name="D:\github_project\make_anki_word_list\word_list" />
       <recent name="D:\github_project\make_anki_word_list\kinds_of_word_list" />
       <recent name="D:\github_project\make_anki_word_list\memorization_youdict" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github_project\make_anki_word_list" />
+      <recent name="D:\github_project\make_anki_word_list\youdict_mem" />
+      <recent name="D:\github_project\make_anki_word_list\output" />
+      <recent name="D:\github_project\make_anki_word_list\affix" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.similar_word">
+  <component name="RunManager" selected="Python.4_get_oxford_phonetic_symbol.txt">
     <configuration name="06_find_word_in_which" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="make_anki_word_list" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,7 +266,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_find_word_in_which.py" />
+      <option name="SCRIPT_NAME" value="D:\github_project\make_anki_word_list\07_find_word_in_which.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1_get_youdcit_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_get_oxford_phonetic_symbol.txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="make_anki_word_list" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +288,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_get_youdcit_image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_get_oxford_phonetic_symbol.txt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,7 +310,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_make_mdx.py" />
+      <option name="SCRIPT_NAME" value="D:\github_project\make_anki_word_list\5_make_mdx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="similar_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ttttest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="make_anki_word_list" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,7 +332,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/similar_word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ttttest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.similar_word" />
+        <item itemvalue="Python.4_get_oxford_phonetic_symbol.txt" />
+        <item itemvalue="Python.ttttest" />
         <item itemvalue="Python.06_find_word_in_which" />
-        <item itemvalue="Python.4_make_mdx" />
         <item itemvalue="Python.word_root" />
-        <item itemvalue="Python.1_get_youdcit_image" />
+        <item itemvalue="Python.4_make_mdx" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +474,8 @@
       <workItem from="1557497936587" duration="780000" />
       <workItem from="1557553504053" duration="1795000" />
       <workItem from="1557630447913" duration="1274000" />
-      <workItem from="1557640538209" duration="7064000" />
+      <workItem from="1557640538209" duration="11645000" />
+      <workItem from="1557676408098" duration="2718000" />
     </task>
     <task id="LOCAL-00001" summary="add tst_txt">
       <created>1555255110403</created>
@@ -771,11 +778,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557640596486</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="1">
+      <created>1557667304120</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1557667304120</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227482000" />
+    <option name="totallyTimeSpent" value="234781000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -787,10 +801,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="611" y="90" width="2774" height="1180" extended-state="0" />
+    <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.16433309" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.13221437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -802,7 +816,7 @@
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.3299532" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32969603" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3288719" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -810,8 +824,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info active="true" anchor="right" id="Run" order="5" sideWeight="0.5003897" visible="true" weight="0.40014738" />
-      <window_info anchor="right" id="Debug" order="6" weight="0.34966838" />
+      <window_info anchor="right" id="Run" order="5" sideWeight="0.5003897" visible="true" weight="0.39988223" />
+      <window_info anchor="right" id="Debug" order="6" weight="0.27915195" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -850,12 +864,12 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$youdict_memrorise.coverage" NAME="youdict_memrorise Coverage Results" MODIFIED="1554392501869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$07_make_all_list.coverage" NAME="07_make_all_list Coverage Results" MODIFIED="1557200498323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$make_gre_class_list.coverage" NAME="make_gre_class_list Coverage Results" MODIFIED="1557163462166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kinds_of_word_list" />
-    <SUITE FILE_PATH="coverage/make_anki_word_list$ttttest.coverage" NAME="ttttest Coverage Results" MODIFIED="1557376852930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$ttttest.coverage" NAME="ttttest Coverage Results" MODIFIED="1557680813900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$similar_word.coverage" NAME="similar_word Coverage Results" MODIFIED="1557667279708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$tttttttttttttttt_make_image_mdx.coverage" NAME="tttttttttttttttt_make_image_mdx Coverage Results" MODIFIED="1555265343896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$04_word_in_which.coverage" NAME="04_word_in_which Coverage Results" MODIFIED="1557146950946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$generate_youdict_root_mem.coverage" NAME="generate_youdict_root_mem Coverage Results" MODIFIED="1557201883107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/make_anki_word_list$06_find_word_in_which.coverage" NAME="06_find_word_in_which Coverage Results" MODIFIED="1557667236670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$06_find_word_in_which.coverage" NAME="06_find_word_in_which Coverage Results" MODIFIED="1557676417583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$3_update_youdict_root_mem.coverage" NAME="3_update_youdict_root_mem Coverage Results" MODIFIED="1557232789649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$06_word_in_which.coverage" NAME="06_word_in_which Coverage Results" MODIFIED="1557421661309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$05_make_all_list.coverage" NAME="05_make_all_list Coverage Results" MODIFIED="1555297098873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -866,11 +880,12 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$examples.coverage" NAME="examples Coverage Results" MODIFIED="1555265063530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/writemdict" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$2_update_etymonline.coverage" NAME="2_update_etymonline Coverage Results" MODIFIED="1557427235599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$08_update_youdict_root_mem.coverage" NAME="08_update_youdict_root_mem Coverage Results" MODIFIED="1557210711150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/make_anki_word_list$word_root.coverage" NAME="word_root Coverage Results" MODIFIED="1557490395087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$word_root.coverage" NAME="word_root Coverage Results" MODIFIED="1557674226674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$yaml_root.coverage" NAME="yaml_root Coverage Results" MODIFIED="1554555313882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$03_make_image_mdx.coverage" NAME="03_make_image_mdx Coverage Results" MODIFIED="1555297275298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$08_generate_youdict_root_mem.coverage" NAME="08_generate_youdict_root_mem Coverage Results" MODIFIED="1557205382510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/make_anki_word_list$4_make_mdx.coverage" NAME="4_make_mdx Coverage Results" MODIFIED="1557658082549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$4_get_oxford_phonetic_symbol_txt.coverage" NAME="4_get_oxford_phonetic_symbol.txt Coverage Results" MODIFIED="1557681976975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$4_make_mdx.coverage" NAME="4_make_mdx Coverage Results" MODIFIED="1557667312268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$02_make_mdx.coverage" NAME="02_make_mdx Coverage Results" MODIFIED="1557127432636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$03_word_in_which.coverage" NAME="03_word_in_which Coverage Results" MODIFIED="1555060182338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$2_get_youdict_html_txt.coverage" NAME="2_get_youdict_html_txt Coverage Results" MODIFIED="1557204004657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -881,6 +896,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>matchObject.group(1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>root_str[2:].split(',')[0].split('，')[0].strip()</expression-string>
         <language-id>Python</language-id>
@@ -921,24 +941,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>Soup.find(attrs={&quot;class&quot;: &quot;header header--1Mejf header__vanila--2dqaM&quot;})</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/word_list/college_cet_4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/word_list/GRE同义词.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="4679" selection-start-line="4679" selection-end-line="4679" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/get_youdcit_image.py" />
     <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix_with_root_cleared.txt" />
     <entry file="file://$PROJECT_DIR$/cigencizhui_root/root_affix_origin.txt">
@@ -1065,13 +1070,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ttttest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/单词表常用正则表达式.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1100,37 +1098,10 @@
     <entry file="file://$PROJECT_DIR$/word_list/TOEFL_分类词汇.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/word2url2html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html2txt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1161">
           <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_update_youdict_root_mem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="48" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_update_bing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1144,45 +1115,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_update_etymonline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yaml_root/1 词缀词根.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="9088" column="6" selection-start-line="9088" selection-start-column="4" selection-end-line="9088" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/possible root.mdx" />
     <entry file="file://$PROJECT_DIR$/anki_profiles/笔记html.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1094">
           <caret line="217" selection-start-line="217" selection-end-line="217" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/word_root.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_make_anki_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1193,9 +1130,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_make_mdx.py">
+    <entry file="file://$PROJECT_DIR$/yaml_root/1 词缀词根.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="321">
+          <caret line="6237" column="10" selection-start-line="6237" selection-start-column="8" selection-end-line="6237" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_root.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="178" column="42" selection-start-line="178" selection-start-column="42" selection-end-line="178" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/similar_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="110" column="195" selection-start-line="110" selection-start-column="195" selection-end-line="110" selection-end-column="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_find_word_in_which.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_update_bing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_make_mdx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
           <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -1203,17 +1178,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_find_word_in_which.py">
+    <entry file="file://$PROJECT_DIR$/06_make_anki_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="27">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/similar_word.py">
+    <entry file="file://$PROJECT_DIR$/word2url2html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1019">
-          <caret line="110" column="237" selection-start-line="110" selection-start-column="237" selection-end-line="110" selection-end-column="237" />
+        <state relative-caret-position="743">
+          <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ttttest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="61" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_update_etymonline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonetic_symbol/phonetic_symbol.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_update_youdict_root_mem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_get_oxford_phonetic_symbol.txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

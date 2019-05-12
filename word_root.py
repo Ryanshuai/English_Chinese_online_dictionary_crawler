@@ -176,6 +176,7 @@ class Assembled_Root:
 if __name__ == '__main__':
     yr = Yaml_Root()
     print(yr.get_root('abandon'))
+    print(yr.suffix_explain_dict['-sive'])
     #
     # ra = Youdict_Root()
     # print(ra.get_root_html('agency'))
