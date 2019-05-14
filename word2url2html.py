@@ -1,6 +1,7 @@
 import requests
 import os
 import urllib3
+import threading
 from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -29,25 +30,39 @@ def get_html_from_url(url, ip=None):
     return html.text
 
 
-def thread_process(word, base_url, save_dir):
+def save_if_not_exist(word, base_url, save_dir):
     to_txt = save_dir + word + '.txt'
     if not os.path.exists(to_txt):
-        print(word)
+        print(word, '\tbegin!')
         url = base_url + word
         html_text = get_html_from_url(url)
         with open(to_txt, 'w', encoding='utf-8') as f:
             f.write(html_text)
+            print(word, '\tdone!')
 
 
-def one_thread_check_and_save(word_list, base_url, save_dir):
-    [thread_process(word, base_url, save_dir) for word in word_list]
+def one_thread_check_and_save(func, iterable, *args):
+    [func(iter, *args) for iter in iterable]
 
 
-def multi_thread_check_and_save(word_list, base_url, save_dir):
-    executor = ThreadPoolExecutor(max_workers=1280)
-    all_task = [executor.submit(thread_process, word, base_url, save_dir)
-                for word in word_list]
+def multi_thread(func, iterable, *args, max_workers=1280):
+    executor = ThreadPoolExecutor(max_workers=max_workers)
+    all_task = [executor.submit(func, iter, *args,)
+                for iter in iterable]
     wait(all_task, return_when=ALL_COMPLETED)
+
+
+# def multi_thread_with_lock(func, read_iterable, writer_iterable, *args, max_workers=1280):
+#     threading_list = list()
+#     num_work = 0
+#     for r_iter in read_iterable:
+#         num_work += 1
+#         t = threading.Thread(target=func, args=(r_iter, *args,))
+#         threading_list.append(t)
+#         t.start()
+#     for t in threading_list:
+#         t.join()
+
 
 
 

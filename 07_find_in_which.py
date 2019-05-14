@@ -27,23 +27,25 @@ input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
 input_txt_list.append(gre_synonym_txt)
 
-word = 'whimsy'
+word = 'twig'
 for file in input_txt_list:
     with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
     if word in word_list:
         print(word, '\tis in list: ',file)
 
-root = 'mend'
+print('=====================================================================')
+root = 'shod'
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 for word in word_list:
     if root in word:
         print(word, '\thas root:\t', root)
 
-# suffix = 'sis'
-# with open(all_txt, 'r', encoding='utf-8') as f:
-#     word_list = f.read().splitlines()
-# for word in word_list:
-#     if word.endswith(suffix):
-#         print(word, '\thas suffix:\t', suffix)
+print('=====================================================================')
+suffix = 'cracy'
+with open(all_txt, 'r', encoding='utf-8') as f:
+    word_list = f.read().splitlines()
+for word in word_list:
+    if word.endswith(suffix):
+        print(word, '\thas suffix:\t', suffix)

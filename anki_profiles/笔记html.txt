@@ -5,12 +5,8 @@
 </div>
 
 <div class="row">
-  <a href="https://www.youdict.com/w/{{单词}}">
-      <div class="img_box height_180 width_240"></div>
-  </a>
-  <a href="https://www.youdict.com/w/{{单词}}">
-      <div class="img_box height_180 width_240 left_margin"></div>
-  </a>
+  <div class="img_box height_180 width_240"></div>
+  <div class="img_box height_180 width_240 left_margin"></div>
   <div class="box left_margin flex">
     <div style="font-size:45px;">
       <font color='#FF9900';><span id='sc'><b>{{单词}}</b></span></font>
@@ -125,7 +121,6 @@
       </a>
     </div>
     <div class="img_box height_60 width_240 left_margin top_margin">
-      <a href="https://www.youdict.com/w/{{单词}}">  </a>
     </div>
   </div>
 </div>
@@ -213,5 +208,20 @@
 
 
 <div style='font-family: Arial; font-size: 20px;visibility: hidden;'>{{发音}}</div>
-
+<script type="text/javascript">
+var initVoice = function () {
+    var player = document.getElementById('dictVoice');
+    document.addEventListener('click', function (e) {
+        var target = e.target;
+        if (target.hasAttribute('role') && target.getAttribute('role').indexOf('dict_audio_js') >= 0) {
+            var url = target.getAttribute('data-rel');
+            player.setAttribute('src', url);
+            player.volume = 1;
+            player.play();
+            e.preventDefault();
+        }
+    }, false);
+};
+initVoice();
+</script>
 

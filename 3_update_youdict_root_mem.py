@@ -1,6 +1,6 @@
 from make_all_internal_list import make_all_list
 from tqdm import tqdm
-from word2url2html import multi_thread_check_and_save
+from word2url2html import multi_thread, save_if_not_exist
 from html2txt import get_mem_txt_from_youdict_html_text, get_root_txt_from_youdict_html_text
 
 
@@ -29,7 +29,7 @@ if __name__ == '__main__':
     word_set.discard('con')
 
     # check and save html #########################################################################################
-    multi_thread_check_and_save(word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
+    multi_thread(save_if_not_exist, word_list, 'https://www.etymonline.com/search?q=', 'etymonline_html_text/')
 
     # update txt ###################################################################################################
     root_line_list = list()

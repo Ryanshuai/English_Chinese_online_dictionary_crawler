@@ -108,7 +108,7 @@ class No_Suffix_Similar:
         self.suffix_change_dict = {'i': ['y'], 's': ['t', 'd'], 't': ['d'], 'e': ['i']}
         self.a_suffix_list = []
         self.ing_suffix_list = ['ing']
-        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'istic','able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'sive', 'tion', 'ture', 'ate', 'ary', 'ant', 'ent', 'cal', 'ful', 'ial', 'ile', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ous', 'sis', 'ed', 'en', 'er', 'ia', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
+        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'istic','able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'sive', 'tion', 'ture', 'ate', 'ary', 'ant', 'ent', 'cal', 'ful', 'ial', 'ile', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ous', 'sis', 'ed', 'en', 'er', 'ia', 'id', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
 
         all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
         with open(all_word_txt, 'r', encoding='utf-8') as f:
