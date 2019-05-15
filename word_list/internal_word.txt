@@ -89,6 +89,7 @@ along
 also
 alter
 alum
+am
 amble
 ambrosia
 amend
@@ -886,6 +887,7 @@ discover
 discreet
 discretion
 discriminate
+discus
 discussion
 disinfect
 disk
@@ -915,6 +917,7 @@ document
 dogma
 doleful
 domestic
+Donna
 dormant
 dorsal
 dose
@@ -1367,8 +1370,8 @@ general
 generate
 generation
 generous
-genesis
 Genesis
+genesis
 genetic
 genial
 genius
@@ -1404,8 +1407,8 @@ gold
 good
 goose
 gorge
-Goth
 goth
+Goth
 gourmand
 gout
 govern
@@ -2291,6 +2294,7 @@ nonchalant
 none
 none the less
 nones
+nor
 norm
 north
 nose
@@ -2439,6 +2443,7 @@ papillon
 papyrus
 par
 parable
+paradigm
 parallel
 paralyse
 paralysis
@@ -3172,6 +3177,7 @@ shank
 shark
 shatter
 shawm
+she
 shear
 shed
 sheep
@@ -3827,6 +3833,7 @@ weather
 weave
 wed
 wee
+wegotism
 weigh
 weird
 welcome

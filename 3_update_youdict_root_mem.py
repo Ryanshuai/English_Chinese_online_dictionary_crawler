@@ -29,7 +29,7 @@ if __name__ == '__main__':
     word_set.discard('con')
 
     # check and save html #########################################################################################
-    multi_thread(save_if_not_exist, word_list, 'https://www.etymonline.com/search?q=', 'etymonline_html_text/')
+    multi_thread(save_if_not_exist, word_list, 'https://www.youdict.com/w/', 'youdict_html_text/')
 
     # update txt ###################################################################################################
     root_line_list = list()

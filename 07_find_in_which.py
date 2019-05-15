@@ -1,6 +1,7 @@
 
 # ####################################################### build filter list
 tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
+high_school_txt = 'D:/github_project/make_anki_word_list/word_list/high_school.txt'
 college_cet4_txt = 'D:/github_project/make_anki_word_list/word_list/college_cet_4.txt'
 college_cet6_txt = 'D:/github_project/make_anki_word_list/word_list/college_cet_6.txt'
 college_post_txt = 'D:/github_project/make_anki_word_list/word_list/college_考研词汇表.txt'
@@ -16,6 +17,7 @@ all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 
 input_txt_list = list()
 input_txt_list.append(tst_txt)
+input_txt_list.append(high_school_txt)
 input_txt_list.append(college_cet4_txt)
 input_txt_list.append(college_cet6_txt)
 input_txt_list.append(college_post_txt)
@@ -27,7 +29,7 @@ input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
 input_txt_list.append(gre_synonym_txt)
 
-word = 'twig'
+word = 'clangorous'
 for file in input_txt_list:
     with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
@@ -35,7 +37,7 @@ for file in input_txt_list:
         print(word, '\tis in list: ',file)
 
 print('=====================================================================')
-root = 'shod'
+root = 'nug'
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 for word in word_list:
@@ -43,7 +45,7 @@ for word in word_list:
         print(word, '\thas root:\t', root)
 
 print('=====================================================================')
-suffix = 'cracy'
+suffix = 'illo'
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 for word in word_list:

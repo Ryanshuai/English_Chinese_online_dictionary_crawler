@@ -20,6 +20,11 @@ class Etymonline_Root:
         pattern = re.compile(r'[^(]see \w+')
         internal_word_list2 = pattern.findall(root_str)
 
+        # pattern = re.compile(r'from \w+')
+        # internal_word_list3 = pattern.findall(root_str)
+        # if len(internal_word_list3):
+        #     print(internal_word_list3)
+
         def map_fun(s):
             s = s[5:]
             w = re.findall(r'\w+', s)
@@ -174,23 +179,23 @@ class Assembled_Root:
 
 
 if __name__ == '__main__':
-    yr = Yaml_Root()
-    print(yr.get_root('abandon'))
-    print(yr.suffix_explain_dict['-sive'])
+    # yr = Yaml_Root()
+    # print(yr.get_root('abandon'))
+    # print(yr.suffix_explain_dict['-sive'])
     #
     # ra = Youdict_Root()
     # print(ra.get_root_html('agency'))
 
-    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-    # with open(all_word_list, 'r', encoding='utf-8') as f:
-    #     word_list = f.read().splitlines()
-    #
-    # er = Etymonline_Root()
-    # for word in word_list:
-    #     root_text = er.get_root(word)
-    #     internal_word_set = er.get_internal_word_set(root_text)
-    #     if len(internal_word_set) > 0:
-    #         print(word, internal_word_set)
+    all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+    with open(all_word_list, 'r', encoding='utf-8') as f:
+        word_list = f.read().splitlines()
+
+    er = Etymonline_Root()
+    for word in word_list:
+        root_text = er.get_root(word)
+        internal_word_set = er.get_internal_word_set(root_text)
+        # if len(internal_word_set) > 0:
+        #     print(word, internal_word_set)
 
     # word_list = ['countermand', 'counterpart', 'zippy']
     # word_list = ['zippy']
