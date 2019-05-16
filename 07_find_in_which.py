@@ -29,7 +29,7 @@ input_txt_list.append(gre_foot_txt)
 input_txt_list.append(gre_red_txt)
 input_txt_list.append(gre_synonym_txt)
 
-word = 'clangorous'
+word = 'hinder'
 for file in input_txt_list:
     with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()

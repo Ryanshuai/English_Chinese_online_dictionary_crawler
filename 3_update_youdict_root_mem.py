@@ -20,7 +20,7 @@ def find_internal_word_from_youdict_root_str(root_str: str):
 
 
 if __name__ == '__main__':
-    html_text_dir = 'D:\github_project\make_anki_word_list\youdict_word_html'
+    html_text_dir = 'D:/github_project/make_anki_word_list/youdict_word_html'
 
     all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
     with open(all_word_list, 'r', encoding='utf-8') as f:
@@ -29,13 +29,13 @@ if __name__ == '__main__':
     word_set.discard('con')
 
     # check and save html #########################################################################################
-    multi_thread(save_if_not_exist, word_list, 'https://www.youdict.com/w/', 'youdict_html_text/')
+    multi_thread(save_if_not_exist, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
 
     # update txt ###################################################################################################
     root_line_list = list()
     mem_line_list = list()
     for word in tqdm(word_set, desc='decoding'):
-        html_text_path = html_text_dir + '\\' + word + '.txt'
+        html_text_path = html_text_dir + '/' + word + '.txt'
         with open(html_text_path, 'r', encoding='utf-8') as f:
             html_txt = f.read()
         root_txt = get_root_txt_from_youdict_html_text(html_txt)
