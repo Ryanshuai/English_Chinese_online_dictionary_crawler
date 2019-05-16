@@ -1537,7 +1537,6 @@ extrapolate
 speculation
 supposition
 surmise
-
 colt
 coltish
 cygnet

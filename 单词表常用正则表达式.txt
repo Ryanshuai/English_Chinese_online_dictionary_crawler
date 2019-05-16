@@ -1,3 +1,6 @@
+匹配英文字母=[a-zA-Z\-]
+
+匹配非英文字母=[^a-z^A-Z^\-^\n]
 
 匹配中文汉字=[\u4e00-\u9fa5]
 
@@ -6,3 +9,5 @@
 去掉空行=\n\n->\n
 
 查找以s开始（包含）的第一个单词 re.findall(r'[s]\w+', text)
+
+介词：= in | on | with | by | at | for | about | under | of | to | into | about |

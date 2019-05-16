@@ -4,21 +4,6 @@ from word2url2html import multi_thread, save_if_not_exist
 from html2txt import get_mem_txt_from_youdict_html_text, get_root_txt_from_youdict_html_text
 
 
-def find_internal_word_from_youdict_root_str(root_str: str):
-    if root_str.startswith('来自') and root_str[2:6] != 'PIE*' and ord(root_str[2]) < 128:
-        temp_root = root_str[2:].split(',')[0].split('，')[0].strip()
-        if '*' in temp_root:
-            return ''
-        for c in temp_root:
-            if ord(c) > 128:
-                return ''
-        if temp_root.endswith('-'):
-            return ''
-        return root_str[2:].split(',')[0].split('，')[0].strip()
-    else:
-        return ''
-
-
 if __name__ == '__main__':
     html_text_dir = 'D:/github_project/make_anki_word_list/youdict_word_html'
 

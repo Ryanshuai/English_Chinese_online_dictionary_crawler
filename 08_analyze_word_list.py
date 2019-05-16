@@ -43,9 +43,10 @@ gre_set = gre_foot_set | gre_3000_set
 
 # set_list = [college_set, toefl_set, gre_set, gre_red_set]
 # name_list = ['c', 't', 'g', 'gr']
-set_list = [gre_3000_set, gre_foot_set, gre_red_set, toefl_set]
-name_list = ['3000', 'foot', 'gre_red', 'toefl']
-
+# set_list = [gre_3000_set, gre_foot_set, gre_red_set, toefl_set]
+# name_list = ['3000', 'foot', 'gre_red', 'toefl']
+set_list = [gre_3000_set, gre_synonym_set, gre_red_set|college_set|toefl_set]
+name_list = ['3000', 'synonym', 'all']
 
 num = len(set_list)
 assert 2 <= num <= 6
