@@ -12,6 +12,7 @@ gre_3000_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_foot.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
 gre_synonym_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
+gre_kmf_6_2 = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
 internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 
@@ -38,7 +39,7 @@ for file in input_txt_list:
         print(word, '\tis in list: ',file)
 
 print('=====================================================================')
-root = 'nug'
+root = 'bark'
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 for word in word_list:

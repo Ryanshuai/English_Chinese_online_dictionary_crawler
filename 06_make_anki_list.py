@@ -13,6 +13,7 @@ gre_3000_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_foot.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
 gre_synonym_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
+gre_kmf_6_2 = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
 internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 
@@ -22,9 +23,9 @@ input_txt_list = list()
 # input_txt_list.append(college_cet4_txt)
 # input_txt_list.append(college_cet6_txt)
 # input_txt_list.append(college_post_txt)
-input_txt_list.append(toefl_red_txt)
+# input_txt_list.append(toefl_red_txt)
 # input_txt_list.append(toefl_class_txt)
-input_txt_list.append(toefl_qu_txt)
+# input_txt_list.append(toefl_qu_txt)
 # input_txt_list.append(gre_3000_txt)
 # input_txt_list.append(gre_foot_txt)
 # input_txt_list.append(gre_red_txt)
@@ -48,22 +49,23 @@ input_txt_list_2 = list()
 # input_txt_list_2.append(toefl_qu_txt)
 # input_txt_list_2.append(toefl_red_txt)
 # input_txt_list_2.append(toefl_class_txt)
-input_txt_list_2.append(gre_3000_txt)
+# input_txt_list_2.append(gre_3000_txt)
 # input_txt_list_2.append(gre_foot_txt)
 # input_txt_list_2.append(gre_red_txt)
 # input_txt_list_2.append(gre_synonym_txt)
+input_txt_list_2.append(gre_kmf_6_2)
 # input_txt_list_2.append(internal_txt)
 
 input_word_set_2 = set()
 for file in input_txt_list_2:
     with open(file, 'r', encoding='utf-8') as f:
-        word_list = f.read().splitlines()
-        input_word_set_2 |= set(word_list)
+        word_list_2 = f.read().splitlines()
+        input_word_set_2 |= set(word_list_2)
 print('len of input_word_set_2: ', len(input_word_set_2))
 print('input_txt_list_2: ', list(map(lambda x: x.split('/')[-1][:-4], input_txt_list_2)))
 print('-----------------------------------------------------')
 
-final_word_list = list(input_word_set_2 & input_word_set)
+final_word_list = list(input_word_set_2 - input_word_set)
 print('input_word_set_2-input_word_set', len(final_word_list))
 
 
@@ -81,6 +83,7 @@ def make_anki_word_image_list():
     cigencizhui_root = Cigencizhui_Root()
     with open('output/anki_word_image_list.txt', 'w', encoding='utf-8') as f:
         # final_word_list = cigencizhui_root.put_word_list_in_order(final_word_list)
+        final_word_list = word_list_2
         print('ordered_input_word_list: ', len(final_word_list))
         for word in final_word_list:
             word = word.strip()

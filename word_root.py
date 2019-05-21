@@ -71,6 +71,8 @@ class Youdict_Root:
                 self.w_r_dict[w] = r
 
     def get_internal_word_set(self, root_str: str):
+        if '词源不详。' in root_str:
+            return set('')
         if root_str.startswith('来自') and root_str[2:6] != 'PIE*' and ord(root_str[2]) < 128:
             temp_root = root_str[2:].split(',')[0].split('，')[0].strip()
             if '*' in temp_root:
