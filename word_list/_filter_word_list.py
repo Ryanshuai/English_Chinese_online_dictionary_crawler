@@ -11,26 +11,36 @@ gre_3000_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_foot.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
 gre_synonym_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
-gre_kmf_6_2 = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
+gre_kmf_6_2_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
+gre_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_frequency.txt'
+
 internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 
-with open(gre_kmf_6_2, 'r', encoding='utf-8') as f:
+input_txt = all_txt
+with open(input_txt, 'r', encoding='utf-8') as f:
     lines = f.read().splitlines()
 
-prepotion_list =['in', 'on', 'with', 'by', 'at', 'for', 'about', 'under', 'of', 'to', 'into', 'about', 'after']
+# prepotion_list =['in', 'on', 'with', 'by', 'at', 'for', 'about', 'under', 'of', 'to', 'into', 'about', 'after']
+#
+# new_lines = list()
+# for line in lines:
+#     for prep in prepotion_list:
+#         if ' '+prep+' ' in line:
+#             line = line.replace(' '+prep+' ', '_'+prep+' ')
+#
+#     new_lines.append(line)
+#     print(line)
+
 
 new_lines = list()
 for line in lines:
-    for prep in prepotion_list:
-        if ' '+prep+' ' in line:
-            line = line.replace(' '+prep+' ', '_'+prep+' ')
+    fre, word = line.split(' ')
+    new_line = word + '\\' + fre
+    new_lines.append(new_line)
+    print(new_line)
 
-    new_lines.append(line)
-    print(line)
-
-
-output = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
+output = input_txt.split('.')[0] + '___.txt'
 with open(output, 'w', encoding='utf-8') as f:
     for line in new_lines:
         f.write(line)

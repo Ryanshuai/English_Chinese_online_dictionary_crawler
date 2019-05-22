@@ -13,6 +13,8 @@ gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_foot.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
 gre_synonym_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
 gre_kmf_6_2 = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
+gre_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_frequency.txt'
+
 internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 
@@ -38,6 +40,8 @@ with open(gre_red_txt, 'r', encoding='utf-8') as f:
     gre_red_set = set(f.read().splitlines())
 with open(gre_synonym_txt, 'r', encoding='utf-8') as f:
     gre_synonym_set = set(f.read().splitlines())
+with open(gre_frequency_txt, 'r', encoding='utf-8') as f:
+    gre_frequency_set = set(f.read().splitlines())
 college_set = college_cet4_set | college_cet6_set | college_post_set
 toefl_set = toefl_red_set
 gre_set = gre_3000_set #| gre_foot_set
@@ -49,8 +53,8 @@ gre_set = gre_3000_set #| gre_foot_set
 # set_list = [gre_3000_set, gre_synonym_set, gre_red_set|college_set|toefl_set]
 # name_list = ['3000', 'synonym', 'all']
 
-set_list = [college_set, toefl_set, gre_set]
-name_list = ['college_set', 'toefl_set', 'gre_set']
+set_list = [gre_red_set, gre_frequency_set, gre_set]
+name_list = ['gre_red_set', 'gre_frequency_set', 'gre_set']
 
 num = len(set_list)
 assert 2 <= num <= 6

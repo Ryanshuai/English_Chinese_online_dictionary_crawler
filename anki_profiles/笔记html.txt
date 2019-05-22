@@ -20,6 +20,7 @@
   background-color: #383838 ;
   padding: 2px 2px 2px 5px;
   text-align:left;
+  font-family:"Times New Roman", Times, serif;
 }
 
 .top_down_margin{margin-top:7px; margin-bottom: 7px;}
@@ -105,24 +106,7 @@
       {{youdict图片10}}
     </div>
   </div>
-  <div>
-    <div class="img_box height_60 width_240 left_margin">
-      <a href="https://www.youdict.com/w/{{单词}}">
-        <div style="font-size:15px;">
-          <font color='#7D3C98';><span id='sc'><b> https://www.youdict.com/w/{{单词}} </b></span></font>
-        </div>
-      </a>
-    </div>
-    <div class="img_box height_60 width_240 left_margin top_margin">
-      <a href="https://www.etymonline.com/search?q={{单词}}">
-        <div style="font-size:15px;">
-          <font color='#7D3C98';><span id='sc'><b> https://www.etymonline.com/search?q={{单词}} </b></span></font>
-        </div>
-      </a>
-    </div>
-    <div class="img_box height_60 width_240 left_margin top_margin">
-    </div>
-  </div>
+
 </div>
 
 
@@ -190,6 +174,11 @@
   </div>
 </div>
 
+<div class="box top_down_margin">
+  <div style="font-size:25px;">
+    <font color='#9ACD32  ';><span id='sc'><b>{{英文释义2}} </b></span></font>
+  </div>
+</div>
 
 <div class="box top_down_margin">
   <div style="font-size:25px;">
@@ -224,4 +213,3 @@ var initVoice = function () {
 };
 initVoice();
 </script>
-
