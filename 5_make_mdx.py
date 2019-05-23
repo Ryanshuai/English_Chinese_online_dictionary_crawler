@@ -42,17 +42,17 @@ word_set.discard('con')
 
 
 # ##################################################### no suffix similar
-no_suffix_similar = No_Suffix_Similar()
-dictionary = dict()
-for word in tqdm(word_set, desc='no_suffix_similar.mdx'):
-    similar_str = no_suffix_similar.get_similar_word_str(word)
-    if len(similar_str) > 0:
-        dictionary[word] = similar_str
-
-writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
-outfile = open("output/no_suffix_similar.mdx", "wb")
-writer.write(outfile)
-outfile.close()
+# no_suffix_similar = No_Suffix_Similar()
+# dictionary = dict()
+# for word in tqdm(word_set, desc='no_suffix_similar.mdx'):
+#     similar_str = no_suffix_similar.get_similar_word_str(word)
+#     if len(similar_str) > 0:
+#         dictionary[word] = similar_str
+#
+# writer = MDictWriter(dictionary, title="No suffix Similar Dictionary", description="find similar by no suffix")
+# outfile = open("output/no_suffix_similar.mdx", "wb")
+# writer.write(outfile)
+# outfile.close()
 
 
 # # ##################################################### youdict mem
@@ -98,3 +98,18 @@ outfile.close()
 # writer.write(outfile)
 # outfile.close()
 #
+
+
+# #################################################### root youdict yaml
+all_word_list = 'D:/github_project/make_anki_word_list/word_list/GRE_frequency.txt'
+with open(all_word_list, 'r', encoding='utf-8') as f:
+    line_list = f.read().splitlines()
+
+dictionary = dict()
+for line in line_list:
+    word, frequency = line.split('\\')
+    dictionary[word] = frequency
+
+writer = MDictWriter(dictionary, title="GRE word frequency", description="")
+with open("output/GRE_word_frequency.mdx", "wb") as f:
+    writer.write(f)
