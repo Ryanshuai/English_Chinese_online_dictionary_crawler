@@ -467,7 +467,7 @@ approbation\6
 appropriate\8
 appropriateness\1
 appropriating\1
-appropriation2
+appropriation\2
 approval\7
 approve\3
 approximately\1
@@ -507,7 +507,7 @@ arduous\4
 arena\1
 argumentation\1
 argumentative\2
-argumentativeness1
+argumentativeness\1
 aria\4
 arid\2
 aridness\1
@@ -639,12 +639,12 @@ authenticate\1
 authenticated\1
 authenticity\3
 authoritarian\4
-authoritative8
-authoritativeness1
+authoritative\8
+authoritativeness\1
 authority\13
 authorization\2
 authorize\3
-autobiographical1
+autobiographical\1
 autobiography\1
 autocracy\2
 autocrat\1
@@ -952,7 +952,7 @@ buoyant\3
 burdensome\1
 bureaucracy\1
 bureaucratic\2
-bureaucratization1
+bureaucratization\1
 burgeon\3
 burgeoning\1
 burglar\1
@@ -1215,10 +1215,10 @@ circumspect\5
 circumspection\2
 circumstance\1
 circumstantial\1
-circumstantiality1
+circumstantiality\1
 circumvent\1
 circumvented\1
-circumvention1
+circumvention\1
 cite\1
 civilian\1
 civility\2
@@ -1432,7 +1432,7 @@ composure\6
 compound\5
 comprehend\8
 comprehended\1
-comprehensibility1
+comprehensibility\1
 comprehensible\2
 comprehensive\5
 comprehensively\1
@@ -1648,7 +1648,7 @@ contoured\1
 contract\5
 contraction\3
 contradict\9
-contradiction4
+contradiction\4
 contradictory\5
 contrary\2
 contrast\2
@@ -1752,7 +1752,7 @@ countermand\1
 counterpart\2
 counterpoint\1
 counterposition\1
-counterproductive2
+counterproductive\2
 coup\1
 courageous\3
 court\1
@@ -2262,8 +2262,8 @@ disappearance\1
 disappoint\2
 disappointed\1
 disappointing\1
-disappointment3
-disapprobation1
+disappointment\3
+disapprobation\1
 disapproval\3
 disapproving\1
 disarm\2
@@ -2342,12 +2342,12 @@ disinfect\1
 disinfection\2
 disingenuous\4
 disingenuousness\1
-disintegrating1
+disintegrating\1
 disintegration\1
 disinter\1
 disinterest\4
 disinterested\8
-disinterestedness2
+disinterestedness\2
 disjoin\2
 disjointed\3
 disjunction\2
@@ -2466,7 +2466,7 @@ diverge\3
 divergence\4
 divergent\2
 diverse\5
-diversification1
+diversification\1
 diversify\3
 diversion\2
 diversity\12
@@ -3785,7 +3785,7 @@ hearten\1
 heartfelt\1
 heartiness\2
 heavy-handed\2
-heavy-handedness1
+heavy-handedness\1
 heckle\1
 hedge\3
 hedonist\2
@@ -3938,7 +3938,7 @@ ideology\2
 idiocy\1
 idiomatic\1
 idiosyncrasy\1
-idiosyncratic4
+idiosyncratic\4
 idiosyncratically\1
 idle\2
 idolatrous\2
@@ -4056,7 +4056,7 @@ impersonate\1
 impersonator\1
 impertinence\2
 imperturbability\1
-imperturbable5
+imperturbable\5
 impervious\3
 imperviousness\1
 impetuosity\2
@@ -4150,7 +4150,7 @@ inaugural\1
 inauguration\1
 inauspicious\1
 inborn\1
-incandescence1
+incandescence\1
 incapable\1
 incapacitate\1
 incarcerate\1
@@ -4256,7 +4256,7 @@ indirectly\1
 indirectness\1
 indiscretion\5
 indiscriminate\2
-indispensable6
+indispensable\6
 indisputable\1
 indistinct\2
 indistinguishable\5
@@ -4275,12 +4275,12 @@ indulge\5
 indulgence\1
 indulgent\3
 indurate\2
-industrialization1
+industrialization\1
 industrious\3
 industriousness\2
 ineffable\1
 ineffective\3
-ineffectiveness1
+ineffectiveness\1
 ineffectual\3
 inefficacious\1
 inefficiency\1
@@ -4471,7 +4471,7 @@ instinctive\4
 institute\3
 institution\2
 institutional\1
-institutionalized1
+institutionalized\1
 instruct\1
 instruction\1
 instrument\3
@@ -4526,7 +4526,7 @@ interchange\1
 interchangeable\2
 interdependence\2
 interdependent\1
-interdisciplinary1
+interdisciplinary\1
 interfere\2
 interference\5
 interim\3
@@ -4747,7 +4747,7 @@ knocker\1
 knot\3
 know-how\2
 knowingly\1
-knowledgeable3
+knowledgeable\3
 knowledgeably\1
 labile\1
 labored\1
@@ -5159,7 +5159,7 @@ metropolitan\1
 mettle\1
 mettlesome\1
 microbe\3
-microorganism3
+microorganism\3
 microphone\1
 microscope\2
 microscopic\1
@@ -5443,8 +5443,8 @@ nominate\1
 nonchalance\4
 nonchalant\2
 nonconformist\1
-nonconformity2
-noncontemporaneous1
+nonconformity\2
+noncontemporaneous\1
 nondescript\4
 nonentity\1
 nonetheless\4
@@ -5967,7 +5967,7 @@ phlegmatically\1
 phonetic\1
 photographer\1
 photolithography\1
-photosynthesis1
+photosynthesis\1
 phrase\2
 phrasing\1
 phylogeny\1
@@ -6605,7 +6605,7 @@ reappear\1
 reappearance\1
 rearrange\1
 reasonable\1
-reasonableness1
+reasonableness\1
 reasoning\3
 reassess\3
 reassessment\1
@@ -7550,7 +7550,7 @@ spat\1
 spate\1
 spatula\1
 spear\1
-specialization1
+specialization\1
 specialize\1
 specialized\1
 species\3
@@ -7803,7 +7803,7 @@ substantiate\6
 substantiated\2
 substantiation\1
 substantive\1
-substantively1
+substantively\1
 substitute\7
 subsume\2
 subterranean\1
@@ -8064,7 +8064,7 @@ terrace\1
 terrain\1
 terrestrial\1
 terrify\1
-territoriality1
+territoriality\1
 territory\1
 terror\2
 terrorized\1
@@ -8210,7 +8210,7 @@ transform\7
 transformation\3
 transformed\1
 transgress\1
-transgression3
+transgression\3
 transience\1
 transient\2
 transition\3
@@ -8224,7 +8224,7 @@ transparency\2
 transparent\10
 transplantation\1
 transport\1
-transportation1
+transportation\1
 transpose\1
 trap\1
 trapeze\1
@@ -8335,7 +8335,7 @@ unascertained\1
 unassailable\1
 unassuming\1
 unattractive\3
-unattractiveness1
+unattractiveness\1
 unavailable\1
 unavailing\1
 unavoidable\3
@@ -8371,7 +8371,7 @@ unconsciousness\2
 uncontrollable\1
 uncontrolled\2
 unconventional\2
-unconventionality1
+unconventionality\1
 unconvinced\3
 unconvincing\1
 unconvivial\1
@@ -8417,7 +8417,7 @@ undirected\1
 undisciplined\1
 undisclosed\1
 undiscovered\1
-undistinguished2
+undistinguished\2
 undivided\1
 undo\1
 undrinkable\1
@@ -8433,7 +8433,7 @@ unenlightened\1
 unequivocal\1
 unequivocally\1
 unessential\1
-unexceptionable1
+unexceptionable\1
 unexciting\1
 unexpected\11
 unexpectedly\1
@@ -8554,11 +8554,11 @@ unremarkable\4
 unremitting\1
 unrepaid\1
 unrepentant\1
-unrepresentative1
+unrepresentative\1
 unreserved\1
 unresolved\1
 unresponsive\1
-unresponsiveness1
+unresponsiveness\1
 unrestrained\1
 unruly\3
 unsaid\1
@@ -8568,7 +8568,7 @@ unscented\1
 unschooled\1
 unscientific\1
 unscrupulous\2
-unscrupulousness1
+unscrupulousness\1
 unseemly\1
 unselfish\2
 unsettle\2
@@ -8596,7 +8596,7 @@ untapped\1
 untenable\2
 untested\1
 unthinkable\1
-unthreatening1
+unthreatening\1
 untidy\1
 untimely\3
 untired\1
