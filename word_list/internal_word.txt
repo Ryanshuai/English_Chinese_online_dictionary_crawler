@@ -44,6 +44,7 @@ adherent
 adjoin
 adjudge
 adjuster
+admire
 admixture
 adolescent
 adore
@@ -59,6 +60,7 @@ affable
 affect
 afflict
 affluent
+Africa
 aft
 again
 age
@@ -75,6 +77,7 @@ air
 airplane
 alb
 alchemy
+Alemanni
 alienist
 alimony
 alkali
@@ -110,8 +113,10 @@ and
 anesthesia
 angel
 angle
+anguish
 animation
 animus
+announce
 annoy
 annual
 anonym
@@ -159,6 +164,7 @@ archetype
 architect
 archon
 arctic
+are
 argent
 argon
 argue
@@ -177,6 +183,7 @@ as
 ascend
 ascendant
 Ascians
+Asia
 asperity
 aspersion
 aspire
@@ -193,8 +200,11 @@ assure
 asteism
 astigmatism
 astonish
+astrology
 asymmetry
 at
+athlete
+Atlas
 atomistic
 atrocity
 attach
@@ -255,10 +265,12 @@ banish
 bank
 bar
 barb
+Barbara
 barbarian
 barbarous
 bare
 bargain
+barge
 bark
 barley
 barrel
@@ -369,6 +381,7 @@ breeches
 breed
 bright
 brink
+Briton
 brittle
 broach
 broil
@@ -852,6 +865,7 @@ deter
 deteriorate
 determine
 detriment
+develop
 devil
 devise
 devote
@@ -1031,6 +1045,7 @@ enemy
 energy
 enervation
 engine
+English
 engrain
 enigma
 enormous
@@ -1081,6 +1096,7 @@ et
 ethic
 ethics
 eulogy
+Europe
 evacuate
 evade
 evangel
@@ -1378,6 +1394,7 @@ genius
 gentle
 genus
 germ
+German
 german
 gest
 get
@@ -1407,8 +1424,8 @@ gold
 good
 goose
 gorge
-goth
 Goth
+goth
 gourmand
 gout
 govern
@@ -1430,6 +1447,7 @@ grate
 gratify
 grave
 gravity
+Greek
 greet
 griddle
 grief
@@ -1503,6 +1521,7 @@ hearse
 heat
 heathen
 heaven
+heavy
 hedge
 hedonist
 heeled
@@ -1539,7 +1558,6 @@ hind
 hinder
 historic
 history
-hlot
 hoar
 hold
 holt
@@ -1671,6 +1689,7 @@ indecent
 indemnity
 indent
 independent
+India
 indication
 indifferent
 indigence
@@ -1693,6 +1712,7 @@ infect
 infection
 infer
 infernal
+infest
 infidel
 infinite
 infirm
@@ -1721,6 +1741,7 @@ innocent
 innovate
 inoculate
 inquire
+Inquisition
 insane
 inscribe
 insensate
@@ -1783,6 +1804,7 @@ involve
 iodine
 ire
 iris
+Irish
 irony
 irrigate
 irritate
@@ -1790,6 +1812,7 @@ is
 isle
 isolate
 it
+Italy
 itch
 iteration
 itinerary
@@ -1797,6 +1820,7 @@ jacquerie
 jade
 jag
 jail
+Japan
 jaundice
 jay
 jazz
@@ -1834,6 +1858,7 @@ justify
 kaffir
 kermes
 keynote
+kilo
 kin
 kind
 king
@@ -1869,6 +1894,7 @@ Lares
 large
 lascivious
 last
+latch
 late
 latent
 lateral
@@ -1903,6 +1929,7 @@ legislate
 legislator
 legitimate
 lemma
+lemon
 length
 lere
 less
@@ -1948,6 +1975,7 @@ livid
 load
 loaf
 loath
+lobster
 local
 locate
 lock
@@ -1980,6 +2008,7 @@ luna
 lunatic
 luster
 lusty
+Lutetian
 lutose
 luxuriate
 luxury
@@ -1999,6 +2028,7 @@ magnet
 maiden
 mail
 maim
+main
 maintain
 majesty
 major
@@ -2008,6 +2038,7 @@ malic
 malice
 malign
 mallow
+mamma
 man
 manacle
 manage
@@ -2169,6 +2200,7 @@ moist
 mold
 mole
 moment
+momma
 monarch
 monarchy
 monastic
@@ -2190,6 +2222,7 @@ moralist
 moratorium
 mordant
 more
+morganatic
 morn
 moron
 Morpheus
@@ -2202,6 +2235,7 @@ mot
 mote
 mother
 motion
+motivate
 motive
 mottle
 mount
@@ -2225,8 +2259,8 @@ munition
 mural
 murk
 muscle
-Muse
 muse
+Muse
 music
 musical
 must
@@ -2238,6 +2272,7 @@ mystery
 mystic
 myth
 mythic
+nail
 naked
 nanny
 narcotic
@@ -2556,6 +2591,7 @@ photography
 phrenetic
 physic
 physics
+piano
 pick
 piddle
 pie
@@ -2784,6 +2820,7 @@ puissant
 pulverize
 pumpkin
 punch
+punish
 pupil
 puppet
 pur
@@ -3001,6 +3038,7 @@ rhetoric
 rhythm
 rich
 rickets
+ricochet
 ride
 ridge
 riducule
@@ -3029,8 +3067,8 @@ robe
 robust
 roll
 Roman
-romance
 Romance
+romance
 room
 rose
 rot
@@ -3052,6 +3090,7 @@ rune
 rupture
 rural
 ruse
+Russia
 rustic
 rustication
 ruth
@@ -3105,6 +3144,7 @@ science
 scintilla
 scissors
 sclerosis
+Scot
 scrag
 scrape
 screech
@@ -3282,6 +3322,7 @@ solve
 solvent
 some
 son
+songster
 sonorous
 sooth
 sophist
@@ -3295,6 +3336,7 @@ sovereign
 sow
 space
 spade
+Spaniard
 spank
 spare
 spark
@@ -3311,6 +3353,7 @@ spectrum
 speculation
 speed
 spell
+Spencer
 spendthrift
 spent
 spew
@@ -3505,6 +3548,7 @@ tangible
 tank
 Tarbart
 tart
+Tartarus
 taste
 tatter
 taut
@@ -3547,8 +3591,8 @@ th
 than
 thane
 that
-the
 The
+the
 theater
 their
 them
@@ -3600,6 +3644,7 @@ token
 toleration
 toll
 tone
+tooth
 top
 topos
 torpor
@@ -3610,6 +3655,7 @@ touch
 tourney
 tousle
 tow
+toward
 tower
 toxic
 trace
@@ -3669,6 +3715,7 @@ turn
 tutor
 Tuxedo Park
 twain
+twelve
 twink
 two
 tympanum
@@ -3682,6 +3729,7 @@ ultimo
 ululation
 umbilicus
 umbrage
+un
 unavailable
 uncle
 uncouth
@@ -3767,6 +3815,7 @@ viola
 violation
 violence
 violet
+violin
 virile
 virtue
 virtuosity
@@ -3842,7 +3891,9 @@ welkin
 well
 Welsh
 wend
+were
 wet
+wether
 what
 wheedle
 whelm
@@ -3879,6 +3930,7 @@ worth
 wrangle
 wreak
 wreck
+wrest
 wretch
 write
 wroth

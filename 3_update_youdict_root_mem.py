@@ -16,32 +16,32 @@ if __name__ == '__main__':
     # check and save html #########################################################################################
     multi_thread(save_if_not_exist, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
 
-    # update txt ###################################################################################################
-    root_line_list = list()
-    mem_line_list = list()
-    for word in tqdm(word_set, desc='decoding'):
-        html_text_path = html_text_dir + '/' + word + '.txt'
-        with open(html_text_path, 'r', encoding='utf-8') as f:
-            html_txt = f.read()
-        root_txt = get_root_txt_from_youdict_html_text(html_txt)
-        mem_txt = get_mem_txt_from_youdict_html_text(html_txt)
-        root_line_list.append(word+'\\'+root_txt)
-        mem_line_list.append(word+'\\'+mem_txt)
-        # print('----------------------')
-        # print(word)
-        # print(word+'\\'+root_txt)
-        # print(word+'\\'+mem_txt)
-
-    to_txt = 'D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt'
-    with open(to_txt, 'w', encoding='utf-8') as f:
-        for line in root_line_list:
-            f.write(line)
-            f.write('\n')
-
-    to_txt = 'D:\github_project\make_anki_word_list\youdict_mem\youdict_mem.txt'
-    with open(to_txt, 'w', encoding='utf-8') as f:
-        for line in mem_line_list:
-            f.write(line)
-            f.write('\n')
+    # # update txt ###################################################################################################
+    # root_line_list = list()
+    # mem_line_list = list()
+    # for word in tqdm(word_set, desc='decoding'):
+    #     html_text_path = html_text_dir + '/' + word + '.txt'
+    #     with open(html_text_path, encoding='utf-8') as f:
+    #         html_txt = f.read()
+    #     root_txt = get_root_txt_from_youdict_html_text(html_txt)
+    #     mem_txt = get_mem_txt_from_youdict_html_text(html_txt)
+    #     root_line_list.append(word+'\\'+root_txt)
+    #     mem_line_list.append(word+'\\'+mem_txt)
+    #     # print('----------------------')
+    #     # print(word)
+    #     # print(word+'\\'+root_txt)
+    #     # print(word+'\\'+mem_txt)
+    #
+    # to_txt = 'D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt'
+    # with open(to_txt, 'w', encoding='utf-8') as f:
+    #     for line in root_line_list:
+    #         f.write(line)
+    #         f.write('\n')
+    #
+    # to_txt = 'D:\github_project\make_anki_word_list\youdict_mem\youdict_mem.txt'
+    # with open(to_txt, 'w', encoding='utf-8') as f:
+    #     for line in mem_line_list:
+    #         f.write(line)
+    #         f.write('\n')
 
 

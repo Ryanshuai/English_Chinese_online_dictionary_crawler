@@ -1,3 +1,4 @@
+
 import venn
 
 
@@ -8,7 +9,7 @@ college_post_txt = 'D:/github_project/make_anki_word_list/word_list/college_考�
 toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/qu_10000.txt'
 toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_红宝书.txt'
 toefl_class_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_分类词汇.txt'
-toefl_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency.txt'
+toefl_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_filtered.txt'
 gre_3000_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_foot.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
@@ -32,7 +33,12 @@ with open(toefl_qu_txt, encoding='utf-8') as f:
 with open(toefl_red_txt, encoding='utf-8') as f:
     toefl_red_set = set(f.read().splitlines())
 with open(toefl_class_txt, encoding='utf-8') as f:
-    toefl_class_set = set(f.read().splitlines())
+    toefl_class_set = set()
+    lines = f.read().splitlines()
+    for line in lines:
+        words = line.split(' ')
+        for word in words:
+            toefl_class_set.add(word)
 with open(toefl_frequency_txt, encoding='utf-8') as f:
     fre_set = set(f.read().splitlines())
     toefl_frequency_set = set(map(lambda x: x.split('\\')[0], fre_set))

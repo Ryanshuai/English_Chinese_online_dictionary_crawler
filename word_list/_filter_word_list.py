@@ -13,12 +13,13 @@ gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
 gre_synonym_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
 gre_kmf_6_2_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
 gre_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_frequency.txt'
+toefl_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency.txt'
 
 internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
 
-input_txt = all_txt
-with open(input_txt, 'r', encoding='utf-8') as f:
+input_txt = toefl_frequency_txt
+with open(input_txt, encoding='utf-8') as f:
     lines = f.read().splitlines()
 
 # prepotion_list =['in', 'on', 'with', 'by', 'at', 'for', 'about', 'under', 'of', 'to', 'into', 'about', 'after']
@@ -34,8 +35,12 @@ with open(input_txt, 'r', encoding='utf-8') as f:
 
 
 new_lines = list()
+fre_dict = dict()
 for line in lines:
-    fre, word = line.split(' ')
+    word, fre = line.split('\\')
+    if word in fre_dict:
+        continue
+    fre_dict[word] = fre
     new_line = word + '\\' + fre
     new_lines.append(new_line)
     print(new_line)

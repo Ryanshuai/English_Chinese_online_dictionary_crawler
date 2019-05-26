@@ -1,7 +1,7 @@
 from word_root import Assembled_Root
 
 
-tst_txt = 'D:/github_project/make_anki_word_list/word_list/tst.txt'
+
 high_school_txt = 'D:/github_project/make_anki_word_list/word_list/high_school.txt'
 college_cet4_txt = 'D:/github_project/make_anki_word_list/word_list/college_cet_4.txt'
 college_cet6_txt = 'D:/github_project/make_anki_word_list/word_list/college_cet_6.txt'
@@ -9,41 +9,54 @@ college_post_txt = 'D:/github_project/make_anki_word_list/word_list/college_考�
 toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/qu_10000.txt'
 toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_红宝书.txt'
 toefl_class_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_分类词汇.txt'
+toefl_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_filtered.txt'
 gre_3000_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_foot.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
 gre_synonym_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_synonym.txt'
+gre_kmf_6_2_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_kmf_6_2.txt'
+gre_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_frequency.txt'
+
 internal_txt = 'D:/github_project/make_anki_word_list/word_list/internal_word.txt'
 all_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+
+with open(high_school_txt, encoding='utf-8') as f:
+    high_school_set = set(f.read().splitlines())
+with open(college_cet4_txt, encoding='utf-8') as f:
+    college_cet4_set = set(f.read().splitlines())
+with open(college_cet6_txt, encoding='utf-8') as f:
+    college_cet6_set = set(f.read().splitlines())
+with open(college_post_txt, encoding='utf-8') as f:
+    college_post_set = set(f.read().splitlines())
+with open(toefl_qu_txt, encoding='utf-8') as f:
+    toefl_qu_set = set(f.read().splitlines())
+with open(toefl_red_txt, encoding='utf-8') as f:
+    toefl_red_set = set(f.read().splitlines())
+with open(toefl_class_txt, encoding='utf-8') as f:
+    toefl_class_set = set(f.read().splitlines())
+with open(toefl_frequency_txt, encoding='utf-8') as f:
+    fre_set = set(f.read().splitlines())
+    toefl_frequency_set = set(map(lambda x: x.split('\\')[0], fre_set))
+with open(gre_3000_txt, encoding='utf-8') as f:
+    gre_3000_set = set(f.read().splitlines())
+with open(gre_foot_txt, encoding='utf-8') as f:
+    gre_foot_set = set(f.read().splitlines())
+with open(gre_red_txt, encoding='utf-8') as f:
+    gre_red_set = set(f.read().splitlines())
+with open(gre_synonym_txt, encoding='utf-8') as f:
+    gre_synonym_set = set(f.read().splitlines())
+with open(gre_frequency_txt, encoding='utf-8') as f:
+    fre_set = set(f.read().splitlines())
+    gre_frequency_set = set(map(lambda x: x.split('\\')[0], fre_set))
+
+all_word_set = high_school_set|college_cet4_set|college_cet6_set|college_post_set|toefl_qu_set|toefl_red_set|toefl_class_set|toefl_frequency_set|gre_3000_set|gre_foot_set|gre_red_set|gre_synonym_set|gre_frequency_set
 
 
 def make_internal_list():
     assembled_root = Assembled_Root()
 
-    input_txt_list = list()
-    input_txt_list.append(tst_txt)
-    input_txt_list.append(high_school_txt)
-    input_txt_list.append(college_cet4_txt)
-    input_txt_list.append(college_cet6_txt)
-    input_txt_list.append(college_post_txt)
-    input_txt_list.append(toefl_qu_txt)
-    input_txt_list.append(toefl_red_txt)
-    # input_txt_list.append(toefl_class_txt)
-    input_txt_list.append(gre_3000_txt)
-    input_txt_list.append(gre_foot_txt)
-    input_txt_list.append(gre_red_txt)
-    input_txt_list.append(gre_synonym_txt)
-
-    word_set = set()
-    for file in input_txt_list:
-        with open(file, 'r', encoding='utf-8') as f:
-            word_list = f.read().splitlines()
-            for word in word_list:
-                word = word.strip()
-                word_set.add(word)
-
     internal_word_set = set()
-    for word in word_set:
+    for word in all_word_set:
         root_htmls = assembled_root.get_all_kind_root_html(word)
         internal_word = assembled_root.get_internal_word_set(*root_htmls)
         internal_word_set |= internal_word
@@ -59,32 +72,9 @@ def make_internal_list():
 
 
 def make_all_list():
-    input_txt_list = list()
-    input_txt_list.append(tst_txt)
-    input_txt_list.append(high_school_txt)
-    input_txt_list.append(college_cet4_txt)
-    input_txt_list.append(college_cet6_txt)
-    input_txt_list.append(college_post_txt)
-    input_txt_list.append(toefl_qu_txt)
-    input_txt_list.append(toefl_red_txt)
-    # input_txt_list.append(toefl_class_txt)
-    input_txt_list.append(gre_3000_txt)
-    input_txt_list.append(gre_foot_txt)
-    input_txt_list.append(gre_red_txt)
-    input_txt_list.append(gre_synonym_txt)
-
-    word_set = set()
-    for file in input_txt_list:
-        with open(file, 'r',encoding='utf-8') as f:
-            word_list = f.read().splitlines()
-            for word in word_list:
-                word = word.strip()
-                word_set.add(word)
-    word_list = sorted(word_set, key=str.lower)
-
     print('making all.txt')
     with open(all_txt, 'w',encoding='utf-8') as f:
-        for word in word_list:
+        for word in all_word_set:
             if len(word) <= 1:
                 continue
             f.write(word)
