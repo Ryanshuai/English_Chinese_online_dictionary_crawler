@@ -1,4 +1,6 @@
 
+import time
+import random
 from os.path import normpath, join, exists
 import requests
 import os
@@ -46,7 +48,8 @@ def save_if_not_exist(word, base_url, save_dir):
 def save_if_not_exist_for_youdict(word, base_url, save_dir):
     to_txt = normpath(join(save_dir, word + '.txt'))
     if not os.path.exists(to_txt):
-        # print(to_txt, '\tbegin!')
+        print('===================================')
+        # print(word, '\tbegin!')
         url = base_url + word
         html_text = get_html_from_url(url)
         with open(to_txt, 'w', encoding='utf-8') as f:
@@ -56,7 +59,7 @@ def save_if_not_exist_for_youdict(word, base_url, save_dir):
         with open(to_txt, encoding='utf-8') as f:
             txt = f.read()
         if not txt.startswith('<!DOCTYPE html>'):
-            print(to_txt, '\tbegin!')
+            print(word, '\tbegin!')
             url = base_url + word
             html_text = get_html_from_url(url)
             with open(to_txt, 'w', encoding='utf-8') as f:
@@ -65,7 +68,10 @@ def save_if_not_exist_for_youdict(word, base_url, save_dir):
 
 
 def one_thread_check_and_save(func, iterable, *args):
-    [func(iter, *args) for iter in iterable]
+    for iter in iterable:
+        func(iter, *args)
+        t = random.uniform(0.01, 1)
+        time.sleep(t)
 
 
 def multi_thread(func, iterable, *args, max_workers=1280):

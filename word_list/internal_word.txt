@@ -137,7 +137,6 @@ and
 anesthesia
 angel
 angle
-anguish
 angular
 animation
 animus
@@ -195,7 +194,6 @@ archetype
 architect
 archon
 arctic
-are
 area
 argent
 argon
@@ -307,7 +305,6 @@ banish
 bank
 bar
 barb
-Barbara
 barbarian
 barbarous
 bare
@@ -1023,7 +1020,6 @@ discover
 discreet
 discretion
 discriminate
-discus
 discussion
 disinfect
 disk
@@ -1063,7 +1059,6 @@ dogma
 doleful
 domestic
 dominant
-Donna
 dormant
 dorsal
 dose
@@ -1580,8 +1575,8 @@ genus
 geography
 geophysics
 germ
-German
 german
+German
 Germany
 gest
 get
@@ -1719,7 +1714,6 @@ hearse
 heat
 heathen
 heaven
-heavy
 hecatomb
 hedge
 hedonist
@@ -1915,7 +1909,6 @@ indecent
 indemnity
 indent
 independent
-India
 Indian
 indication
 indict
@@ -2052,7 +2045,6 @@ iodine
 Ionian
 ire
 iris
-Irish
 iron
 irony
 irradiate
@@ -2153,7 +2145,6 @@ Lares
 large
 lascivious
 last
-latch
 late
 latent
 lateral
@@ -2191,7 +2182,6 @@ legislate
 legislator
 legitimate
 lemma
-lemon
 length
 lere
 less
@@ -2308,7 +2298,6 @@ malic
 malice
 malign
 mallow
-mamma
 man
 manacle
 manage
@@ -2397,8 +2386,8 @@ menage
 mendacious
 menorah
 merchant
-mercury
 Mercury
+mercury
 mere
 merge
 merit
@@ -2485,7 +2474,6 @@ mold
 mole
 mollify
 moment
-momma
 monarch
 monarchy
 monastic
@@ -2733,8 +2721,8 @@ order
 ore
 organ
 organize
-orient
 Orient
+orient
 orientate
 origin
 original
@@ -3402,7 +3390,6 @@ rhythm
 ribald
 rich
 rickets
-ricochet
 ride
 ridge
 riducule
@@ -3741,7 +3728,6 @@ spectrum
 speculation
 speed
 spell
-Spencer
 spendthrift
 spent
 sperm
@@ -3954,7 +3940,6 @@ tangible
 tank
 Tarbart
 tart
-Tartarus
 taste
 tatter
 taut
@@ -4002,8 +3987,8 @@ th
 than
 thane
 that
-the
 The
+the
 theater
 their
 them
@@ -4060,7 +4045,6 @@ toll
 tomb
 tone
 tongs
-tooth
 top
 topic
 topos
@@ -4072,7 +4056,6 @@ touch
 tourney
 tousle
 tow
-toward
 tower
 toxic
 trace
@@ -4140,7 +4123,6 @@ turn
 tutor
 Tuxedo Park
 twain
-twelve
 twink
 two
 tympanum
@@ -4252,7 +4234,6 @@ viola
 violation
 violence
 violet
-violin
 Virgilian
 virgin
 virile
@@ -4333,10 +4314,8 @@ welkin
 well
 Welsh
 wend
-were
 west
 wet
-wether
 what
 wheedle
 whelm
@@ -4376,7 +4355,6 @@ worth
 wrangle
 wreak
 wreck
-wrest
 wretch
 wright
 write
