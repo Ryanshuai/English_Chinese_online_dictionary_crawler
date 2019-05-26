@@ -49,7 +49,7 @@ with open(gre_frequency_txt, encoding='utf-8') as f:
     fre_set = set(f.read().splitlines())
     gre_frequency_set = set(map(lambda x: x.split('\\')[0], fre_set))
 
-all_word_set = high_school_set|college_cet4_set|college_cet6_set|college_post_set|toefl_qu_set|toefl_red_set|toefl_class_set|toefl_frequency_set|gre_3000_set|gre_foot_set|gre_red_set|gre_synonym_set|gre_frequency_set
+all_word_set = high_school_set|college_cet4_set|college_cet6_set|college_post_set|toefl_qu_set|toefl_red_set|toefl_frequency_set|gre_3000_set|gre_foot_set|gre_red_set|gre_synonym_set|gre_frequency_set
 
 
 def make_internal_list():

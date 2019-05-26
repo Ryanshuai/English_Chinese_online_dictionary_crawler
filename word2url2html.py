@@ -1,3 +1,5 @@
+
+from os.path import normpath, join, exists
 import requests
 import os
 import urllib3
@@ -31,7 +33,7 @@ def get_html_from_url(url, ip=None):
 
 
 def save_if_not_exist(word, base_url, save_dir):
-    to_txt = save_dir + word + '.txt'
+    to_txt = normpath(join(save_dir, word + '.txt'))
     if not os.path.exists(to_txt):
         print(word, '\tbegin!')
         url = base_url + word
@@ -39,6 +41,27 @@ def save_if_not_exist(word, base_url, save_dir):
         with open(to_txt, 'w', encoding='utf-8') as f:
             f.write(html_text)
             print(word, '\tdone!')
+
+
+def save_if_not_exist_for_youdict(word, base_url, save_dir):
+    to_txt = normpath(join(save_dir, word + '.txt'))
+    if not os.path.exists(to_txt):
+        # print(to_txt, '\tbegin!')
+        url = base_url + word
+        html_text = get_html_from_url(url)
+        with open(to_txt, 'w', encoding='utf-8') as f:
+            f.write(html_text)
+            # print(word, '\tdone!')
+    else:
+        with open(to_txt, encoding='utf-8') as f:
+            txt = f.read()
+        if not txt.startswith('<!DOCTYPE html>'):
+            print(to_txt, '\tbegin!')
+            url = base_url + word
+            html_text = get_html_from_url(url)
+            with open(to_txt, 'w', encoding='utf-8') as f:
+                f.write(html_text)
+                print(word, '\tdone!')
 
 
 def one_thread_check_and_save(func, iterable, *args):

@@ -1,4 +1,4 @@
-from make_all_internal_list import make_all_list
+
 from tqdm import tqdm
 from word2url2html import multi_thread, save_if_not_exist
 from html2txt import get_root_txt_from_etymonline_html_text
@@ -21,10 +21,10 @@ if __name__ == '__main__':
     # update txt ##################################################################################################
     root_line_list = list()
     for word in tqdm(word_set, desc='decoding'):
-        html_text_path = from_html_text_dir + '\\' + word + '.txt'
-        with open(html_text_path, 'r', encoding='utf-8') as f:
+        html_text_path = from_html_text_dir + '/' + word + '.txt'
+        with open(html_text_path, encoding='utf-8') as f:
             html_txt = f.read()
-        # print(word)
+        print(word)
         root_txt = get_root_txt_from_etymonline_html_text(html_txt)
         root_line_list.append(word+'\\'+root_txt)
 
