@@ -33,7 +33,7 @@ input_txt_list.append(gre_red_txt)
 input_txt_list.append(gre_synonym_txt)
 input_txt_list.append(gre_frequency_txt)
 
-word = 'adorn'
+word = 'erstwhile'
 word = word.strip()
 for file in input_txt_list:
     with open(file, 'r', encoding='utf-8') as f:

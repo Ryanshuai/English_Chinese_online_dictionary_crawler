@@ -7,7 +7,7 @@ from word_root import Assembled_Root, Yaml_Root
 
 # ####################################################### build filter list
 all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-with open(all_word_list, 'r', encoding='utf-8') as f:
+with open(all_word_list, encoding='utf-8') as f:
     word_list = f.read().splitlines()
 word_set = set(word_list)
 word_set.discard('con')
@@ -100,9 +100,9 @@ word_set.discard('con')
 #
 
 
-# #################################################### root youdict yaml
+# #################################################### gre frequency
 all_word_list = 'D:/github_project/make_anki_word_list/word_list/GRE_frequency.txt'
-with open(all_word_list, 'r', encoding='utf-8') as f:
+with open(all_word_list, encoding='utf-8') as f:
     line_list = f.read().splitlines()
 
 dictionary = dict()
@@ -113,3 +113,18 @@ for line in line_list:
 writer = MDictWriter(dictionary, title="GRE word frequency", description="")
 with open("output/GRE_word_frequency.mdx", "wb") as f:
     writer.write(f)
+
+# #################################################### toefl frequency
+all_word_list = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency.txt'
+with open(all_word_list, encoding='utf-8') as f:
+    line_list = f.read().splitlines()
+
+dictionary = dict()
+for line in line_list:
+    word, frequency = line.split('\\')
+    dictionary[word] = frequency
+
+writer = MDictWriter(dictionary, title="TOEFL word frequency", description="")
+with open("output/TOEFL_word_frequency.mdx", "wb") as f:
+    writer.write(f)
+

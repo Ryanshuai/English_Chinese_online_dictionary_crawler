@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/word_list/TOEFL_frequency.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_make_anki_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_make_anki_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_find_in_which.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_find_in_which.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_analyze_word_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_analyze_word_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5_make_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_make_mdx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/possible_prs.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE_frequency.txt" beforeDir="false" afterPath="$PROJECT_DIR$/word_list/GRE_frequency.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/5_make_mdx.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="881">
-              <caret line="108" column="22" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="22" />
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -56,28 +54,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_find_in_which.py">
+        <entry file="file://$PROJECT_DIR$/08_analyze_word_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="15" column="82" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="82" />
+            <state relative-caret-position="-216">
+              <caret line="10" column="19" selection-start-line="10" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/word_list/GRE_frequency.txt">
+        <entry file="file://$PROJECT_DIR$/word_list/TOEFL_frequency.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242217">
-              <caret line="8971" selection-start-line="8971" selection-end-line="8971" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/单词表常用正则表达式.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="7" selection-end-column="17" />
+            <state relative-caret-position="408">
+              <caret line="8412" column="6" selection-start-line="8412" selection-start-column="6" selection-end-line="8412" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -93,13 +82,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>at</find>
-      <find>to</find>
-      <find>（）</find>
-      <find>GRE真题六选二同义词汇总</find>
-      <find>,</find>
-      <find>，</find>
-      <find>[\u3002\uff1b\uff0c\uff1a\u201c\u201d\uff08\uff09\u3001\uff1f\u300a\u300b]</find>
       <find>.</find>
       <find>…</find>
       <find>-</find>
@@ -123,6 +105,13 @@
       <find />
       <find>\n\n</find>
       <find>次</find>
+      <find>[a-z][0-9]</find>
+      <find>san</find>
+      <find>sanguine</find>
+      <find>, 'r'</find>
+      <find>\\</find>
+      <find>plague</find>
+      <find>corp</find>
     </findStrings>
     <replaceStrings>
       <replace>\/</replace>
@@ -133,7 +122,6 @@
       <replace>,</replace>
       <replace />
       <replace>()</replace>
-      <replace />
       <replace>\n</replace>
       <replace>\\</replace>
     </replaceStrings>
@@ -144,8 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cigencizhui_root.py" />
-        <option value="$PROJECT_DIR$/word_list/all_word_list.txt" />
         <option value="$PROJECT_DIR$/3_make_mdx.py" />
         <option value="$PROJECT_DIR$/url2html2txt.py" />
         <option value="$PROJECT_DIR$/word_list/internal_word.txt.py" />
@@ -190,17 +176,19 @@
         <option value="$PROJECT_DIR$/word_root.py" />
         <option value="$PROJECT_DIR$/anki_profiles/笔记html.txt" />
         <option value="$PROJECT_DIR$/word_list/_filter_word_list.py" />
-        <option value="$PROJECT_DIR$/08_analyze_word_list.py" />
         <option value="$PROJECT_DIR$/06_make_anki_list.py" />
-        <option value="$PROJECT_DIR$/5_make_mdx.py" />
-        <option value="$PROJECT_DIR$/07_find_in_which.py" />
         <option value="$PROJECT_DIR$/word_list/GRE_frequency.txt" />
+        <option value="$PROJECT_DIR$/07_find_in_which.py" />
+        <option value="$PROJECT_DIR$/word_list/FOEFL_frequency.txt" />
+        <option value="$PROJECT_DIR$/08_analyze_word_list.py" />
+        <option value="$PROJECT_DIR$/5_make_mdx.py" />
+        <option value="$PROJECT_DIR$/word_list/TOEFL_frequency.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="655" />
-    <option name="y" value="-12" />
+    <option name="x" value="800" />
+    <option name="y" value="-13" />
     <option name="width" value="2127" />
     <option name="height" value="1407" />
   </component>
@@ -210,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,7 +220,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,9 +376,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.5_make_mdx" />
+        <item itemvalue="Python.08_analyze_word_list" />
         <item itemvalue="Python.07_find_in_which" />
         <item itemvalue="Python._filter_word_list" />
-        <item itemvalue="Python.08_analyze_word_list" />
         <item itemvalue="Python.word_counter" />
       </list>
     </recent_temporary>
@@ -524,21 +512,10 @@
       <workItem from="1558413643621" duration="824000" />
       <workItem from="1558490080256" duration="371000" />
       <workItem from="1558518541656" duration="6663000" />
-      <workItem from="1558578855275" duration="4467000" />
-    </task>
-    <task id="LOCAL-00005" summary="add gre_class.txt">
-      <created>1557155963180</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1557155963180</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add gre_synonym.txt">
-      <created>1557165415090</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1557165415090</updated>
+      <workItem from="1558578855275" duration="7350000" />
+      <workItem from="1558662688339" duration="2112000" />
+      <workItem from="1558693427479" duration="2039000" />
+      <workItem from="1558862749146" duration="314000" />
     </task>
     <task id="LOCAL-00007" summary="合并项目第一次更新">
       <created>1557196284499</created>
@@ -869,11 +846,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558520169256</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="update gre frequency">
+      <created>1558590258730</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1558590258730</updated>
+    </task>
+    <task id="LOCAL-00055" summary="update gre frequency">
+      <created>1558590525493</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1558590525494</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318985000" />
+    <option name="totallyTimeSpent" value="326333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -888,7 +879,7 @@
     <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.1566549" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49961028" visible="true" weight="0.15989399" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -908,15 +899,14 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3351001" />
       <window_info anchor="right" id="Database" order="4" weight="0.32979977" />
-      <window_info anchor="right" id="Run" order="5" sideWeight="0.5003897" weight="0.28886926" />
-      <window_info anchor="right" id="Debug" order="6" visible="true" weight="0.26442873" />
+      <window_info anchor="right" id="Run" order="5" sideWeight="0.5003897" weight="0.47438163" />
+      <window_info active="true" anchor="right" id="Debug" order="6" visible="true" weight="0.3286219" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="clear get dict value" />
     <MESSAGE value="etymonline down" />
     <MESSAGE value="no suffix similar down" />
     <MESSAGE value="no suffix similar down 1" />
@@ -941,7 +931,8 @@
     <MESSAGE value="add GRE kmf 6 2 txt" />
     <MESSAGE value="1" />
     <MESSAGE value="add gre frequency" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gre frequency" />
+    <MESSAGE value="update gre frequency" />
+    <option name="LAST_COMMIT_MESSAGE" value="update gre frequency" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -977,7 +968,7 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$screen_watermark_qt.coverage" NAME="screen_watermark_qt Coverage Results" MODIFIED="1558271880543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word_counter" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$get_youdcit_image.coverage" NAME="get_youdcit_image Coverage Results" MODIFIED="1555258328060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$examples.coverage" NAME="examples Coverage Results" MODIFIED="1555265063530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/writemdict" />
-    <SUITE FILE_PATH="coverage/make_anki_word_list$08_analyze_word_list.coverage" NAME="08_analyze_word_list Coverage Results" MODIFIED="1558520033855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$08_analyze_word_list.coverage" NAME="08_analyze_word_list Coverage Results" MODIFIED="1558664205119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$2_update_etymonline.coverage" NAME="2_update_etymonline Coverage Results" MODIFIED="1557940743109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$08_update_youdict_root_mem.coverage" NAME="08_update_youdict_root_mem Coverage Results" MODIFIED="1557210711150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$word_root.coverage" NAME="word_root Coverage Results" MODIFIED="1557930612316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -997,11 +988,26 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$screen_watermark.coverage" NAME="screen_watermark Coverage Results" MODIFIED="1558269354677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word_counter" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$01_make_anki_list.coverage" NAME="01_make_anki_list Coverage Results" MODIFIED="1557164201938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$07_find_word_in_which.coverage" NAME="07_find_word_in_which Coverage Results" MODIFIED="1557753708287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/make_anki_word_list$5_make_mdx.coverage" NAME="5_make_mdx Coverage Results" MODIFIED="1558589578148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/make_anki_word_list$5_make_mdx.coverage" NAME="5_make_mdx Coverage Results" MODIFIED="1558863064748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$07_find_in_which.coverage" NAME="07_find_in_which Coverage Results" MODIFIED="1558583749277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>set(map(lambda x: x.split('\\')[0], line_list))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map(lambda x: x.strip('\\')[0], line_list)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>set(map(lambda x: x.strip('\\')[0], line_list))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>input_txt.split('.')[0] + '___.txt'</expression-string>
         <language-id>Python</language-id>
@@ -1032,31 +1038,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>map(map_fun, internal_word_list)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>self.etymonline_root.get_internal_word_set(etymonline_root_html)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>get_internal_word_set(etymonline_root_html)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/concurrent/futures/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/similar_word.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
@@ -1326,13 +1310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_analyze_word_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06_make_anki_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -1366,23 +1343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_make_mdx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="108" column="22" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_find_in_which.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="15" column="82" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/单词表常用正则表达式.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1390,10 +1350,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07_find_in_which.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_list/TOEFL_红宝书.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71563">
+          <caret line="22" column="9" lean-forward="true" selection-end-line="2713" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/word_list/GRE_frequency.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242217">
-          <caret line="8971" selection-start-line="8971" selection-end-line="8971" />
+        <state relative-caret-position="408">
+          <caret line="7109" column="10" lean-forward="true" selection-start-line="7109" selection-start-column="10" selection-end-line="7109" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_analyze_word_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="10" column="19" selection-start-line="10" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_make_mdx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_list/TOEFL_frequency.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="8412" column="6" selection-start-line="8412" selection-start-column="6" selection-end-line="8412" selection-end-column="6" />
         </state>
       </provider>
     </entry>
