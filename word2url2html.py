@@ -48,13 +48,12 @@ def save_if_not_exist(word, base_url, save_dir):
 def save_if_not_exist_for_youdict(word, base_url, save_dir):
     to_txt = normpath(join(save_dir, word + '.txt'))
     if not os.path.exists(to_txt):
-        print('===================================')
-        # print(word, '\tbegin!')
+        print('===============================', word, '\tbegin!')
         url = base_url + word
         html_text = get_html_from_url(url)
         with open(to_txt, 'w', encoding='utf-8') as f:
             f.write(html_text)
-            # print(word, '\tdone!')
+            print('===============================', word, '\tdone!')
     else:
         with open(to_txt, encoding='utf-8') as f:
             txt = f.read()
@@ -74,7 +73,7 @@ def one_thread_check_and_save(func, iterable, *args):
         time.sleep(t)
 
 
-def multi_thread(func, iterable, *args, max_workers=1280):
+def multi_thread(func, iterable, *args, max_workers=8):
     executor = ThreadPoolExecutor(max_workers=max_workers)
     all_task = [executor.submit(func, iter, *args,)
                 for iter in iterable]

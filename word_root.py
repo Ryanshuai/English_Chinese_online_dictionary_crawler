@@ -71,8 +71,6 @@ class Youdict_Root:
                 self.w_r_dict[w] = r
 
     def get_internal_word_set(self, root_str: str):
-        if '词源不详。' in root_str:
-            return set('')
         if root_str.startswith('来自') and root_str[2:6] != 'PIE*' and ord(root_str[2]) < 128:
             temp_root = root_str[2:].split(',')[0].split('，')[0].strip()
             if '*' in temp_root:
@@ -88,6 +86,8 @@ class Youdict_Root:
 
     def get_root_html(self, word):
         root = self.w_r_dict.get(word, '')
+        if '词源不详。' in root:
+            return ''
         return root
 
 
@@ -185,17 +185,17 @@ if __name__ == '__main__':
     # print(yr.get_root('abandon'))
     # print(yr.suffix_explain_dict['-sive'])
     #
-    # ra = Youdict_Root()
-    # print(ra.get_root_html('agency'))
-
-    all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-    with open(all_word_list, 'r', encoding='utf-8') as f:
-        word_list = f.read().splitlines()
-
-    er = Etymonline_Root()
-    for word in word_list:
-        root_text = er.get_root(word)
-        internal_word_set = er.get_internal_word_set(root_text)
+    ra = Youdict_Root()
+    print(ra.get_root_html('algae'))
+    #
+    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+    # with open(all_word_list, 'r', encoding='utf-8') as f:
+    #     word_list = f.read().splitlines()
+    #
+    # er = Etymonline_Root()
+    # for word in word_list:
+    #     root_text = er.get_root(word)
+    #     internal_word_set = er.get_internal_word_set(root_text)
         # if len(internal_word_set) > 0:
         #     print(word, internal_word_set)
 

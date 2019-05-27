@@ -15,8 +15,8 @@ if __name__ == '__main__':
     word_set.discard('con')
 
     # check and save html #########################################################################################
-    multi_thread(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
-    # one_thread_check_and_save(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
+    # multi_thread(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
+    one_thread_check_and_save(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
 
     # update txt ###################################################################################################
     root_line_list = list()

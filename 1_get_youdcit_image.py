@@ -24,7 +24,7 @@ def save_word_image_to_dir(name, di):
 
 if __name__ == '__main__':
     all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_filtered.txt'
+    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_export.txt'
     with open(all_word_list, encoding='utf-8') as f:
         words = f.read().splitlines()
     # words = set(words)

@@ -24,7 +24,7 @@ if __name__ == '__main__':
         html_text_path = from_html_text_dir + '/' + word + '.txt'
         with open(html_text_path, encoding='utf-8') as f:
             html_txt = f.read()
-        print(word)
+        # print(word)
         root_txt = get_root_txt_from_etymonline_html_text(html_txt)
         root_line_list.append(word+'\\'+root_txt)
 

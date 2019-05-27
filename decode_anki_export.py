@@ -15,8 +15,12 @@ for i, line in enumerate(lines):
     if '<!--所有释义的入口，if有头词-->' in line:
         in_new_card = True
     if '<span class=""title"">' in line and in_new_card:
-        print(i, '\t-->', line[27:-8])
-        new_line_list.append(line[27:-8])
+        word = line[27:-8]
+        word = word.replace('ˈ','')
+        word = word.replace('ˌ','')
+        if 'ˌ' in line[27:-8]:
+            print(word)
+        new_line_list.append(word)
         in_new_card = False
 
 with open(output_txt, 'w', encoding='utf-8') as f:
