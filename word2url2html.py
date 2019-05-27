@@ -70,7 +70,7 @@ def save_if_not_exist_for_youdict(word, base_url, save_dir):
 def one_thread_check_and_save(func, iterable, *args):
     for iter in iterable:
         func(iter, *args)
-        t = random.uniform(0.01, 1)
+        t = random.uniform(0.01, 0.5)
         time.sleep(t)
 
 
