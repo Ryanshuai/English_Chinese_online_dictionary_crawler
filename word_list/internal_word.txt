@@ -2,7 +2,6 @@ abash
 abhor
 able
 abolish
-aborigine
 abort
 abortion
 abound
@@ -141,6 +140,7 @@ and
 anesthesia
 angel
 angle
+Angles
 angular
 aniline
 animation
@@ -363,6 +363,7 @@ Bible
 biblio
 bibliography
 bibliothec
+bid
 bide
 biennial
 bight
@@ -590,13 +591,11 @@ cheek
 cheese
 chemical
 chemist.
-Chersonese
 chest
 chevalier
 chicanery
 chief
 child
-chili
 China
 chink
 chip
@@ -1154,7 +1153,6 @@ eftsoons
 egg
 ego
 egotism
-Egypt
 eight
 eke
 elaboration
@@ -1239,6 +1237,7 @@ epidemy
 epigram
 epigraph
 epistemic
+epistemology
 equal
 equality
 equate
@@ -1522,8 +1521,8 @@ fragment
 fragrant
 frame
 franchise
-frank
 Frank
+frank
 fraternity
 fraud
 fraught
@@ -1606,8 +1605,8 @@ general
 generate
 generation
 generous
-genesis
 Genesis
+genesis
 genetic
 genial
 genius
@@ -1617,8 +1616,8 @@ genus
 geography
 geophysics
 germ
-German
 german
+German
 Germany
 gest
 get
@@ -1693,6 +1692,7 @@ grizzle
 grizzled
 grocer
 grog
+grogram
 gross
 grotto
 ground
@@ -1789,7 +1789,6 @@ hesitate
 hesitation
 hetero
 heterodox
-heterophemy
 hew
 hibernate
 hiccup
@@ -2469,8 +2468,8 @@ mendacious
 menorah
 meow
 merchant
-mercury
 Mercury
+mercury
 mere
 merge
 merit
@@ -2488,6 +2487,7 @@ metamorphosis
 metaphor
 metaphysics
 meteor
+meteorology
 meter
 method
 methylene
@@ -2574,6 +2574,7 @@ monitor
 monogamy
 monologue
 monopoly
+monos
 monotone
 monotony
 monster
@@ -2794,6 +2795,7 @@ on
 one
 ontology
 onus
+opal
 opalescent
 opaque
 open
@@ -2827,8 +2829,8 @@ ordinary
 ore
 organ
 organize
-orient
 Orient
+orient
 orientate
 origin
 original
@@ -2879,11 +2881,12 @@ palpable
 palpate
 palpitate
 palsy
-pan
 Pan
+pan
 pane
 panorama
 pantaloons
+Pantaloun
 pap
 papillon
 papyrus
@@ -2901,6 +2904,7 @@ Paris
 parish
 park
 parley
+parochial
 parochialism
 parody
 parsimony
@@ -2920,6 +2924,7 @@ Passover
 pasta
 paste
 pastor
+pastoral
 pasture
 patch
 paternal
@@ -2951,6 +2956,7 @@ penetrable
 penetrate
 penis
 penitence
+penitent
 penury
 people
 pepper
@@ -3015,12 +3021,14 @@ philately
 philosophy
 phlegm
 phobia
+phosphor
 phosphorescent
 phosphorus
 photography
 phrase
 phrenetic
 physic
+physical
 physics
 piano
 pick
@@ -3271,6 +3279,7 @@ puck
 pudendum
 pudgy
 pueblo
+puerile
 puerility
 pugnacious
 puissant
@@ -3374,7 +3383,6 @@ reason
 rebel
 recede
 receive
-recent
 recess
 recidivist
 reciprocal
@@ -3440,6 +3448,7 @@ remit
 remonstrance
 remove
 remunerate
+renaissance
 renascent
 rend
 render
@@ -3469,6 +3478,7 @@ repudiate
 repugnant
 repute
 require
+requisite
 rescind
 research
 resemble
@@ -3562,6 +3572,7 @@ Romance
 romantic
 Rome
 room
+roost
 rose
 rot
 rotary
@@ -3572,6 +3583,7 @@ rub
 rude
 rudesby
 rudiment
+rue
 rufous
 rug
 rugae
@@ -3629,9 +3641,9 @@ scaffold
 scale
 scan
 scandal
-Scandinavia
 scant
 scarce
+scare
 scary
 scathe
 scatter
@@ -4027,6 +4039,7 @@ superficial
 superfluous
 superintendent
 supervise
+supplicate
 supplication
 supply
 support
@@ -4065,6 +4078,7 @@ symbolist
 symmetry
 sympathy
 symptom
+synchronize
 synchronous
 syncope
 syncretism
@@ -4081,6 +4095,7 @@ tacit
 tack
 tackle
 tact
+tactic
 tactics
 tadde
 tailor
@@ -4106,7 +4121,6 @@ taw
 tawdry
 tax
 taxonomy
-tea
 teach
 tear
 technical
@@ -4148,8 +4162,8 @@ th
 than
 thane
 that
-the
 The
+the
 theater
 their
 them
@@ -4256,7 +4270,6 @@ trench
 trepidation
 tress
 tri
-triad
 tribe
 tribune
 tribute
@@ -4323,6 +4336,7 @@ universal
 universe
 unkempt
 up
+uphold
 upholster
 urban
 urge
@@ -4404,7 +4418,6 @@ viola
 violation
 violence
 violet
-virgin
 virile
 virtue
 virtuosity
@@ -4462,6 +4475,7 @@ warm
 warn
 warp
 warrant
+was
 wash
 waste
 watch
@@ -4528,6 +4542,7 @@ worth
 wrangle
 wreak
 wreck
+wrest
 wretch
 wright
 write
