@@ -59,11 +59,28 @@ with open(_gre_frequency_txt, encoding='utf-8') as f:
 with open(internal_txt, encoding='utf-8') as f:
     internal_set = set(f.read().splitlines())
 
-all_college_set = college_cet4_set|college_cet6_set|college_post_set|toefl_qu_set
-all_toefl_set = toefl_red_set|toefl_frequency_6_set|toefl_frequency_7_set
+all_college_set = college_cet4_set|college_cet6_set|college_post_set
+all_toefl_set = toefl_red_set|toefl_frequency_6_set|toefl_frequency_7_set|toefl_qu_set
 all_gre_set = gre_3000_set|gre_foot_set|gre_red_set|gre_synonym_set|gre_frequency_set
 all_word_set = all_college_set|all_toefl_set|all_gre_set
 
+word_set_dict = {'college_cet4': college_cet4_set,
+                'college_cet4': college_cet4_set,
+                'college_cet6': college_cet6_set,
+                'college_post': college_post_set,
+                'toefl_red_set': toefl_red_set,
+                'toefl_frequency_6_set': toefl_frequency_6_set,
+                'toefl_frequency_7': toefl_frequency_7_set,
+                'toefl_qu': toefl_qu_set,
+                'gre_3000': gre_3000_set,
+                'gre_foot': gre_foot_set,
+                'gre_red': gre_red_set,
+                'gre_synonym': gre_synonym_set,
+                'gre_frequency': gre_frequency_set,
+                'all_college': all_college_set,
+                'all_toefl': all_toefl_set,
+                'all_gre': all_gre_set,
+                 }
 
 def make_internal_list():
     assembled_root = Assembled_Root()
