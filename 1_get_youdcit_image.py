@@ -23,8 +23,8 @@ def save_word_image_to_dir(name, di):
 
 
 if __name__ == '__main__':
-    all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_export.txt'
+    # all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
+    all_word_list = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_export.txt'
     with open(all_word_list, encoding='utf-8') as f:
         words = f.read().splitlines()
     # words = set(words)
@@ -36,12 +36,14 @@ if __name__ == '__main__':
     #     save_word_image_to_dir(word)
     # save_word_image_to_dir('dictator')
 
-    pool = ThreadPoolExecutor(10000)
+    pool = ThreadPoolExecutor(128)
     for word in words:
+        word = 'crustal'
         for i in range(1, 11):
             name = word+str(i)
             if not os.path.exists(save_to_dir+name+'.jpg'):
-                # print(name)
-                # save_word_image_to_dir(word)
-                a = pool.submit(save_word_image_to_dir, name, save_to_dir)
+                print(word)
+                print(name)
+                save_word_image_to_dir(name, save_to_dir)
+                # a = pool.submit(save_word_image_to_dir, name, save_to_dir)
 

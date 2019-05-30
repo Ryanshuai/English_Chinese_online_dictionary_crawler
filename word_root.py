@@ -150,7 +150,7 @@ class Assembled_Root:
         self.cigencizhui_root = Cigencizhui_Root()
 
     def get_first_useful(self, a):
-        a = list(filter(lambda x:len(x)>0, a))
+        a = list(filter(lambda x: len(x) > 0, a))
         a.append('')
         return a[0]
 
@@ -158,16 +158,19 @@ class Assembled_Root:
         youdict_root_html = self.youdict_root.get_root_html(word)
         yaml_root_html = self.yaml_root.get_root_html(word)
         etymonline_root_html = self.etymonline_root.get_root_html(word)
-        return youdict_root_html, yaml_root_html, etymonline_root_html
+        yaml_possible_root_html = self.yaml_root.get_possible_prefix_root_suffix_html(word)
+        return youdict_root_html, yaml_root_html, etymonline_root_html, yaml_possible_root_html
 
-    def get_internal_word_set(self, youdict_root_html, yaml_root_html, etymonline_root_html):
+    def get_internal_word_set(self, root_htmls):
+        youdict_root_html = root_htmls[0]
+        etymonline_root_html = root_htmls[2]
         internal_word_set = self.youdict_root.get_internal_word_set(youdict_root_html)
         internal_word_set |= self.etymonline_root.get_internal_word_set(etymonline_root_html)
         return internal_word_set
 
     def get_root_html(self, word):
         root_htmls = self.get_all_kind_root_html(word)
-        internal_word_set = self.get_internal_word_set(*root_htmls)
+        internal_word_set = self.get_internal_word_set(root_htmls)
         internal_word_set.discard(word)
         html_str = ''
         if len(self.get_first_useful(root_htmls)) > 0:
@@ -182,11 +185,12 @@ class Assembled_Root:
 
 if __name__ == '__main__':
     # yr = Yaml_Root()
+    # print(yr.get_possible_prefix_root_suffix_html('pleistocene'))
     # print(yr.get_root('abandon'))
     # print(yr.suffix_explain_dict['-sive'])
     #
-    ra = Youdict_Root()
-    print(ra.get_root_html('algae'))
+    # ra = Youdict_Root()
+    # print(ra.get_root_html('algae'))
     #
     # all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
     # with open(all_word_list, 'r', encoding='utf-8') as f:
@@ -200,11 +204,11 @@ if __name__ == '__main__':
         #     print(word, internal_word_set)
 
     # word_list = ['countermand', 'counterpart', 'zippy']
-    # word_list = ['zippy']
-    # ar = Assembled_Root()
-    # for word in word_list:
-    #     root_text = ar.get_root_html(word)
-    #     print(root_text)
-    #     # internal_word_set = ar.get_internal_word_set(*ar.get_all_kind_root_html(word))
-    #     # print(internal_word_set)
+    word_list = ['pleistocene']
+    ar = Assembled_Root()
+    for word in word_list:
+        root_text = ar.get_root_html(word)
+        print(root_text)
+        # internal_word_set = ar.get_internal_word_set(*ar.get_all_kind_root_html(word))
+        # print(internal_word_set)
 

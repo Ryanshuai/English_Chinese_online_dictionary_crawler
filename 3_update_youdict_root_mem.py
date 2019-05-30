@@ -1,4 +1,5 @@
 
+import os
 from os.path import normpath, join, exists
 from tqdm import tqdm
 from word2url2html import multi_thread, save_if_not_exist_for_youdict, one_thread_check_and_save
@@ -21,15 +22,18 @@ if __name__ == '__main__':
     # update txt ###################################################################################################
     root_line_list = list()
     mem_line_list = list()
-    for word in tqdm(word_set, desc='decoding'):
-        print(word)
-        html_text_path = normpath(join(html_text_dir, word+'.txt'))
+    for word_txt in tqdm(os.listdir(html_text_dir), desc='decoding'):
+        print(word_txt)
+        html_text_path = normpath(join(html_text_dir, word_txt))
         with open(html_text_path, encoding='utf-8') as f:
             html_txt = f.read()
+        if not html_txt.startswith('<!DOCTYPE html>'):
+            os.remove(html_text_path)
+            continue
         root_txt = get_root_txt_from_youdict_html_text(html_txt)
         mem_txt = get_mem_txt_from_youdict_html_text(html_txt)
-        root_line_list.append(word+'\\'+root_txt)
-        mem_line_list.append(word+'\\'+mem_txt)
+        root_line_list.append(word_txt.split('.')[0]+'\\'+root_txt)
+        mem_line_list.append(word_txt.split('.')[0]+'\\'+mem_txt)
         # print('----------------------')
         # print(word)
         # print(word+'\\'+root_txt)

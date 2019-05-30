@@ -115,7 +115,7 @@ with open("output/GRE_word_frequency.mdx", "wb") as f:
     writer.write(f)
 
 # #################################################### toefl frequency
-all_word_list = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency.txt'
+all_word_list = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_7.0.txt'
 with open(all_word_list, encoding='utf-8') as f:
     line_list = f.read().splitlines()
 

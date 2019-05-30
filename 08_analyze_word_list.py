@@ -9,7 +9,9 @@ college_post_txt = 'D:/github_project/make_anki_word_list/word_list/college_考�
 toefl_qu_txt = 'D:/github_project/make_anki_word_list/word_list/qu_10000.txt'
 toefl_red_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_红宝书.txt'
 toefl_class_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_分类词汇.txt'
-toefl_frequency_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_export.txt'
+toefl_frequency_6_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_6.0.txt'
+toefl_frequency_7_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_7.0.txt'
+toefl_frequency_export_txt = 'D:/github_project/make_anki_word_list/word_list/TOEFL_frequency_export.txt'
 gre_3000_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_3000.txt'
 gre_foot_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_foot.txt'
 gre_red_txt = 'D:/github_project/make_anki_word_list/word_list/GRE_red.txt'
@@ -39,9 +41,15 @@ with open(toefl_class_txt, encoding='utf-8') as f:
         words = line.split(' ')
         for word in words:
             toefl_class_set.add(word)
-with open(toefl_frequency_txt, encoding='utf-8') as f:
+with open(toefl_frequency_6_txt, encoding='utf-8') as f:
     fre_set = set(f.read().splitlines())
-    toefl_frequency_set = set(map(lambda x: x.split('\\')[0], fre_set))
+    toefl_frequency_6_set = set(map(lambda x: x.split('\\')[0], fre_set))
+with open(toefl_frequency_7_txt, encoding='utf-8') as f:
+    fre_set = set(f.read().splitlines())
+    toefl_frequency_7_set = set(map(lambda x: x.split('\\')[0], fre_set))
+with open(toefl_frequency_export_txt, encoding='utf-8') as f:
+    fre_set = set(f.read().splitlines())
+    toefl_frequency_export_set = set(map(lambda x: x.split('\\')[0], fre_set))
 with open(gre_3000_txt, encoding='utf-8') as f:
     gre_3000_set = set(f.read().splitlines())
 with open(gre_foot_txt, encoding='utf-8') as f:
@@ -64,8 +72,8 @@ with open(gre_frequency_txt, encoding='utf-8') as f:
 # set_list = [gre_red_set, gre_frequency_set, gre_set]
 # name_list = ['gre_red_set', 'gre_frequency_set', 'gre_set']
 
-set_list = [toefl_class_set, toefl_red_set, toefl_frequency_set]
-name_list = ['toefl_class_set', 'toefl_red_set', 'toefl_frequency_set']
+set_list = [toefl_frequency_6_set, toefl_frequency_7_set, toefl_frequency_export_set]
+name_list = ['toefl_frequency_6_set', 'toefl_frequency_7_set', 'toefl_frequency_export_set']
 
 num = len(set_list)
 assert 2 <= num <= 6

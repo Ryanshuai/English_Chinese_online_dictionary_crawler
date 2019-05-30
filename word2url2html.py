@@ -51,19 +51,23 @@ def save_if_not_exist_for_youdict(word, base_url, save_dir):
         print('===============================', word, '\tbegin!')
         url = base_url + word
         html_text = get_html_from_url(url)
-        with open(to_txt, 'w', encoding='utf-8') as f:
-            f.write(html_text)
-            print('===============================', word, '\tdone!')
+        if not html_text.startswith('<!DOCTYPE html>'):
+            with open(to_txt, 'w', encoding='utf-8') as f:
+                f.write(html_text)
+                print('===============================', word, '\tdone!')
     else:
         with open(to_txt, encoding='utf-8') as f:
             txt = f.read()
         if not txt.startswith('<!DOCTYPE html>'):
+            print('removing:', to_txt)
+            os.remove(to_txt)
             print(word, '\tbegin!')
             url = base_url + word
             html_text = get_html_from_url(url)
-            with open(to_txt, 'w', encoding='utf-8') as f:
-                f.write(html_text)
-                print(word, '\tdone!')
+            if not html_text.startswith('<!DOCTYPE html>'):
+                with open(to_txt, 'w', encoding='utf-8') as f:
+                    f.write(html_text)
+                    print(word, '\tdone!')
 
 
 def one_thread_check_and_save(func, iterable, *args):
@@ -73,7 +77,7 @@ def one_thread_check_and_save(func, iterable, *args):
         time.sleep(t)
 
 
-def multi_thread(func, iterable, *args, max_workers=8):
+def multi_thread(func, iterable, *args, max_workers=1024):
     executor = ThreadPoolExecutor(max_workers=max_workers)
     all_task = [executor.submit(func, iter, *args,)
                 for iter in iterable]

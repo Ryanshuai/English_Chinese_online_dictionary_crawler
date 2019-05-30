@@ -34,16 +34,18 @@ input_txt_list.append(gre_synonym_txt)
 input_txt_list.append(gre_kmf_6_2_txt)
 input_txt_list.append(gre_frequency_txt)
 
-word = '#VALUE'
-word = word.strip()
+t = 'ceramics'
+t = t.strip()
 for file in input_txt_list:
     with open(file, 'r', encoding='utf-8') as f:
         word_list = f.read().splitlines()
-    if word in word_list:
-        print(word, '\tis in list: ',file)
+    for word in word_list:
+        if t in word:
+            print(word, '\tis in list: ',file)
 
 print('=====================================================================')
-root = '#'
+root = 'ceramics'
+word = word.strip()
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 for word in word_list:
