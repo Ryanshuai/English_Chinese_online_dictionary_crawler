@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+
+    <meta name="keywords" content="foot,foot是什么意思,foot的词根词源,foot的用法">
+    <meta name="description" content="优词词典为您提供foot是什么意思,foot的词根词源,foot的用法,记忆方法,怎么读,怎么记,同义词,例句,造句,翻译,含义等单词助记与查询服务。">
+
+    <title>foot是什么意思_foot的词根词源_foot的用法_记忆方法_怎么读_怎么记_同义词_例句_造句_含义_翻译_优词词典</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/youdict.css?20150928">
+        <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="youdict">
+
+<nav class="navbar navbar-inverse" id="yd-navbar">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand visible-xs-inline" href="/">YouDict 优词</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="yd-header-nav">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/" target="_blank">优词词典</a></li>
+            <li><a href="/etym" target="_blank">英语词源</a></li>
+            <li><a href="/ciyuan" target="_blank">词源字典</a></li>
+            <li><a href="/root" target="_blank">词根词缀</a></li>
+            <li><a href="https://movie.douban.com/tv/?from=gaia#!type=tv&tag=美剧&sort=recommend" target="_blank">美剧</a></li>
+            <li><a href="/novel" target="_blank">英文小说</a></li>
+            <li><a href="http://www.chinadaily.com.cn/" target="_blank">国内新闻</a></li>
+            <li><a href="http://www.cnn.com/" target="_blank">国际新闻</a></li>
+            <li><a href="/kankan" target="_blank">单词连连看</a></li>
+            <li><a href="/test" target="_blank">词汇量测试</a></li>
+            <li><a href="/study/course.html" target="_blank">看图背单词</a></li>
+            <li><a href="/chengyu" target="_blank">成语词典</a></li>
+            <li><a href="/cidian" target="_blank">汉语词典</a></li>
+            <li><a href="/redpack.png" target="_blank" style="font-size: 15px;color: #f00;">红包天天领</a></li>
+            <!--
+            <li><a href="/read" target="_blank">阅读</a></li>
+            <li><a href="/game" target="_blank">游戏</a></li>
+            <li><a href="/site" target="_blank">网址导航</a></li>
+            <li><a href="/news" target="_blank">新闻</a></li>
+            -->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0);" id="sttrans">繁体版</a></li>
+            <!--
+            <li><a href="/login" target="_blank">登录</a></li>
+            <li><a href="/register" target="_blank">注册</a></li>
+            -->
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs" id="logo">
+            <a href="/" title="YouDict 优词"><img src="/images/logo.png" class="img-responsive" alt="YouDict 优词"></a>
+        </div>
+        <div class="col-sm-9 col-md-7">
+            <form method="get" action="/search" id="yd-search">
+                <div class="input-group">
+                    <input type="text" class="form-control" onmouseover="this.select();" onfocus="this.select();" autocomplete="off" name="word" id="word" value="foot">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                  </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" id="yd-navbar-links">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-links">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand visible-xs-inline">快捷搜索</span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="yd-header-links">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        双语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="//dict.youdao.com/search?q=foot" target="_blank">有道词典</a></li>
+                        <li><a href="//www.iciba.com/foot" target="_blank">爱词霸</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dict.cn/foot" target="_blank">海词词典</a></li>
+                        <li><a href="//cn.bing.com/dict/search?q=foot" target="_blank">必应词典</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        英语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://en.oxforddictionaries.com/definition/foot" target="_blank">牛津词典</a></li>
+                        <li><a href="https://en.wiktionary.org/wiki/foot" target="_blank">维基词典</a></li>
+                        <li><a href="https://www.google.com/search?q=define+foot" target="_blank">谷歌词典</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dictionary.reference.com/browse/foot" target="_blank">Dictionary.com</a></li>
+                        <li><a href="//www.thefreedictionary.com/foot" target="_blank">The Free Dictionary</a></li>
+                        <li><a href="//www.yourdictionary.com/foot" target="_blank">YourDictionary</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//www.urbandictionary.com/define.php?term=foot" target="_blank">Urban Dictionary</a></li>
+                        <li><a href="//www.onelook.com/?w=foot" target="_blank">OneLook Dictionary</a></li>
+                    </ul>
+                </li>
+                <li><a href="/etym/s/foot" target="_blank">英语词源</a></li>
+                <li><a href="/ciyuan/s/foot" target="_blank">词源字典</a></li>
+                <li><a href="/root/search?wd=foot" target="_blank">词根字典</a></li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        图片搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=foot" target="_blank">百度图片</a></li>
+                        <li><a href="https://image.so.com/i?q=foot" target="_blank">好搜图片</a></li>
+                        <li><a href="https://pic.sogou.com/pics?query=foot" target="_blank">搜狗图片</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/images/search?q=foot" target="_blank">必应图片</a></li>
+                        <li><a href="https://www.google.com/search?tbm=isch&q=foot" target="_blank">谷歌图片</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        网页搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.baidu.com/s?ie=utf-8&wd=foot" target="_blank">百度</a></li>
+                        <li><a href="https://www.so.com/s?q=foot" target="_blank">好搜</a></li>
+                        <li><a href="https://www.sogou.com/web?query=foot" target="_blank">搜狗</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/search?q=foot" target="_blank">必应</a></li>
+                        <li><a href="https://www.google.com/search?q=foot" target="_blank">谷歌</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        极简词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://wordo.co/foot" target="_blank">Wordo</a></li>
+                        <li><a href="http://www.dictionaryinstant.com/dictionary/definition/foot" target="_blank">Dictionary Instant</a></li>
+                    </ul>
+                </li>
+                -->
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        在线翻译 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://fanyi.baidu.com/#en/zh/foot" target="_blank">百度翻译</a></li>
+                        <li><a href="https://translate.google.com/#en/zh-CN/foot" target="_blank">谷歌翻译</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a></li>
+                        <li><a href="https://www.bing.com/translator/" target="_blank">必应翻译</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        影视搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://so.iqiyi.com/so/q_foot" target="_blank">爱奇艺搜索</a></li>
+                        <li><a href="https://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=foot" target="_blank">腾讯视频</a></li>
+                        <li><a href="https://www.hulu.com/search?q=foot" target="_blank">葫芦视频</a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=foot&search_sort=video_view_count" target="_blank">视频搜索</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//search.mtime.com/search/?q=foot" target="_blank">Mtime时光网</a></li>
+                        <li><a href="//www.imdb.com/find?q=foot" target="_blank">互联网电影资料库</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li><a href="#" target="_blank">物品搜索</a></li>
+                -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8" id="yd-content">
+                    <div class="row">
+                                <div class="col-md-7" id="yd-word-info">
+                    <div class="row"><h3 id="yd-word">foot</h3></div>
+                                        <div class="row" id="yd-word-pron">英 [fʊt]
+美 [fʊt]</div>
+                                        <div class="row" id="yd-word-meaning"><ul>
+<li>n. 脚；英尺；步调；末尾</li>
+<li>vi. 步行；跳舞；总计</li>
+<li>vt. 支付；给……换底</li>
+<li>n. (Foot)人名；(英)富特</li>
+</ul></div>
+                                            <div class="row" style="margin-bottom:6px;">
+                            <span class="label label-primary">CET4</span> <span class="label label-success">TEM4</span> <span class="label label-info">考 研</span> <span class="label label-warning">CET6</span>                         </div>
+                                        <div class="row" id="yd-word-tags">
+                                                            <div>使用频率:
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                        </div>
+                                                            <div>星级词汇:
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                            </div>
+                                        </div>
+                </div>
+                                <div class="col-md-5" id="yd-word-img">
+                    <div class="thumbnail">
+                        <img style="width: 300px; height: 200px;" src="/images/words/foot1.jpg" alt="foot" class="center-block" id="word-image">
+                        <div id="yd-img-nav">
+                            <div class="yd-img-left">&laquo;</div>
+                            <span><span id="yd-img-current">1</span> / 10</span>
+                            <div class="yd-img-right">&raquo;</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+                                                <div class="page-header"><h3>中文词源</h3></div>
+            <div class="row" id="yd-ciyuan" style="font-family:SimSun,serif;"><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/foot">foot</a> 脚</span><p>来自PIE*ped, 脚，词源同biped, pedestal.用做测量单位英尺，因约略等于成人脚长而得名。</p></div>
+                                                <div class="page-header"><h3>英语词源</h3></div>
+            <div class="row"><div class="thumbnail" id="yd-etym"><dl><dt><a target="_blank" href="/etym/s/foot">foot</a></dt><dd><b>foot: </b><span>[OE] <i>Foot </i>traces its ancestry back to Indo- European *<i>pōd</i>-, *<i>ped</i>-, which provided the word for ‘foot’ in most modern Indo-European languages (the exceptions are the Slavic languages, whose ‘foot’ – words, such as Russian <i>noga </i>and Czech <i>noha</i>, come from a source that meant ‘claw’, and the Celtic languages – such as Welsh <i>troed </i>and Irish <i>troigh</i>).<br><br>Descendants include Greek <i>poús </i>‘foot’ (whence English <i>antipodes</i>, <i>pew</i>, <i>podium </i>[18], and <i>tripod</i>, literally ‘three-footed’, a formation mirrored exactly by Latin <i>trivet </i>[15] and Hindi <i>teapoy </i>[19]), Persian <i>pāē </i>or <i>pay </i>(whence English <i>pyjama</i>), Sanskrit <i>pádas </i>‘foot’ (source of <i>pie </i>‘unit of Indian currency’), and Lithuanian <i>pedà </i>‘footstep’, but the most fruitful of all from the point of view of the English lexicon has been Latin <i>pēs</i>, source of <i>impede</i>, <i>pawn </i>‘chess piece’, <i>pedal</i>, <i>pedestal</i>, <i>pedestrian</i>, <i>pedicure</i>, <i>pedigree</i>, <i>pedometer</i>, <i>peon</i>, <i>pioneer</i>, <i>quadruped</i>, <i>vamp</i>, and <i>velocipede </i>(it also, of course, gave French <i>pied</i>, Italian <i>piede</i>, and Spanish <i>pie</i>).<br><br>Its Germanic descendant was *<i>fōr</i>-, which produced German <i>fuss</i>, Dutch <i>voet</i>, Swedish <i>fot</i>, Danish <i>fod</i>, and English <i>foot</i>. Other related forms in English include <i>pilot </i>and <i>trapeze</i>.</span><br><span class="cognate">=&gt; <a href="/etym/s/antipodes" target="_blank">antipodes</a>, <a href="/etym/s/impede" target="_blank">impede</a>, <a href="/etym/s/pawn" target="_blank">pawn</a>, <a href="/etym/s/pedal" target="_blank">pedal</a>, <a href="/etym/s/pedestal" target="_blank">pedestal</a>, <a href="/etym/s/pedestrian" target="_blank">pedestrian</a>, <a href="/etym/s/pedigree" target="_blank">pedigree</a>, <a href="/etym/s/pilot" target="_blank">pilot</a>, <a href="/etym/s/pioneer" target="_blank">pioneer</a>, <a href="/etym/s/podium" target="_blank">podium</a>, <a href="/etym/s/pyjamas" target="_blank">pyjamas</a>, <a href="/etym/s/quadruped" target="_blank">quadruped</a>, <a href="/etym/s/trapeze" target="_blank">trapeze</a>, <a href="/etym/s/tripod" target="_blank">tripod</a>, <a href="/etym/s/vamp" target="_blank">vamp</a></span></dd><dt><a target="_blank" href="/etym/s/foot">foot (n.)</a></dt><dd>"terminal part of the leg of a vertebrate animal," Old English <span class="foreign">fot</span> "foot," from Proto-Germanic <span class="foreign">*fot</span> (cognates: Old Frisian <span class="foreign">fot</span>, Old Saxon <span class="foreign">fot</span>, Old Norse <span class="foreign">fotr</span>, Danish <span class="foreign">fod</span>, Swedish <span class="foreign">fot</span>, Dutch <span class="foreign">voet</span>, Old High German <span class="foreign">fuoz</span>, German <span class="foreign">Fuß</span>, Gothic <span class="foreign">fotus</span> "foot"), from PIE root <span class="foreign">*ped-</span> (1) "a foot" (cognates: Avestan <span class="foreign">pad-</span>; Sanskrit <span class="foreign">pad-</span>, accusative <span class="foreign">padam</span> "foot;" Greek <span class="foreign">pos</span>, Attic <span class="foreign">pous</span>, genitive <span class="foreign">podos</span>; Latin <span class="foreign">pes</span>, genitive <span class="foreign">pedis</span> "foot;" Lithuanian <span class="foreign">padas</span> "sole," <span class="foreign">peda</span> "footstep"). Plural form <span class="foreign">feet</span> is an instance of <a href="http://www.etymonline.com/imutate.php">i-mutation</a>.&#13; <br /><br />&#13; The linear measure was in Old English (the exact length has varied over time), this being considered the length of a man's foot; a unit of measure used widely and anciently. In this sense the plural is often <span class="foreign">foot</span>. The current inch and foot are implied from measurements in 12c. English churches (Flinders Petrie, "Inductive Metrology"), but the most usual length of a "foot" in medieval England was the foot of 13.2 inches common throughout the ancient Mediterranean. The Anglo-Saxon foot apparently was between the two. All three correspond to units used by the Romans, and possibly all three lengths were picked up by the Anglo-Saxons from the Romano-Britons. "That the Saxon units should descend to mediæval times is most probable, as the Normans were a ruling, and not a working, class." [Flinders Petrie, 1877]. The medieval <span class="foreign">Paul's Foot</span> (late 14c.) was a measuring standard cut into the base of a column at the old St. Paul's cathedral in London. The metrical <span class="foreign">foot</span> (late Old English, translating Latin <span class="foreign">pes</span>, Greek <span class="foreign">pous</span> in the same sense) is commonly taken to represent one rise and one fall of a foot: keeping time according to some, dancing according to others.&#13; <br /><br />&#13; In Middle English also "a person" (c. 1200), hence <span class="foreign">non-foot</span> "nobody." Meaning "bottom or lowest part of anything eminent or upright" is from c. 1200. Of a bed, grave, etc., from c. 1300. <span class="foreign">On foot</span> "by walking" is from c. 1300. To <span class="foreign">get off on the wrong foot</span> is from 1905 (the <span class="foreign">right foot</span> is by 1907); to <span class="foreign">put one's best foot foremost</span> first recorded 1849 (Shakespeare has <span class="foreign">the better foot before</span>, 1596); Middle English had <span class="foreign">evil-foot</span> (adv.) "through mischance, unluckily." To put one's <span class="foreign">foot in (one's) mouth</span> "say something stupid" is attested by 1942; the expression <span class="foreign">put (one's) foot in</span> something "make a mess of it" is from 1823. To have <span class="foreign">one foot in the grave</span> "be near death" is from 1844. Colloquial exclamation <span class="foreign">my foot!</span> expressing "contemptuous contradiction" [OED] is attested by 1923, probably euphemistic for <span class="foreign">my ass</span> in the same sense, which dates to 1796 (also see <a href="/etym/s/eyewash" target="_blank">eyewash</a>).</dd><dt><a target="_blank" href="/etym/s/foot">foot (v.)</a></dt><dd>c. 1400, "to dance," also "to move or travel on foot," from <a href="/etym/s/foot" target="_blank">foot</a> (n.). From mid-15c. as "make a footing or foundation." To <span class="foreign">foot</span> a bill "pay the entirety of" is attested from 1848, from the process of tallying the expenses and writing the figure at the bottom ("foot") of the sheet; <span class="foreign">foot</span> (v.) as "add up and set the sum at the foot of" is from late 15c. (compare <a href="/etym/s/footnote" target="_blank">footnote</a> (n.)). The Old English verb <span class="foreign">gefotian</span> meant "to hasten up." Related: <span class="foreign">Footed</span>; <a href="/etym/s/footing" target="_blank">footing</a>.</dd></dl></div></div>
+                                    <div class="page-header"><h3><a href="/liju/w/foot">权威例句</a></h3></div>
+            <div class="row" id="yd-liju">
+                 <dl><dt>1. I tried to reach the <b>foot</b> brakes but I couldn't. </dt> <dd>我试图去够脚刹，但是没能踩到。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>2. He lost a <b>foot</b> when he was struck by a train. </dt> <dd>他给火车撞伤，失去了一只脚。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>3. My hobbies are letter writing, <b>foot</b>-ball, music, photography, and tennis. </dt> <dd>我的业余爱好是写信、踢足球、听音乐、玩摄影和打网球。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>4. Stand straight and stretch the left hand to the right <b>foot</b>. </dt> <dd>站直身体,伸左手够右脚.</dd> <p>来自柯林斯例句</p> </dl><dl><dt>5. She had decked him out from head to <b>foot</b> in expensive clothes. </dt> <dd>她用昂贵的服装把他从头到脚打扮一新。</dd> <p>来自柯林斯例句</p> </dl>                 <dl><p>[ <a href="/liju/w/foot">foot 造句</a> ]</p></dl>
+            </div>
+                            </div>
+        <div class="col-sm-4 hidden-xs">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">考试词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/CET4" target="_blank">CET4</a>
+                        <a href="/tags/CET4" target="_blank">四级词汇</a>
+                        <a href="/tags/CET6" target="_blank">CET6</a>
+                        <a href="/tags/CET6" target="_blank">六级词汇</a>
+                        <a href="/tags/TEM4" target="_blank">TEM4</a>
+                        <a href="/tags/TEM4" target="_blank">英专四级</a>
+                        <a href="/tags/TEM8" target="_blank">TEM8</a>
+                        <a href="/tags/TEM8" target="_blank">英专八级</a>
+                        <a href="/tags/kaoyan" target="_blank">考研词汇</a>
+                        <a href="/tags/GRE" target="_blank">GRE 词汇</a>
+                        <a href="/tags/TOEFL" target="_blank">托福词汇</a>
+                        <a href="/tags/IELTS" target="_blank">雅思词汇</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">相关应用</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/kankan" target="_blank">单词连连看</a>
+                        <a href="/verbs" target="_blank">不规则动词表</a>
+                        <a href="/ciku" target="_blank">英语单词大全</a>
+                        <a href="/test" target="_blank">词汇量测试</a>
+                        <a href="/root/root.php" target="_blank">英语词根表</a>
+                        <a href="/chengyu" target="_blank">成语词典</a>
+                        <a href="/cidian" target="_blank">汉语词典</a>
+                        <!-- <a href="http://zh.youdict.com/" target="_blank">萌典</a>
+                        <a href="http://weibo.com/youdict" target="_blank">关注微博</a> -->
+                        <!--
+                        <a href="#" target="_blank">听力测试</a>
+                        <a href="#" target="_blank">看图记单词</a>
+                        -->
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">分类词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/水果" target="_blank">水果</a>
+                        <a href="/tags/蔬菜" target="_blank">蔬菜</a>
+                        <a href="/tags/花" target="_blank">花</a>
+                        <a href="/tags/哺乳动物" target="_blank">哺乳动物</a>
+                        <a href="/tags/家畜家禽" target="_blank">家畜家禽</a>
+                        <a href="/tags/爬行两栖" target="_blank">爬行两栖</a>
+                        <a href="/tags/禽鸟" target="_blank">禽鸟</a>
+                        <a href="/tags/鱼类" target="_blank">鱼类</a>
+                        <a href="/tags/壳类动物" target="_blank">壳类动物</a>
+                        <a href="/tags/昆虫" target="_blank">昆虫</a>
+                        <a href="/tags/树" target="_blank">树</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">随机单词</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags"><a target="_blank" href="/w/demotic">demotic</a><a target="_blank" href="/w/demount">demount</a><a target="_blank" href="/w/demultiplexer">demultiplexer</a><a target="_blank" href="/w/demur">demur</a><a target="_blank" href="/w/demure">demure</a><a target="_blank" href="/w/demystify">demystify</a><a target="_blank" href="/w/den">den</a><a target="_blank" href="/w/denary">denary</a><a target="_blank" href="/w/denationalization">denationalization</a><a target="_blank" href="/w/denial">denial</a><a target="_blank" href="/etym/s/mothball">mothball</a><a target="_blank" href="/etym/s/mother">mother</a><a target="_blank" href="/etym/s/mother">mother</a><a target="_blank" href="/etym/s/mother">mother</a><a target="_blank" href="/etym/s/Mother_Goose">Mother Goose</a><a target="_blank" href="/etym/s/Mother_Hubbard">Mother Hubbard</a><a target="_blank" href="/etym/s/mother_of_pearl">mother of pearl</a><a target="_blank" href="/etym/s/mother-in-law">mother-in-law</a><a target="_blank" href="/etym/s/motherfucker">motherfucker</a><a target="_blank" href="/etym/s/motherhood">motherhood</a><a target="_blank" href="/ciyuan/s/dove">dove</a><a target="_blank" href="/ciyuan/s/dovecote">dovecote</a><a target="_blank" href="/ciyuan/s/dovetail">dovetail</a><a target="_blank" href="/ciyuan/s/dowager">dowager</a><a target="_blank" href="/ciyuan/s/dowdy">dowdy</a><a target="_blank" href="/ciyuan/s/dowel">dowel</a><a target="_blank" href="/ciyuan/s/down">down</a><a target="_blank" href="/ciyuan/s/down">down</a><a target="_blank" href="/ciyuan/s/down_and_out">down and out</a><a target="_blank" href="/ciyuan/s/downer">downer</a></div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">微信公众号</h2>
+                </div>
+                <div class="panel-body" style="padding:0;">
+                    <img src="/images/qrcode.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div id="copyright">
+        <p>Copyright &copy; 2015 YouDict.com All Rights Reserved. 当前版本: 15.06.11<br>
+            <a href="/ciyuan" target="_blank" title="英语词源字典">词源字典</a>
+            <a href="/root" target="_blank" title="英语词根字典">词根字典</a>
+            <a href="/archive.php" target="_blank" title="词语索引">词语索引</a>
+            <a href="/ciku" target="_blank" title="英语单词大全">英语单词大全</a>
+            <a href="/root/root.php" target="_blank" title="英语词根表">英语词根表</a>
+            <a href="/novel" target="_blank" title="英文小说网">英文小说</a><br>
+            <a href="/map/index.html" target="_blank">网站地图</a>
+            <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XzImNT48NCwwMR8uLnE8MDI">联系我们</a><br>
+            <a href="http://www.miibeian.gov.cn" target="_blank">蜀ICP备12020342号-3</a>
+        </p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    function audio_play (word, type) {
+        var audio_url = 'https://dict.youdao.com/dictvoice?audio=' + word + '&type=' + type;
+        var audio = new Audio(audio_url);
+        audio.play();
+    }
+
+    document.getElementById('yd-search').onsubmit = function() {
+        var word = this.word.value.replace(/\u3000/g, ' ').replace(/(^\s+|\s+$)/g, '');
+        if (word == '') {
+            return false;
+        } else if (word.search(/^[\w \-]+$/) == 0) {
+            top.location.href = '/w/' + encodeURIComponent(word.replace(/ /g, '_'));
+            return false;
+        } else {
+            this.word.value = word.replace(/[\uff01-\uffe1]/g, function(match) {
+                var char_code = match.charCodeAt(0) - 0xfee0;
+                return String.fromCharCode(char_code);
+            });
+        }
+    }
+
+    var transjs = "/js/sttrans.js";
+
+    window.yd_sttrans = function() {
+        var cstt = '';
+        if (window.localStorage) {
+            cstt = window.localStorage.getItem('stt');
+        }
+        var handler = document.getElementById('sttrans');
+
+        var _trans = function(is_trans) {
+            var t = is_trans;
+            if(typeof(trans) == 'undefined') {
+                var jselm = document.createElement('script');
+                jselm = document.body.appendChild(jselm);
+                if(typeof(jselm) != 'undefined') {
+                    jselm.onreadystatechange = function() {
+                        if(this.readyState == 'loaded' || this.readyState == 'complete') {
+                            try {trans(t)} catch(e){}
+                        }
+                    };
+                    jselm.onload = function() {trans(t);};
+                }
+                jselm.src = transjs;
+            } else { trans(t); }
+        };
+
+        if(cstt) {
+            _trans(); if(handler) handler.innerHTML = '简体版';
+        } else {
+            var user_lang = window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
+            if ((user_lang == 'zh-TW') && (cstt !== '')) {
+                _trans(); if(handler) handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        }
+        if(!handler) return;
+
+        var _evth = function () {
+            if(cstt) {
+                _trans(true);handler.innerHTML = '繁體版';
+                cstt = '';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            } else {
+                _trans();handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        };
+        handler.onclick = _evth;
+    };
+    yd_sttrans();
+</script>
+<script src="/lib/jquery/jquery-2.1.4.min.js"></script>
+<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/prompt.js"></script>
+<script type="text/javascript">
+    $('#yd-word-pron').on('click', '.glyphicon-volume-up', function(e){
+        var target = e.target;
+        var word = $('#yd-word').text();
+        if (target.parentNode.className == 'en-UK') {
+            audio_play(word, 1);
+        } else {
+            audio_play(word, 2);
+        }
+    });
+
+    
+    function getMeaning() {
+        var word = $('#word').val().replace(/\u3000/g, ' ').trim();
+        $.getJSON(('https://fanyi.youdao.com/openapi.do?type=data&doctype=jsonp&version=1.1&keyfrom=neteaseopen&key=1532272597&callback=?&q=' + encodeURIComponent(word)), function(data) {
+            if (data.basic) {
+                $('#yd-word-meaning').html('<ul><li>' + data.basic.explains.join('</li><li>') + '</li></ul>');
+                $('#yd-word-meaning li').html(function(index, text) {
+                    return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                });
+            } else {
+                var word_lang = 'en';
+                if (word.search(/[\u4e00-\u9fa5]/) >= 0) {
+                    word_lang = 'zh';
+                }
+                var str_query = encodeURIComponent(word) + '&lang=' + word_lang;
+                $.getJSON(('/ciyuan/ajax-meanings.php?word=' + str_query), function(data) {
+                    if (data.is_success) {
+                        var is_not_have_info = true;
+                        if (data.smart_dict) {
+                            $('#yd-word-meaning').html('<ul style="margin-bottom:15px;"><li>' + data.smart_dict.join('</li><li>') + '</li></ul>');
+                            $('#yd-word-meaning li').html(function(index, text) {
+                                return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                            });
+                            is_not_have_info = false;
+                        }
+
+                        if (data.sug_words) {
+                            var str_html = '<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">搜索建议：</strong>';
+                            data.sug_words.forEach(function(word) {
+                                str_html += '<a href="/w/' + word.replace(/ /g, '_') + '">' + word + '</a>, ';
+                            });
+                            str_html = str_html.slice(0, -2) + '</div></div>';
+                            $('#yd-word-meaning').after(str_html);
+                            is_not_have_info = false;
+                        }
+
+                        if (data.bing_trans) {
+                            var yd_trans = data.bing_trans;
+                            if (word_lang == 'en') {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) >= 0) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            } else {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) == -1) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            }
+                        }
+
+                        if (is_not_have_info) {
+                            $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                        }
+                    } else {
+                        $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                    }
+                });
+            }
+        });
+    }
+
+    $('#yd-etym dt:even, #yd-etym dd:even').addClass('highlight');
+
+    $('#yd-word-info .label').click(function() {
+        var arr_levels = ['CET4', 'CET6', 'TEM4', 'TEM8', '考 研', 'TOEFL', 'IELTS', 'GRE'];
+        var index_level = arr_levels.indexOf(this.textContent.replace('+', '')) + 1;
+        if (index_level) {
+            window.open('/ciku/id_' + index_level + '_0_0_0_0.html');
+        }
+    });
+
+    var img_num = 10, img_current = 1;
+    var img_src = '';
+    var img_prefix = '/images/words/foot';
+    $('#yd-img-nav .yd-img-left').click(function() {
+        img_current--;
+        if (img_current < 1) {
+            img_current = img_num;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    $('#yd-img-nav .yd-img-right').click(function() {
+        img_current++;
+        if (img_current > img_num) {
+            img_current = 1;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    var word_pron = $('#yd-word-pron');
+    var word_pron_text = word_pron.text();
+    var str_affix = '<span class="glyphicon glyphicon-volume-up"></span></span><span class="en-US">';
+    word_pron.html('<span class="en-UK">' + word_pron_text.replace('\n', str_affix) + '<span class="glyphicon glyphicon-volume-up"></span></span>');
+    $('#yd-word-meaning li').html(function(index, text) {
+        return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+    });
+</script>
+<div style="display: none;">
+<script src="https://s4.cnzz.com/stat.php?id=1254976343&web_id=1254976343" language="JavaScript"></script>
+</div>
+</body>
+</html>

@@ -1,14 +1,16 @@
+
 from word_list.all_word_list import *
 
-t = 'ceramics'
+
+t = 'march'
 t = t.strip()
-for key, v_set in word_set_dict:
+for key, v_set in word_set_dict.items():
     for word in v_set:
         if t in word:
             print(word, '\tis in list: ',key)
 
 print('=====================================================================')
-root = 'ceramics'
+root = 'archaeo'
 word = word.strip()
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
@@ -17,7 +19,7 @@ for word in word_list:
         print(word, '\thas root:\t', root)
 
 print('=====================================================================')
-suffix = 'illo'
+suffix = 'ssss'
 with open(all_txt, 'r', encoding='utf-8') as f:
     word_list = f.read().splitlines()
 for word in word_list:

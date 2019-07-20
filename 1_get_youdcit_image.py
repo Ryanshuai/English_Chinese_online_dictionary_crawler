@@ -37,12 +37,21 @@ if __name__ == '__main__':
     # save_word_image_to_dir('dictator')
 
     pool = ThreadPoolExecutor(128)
-    for word in words:
-        for i in range(1, 11):
-            name = word+str(i)
-            if not os.path.exists(save_to_dir+name+'.jpg'):
-                print(word)
-                print(name)
-                save_word_image_to_dir(name, save_to_dir)
-                # a = pool.submit(save_word_image_to_dir, name, save_to_dir)
+    # for word in words:
+    #     for i in range(1, 11):
+    #         name = word+str(i)
+    #         if not os.path.exists(save_to_dir+name+'.jpg'):
+    #             print(word)
+    #             print(name)
+    #             # save_word_image_to_dir(name, save_to_dir)
+    #             a = pool.submit(save_word_image_to_dir, name, save_to_dir)
 
+    word = 'canoe'
+    word = word.strip()
+    for i in range(1, 11):
+        name = word + str(i)
+        if not os.path.exists(save_to_dir + name + '.jpg'):
+            print(word)
+            print(name)
+            # save_word_image_to_dir(name, save_to_dir)
+            a = pool.submit(save_word_image_to_dir, name, save_to_dir)

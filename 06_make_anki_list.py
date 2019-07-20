@@ -63,6 +63,7 @@ if __name__ == '__main__':
     input_word_set = toefl_frequency_6_set - toefl_frequency_7_set
 
     # make_anki_delete_list()
+    input_word_set = {'canoe'}
     make_anki_word_image_list(input_word_set)
 
 

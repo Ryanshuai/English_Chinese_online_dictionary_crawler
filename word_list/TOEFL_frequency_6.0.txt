@@ -933,6 +933,7 @@ display\56
 immediate\56
 crater\56
 strike\56
+striking\56
 feed\56
 aggression\56
 master\56
@@ -2682,7 +2683,7 @@ warn\13
 motive\13
 letter\12
 contrary\12
-canoes\12
+canoe\12
 adequate\12
 starling\12
 correspond\12
@@ -3430,7 +3431,7 @@ interstellar\8
 scratch\8
 recycle\8
 uncover\8
-gibraltar\8
+Gibraltar\8
 refill\8
 fame\8
 caravan\8

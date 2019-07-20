@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+
+    <meta name="keywords" content="spell,spell是什么意思,spell的词根词源,spell的用法">
+    <meta name="description" content="优词词典为您提供spell是什么意思,spell的词根词源,spell的用法,记忆方法,怎么读,怎么记,同义词,例句,造句,翻译,含义等单词助记与查询服务。">
+
+    <title>spell是什么意思_spell的词根词源_spell的用法_记忆方法_怎么读_怎么记_同义词_例句_造句_含义_翻译_优词词典</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/youdict.css?20150928">
+        <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="youdict">
+
+<nav class="navbar navbar-inverse" id="yd-navbar">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand visible-xs-inline" href="/">YouDict 优词</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="yd-header-nav">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/" target="_blank">优词词典</a></li>
+            <li><a href="/etym" target="_blank">英语词源</a></li>
+            <li><a href="/ciyuan" target="_blank">词源字典</a></li>
+            <li><a href="/root" target="_blank">词根词缀</a></li>
+            <li><a href="https://movie.douban.com/tv/?from=gaia#!type=tv&tag=美剧&sort=recommend" target="_blank">美剧</a></li>
+            <li><a href="/novel" target="_blank">英文小说</a></li>
+            <li><a href="http://www.chinadaily.com.cn/" target="_blank">国内新闻</a></li>
+            <li><a href="http://www.cnn.com/" target="_blank">国际新闻</a></li>
+            <li><a href="/kankan" target="_blank">单词连连看</a></li>
+            <li><a href="/test" target="_blank">词汇量测试</a></li>
+            <li><a href="/study/course.html" target="_blank">看图背单词</a></li>
+            <li><a href="/chengyu" target="_blank">成语词典</a></li>
+            <li><a href="/cidian" target="_blank">汉语词典</a></li>
+            <li><a href="/redpack.png" target="_blank" style="font-size: 15px;color: #f00;">红包天天领</a></li>
+            <!--
+            <li><a href="/read" target="_blank">阅读</a></li>
+            <li><a href="/game" target="_blank">游戏</a></li>
+            <li><a href="/site" target="_blank">网址导航</a></li>
+            <li><a href="/news" target="_blank">新闻</a></li>
+            -->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0);" id="sttrans">繁体版</a></li>
+            <!--
+            <li><a href="/login" target="_blank">登录</a></li>
+            <li><a href="/register" target="_blank">注册</a></li>
+            -->
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs" id="logo">
+            <a href="/" title="YouDict 优词"><img src="/images/logo.png" class="img-responsive" alt="YouDict 优词"></a>
+        </div>
+        <div class="col-sm-9 col-md-7">
+            <form method="get" action="/search" id="yd-search">
+                <div class="input-group">
+                    <input type="text" class="form-control" onmouseover="this.select();" onfocus="this.select();" autocomplete="off" name="word" id="word" value="spell">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                  </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" id="yd-navbar-links">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-links">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand visible-xs-inline">快捷搜索</span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="yd-header-links">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        双语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="//dict.youdao.com/search?q=spell" target="_blank">有道词典</a></li>
+                        <li><a href="//www.iciba.com/spell" target="_blank">爱词霸</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dict.cn/spell" target="_blank">海词词典</a></li>
+                        <li><a href="//cn.bing.com/dict/search?q=spell" target="_blank">必应词典</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        英语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://en.oxforddictionaries.com/definition/spell" target="_blank">牛津词典</a></li>
+                        <li><a href="https://en.wiktionary.org/wiki/spell" target="_blank">维基词典</a></li>
+                        <li><a href="https://www.google.com/search?q=define+spell" target="_blank">谷歌词典</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dictionary.reference.com/browse/spell" target="_blank">Dictionary.com</a></li>
+                        <li><a href="//www.thefreedictionary.com/spell" target="_blank">The Free Dictionary</a></li>
+                        <li><a href="//www.yourdictionary.com/spell" target="_blank">YourDictionary</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//www.urbandictionary.com/define.php?term=spell" target="_blank">Urban Dictionary</a></li>
+                        <li><a href="//www.onelook.com/?w=spell" target="_blank">OneLook Dictionary</a></li>
+                    </ul>
+                </li>
+                <li><a href="/etym/s/spell" target="_blank">英语词源</a></li>
+                <li><a href="/ciyuan/s/spell" target="_blank">词源字典</a></li>
+                <li><a href="/root/search?wd=spell" target="_blank">词根字典</a></li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        图片搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=spell" target="_blank">百度图片</a></li>
+                        <li><a href="https://image.so.com/i?q=spell" target="_blank">好搜图片</a></li>
+                        <li><a href="https://pic.sogou.com/pics?query=spell" target="_blank">搜狗图片</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/images/search?q=spell" target="_blank">必应图片</a></li>
+                        <li><a href="https://www.google.com/search?tbm=isch&q=spell" target="_blank">谷歌图片</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        网页搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.baidu.com/s?ie=utf-8&wd=spell" target="_blank">百度</a></li>
+                        <li><a href="https://www.so.com/s?q=spell" target="_blank">好搜</a></li>
+                        <li><a href="https://www.sogou.com/web?query=spell" target="_blank">搜狗</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/search?q=spell" target="_blank">必应</a></li>
+                        <li><a href="https://www.google.com/search?q=spell" target="_blank">谷歌</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        极简词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://wordo.co/spell" target="_blank">Wordo</a></li>
+                        <li><a href="http://www.dictionaryinstant.com/dictionary/definition/spell" target="_blank">Dictionary Instant</a></li>
+                    </ul>
+                </li>
+                -->
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        在线翻译 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://fanyi.baidu.com/#en/zh/spell" target="_blank">百度翻译</a></li>
+                        <li><a href="https://translate.google.com/#en/zh-CN/spell" target="_blank">谷歌翻译</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a></li>
+                        <li><a href="https://www.bing.com/translator/" target="_blank">必应翻译</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        影视搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://so.iqiyi.com/so/q_spell" target="_blank">爱奇艺搜索</a></li>
+                        <li><a href="https://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=spell" target="_blank">腾讯视频</a></li>
+                        <li><a href="https://www.hulu.com/search?q=spell" target="_blank">葫芦视频</a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=spell&search_sort=video_view_count" target="_blank">视频搜索</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//search.mtime.com/search/?q=spell" target="_blank">Mtime时光网</a></li>
+                        <li><a href="//www.imdb.com/find?q=spell" target="_blank">互联网电影资料库</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li><a href="#" target="_blank">物品搜索</a></li>
+                -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8" id="yd-content">
+                    <div class="row">
+                                <div class="col-md-7" id="yd-word-info">
+                    <div class="row"><h3 id="yd-word">spell</h3></div>
+                                        <div class="row" id="yd-word-pron">英 [spel]
+美 [spɛl]</div>
+                                        <div class="row" id="yd-word-meaning"><ul>
+<li>vt. 拼，拼写；意味着；招致；拼成；迷住；轮值</li>
+<li>n. 符咒；一段时间；魅力</li>
+<li>vi. 拼字；轮替</li>
+<li>n. (Spell)人名；(英)斯佩尔</li>
+</ul></div>
+                                            <div class="row" style="margin-bottom:6px;">
+                            <span class="label label-primary">CET4</span> <span class="label label-success">TEM4</span> <span class="label label-info">GRE</span> <span class="label label-warning">考 研</span> <span class="label label-primary">CET6</span>                         </div>
+                                        <div class="row" id="yd-word-tags">
+                                                            <div>使用频率:
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                        </div>
+                                                            <div>星级词汇:
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                            </div>
+                                        </div>
+                </div>
+                                <div class="col-md-5" id="yd-word-img">
+                    <div class="thumbnail">
+                        <img style="width: 300px; height: 200px;" src="/images/words/spell1.jpg" alt="spell" class="center-block" id="word-image">
+                        <div id="yd-img-nav">
+                            <div class="yd-img-left">&laquo;</div>
+                            <span><span id="yd-img-current">1</span> / 10</span>
+                            <div class="yd-img-right">&raquo;</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+                                                <div class="page-header"><h3>中文词源</h3></div>
+            <div class="row" id="yd-ciyuan" style="font-family:SimSun,serif;"><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/spell">spell</a> 拼写，拼读，符咒，咒语，魔力</span><p>来自古英语 spell,故事，叙述，寓言，来自 Proto-Germanic*spellam,说，告知，来自 PIE*spel, 说，念，吟诵，背诵。引申词义符咒，咒语，魔力等。词义拼写来自古法语同源词 espelir, 拼写，拼读，发音。</p></div>
+                                                <div class="page-header"><h3>英语词源</h3></div>
+            <div class="row"><div class="thumbnail" id="yd-etym"><dl><dt><a target="_blank" href="/etym/s/spell">spell</a></dt><dd><b>spell: </b><span>English has three distinct words <i>spell</i>, although two of them come from the same ultimate source. <i>Spell </i>‘name the letters of a word’ [13] was adapted from Old French <i>espeler </i>‘read out’. This was descended from an earlier *<i>espeldre</i>, which was borrowed from prehistoric Germanic *<i>spellōn</i>. And it was a noun relative of this, *<i>spellam</i>, which gave English <i>spell </i>‘magic formula’ [OE]. <i>Spell </i>‘period of time’ [16] may go back ultimately to Old English <i>spelian </i>‘substitute’; its original meaning was ‘replace someone else at a job’, and the main modern sense ‘period of time’ did not emerge, via ‘period of work’, until the 18th century.</span><br></dd><dt><a target="_blank" href="/etym/s/spell">spell (v.1)</a></dt><dd>early 14c., "read letter by letter, write or say the letters of;" c. 1400, "form words by means of letters," apparently a French word that merged with or displaced a native Old English one; both are from the same Germanic root, but the French word had evolved a different sense. The native word is Old English <span class="foreign">spellian</span> "to tell, speak, discourse, talk," from Proto-Germanic <span class="foreign">*spellam</span> (cognates: Old High German <span class="foreign">spellon</span> "to tell," Old Norse <span class="foreign">spjalla</span>, Gothic <span class="foreign">spillon</span> "to talk, tell"), from PIE <span class="foreign">*spel-</span> (2) "to say aloud, recite."&#13; <br /><br />&#13; But the current senses seem to come from Anglo-French <span class="foreign">espeller</span>, Old French <span class="foreign">espelir</span> "mean, signify, explain, interpret," also "spell out letters, pronounce, recite," from Frankish <span class="foreign">*spellon</span> "to tell" or some other Germanic source, ultimately identical with the native word.&#13; <br /><br />&#13; Related: <span class="foreign">Spelled</span>; <a href="/etym/s/spelling" target="_blank">spelling</a>. In early Middle English still "to speak, preach, talk, tell," hence such expressions as <span class="foreign">hear spell</span> "hear (something) told or talked about," <span class="foreign">spell the wind</span> "talk in vain" (both 15c.). Meaning "form words with proper letters" is from 1580s. <span class="foreign">Spell out</span> "explain step-by-step" is first recorded 1940, American English. Shakespeare has <span class="foreign">spell (someone) backwards</span> "reverse the character of, explain in a contrary sense, portray with determined negativity."</dd><dt><a target="_blank" href="/etym/s/spell">spell (n.1)</a></dt><dd>Old English <span class="foreign">spell</span> "story, saying, tale, history, narrative, fable; discourse, command," from Proto-Germanic <span class="foreign">*spellam</span> (see <a href="/etym/s/spell" target="_blank">spell</a> (v.1)). Compare Old Saxon <span class="foreign">spel</span>, Old Norse <span class="foreign">spjall</span>, Old High German <span class="foreign">spel</span>, Gothic <span class="foreign">spill</span> "report, discourse, tale, fable, myth;" German <span class="foreign">Beispiel</span> "example." From c. 1200 as "an utterance, something said, a statement, remark;" meaning "set of words with supposed magical or occult powers, incantation, charm" first recorded 1570s; hence any means or cause of enchantment.&#13; <blockquote>&#13; The term 'spell' is generally used for magical procedures which cause harm, or force people to do something against their will -- unlike charms for healing, protection, etc. ["Oxford Dictionary of English Folklore"]&#13; </blockquote>&#13; Also in Old English, "doctrine; a sermon; religious instruction or teaching; the gospel; a book of the Bible;" compare <a href="/etym/s/gospel" target="_blank">gospel</a>.</dd><dt><a target="_blank" href="/etym/s/spell">spell (v.2)</a></dt><dd>"work in place of (another)," 1590s, earlier <span class="foreign">spele</span>, from Old English <span class="foreign">spelian</span> "to take the place of, be substitute for, represent," related to <span class="foreign">gespelia</span> "substitute," of uncertain origin. Perhaps related to <span class="foreign">spilian</span> "to play" (see <a href="/etym/s/spiel" target="_blank">spiel</a>). Related: <span class="foreign">Spelled</span>; <span class="foreign">spelling</span>.</dd><dt><a target="_blank" href="/etym/s/spell">spell (n.2)</a></dt><dd>1620s, "a turn of work in place of another," from <a href="/etym/s/spell" target="_blank">spell</a> (v.2); compare Old English <span class="foreign">gespelia</span> "a substitute." Meaning shifted toward "continuous course of work" (1706), probably via notion of shift work (as at sea) where one man or crew regularly "spelled" another. Hence "continuous stretch" of something (weather, etc.), recorded by 1728. Hence also, via the notion in <span class="foreign">give a spell</span> (1750) "relieve another by taking a turn of work" came the sense "interval of rest or relaxation" (1845), which took the word to a sense opposite what it had at the start.</dd></dl></div></div>
+                                    <div class="page-header"><h3><a href="/liju/w/spell">权威例句</a></h3></div>
+            <div class="row" id="yd-liju">
+                 <dl><dt>1. Drug experts say it could <b>spell</b> the end of the crack epidemic. </dt> <dd>禁毒专家说它可能会结束强效可卡因吸食泛滥的局面。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>2. A <b>spell</b> of poor health took the edge off her performance. </dt> <dd>一度身体欠佳令她表现有失水准。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>3. For many years sundials have cast their <b>spell</b> over scientists and mathematicians. </dt> <dd>多年来，日晷一直吸引着科学家和数学家们。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>4. How many times do I have to <b>spell</b> it out? </dt> <dd>我要仔仔细细讲多少遍？</dd> <p>来自柯林斯例句</p> </dl><dl><dt>5. Jacqueline is not relishing the prospect of another <b>spell</b> in prison. </dt> <dd>杰奎琳可不想再蹲一阵子监狱。</dd> <p>来自柯林斯例句</p> </dl>                 <dl><p>[ <a href="/liju/w/spell">spell 造句</a> ]</p></dl>
+            </div>
+                            </div>
+        <div class="col-sm-4 hidden-xs">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">考试词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/CET4" target="_blank">CET4</a>
+                        <a href="/tags/CET4" target="_blank">四级词汇</a>
+                        <a href="/tags/CET6" target="_blank">CET6</a>
+                        <a href="/tags/CET6" target="_blank">六级词汇</a>
+                        <a href="/tags/TEM4" target="_blank">TEM4</a>
+                        <a href="/tags/TEM4" target="_blank">英专四级</a>
+                        <a href="/tags/TEM8" target="_blank">TEM8</a>
+                        <a href="/tags/TEM8" target="_blank">英专八级</a>
+                        <a href="/tags/kaoyan" target="_blank">考研词汇</a>
+                        <a href="/tags/GRE" target="_blank">GRE 词汇</a>
+                        <a href="/tags/TOEFL" target="_blank">托福词汇</a>
+                        <a href="/tags/IELTS" target="_blank">雅思词汇</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">相关应用</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/kankan" target="_blank">单词连连看</a>
+                        <a href="/verbs" target="_blank">不规则动词表</a>
+                        <a href="/ciku" target="_blank">英语单词大全</a>
+                        <a href="/test" target="_blank">词汇量测试</a>
+                        <a href="/root/root.php" target="_blank">英语词根表</a>
+                        <a href="/chengyu" target="_blank">成语词典</a>
+                        <a href="/cidian" target="_blank">汉语词典</a>
+                        <!-- <a href="http://zh.youdict.com/" target="_blank">萌典</a>
+                        <a href="http://weibo.com/youdict" target="_blank">关注微博</a> -->
+                        <!--
+                        <a href="#" target="_blank">听力测试</a>
+                        <a href="#" target="_blank">看图记单词</a>
+                        -->
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">分类词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/水果" target="_blank">水果</a>
+                        <a href="/tags/蔬菜" target="_blank">蔬菜</a>
+                        <a href="/tags/花" target="_blank">花</a>
+                        <a href="/tags/哺乳动物" target="_blank">哺乳动物</a>
+                        <a href="/tags/家畜家禽" target="_blank">家畜家禽</a>
+                        <a href="/tags/爬行两栖" target="_blank">爬行两栖</a>
+                        <a href="/tags/禽鸟" target="_blank">禽鸟</a>
+                        <a href="/tags/鱼类" target="_blank">鱼类</a>
+                        <a href="/tags/壳类动物" target="_blank">壳类动物</a>
+                        <a href="/tags/昆虫" target="_blank">昆虫</a>
+                        <a href="/tags/树" target="_blank">树</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">随机单词</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags"><a target="_blank" href="/w/inconsequence">inconsequence</a><a target="_blank" href="/w/inconsequent">inconsequent</a><a target="_blank" href="/w/inconsideration">inconsideration</a><a target="_blank" href="/w/inconstance">inconstance</a><a target="_blank" href="/w/inconstant">inconstant</a><a target="_blank" href="/w/incontinency">incontinency</a><a target="_blank" href="/w/incontinently">incontinently</a><a target="_blank" href="/w/inconveniency">inconveniency</a><a target="_blank" href="/w/inconveniently">inconveniently</a><a target="_blank" href="/w/incorruptibility">incorruptibility</a><a target="_blank" href="/etym/s/self-aware">self-aware</a><a target="_blank" href="/etym/s/self-awareness">self-awareness</a><a target="_blank" href="/etym/s/self-centered">self-centered</a><a target="_blank" href="/etym/s/self-complacency">self-complacency</a><a target="_blank" href="/etym/s/self-complacent">self-complacent</a><a target="_blank" href="/etym/s/self-concept">self-concept</a><a target="_blank" href="/etym/s/self-confidence">self-confidence</a><a target="_blank" href="/etym/s/self-confident">self-confident</a><a target="_blank" href="/etym/s/self-congratulation">self-congratulation</a><a target="_blank" href="/etym/s/self-conscious">self-conscious</a><a target="_blank" href="/ciyuan/s/peck">peck</a><a target="_blank" href="/ciyuan/s/peckish">peckish</a><a target="_blank" href="/ciyuan/s/pectin">pectin</a><a target="_blank" href="/ciyuan/s/pectoral">pectoral</a><a target="_blank" href="/ciyuan/s/peculate">peculate</a><a target="_blank" href="/ciyuan/s/peculiar">peculiar</a><a target="_blank" href="/ciyuan/s/pecuniary">pecuniary</a><a target="_blank" href="/ciyuan/s/ped-">ped-</a><a target="_blank" href="/ciyuan/s/pedagogue">pedagogue</a><a target="_blank" href="/ciyuan/s/pedagogy">pedagogy</a></div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">微信公众号</h2>
+                </div>
+                <div class="panel-body" style="padding:0;">
+                    <img src="/images/qrcode.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div id="copyright">
+        <p>Copyright &copy; 2015 YouDict.com All Rights Reserved. 当前版本: 15.06.11<br>
+            <a href="/ciyuan" target="_blank" title="英语词源字典">词源字典</a>
+            <a href="/root" target="_blank" title="英语词根字典">词根字典</a>
+            <a href="/archive.php" target="_blank" title="词语索引">词语索引</a>
+            <a href="/ciku" target="_blank" title="英语单词大全">英语单词大全</a>
+            <a href="/root/root.php" target="_blank" title="英语词根表">英语词根表</a>
+            <a href="/novel" target="_blank" title="英文小说网">英文小说</a><br>
+            <a href="/map/index.html" target="_blank">网站地图</a>
+            <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XzImNT48NCwwMR8uLnE8MDI">联系我们</a><br>
+            <a href="http://www.miibeian.gov.cn" target="_blank">蜀ICP备12020342号-3</a>
+        </p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    function audio_play (word, type) {
+        var audio_url = 'https://dict.youdao.com/dictvoice?audio=' + word + '&type=' + type;
+        var audio = new Audio(audio_url);
+        audio.play();
+    }
+
+    document.getElementById('yd-search').onsubmit = function() {
+        var word = this.word.value.replace(/\u3000/g, ' ').replace(/(^\s+|\s+$)/g, '');
+        if (word == '') {
+            return false;
+        } else if (word.search(/^[\w \-]+$/) == 0) {
+            top.location.href = '/w/' + encodeURIComponent(word.replace(/ /g, '_'));
+            return false;
+        } else {
+            this.word.value = word.replace(/[\uff01-\uffe1]/g, function(match) {
+                var char_code = match.charCodeAt(0) - 0xfee0;
+                return String.fromCharCode(char_code);
+            });
+        }
+    }
+
+    var transjs = "/js/sttrans.js";
+
+    window.yd_sttrans = function() {
+        var cstt = '';
+        if (window.localStorage) {
+            cstt = window.localStorage.getItem('stt');
+        }
+        var handler = document.getElementById('sttrans');
+
+        var _trans = function(is_trans) {
+            var t = is_trans;
+            if(typeof(trans) == 'undefined') {
+                var jselm = document.createElement('script');
+                jselm = document.body.appendChild(jselm);
+                if(typeof(jselm) != 'undefined') {
+                    jselm.onreadystatechange = function() {
+                        if(this.readyState == 'loaded' || this.readyState == 'complete') {
+                            try {trans(t)} catch(e){}
+                        }
+                    };
+                    jselm.onload = function() {trans(t);};
+                }
+                jselm.src = transjs;
+            } else { trans(t); }
+        };
+
+        if(cstt) {
+            _trans(); if(handler) handler.innerHTML = '简体版';
+        } else {
+            var user_lang = window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
+            if ((user_lang == 'zh-TW') && (cstt !== '')) {
+                _trans(); if(handler) handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        }
+        if(!handler) return;
+
+        var _evth = function () {
+            if(cstt) {
+                _trans(true);handler.innerHTML = '繁體版';
+                cstt = '';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            } else {
+                _trans();handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        };
+        handler.onclick = _evth;
+    };
+    yd_sttrans();
+</script>
+<script src="/lib/jquery/jquery-2.1.4.min.js"></script>
+<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/prompt.js"></script>
+<script type="text/javascript">
+    $('#yd-word-pron').on('click', '.glyphicon-volume-up', function(e){
+        var target = e.target;
+        var word = $('#yd-word').text();
+        if (target.parentNode.className == 'en-UK') {
+            audio_play(word, 1);
+        } else {
+            audio_play(word, 2);
+        }
+    });
+
+    
+    function getMeaning() {
+        var word = $('#word').val().replace(/\u3000/g, ' ').trim();
+        $.getJSON(('https://fanyi.youdao.com/openapi.do?type=data&doctype=jsonp&version=1.1&keyfrom=neteaseopen&key=1532272597&callback=?&q=' + encodeURIComponent(word)), function(data) {
+            if (data.basic) {
+                $('#yd-word-meaning').html('<ul><li>' + data.basic.explains.join('</li><li>') + '</li></ul>');
+                $('#yd-word-meaning li').html(function(index, text) {
+                    return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                });
+            } else {
+                var word_lang = 'en';
+                if (word.search(/[\u4e00-\u9fa5]/) >= 0) {
+                    word_lang = 'zh';
+                }
+                var str_query = encodeURIComponent(word) + '&lang=' + word_lang;
+                $.getJSON(('/ciyuan/ajax-meanings.php?word=' + str_query), function(data) {
+                    if (data.is_success) {
+                        var is_not_have_info = true;
+                        if (data.smart_dict) {
+                            $('#yd-word-meaning').html('<ul style="margin-bottom:15px;"><li>' + data.smart_dict.join('</li><li>') + '</li></ul>');
+                            $('#yd-word-meaning li').html(function(index, text) {
+                                return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                            });
+                            is_not_have_info = false;
+                        }
+
+                        if (data.sug_words) {
+                            var str_html = '<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">搜索建议：</strong>';
+                            data.sug_words.forEach(function(word) {
+                                str_html += '<a href="/w/' + word.replace(/ /g, '_') + '">' + word + '</a>, ';
+                            });
+                            str_html = str_html.slice(0, -2) + '</div></div>';
+                            $('#yd-word-meaning').after(str_html);
+                            is_not_have_info = false;
+                        }
+
+                        if (data.bing_trans) {
+                            var yd_trans = data.bing_trans;
+                            if (word_lang == 'en') {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) >= 0) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            } else {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) == -1) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            }
+                        }
+
+                        if (is_not_have_info) {
+                            $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                        }
+                    } else {
+                        $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                    }
+                });
+            }
+        });
+    }
+
+    $('#yd-etym dt:even, #yd-etym dd:even').addClass('highlight');
+
+    $('#yd-word-info .label').click(function() {
+        var arr_levels = ['CET4', 'CET6', 'TEM4', 'TEM8', '考 研', 'TOEFL', 'IELTS', 'GRE'];
+        var index_level = arr_levels.indexOf(this.textContent.replace('+', '')) + 1;
+        if (index_level) {
+            window.open('/ciku/id_' + index_level + '_0_0_0_0.html');
+        }
+    });
+
+    var img_num = 10, img_current = 1;
+    var img_src = '';
+    var img_prefix = '/images/words/spell';
+    $('#yd-img-nav .yd-img-left').click(function() {
+        img_current--;
+        if (img_current < 1) {
+            img_current = img_num;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    $('#yd-img-nav .yd-img-right').click(function() {
+        img_current++;
+        if (img_current > img_num) {
+            img_current = 1;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    var word_pron = $('#yd-word-pron');
+    var word_pron_text = word_pron.text();
+    var str_affix = '<span class="glyphicon glyphicon-volume-up"></span></span><span class="en-US">';
+    word_pron.html('<span class="en-UK">' + word_pron_text.replace('\n', str_affix) + '<span class="glyphicon glyphicon-volume-up"></span></span>');
+    $('#yd-word-meaning li').html(function(index, text) {
+        return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+    });
+</script>
+<div style="display: none;">
+<script src="https://s4.cnzz.com/stat.php?id=1254976343&web_id=1254976343" language="JavaScript"></script>
+</div>
+</body>
+</html>

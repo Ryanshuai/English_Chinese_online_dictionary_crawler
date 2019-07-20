@@ -13,15 +13,17 @@ class Distance_Similar:
         if word1.lower() == word2.lower():
             return False
         if len(word1) <= 4 or len(word2) <= 4:
-            return False
-        dis = Levenshtein.distance(word1.lower(), word2.lower())
-        if dis == 1:
-            return True
-        if word1 in word2 or word2 in word1:
-            affix_word_list = ['table', 'cable', 'inter']
-            if word1 in affix_word_list or word2 in affix_word_list:
-                return False
-            return True
+            if len(word1) <= 4 and len(word2) <= 4 and (word1 in word2 or word2 in word1):
+                return True
+        else:
+            dis = Levenshtein.distance(word1.lower(), word2.lower())
+            if dis == 1:
+                return True
+            if word1 in word2 or word2 in word1:
+                affix_word_list = ['table', 'cable', 'inter']
+                if word1 in affix_word_list or word2 in affix_word_list:
+                    return False
+                return True
         return False
 
     def get_similar_word_list(self, word):
