@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+
+    <meta name="keywords" content="scale,scale是什么意思,scale的词根词源,scale的用法">
+    <meta name="description" content="优词词典为您提供scale是什么意思,scale的词根词源,scale的用法,记忆方法,怎么读,怎么记,同义词,例句,造句,翻译,含义等单词助记与查询服务。">
+
+    <title>scale是什么意思_scale的词根词源_scale的用法_记忆方法_怎么读_怎么记_同义词_例句_造句_含义_翻译_优词词典</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/youdict.css?20150928">
+        <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="youdict">
+
+<nav class="navbar navbar-inverse" id="yd-navbar">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand visible-xs-inline" href="/">YouDict 优词</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="yd-header-nav">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/" target="_blank">优词词典</a></li>
+            <li><a href="/etym" target="_blank">英语词源</a></li>
+            <li><a href="/ciyuan" target="_blank">词源字典</a></li>
+            <li><a href="/root" target="_blank">词根词缀</a></li>
+            <li><a href="https://movie.douban.com/tv/?from=gaia#!type=tv&tag=美剧&sort=recommend" target="_blank">美剧</a></li>
+            <li><a href="/novel" target="_blank">英文小说</a></li>
+            <li><a href="http://www.chinadaily.com.cn/" target="_blank">国内新闻</a></li>
+            <li><a href="http://www.cnn.com/" target="_blank">国际新闻</a></li>
+            <li><a href="/kankan" target="_blank">单词连连看</a></li>
+            <li><a href="/test" target="_blank">词汇量测试</a></li>
+            <li><a href="/study/course.html" target="_blank">看图背单词</a></li>
+            <li><a href="/chengyu" target="_blank">成语词典</a></li>
+            <li><a href="/cidian" target="_blank">汉语词典</a></li>
+            <li><a href="/redpack.png" target="_blank" style="font-size: 15px;color: #f00;">红包天天领</a></li>
+            <!--
+            <li><a href="/read" target="_blank">阅读</a></li>
+            <li><a href="/game" target="_blank">游戏</a></li>
+            <li><a href="/site" target="_blank">网址导航</a></li>
+            <li><a href="/news" target="_blank">新闻</a></li>
+            -->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0);" id="sttrans">繁体版</a></li>
+            <!--
+            <li><a href="/login" target="_blank">登录</a></li>
+            <li><a href="/register" target="_blank">注册</a></li>
+            -->
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs" id="logo">
+            <a href="/" title="YouDict 优词"><img src="/images/logo.png" class="img-responsive" alt="YouDict 优词"></a>
+        </div>
+        <div class="col-sm-9 col-md-7">
+            <form method="get" action="/search" id="yd-search">
+                <div class="input-group">
+                    <input type="text" class="form-control" onmouseover="this.select();" onfocus="this.select();" autocomplete="off" name="word" id="word" value="scale">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                  </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" id="yd-navbar-links">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-links">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand visible-xs-inline">快捷搜索</span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="yd-header-links">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        双语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="//dict.youdao.com/search?q=scale" target="_blank">有道词典</a></li>
+                        <li><a href="//www.iciba.com/scale" target="_blank">爱词霸</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dict.cn/scale" target="_blank">海词词典</a></li>
+                        <li><a href="//cn.bing.com/dict/search?q=scale" target="_blank">必应词典</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        英语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://en.oxforddictionaries.com/definition/scale" target="_blank">牛津词典</a></li>
+                        <li><a href="https://en.wiktionary.org/wiki/scale" target="_blank">维基词典</a></li>
+                        <li><a href="https://www.google.com/search?q=define+scale" target="_blank">谷歌词典</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dictionary.reference.com/browse/scale" target="_blank">Dictionary.com</a></li>
+                        <li><a href="//www.thefreedictionary.com/scale" target="_blank">The Free Dictionary</a></li>
+                        <li><a href="//www.yourdictionary.com/scale" target="_blank">YourDictionary</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//www.urbandictionary.com/define.php?term=scale" target="_blank">Urban Dictionary</a></li>
+                        <li><a href="//www.onelook.com/?w=scale" target="_blank">OneLook Dictionary</a></li>
+                    </ul>
+                </li>
+                <li><a href="/etym/s/scale" target="_blank">英语词源</a></li>
+                <li><a href="/ciyuan/s/scale" target="_blank">词源字典</a></li>
+                <li><a href="/root/search?wd=scale" target="_blank">词根字典</a></li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        图片搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=scale" target="_blank">百度图片</a></li>
+                        <li><a href="https://image.so.com/i?q=scale" target="_blank">好搜图片</a></li>
+                        <li><a href="https://pic.sogou.com/pics?query=scale" target="_blank">搜狗图片</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/images/search?q=scale" target="_blank">必应图片</a></li>
+                        <li><a href="https://www.google.com/search?tbm=isch&q=scale" target="_blank">谷歌图片</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        网页搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.baidu.com/s?ie=utf-8&wd=scale" target="_blank">百度</a></li>
+                        <li><a href="https://www.so.com/s?q=scale" target="_blank">好搜</a></li>
+                        <li><a href="https://www.sogou.com/web?query=scale" target="_blank">搜狗</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/search?q=scale" target="_blank">必应</a></li>
+                        <li><a href="https://www.google.com/search?q=scale" target="_blank">谷歌</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        极简词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://wordo.co/scale" target="_blank">Wordo</a></li>
+                        <li><a href="http://www.dictionaryinstant.com/dictionary/definition/scale" target="_blank">Dictionary Instant</a></li>
+                    </ul>
+                </li>
+                -->
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        在线翻译 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://fanyi.baidu.com/#en/zh/scale" target="_blank">百度翻译</a></li>
+                        <li><a href="https://translate.google.com/#en/zh-CN/scale" target="_blank">谷歌翻译</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a></li>
+                        <li><a href="https://www.bing.com/translator/" target="_blank">必应翻译</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        影视搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://so.iqiyi.com/so/q_scale" target="_blank">爱奇艺搜索</a></li>
+                        <li><a href="https://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=scale" target="_blank">腾讯视频</a></li>
+                        <li><a href="https://www.hulu.com/search?q=scale" target="_blank">葫芦视频</a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=scale&search_sort=video_view_count" target="_blank">视频搜索</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//search.mtime.com/search/?q=scale" target="_blank">Mtime时光网</a></li>
+                        <li><a href="//www.imdb.com/find?q=scale" target="_blank">互联网电影资料库</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li><a href="#" target="_blank">物品搜索</a></li>
+                -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8" id="yd-content">
+                    <div class="row">
+                                <div class="col-md-7" id="yd-word-info">
+                    <div class="row"><h3 id="yd-word">scale</h3></div>
+                                        <div class="row" id="yd-word-pron">英 [skeɪl]
+美 [skel]</div>
+                                        <div class="row" id="yd-word-meaning"><ul>
+<li>n. 规模；比例；鳞；刻度；天平；数值范围</li>
+<li>vi. 衡量；攀登；剥落；生水垢</li>
+<li>vt. 测量；攀登；刮鳞；依比例决定</li>
+<li>n. (Scale)人名；(意)斯卡莱</li>
+</ul></div>
+                                            <div class="row" style="margin-bottom:6px;">
+                            <span class="label label-primary">CET4</span> <span class="label label-success">TEM4</span> <span class="label label-info">IELTS</span> <span class="label label-warning">GRE</span> <span class="label label-primary">考 研</span> <span class="label label-success">TOEFL</span> <span class="label label-info">CET6</span>                         </div>
+                                        <div class="row" id="yd-word-tags">
+                                                            <div>使用频率:
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                        </div>
+                                                            <div>星级词汇:
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                            </div>
+                                        </div>
+                </div>
+                                <div class="col-md-5" id="yd-word-img">
+                    <div class="thumbnail">
+                        <img style="width: 300px; height: 200px;" src="/images/words/scale1.jpg" alt="scale" class="center-block" id="word-image">
+                        <div id="yd-img-nav">
+                            <div class="yd-img-left">&laquo;</div>
+                            <span><span id="yd-img-current">1</span> / 10</span>
+                            <div class="yd-img-right">&raquo;</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+                                                <div class="page-header"><h3>中文词源</h3></div>
+            <div class="row" id="yd-ciyuan" style="font-family:SimSun,serif;"><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/scale">scale</a> 水垢，牙石，秤，天平，鳞片</span><p>来自古诺斯语 skel,贝壳，skal,碗，饮水容器，来自 Proto-Germanic*skaela,分开，劈开，来自 PIE*skel,砍，切，分开，词源同 shell,scallop.由贝壳引申词义碗，饮水器具，由贝壳的钙化 性质引申词义水垢，牙石，由碗，饮水容器引申词义秤，天平，即秤的原型，由该印欧语的 词根义引申词义鱼鳞，鳞片等。</p><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/scale">scale</a> 梯子，攀登，攀爬，规模，范围，程度，等级，比例</span><p>来自拉丁语 scala,梯子，来自（缩写自）scandere,攀爬，攀登，来自 PIE*skand,爬，上升， 词源同 scan,ascend,descend.字母 d 脱落，类似拼写比较 rule,regulate.引申词义规模，范围， 程度，等级，比例等。</p></div>
+                                                <div class="page-header"><h3>英语词源</h3></div>
+            <div class="row"><div class="thumbnail" id="yd-etym"><dl><dt><a target="_blank" href="/etym/s/scale">scale</a></dt><dd><b>scale: </b><span>English has three separate words <i>scale</i>. The oldest, ‘pan of a balance’ [13], was borrowed from Old Norse <i>skál </i>‘bowl, drinking cup’ (ancestor of Swedish <i>skåal</i>, from which English gets the toast <i>skol </i>[16]). This was descended from a Germanic base *<i>skal</i>-, *<i>skel</i>-, *<i>skul</i>-, denoting ‘split, divide, peel’, which also produced English <i>scalp</i>, <i>shell</i>, <i>shelter</i>, <i>shield</i>, <i>skill</i>, probably <i>skull</i>, and also <i>scale </i>‘external plate on fish, etc’ [14].<br><br>This second <i>scale </i>was borrowed from Old French <i>escale</i>, which itself was acquired from prehistoric Germanic *<i>skalō </i>– another derivative of *<i>skal</i>-. Its modern German descendant, <i>schale</i>, is the probable source of English <i>shale </i>[18]. The third <i>scale</i>, which originally meant ‘ladder’ [15], came from Latin <i>scāla </i>‘ladder’, a descendant of the same base as Latin <i>scandere </i>‘climb’, from which English gets <i>ascend</i>, <i>descend</i>, <i>scan</i>, and <i>scandal</i>. (In modern French <i>scāla </i>has evolved to <i>échelle</i>, whose derivative <i>échelon </i>has given English <i>echelon </i>[18].) The modern meanings of the word, variations on the theme ‘system of graduations used for measuring’, are metaphorical extensions of the original ‘ladder, steps’.<br><br>Its use as a verb, meaning ‘climb’, goes back to the medieval Latin derivative <i>scālāre</i>.</span><br><span class="cognate">=&gt; <a href="/etym/s/scalp" target="_blank">scalp</a>, <a href="/etym/s/shell" target="_blank">shell</a>, <a href="/etym/s/shelter" target="_blank">shelter</a>, <a href="/etym/s/shield" target="_blank">shield</a>, <a href="/etym/s/skill" target="_blank">skill</a>, <a href="/etym/s/skol" target="_blank">skol</a>, <a href="/etym/s/skull" target="_blank">skull</a>; <a href="/etym/s/shale" target="_blank">shale</a>; <a href="/etym/s/ascend" target="_blank">ascend</a>, <a href="/etym/s/descend" target="_blank">descend</a>, <a href="/etym/s/echelon" target="_blank">echelon</a>, <a href="/etym/s/scan" target="_blank">scan</a>, <a href="/etym/s/scandal" target="_blank">scandal</a></span></dd><dt><a target="_blank" href="/etym/s/scale">scale (n.1)</a></dt><dd>"skin plates on fish or snakes," c. 1300, from Old French <span class="foreign">escale</span> "cup, scale, shell pod, husk" (12c., Modern French <span class="foreign">écale</span>) "scale, husk," from Frankish <span class="foreign">*skala</span> or some other Germanic source, from Proto-Germanic <span class="foreign">*skælo</span> "split, divide" (cognates: Dutch <span class="foreign">schaal</span> "a scale, husk," Old High German <span class="foreign">scala</span> "shell," Gothic <span class="foreign">skalja</span> "tile," Old English <span class="foreign">scealu</span> "shell, husk"), from PIE root <span class="foreign">*(s)kel-</span> (1) "to cut, cleave, split" (cognates: Latin <span class="foreign">culter</span> "knife," <span class="foreign">scalpere</span> "to cut, scrape;" Old Church Slavonic <span class="foreign">skolika</span> "mussel, shell," Russian <span class="foreign">skala</span> "rind, bark," Lithuanian <span class="foreign">skelti</span> "split," Old English <span class="foreign">scell</span> "shell," <span class="foreign">scalu</span> "drinking cup, bowl, scale of a balance").&#13; <br /><br />&#13; In reference to humans, as a condition of certain skin diseases, it is attested from c. 1400. As what falls from one's eye when blindness ends (usually figurative), it echoes Acts ix:18 (Latin <span class="foreign">tanquam squamæ</span>, Greek <span class="foreign">hosei lepides</span>).</dd><dt><a target="_blank" href="/etym/s/scale">scale (n.2)</a></dt><dd>weighing instrument, early 15c.; earlier "pan of a balance" (late 14c.); earlier still "drinking cup" (c. 1200), from Old Norse <span class="foreign">skal</span> "bowl, drinking cup," in plural, "weighing scale" from a noun derivative of Proto-Germanic <span class="foreign">*skæla</span> "split, divide" (cognates: Old Norse <span class="foreign">skel</span> "shell," Old English <span class="foreign">scealu</span>, Old Saxon <span class="foreign">skala</span> "a bowl (to drink from)," Old High German <span class="foreign">scala</span>, German <span class="foreign">Schale</span> "a bowl, dish, cup," Middle Dutch <span class="foreign">scale</span>, Dutch <span class="foreign">schaal</span> "drinking cup, bowl, shell, scale of a balance"), from PIE root <span class="foreign">*skel-</span> (1) "to cut" (see <a href="/etym/s/scale" target="_blank">scale</a> (n.1)).&#13; <br /><br />&#13; The connecting sense seems to be of half of a bivalve ("split") shell used as a drinking cup or a pan for weighing. But according to Paulus Diaconus the "drinking cup" sense originated from a supposed custom of making goblets from skulls (see <a href="/etym/s/skull" target="_blank">skull</a>). Related: <span class="foreign">Scales</span>. This, as a name for the zodiac constellation Libra, is attested in English from 1630s.</dd><dt><a target="_blank" href="/etym/s/scale">scale (v.1)</a></dt><dd>"to climb by or as by a ladder," late 14c., from <span class="foreign">scale</span> (n.) "a ladder," from Latin <span class="foreign">scala</span> "ladder, flight of stairs," from <span class="foreign">*scansla</span>, from stem of <span class="foreign">scandere</span> "to climb" (see <a href="/etym/s/scan" target="_blank">scan</a> (v.)). Related: <span class="foreign">Scaled</span>; <span class="foreign">scaling</span>.</dd><dt><a target="_blank" href="/etym/s/scale">scale (n.3)</a></dt><dd>"series of registering marks to measure by; marks laid down to determine distance along a line," late 14c., from Latin <span class="foreign">scala</span> "ladder, staircase" (see <a href="/etym/s/scale" target="_blank">scale</a> (v.1)). Meaning "succession or series of steps" is from c. 1600; that of "standard for estimation" (<span class="foreign">large scale</span>, <span class="foreign">small scale</span>, etc.) is from 1620s. Musical sense (1590s), and the meaning "proportion of a representation to the actual object" (1660s) are via Italian <span class="foreign">scala</span>, from Latin <span class="foreign">scala</span>.</dd><dt><a target="_blank" href="/etym/s/scale">scale (v.3)</a></dt><dd>"weigh in scales," 1690s, from <a href="/etym/s/scale" target="_blank">scale</a> (n.2). Earlier "to compare, estimate" (c. 1600). Meaning "measure or regulate by a scale" is from 1798, from <a href="/etym/s/scale" target="_blank">scale</a> (n.3); that of "weigh out in proper quantities" is from 1841. <span class="foreign">Scale down</span> "reduce proportionately" is attested from 1887. <span class="foreign">Scale factor</span> is from 1948. Related: <span class="foreign">Scaled</span>; <span class="foreign">scaling</span>.</dd><dt><a target="_blank" href="/etym/s/scale">scale (v.2)</a></dt><dd>"remove the scales of (a fish, etc.)," c. 1400, from <a href="/etym/s/scale" target="_blank">scale</a> (n.1). Intransitive sense "to come off in scales" is from 1520s. Related: <span class="foreign">Scaled</span>; <span class="foreign">scaling</span>.</dd></dl></div></div>
+                                    <div class="page-header"><h3><a href="/liju/w/scale">权威例句</a></h3></div>
+            <div class="row" id="yd-liju">
+                 <dl><dt>1. The patient rates the therapies on a <b>scale</b> of zero to ten. </dt> <dd>患者按十分制给这些治疗方法打分。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>2. The <b>scale</b> of migration took a quantum leap in the early 1970s. </dt> <dd>20世纪70年代初，移民的规模骤然扩大。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>3. Car firms are desperate to achieve economies of <b>scale</b>. </dt> <dd>汽车厂商拼命想要实现规模经济。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>4. A full-<b>scale</b> debate is under way on what ails the industry. </dt> <dd>关于工业为何陷入困境正在展开一场全面的讨论。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>5. You may feel dwarfed by the sheer <b>scale</b> of the place. </dt> <dd>看到此处气势如此恢宏，你可能会觉得自己很渺小。</dd> <p>来自柯林斯例句</p> </dl>                 <dl><p>[ <a href="/liju/w/scale">scale 造句</a> ]</p></dl>
+            </div>
+                            </div>
+        <div class="col-sm-4 hidden-xs">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">考试词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/CET4" target="_blank">CET4</a>
+                        <a href="/tags/CET4" target="_blank">四级词汇</a>
+                        <a href="/tags/CET6" target="_blank">CET6</a>
+                        <a href="/tags/CET6" target="_blank">六级词汇</a>
+                        <a href="/tags/TEM4" target="_blank">TEM4</a>
+                        <a href="/tags/TEM4" target="_blank">英专四级</a>
+                        <a href="/tags/TEM8" target="_blank">TEM8</a>
+                        <a href="/tags/TEM8" target="_blank">英专八级</a>
+                        <a href="/tags/kaoyan" target="_blank">考研词汇</a>
+                        <a href="/tags/GRE" target="_blank">GRE 词汇</a>
+                        <a href="/tags/TOEFL" target="_blank">托福词汇</a>
+                        <a href="/tags/IELTS" target="_blank">雅思词汇</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">相关应用</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/kankan" target="_blank">单词连连看</a>
+                        <a href="/verbs" target="_blank">不规则动词表</a>
+                        <a href="/ciku" target="_blank">英语单词大全</a>
+                        <a href="/test" target="_blank">词汇量测试</a>
+                        <a href="/root/root.php" target="_blank">英语词根表</a>
+                        <a href="/chengyu" target="_blank">成语词典</a>
+                        <a href="/cidian" target="_blank">汉语词典</a>
+                        <!-- <a href="http://zh.youdict.com/" target="_blank">萌典</a>
+                        <a href="http://weibo.com/youdict" target="_blank">关注微博</a> -->
+                        <!--
+                        <a href="#" target="_blank">听力测试</a>
+                        <a href="#" target="_blank">看图记单词</a>
+                        -->
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">分类词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/水果" target="_blank">水果</a>
+                        <a href="/tags/蔬菜" target="_blank">蔬菜</a>
+                        <a href="/tags/花" target="_blank">花</a>
+                        <a href="/tags/哺乳动物" target="_blank">哺乳动物</a>
+                        <a href="/tags/家畜家禽" target="_blank">家畜家禽</a>
+                        <a href="/tags/爬行两栖" target="_blank">爬行两栖</a>
+                        <a href="/tags/禽鸟" target="_blank">禽鸟</a>
+                        <a href="/tags/鱼类" target="_blank">鱼类</a>
+                        <a href="/tags/壳类动物" target="_blank">壳类动物</a>
+                        <a href="/tags/昆虫" target="_blank">昆虫</a>
+                        <a href="/tags/树" target="_blank">树</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">随机单词</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags"><a target="_blank" href="/w/troglodyte">troglodyte</a><a target="_blank" href="/w/troll">troll</a><a target="_blank" href="/w/trolley">trolley</a><a target="_blank" href="/w/trolleybus">trolleybus</a><a target="_blank" href="/w/trombone">trombone</a><a target="_blank" href="/w/troop">troop</a><a target="_blank" href="/w/trooper">trooper</a><a target="_blank" href="/w/trope">trope</a><a target="_blank" href="/w/trophy">trophy</a><a target="_blank" href="/w/tropic">tropic</a><a target="_blank" href="/etym/s/nilly-willy">nilly-willy</a><a target="_blank" href="/etym/s/aperient">aperient</a><a target="_blank" href="/etym/s/periastron">periastron</a><a target="_blank" href="/etym/s/astrolatry">astrolatry</a><a target="_blank" href="/etym/s/quingenary">quingenary</a><a target="_blank" href="/etym/s/previse">previse</a><a target="_blank" href="/etym/s/probang">probang</a><a target="_blank" href="/etym/s/ratite">ratite</a><a target="_blank" href="/etym/s/pekoe">pekoe</a><a target="_blank" href="/etym/s/rectus">rectus</a><a target="_blank" href="/ciyuan/s/hobgoblin">hobgoblin</a><a target="_blank" href="/ciyuan/s/hobnail">hobnail</a><a target="_blank" href="/ciyuan/s/hobnob">hobnob</a><a target="_blank" href="/ciyuan/s/hobo">hobo</a><a target="_blank" href="/ciyuan/s/Hobson">Hobson</a><a target="_blank" href="/ciyuan/s/hock">hock</a><a target="_blank" href="/ciyuan/s/hock">hock</a><a target="_blank" href="/ciyuan/s/hockey">hockey</a><a target="_blank" href="/ciyuan/s/hocus-pocus">hocus-pocus</a><a target="_blank" href="/ciyuan/s/hod">hod</a></div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">微信公众号</h2>
+                </div>
+                <div class="panel-body" style="padding:0;">
+                    <img src="/images/qrcode.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div id="copyright">
+        <p>Copyright &copy; 2015 YouDict.com All Rights Reserved. 当前版本: 15.06.11<br>
+            <a href="/ciyuan" target="_blank" title="英语词源字典">词源字典</a>
+            <a href="/root" target="_blank" title="英语词根字典">词根字典</a>
+            <a href="/archive.php" target="_blank" title="词语索引">词语索引</a>
+            <a href="/ciku" target="_blank" title="英语单词大全">英语单词大全</a>
+            <a href="/root/root.php" target="_blank" title="英语词根表">英语词根表</a>
+            <a href="/novel" target="_blank" title="英文小说网">英文小说</a><br>
+            <a href="/map/index.html" target="_blank">网站地图</a>
+            <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XzImNT48NCwwMR8uLnE8MDI">联系我们</a><br>
+            <a href="http://www.miibeian.gov.cn" target="_blank">蜀ICP备12020342号-3</a>
+        </p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    function audio_play (word, type) {
+        var audio_url = 'https://dict.youdao.com/dictvoice?audio=' + word + '&type=' + type;
+        var audio = new Audio(audio_url);
+        audio.play();
+    }
+
+    document.getElementById('yd-search').onsubmit = function() {
+        var word = this.word.value.replace(/\u3000/g, ' ').replace(/(^\s+|\s+$)/g, '');
+        if (word == '') {
+            return false;
+        } else if (word.search(/^[\w \-]+$/) == 0) {
+            top.location.href = '/w/' + encodeURIComponent(word.replace(/ /g, '_'));
+            return false;
+        } else {
+            this.word.value = word.replace(/[\uff01-\uffe1]/g, function(match) {
+                var char_code = match.charCodeAt(0) - 0xfee0;
+                return String.fromCharCode(char_code);
+            });
+        }
+    }
+
+    var transjs = "/js/sttrans.js";
+
+    window.yd_sttrans = function() {
+        var cstt = '';
+        if (window.localStorage) {
+            cstt = window.localStorage.getItem('stt');
+        }
+        var handler = document.getElementById('sttrans');
+
+        var _trans = function(is_trans) {
+            var t = is_trans;
+            if(typeof(trans) == 'undefined') {
+                var jselm = document.createElement('script');
+                jselm = document.body.appendChild(jselm);
+                if(typeof(jselm) != 'undefined') {
+                    jselm.onreadystatechange = function() {
+                        if(this.readyState == 'loaded' || this.readyState == 'complete') {
+                            try {trans(t)} catch(e){}
+                        }
+                    };
+                    jselm.onload = function() {trans(t);};
+                }
+                jselm.src = transjs;
+            } else { trans(t); }
+        };
+
+        if(cstt) {
+            _trans(); if(handler) handler.innerHTML = '简体版';
+        } else {
+            var user_lang = window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
+            if ((user_lang == 'zh-TW') && (cstt !== '')) {
+                _trans(); if(handler) handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        }
+        if(!handler) return;
+
+        var _evth = function () {
+            if(cstt) {
+                _trans(true);handler.innerHTML = '繁體版';
+                cstt = '';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            } else {
+                _trans();handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        };
+        handler.onclick = _evth;
+    };
+    yd_sttrans();
+</script>
+<script src="/lib/jquery/jquery-2.1.4.min.js"></script>
+<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/prompt.js"></script>
+<script type="text/javascript">
+    $('#yd-word-pron').on('click', '.glyphicon-volume-up', function(e){
+        var target = e.target;
+        var word = $('#yd-word').text();
+        if (target.parentNode.className == 'en-UK') {
+            audio_play(word, 1);
+        } else {
+            audio_play(word, 2);
+        }
+    });
+
+    
+    function getMeaning() {
+        var word = $('#word').val().replace(/\u3000/g, ' ').trim();
+        $.getJSON(('https://fanyi.youdao.com/openapi.do?type=data&doctype=jsonp&version=1.1&keyfrom=neteaseopen&key=1532272597&callback=?&q=' + encodeURIComponent(word)), function(data) {
+            if (data.basic) {
+                $('#yd-word-meaning').html('<ul><li>' + data.basic.explains.join('</li><li>') + '</li></ul>');
+                $('#yd-word-meaning li').html(function(index, text) {
+                    return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                });
+            } else {
+                var word_lang = 'en';
+                if (word.search(/[\u4e00-\u9fa5]/) >= 0) {
+                    word_lang = 'zh';
+                }
+                var str_query = encodeURIComponent(word) + '&lang=' + word_lang;
+                $.getJSON(('/ciyuan/ajax-meanings.php?word=' + str_query), function(data) {
+                    if (data.is_success) {
+                        var is_not_have_info = true;
+                        if (data.smart_dict) {
+                            $('#yd-word-meaning').html('<ul style="margin-bottom:15px;"><li>' + data.smart_dict.join('</li><li>') + '</li></ul>');
+                            $('#yd-word-meaning li').html(function(index, text) {
+                                return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                            });
+                            is_not_have_info = false;
+                        }
+
+                        if (data.sug_words) {
+                            var str_html = '<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">搜索建议：</strong>';
+                            data.sug_words.forEach(function(word) {
+                                str_html += '<a href="/w/' + word.replace(/ /g, '_') + '">' + word + '</a>, ';
+                            });
+                            str_html = str_html.slice(0, -2) + '</div></div>';
+                            $('#yd-word-meaning').after(str_html);
+                            is_not_have_info = false;
+                        }
+
+                        if (data.bing_trans) {
+                            var yd_trans = data.bing_trans;
+                            if (word_lang == 'en') {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) >= 0) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            } else {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) == -1) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            }
+                        }
+
+                        if (is_not_have_info) {
+                            $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                        }
+                    } else {
+                        $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                    }
+                });
+            }
+        });
+    }
+
+    $('#yd-etym dt:even, #yd-etym dd:even').addClass('highlight');
+
+    $('#yd-word-info .label').click(function() {
+        var arr_levels = ['CET4', 'CET6', 'TEM4', 'TEM8', '考 研', 'TOEFL', 'IELTS', 'GRE'];
+        var index_level = arr_levels.indexOf(this.textContent.replace('+', '')) + 1;
+        if (index_level) {
+            window.open('/ciku/id_' + index_level + '_0_0_0_0.html');
+        }
+    });
+
+    var img_num = 10, img_current = 1;
+    var img_src = '';
+    var img_prefix = '/images/words/scale';
+    $('#yd-img-nav .yd-img-left').click(function() {
+        img_current--;
+        if (img_current < 1) {
+            img_current = img_num;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    $('#yd-img-nav .yd-img-right').click(function() {
+        img_current++;
+        if (img_current > img_num) {
+            img_current = 1;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    var word_pron = $('#yd-word-pron');
+    var word_pron_text = word_pron.text();
+    var str_affix = '<span class="glyphicon glyphicon-volume-up"></span></span><span class="en-US">';
+    word_pron.html('<span class="en-UK">' + word_pron_text.replace('\n', str_affix) + '<span class="glyphicon glyphicon-volume-up"></span></span>');
+    $('#yd-word-meaning li').html(function(index, text) {
+        return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+    });
+</script>
+<div style="display: none;">
+<script src="https://s4.cnzz.com/stat.php?id=1254976343&web_id=1254976343" language="JavaScript"></script>
+</div>
+</body>
+</html>

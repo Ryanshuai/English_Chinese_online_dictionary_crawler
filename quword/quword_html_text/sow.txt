@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+
+    <meta name="keywords" content="sow,sow是什么意思,sow的词根词源,sow的用法">
+    <meta name="description" content="优词词典为您提供sow是什么意思,sow的词根词源,sow的用法,记忆方法,怎么读,怎么记,同义词,例句,造句,翻译,含义等单词助记与查询服务。">
+
+    <title>sow是什么意思_sow的词根词源_sow的用法_记忆方法_怎么读_怎么记_同义词_例句_造句_含义_翻译_优词词典</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/youdict.css?20150928">
+        <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="youdict">
+
+<nav class="navbar navbar-inverse" id="yd-navbar">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand visible-xs-inline" href="/">YouDict 优词</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="yd-header-nav">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/" target="_blank">优词词典</a></li>
+            <li><a href="/etym" target="_blank">英语词源</a></li>
+            <li><a href="/ciyuan" target="_blank">词源字典</a></li>
+            <li><a href="/root" target="_blank">词根词缀</a></li>
+            <li><a href="https://movie.douban.com/tv/?from=gaia#!type=tv&tag=美剧&sort=recommend" target="_blank">美剧</a></li>
+            <li><a href="/novel" target="_blank">英文小说</a></li>
+            <li><a href="http://www.chinadaily.com.cn/" target="_blank">国内新闻</a></li>
+            <li><a href="http://www.cnn.com/" target="_blank">国际新闻</a></li>
+            <li><a href="/kankan" target="_blank">单词连连看</a></li>
+            <li><a href="/test" target="_blank">词汇量测试</a></li>
+            <li><a href="/study/course.html" target="_blank">看图背单词</a></li>
+            <li><a href="/chengyu" target="_blank">成语词典</a></li>
+            <li><a href="/cidian" target="_blank">汉语词典</a></li>
+            <li><a href="/redpack.png" target="_blank" style="font-size: 15px;color: #f00;">红包天天领</a></li>
+            <!--
+            <li><a href="/read" target="_blank">阅读</a></li>
+            <li><a href="/game" target="_blank">游戏</a></li>
+            <li><a href="/site" target="_blank">网址导航</a></li>
+            <li><a href="/news" target="_blank">新闻</a></li>
+            -->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0);" id="sttrans">繁体版</a></li>
+            <!--
+            <li><a href="/login" target="_blank">登录</a></li>
+            <li><a href="/register" target="_blank">注册</a></li>
+            -->
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs" id="logo">
+            <a href="/" title="YouDict 优词"><img src="/images/logo.png" class="img-responsive" alt="YouDict 优词"></a>
+        </div>
+        <div class="col-sm-9 col-md-7">
+            <form method="get" action="/search" id="yd-search">
+                <div class="input-group">
+                    <input type="text" class="form-control" onmouseover="this.select();" onfocus="this.select();" autocomplete="off" name="word" id="word" value="sow">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                  </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" id="yd-navbar-links">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-links">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand visible-xs-inline">快捷搜索</span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="yd-header-links">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        双语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="//dict.youdao.com/search?q=sow" target="_blank">有道词典</a></li>
+                        <li><a href="//www.iciba.com/sow" target="_blank">爱词霸</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dict.cn/sow" target="_blank">海词词典</a></li>
+                        <li><a href="//cn.bing.com/dict/search?q=sow" target="_blank">必应词典</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        英语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://en.oxforddictionaries.com/definition/sow" target="_blank">牛津词典</a></li>
+                        <li><a href="https://en.wiktionary.org/wiki/sow" target="_blank">维基词典</a></li>
+                        <li><a href="https://www.google.com/search?q=define+sow" target="_blank">谷歌词典</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dictionary.reference.com/browse/sow" target="_blank">Dictionary.com</a></li>
+                        <li><a href="//www.thefreedictionary.com/sow" target="_blank">The Free Dictionary</a></li>
+                        <li><a href="//www.yourdictionary.com/sow" target="_blank">YourDictionary</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//www.urbandictionary.com/define.php?term=sow" target="_blank">Urban Dictionary</a></li>
+                        <li><a href="//www.onelook.com/?w=sow" target="_blank">OneLook Dictionary</a></li>
+                    </ul>
+                </li>
+                <li><a href="/etym/s/sow" target="_blank">英语词源</a></li>
+                <li><a href="/ciyuan/s/sow" target="_blank">词源字典</a></li>
+                <li><a href="/root/search?wd=sow" target="_blank">词根字典</a></li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        图片搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=sow" target="_blank">百度图片</a></li>
+                        <li><a href="https://image.so.com/i?q=sow" target="_blank">好搜图片</a></li>
+                        <li><a href="https://pic.sogou.com/pics?query=sow" target="_blank">搜狗图片</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/images/search?q=sow" target="_blank">必应图片</a></li>
+                        <li><a href="https://www.google.com/search?tbm=isch&q=sow" target="_blank">谷歌图片</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        网页搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.baidu.com/s?ie=utf-8&wd=sow" target="_blank">百度</a></li>
+                        <li><a href="https://www.so.com/s?q=sow" target="_blank">好搜</a></li>
+                        <li><a href="https://www.sogou.com/web?query=sow" target="_blank">搜狗</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/search?q=sow" target="_blank">必应</a></li>
+                        <li><a href="https://www.google.com/search?q=sow" target="_blank">谷歌</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        极简词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://wordo.co/sow" target="_blank">Wordo</a></li>
+                        <li><a href="http://www.dictionaryinstant.com/dictionary/definition/sow" target="_blank">Dictionary Instant</a></li>
+                    </ul>
+                </li>
+                -->
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        在线翻译 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://fanyi.baidu.com/#en/zh/sow" target="_blank">百度翻译</a></li>
+                        <li><a href="https://translate.google.com/#en/zh-CN/sow" target="_blank">谷歌翻译</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a></li>
+                        <li><a href="https://www.bing.com/translator/" target="_blank">必应翻译</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        影视搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://so.iqiyi.com/so/q_sow" target="_blank">爱奇艺搜索</a></li>
+                        <li><a href="https://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=sow" target="_blank">腾讯视频</a></li>
+                        <li><a href="https://www.hulu.com/search?q=sow" target="_blank">葫芦视频</a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=sow&search_sort=video_view_count" target="_blank">视频搜索</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//search.mtime.com/search/?q=sow" target="_blank">Mtime时光网</a></li>
+                        <li><a href="//www.imdb.com/find?q=sow" target="_blank">互联网电影资料库</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li><a href="#" target="_blank">物品搜索</a></li>
+                -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8" id="yd-content">
+                    <div class="row">
+                                <div class="col-md-7" id="yd-word-info">
+                    <div class="row"><h3 id="yd-word">sow</h3></div>
+                                        <div class="row" id="yd-word-pron">英 [səʊ]
+美 [so]</div>
+                                        <div class="row" id="yd-word-meaning"><ul>
+<li>vt. 播种；散布；使密布</li>
+<li>vi. 播种</li>
+<li>n. 母猪</li>
+<li>n. (Sow)人名；(几、马里、乍、毛里塔、塞内)索乌</li>
+</ul></div>
+                                            <div class="row" style="margin-bottom:6px;">
+                            <span class="label label-primary">CET4</span> <span class="label label-success">TEM4</span> <span class="label label-info">IELTS</span> <span class="label label-warning">GRE</span> <span class="label label-primary">考 研</span> <span class="label label-success">TOEFL</span> <span class="label label-info">CET6</span>                         </div>
+                                        <div class="row" id="yd-word-tags">
+                    分类标签: 家畜家禽                                        <div>使用频率:
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                        </div>
+                                                            <div>星级词汇:
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                            </div>
+                                        </div>
+                </div>
+                                <div class="col-md-5" id="yd-word-img">
+                    <div class="thumbnail">
+                        <img style="width: 300px; height: 200px;" src="/images/words/sow1.jpg" alt="sow" class="center-block" id="word-image">
+                        <div id="yd-img-nav">
+                            <div class="yd-img-left">&laquo;</div>
+                            <span><span id="yd-img-current">1</span> / 10</span>
+                            <div class="yd-img-right">&raquo;</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+                        <div class="page-header"><h3>记忆方法</h3></div>
+            <div class="row" style="font-family:SimSun,serif;">1. seed => sow.<br />
+2. swine => sow.<br />
+3. 谐音“撒”。<br />
+4. 谐音“收”-----收获------要收获，先播种。<br />
+5. 音：骚，指母猪发情，母猪要播种.</div>
+            <!--
+            <li><a href="#" target="_blank">评分</a></li>
+            <li><a href="#" target="_blank">分享</a></li>
+            <li><a href="#" target="_blank">评论</a></li>
+            -->
+                                                <div class="page-header"><h3>中文词源</h3></div>
+            <div class="row" id="yd-ciyuan" style="font-family:SimSun,serif;"><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/sow">sow</a> 播种，散布</span><p>来自古英语 sawan,播种，播撒，授精，来自 Proto-Germanic*sean,播种，来自 PIE*se,播种， 词源同 seed,semen,season.</p><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/sow">sow</a> 母猪</span><p>来自中古英语 sowe,来自古英语 sugu,母猪，来自 Proto-Germanic*sugo,猪，来自 PIE*su,猪， 可能为拟声词，模仿猪的哼哼声，词源同 swine.</p></div>
+                                                <div class="page-header"><h3>英语词源</h3></div>
+            <div class="row"><div class="thumbnail" id="yd-etym"><dl><dt><a target="_blank" href="/etym/s/sow">sow</a></dt><dd><b>sow: </b><span>English has two words <i>sow</i>, both of which go back to the Old English period. The verb, ‘put seeds in the ground’, comes from a prehistoric Germanic *<i>sǣjan</i>, which also produced German <i>säen</i>, Dutch <i>zaaien</i>, Swedish <i>så</i>, and Danish <i>saa</i>. It was formed from the base *<i>sǣ</i>- (source of English <i>seed</i>), which goes back ultimately to Indo-European *<i>sē</i>- (source of English <i>season</i>, <i>semen</i>, etc). <i>Sow </i>‘female pig’ is descended from an Indo-European base *<i>su</i>- (possibly imitative of the noise made by a pig), which also produced Greek <i>hus </i>‘pig’ (whose feminine form <i>húaina </i>is the source of English <i>hyena </i>[16]), Latin <i>sūs </i>‘pig’, German <i>sau </i>‘sow’, and English <i>swine</i>.</span><br><span class="cognate">=&gt; <a href="/etym/s/season" target="_blank">season</a>, <a href="/etym/s/seed" target="_blank">seed</a>, <a href="/etym/s/semen" target="_blank">semen</a>; <a href="/etym/s/hyena" target="_blank">hyena</a>, <a href="/etym/s/swine" target="_blank">swine</a></span></dd><dt><a target="_blank" href="/etym/s/sow">sow (v.)</a></dt><dd>Old English <span class="foreign">sawan</span> "to scatter seed upon the ground or plant it in the earth, disseminate" (class VII strong verb; past tense <span class="foreign">seow</span>, past participle <span class="foreign">sawen</span>), from Proto-Germanic <span class="foreign">*sean</span> (cognates: Old Norse <span class="foreign">sa</span>, Old Saxon <span class="foreign">saian</span>, Middle Dutch <span class="foreign">sayen</span>, Dutch <span class="foreign">zaaien</span>, Old High German <span class="foreign">sawen</span>, German <span class="foreign">säen</span>, Gothic <span class="foreign">saian</span>), from PIE root <span class="foreign">*se-</span> (1) "to sow" (cognates: Latin <span class="foreign">sero</span>, past tense <span class="foreign">sevi</span>, past participle <span class="foreign">satum</span> "to sow;" Old Church Slavonic <span class="foreign">sejo</span>, <span class="foreign">sejati</span>; Lithuanian <span class="foreign">seju</span>, <span class="foreign">seti</span> "to sow"), source of <a href="/etym/s/semen" target="_blank">semen</a>, <a href="/etym/s/season" target="_blank">season</a> (n.), <a href="/etym/s/seed" target="_blank">seed</a> (n.), etc. Figurative sense was in Old English.</dd><dt><a target="_blank" href="/etym/s/sow">sow (n.)</a></dt><dd>Old English <span class="foreign">sugu</span>, <span class="foreign">su</span> "female of the swine," from Proto-Germanic <span class="foreign">*su-</span> (cognates: Old Saxon, Old High German <span class="foreign">su</span>, German <span class="foreign">Sau</span>, Dutch <span class="foreign">zeug</span>, Old Norse <span class="foreign">syr</span>), from PIE root <span class="foreign">*su-</span> (cognates: Sanskrit <span class="foreign">sukarah</span> "wild boar, swine;" Avestan <span class="foreign">hu</span> "wild boar;" Greek <span class="foreign">hys</span> "swine;" Latin <span class="foreign">sus</span> "swine," <span class="foreign">swinus</span> "pertaining to swine;" Old Church Slavonic <span class="foreign">svinija</span> "swine;" Lettish <span class="foreign">sivens</span> "young pig;" Welsh <span class="foreign">hucc</span>, Irish <span class="foreign">suig</span> "swine; Old Irish <span class="foreign">socc</span> "snout, plowshare"), possibly imitative of pig noise, a notion reinforced by the fact that Sanskrit <span class="foreign">sukharah</span> means "maker of (the sound) 'su.' " Related to <a href="/etym/s/swine" target="_blank">swine</a>. As a term of abuse for a woman, attested from c. 1500. <span class="foreign">Sow-bug</span> "hog louse" is from 1750.</dd></dl></div></div>
+                                    <div class="page-header"><h3><a href="/liju/w/sow">权威例句</a></h3></div>
+            <div class="row" id="yd-liju">
+                 <dl><dt>1. <b>Sow</b> the seeds in drills about 1/2in. deep and 12in. apart. </dt> <dd>在深约0.5英寸，间隔12英寸的条播沟里播种。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>2. <b>Sow</b> the seed in a warm place in February/March. </dt> <dd>2月或3月里把种子播种在温暖的地方。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>3. The kids need to <b>sow</b> a few wild oats. </dt> <dd>这些小伙子需要放纵一下。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>4. The piglets are taken from the <b>sow</b> to be fattened for market. </dt> <dd>这些小猪被从母猪身边带走，好育肥上市。</dd> <p>来自《权威词典》</p> </dl><dl><dt>5. <b>Sow</b> the seeds in rows. </dt> <dd>一垄一垄地播种。</dd> <p>来自《权威词典》</p> </dl>                 <dl><p>[ <a href="/liju/w/sow">sow 造句</a> ]</p></dl>
+            </div>
+                            </div>
+        <div class="col-sm-4 hidden-xs">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">考试词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/CET4" target="_blank">CET4</a>
+                        <a href="/tags/CET4" target="_blank">四级词汇</a>
+                        <a href="/tags/CET6" target="_blank">CET6</a>
+                        <a href="/tags/CET6" target="_blank">六级词汇</a>
+                        <a href="/tags/TEM4" target="_blank">TEM4</a>
+                        <a href="/tags/TEM4" target="_blank">英专四级</a>
+                        <a href="/tags/TEM8" target="_blank">TEM8</a>
+                        <a href="/tags/TEM8" target="_blank">英专八级</a>
+                        <a href="/tags/kaoyan" target="_blank">考研词汇</a>
+                        <a href="/tags/GRE" target="_blank">GRE 词汇</a>
+                        <a href="/tags/TOEFL" target="_blank">托福词汇</a>
+                        <a href="/tags/IELTS" target="_blank">雅思词汇</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">相关应用</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/kankan" target="_blank">单词连连看</a>
+                        <a href="/verbs" target="_blank">不规则动词表</a>
+                        <a href="/ciku" target="_blank">英语单词大全</a>
+                        <a href="/test" target="_blank">词汇量测试</a>
+                        <a href="/root/root.php" target="_blank">英语词根表</a>
+                        <a href="/chengyu" target="_blank">成语词典</a>
+                        <a href="/cidian" target="_blank">汉语词典</a>
+                        <!-- <a href="http://zh.youdict.com/" target="_blank">萌典</a>
+                        <a href="http://weibo.com/youdict" target="_blank">关注微博</a> -->
+                        <!--
+                        <a href="#" target="_blank">听力测试</a>
+                        <a href="#" target="_blank">看图记单词</a>
+                        -->
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">分类词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/水果" target="_blank">水果</a>
+                        <a href="/tags/蔬菜" target="_blank">蔬菜</a>
+                        <a href="/tags/花" target="_blank">花</a>
+                        <a href="/tags/哺乳动物" target="_blank">哺乳动物</a>
+                        <a href="/tags/家畜家禽" target="_blank">家畜家禽</a>
+                        <a href="/tags/爬行两栖" target="_blank">爬行两栖</a>
+                        <a href="/tags/禽鸟" target="_blank">禽鸟</a>
+                        <a href="/tags/鱼类" target="_blank">鱼类</a>
+                        <a href="/tags/壳类动物" target="_blank">壳类动物</a>
+                        <a href="/tags/昆虫" target="_blank">昆虫</a>
+                        <a href="/tags/树" target="_blank">树</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">随机单词</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags"><a target="_blank" href="/w/unprincipled">unprincipled</a><a target="_blank" href="/w/unprocessed">unprocessed</a><a target="_blank" href="/w/unproductive">unproductive</a><a target="_blank" href="/w/unprofessional">unprofessional</a><a target="_blank" href="/w/unprofitable">unprofitable</a><a target="_blank" href="/w/unpromising">unpromising</a><a target="_blank" href="/w/unprotect">unprotect</a><a target="_blank" href="/w/unprovoked">unprovoked</a><a target="_blank" href="/w/unqualified">unqualified</a><a target="_blank" href="/w/unquestionable">unquestionable</a><a target="_blank" href="/etym/s/build">build</a><a target="_blank" href="/etym/s/build">build</a><a target="_blank" href="/etym/s/build-up">build-up</a><a target="_blank" href="/etym/s/builder">builder</a><a target="_blank" href="/etym/s/building">building</a><a target="_blank" href="/etym/s/built">built</a><a target="_blank" href="/etym/s/bulb">bulb</a><a target="_blank" href="/etym/s/bulbous">bulbous</a><a target="_blank" href="/etym/s/Bulgar">Bulgar</a><a target="_blank" href="/etym/s/Bulgaria">Bulgaria</a><a target="_blank" href="/ciyuan/s/irretrievable">irretrievable</a><a target="_blank" href="/ciyuan/s/irreverent">irreverent</a><a target="_blank" href="/ciyuan/s/irreversible">irreversible</a><a target="_blank" href="/ciyuan/s/irrevocable">irrevocable</a><a target="_blank" href="/ciyuan/s/irrigate">irrigate</a><a target="_blank" href="/ciyuan/s/irritable">irritable</a><a target="_blank" href="/ciyuan/s/irritant">irritant</a><a target="_blank" href="/ciyuan/s/irritate">irritate</a><a target="_blank" href="/ciyuan/s/irrupt">irrupt</a><a target="_blank" href="/ciyuan/s/is">is</a></div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">微信公众号</h2>
+                </div>
+                <div class="panel-body" style="padding:0;">
+                    <img src="/images/qrcode.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div id="copyright">
+        <p>Copyright &copy; 2015 YouDict.com All Rights Reserved. 当前版本: 15.06.11<br>
+            <a href="/ciyuan" target="_blank" title="英语词源字典">词源字典</a>
+            <a href="/root" target="_blank" title="英语词根字典">词根字典</a>
+            <a href="/archive.php" target="_blank" title="词语索引">词语索引</a>
+            <a href="/ciku" target="_blank" title="英语单词大全">英语单词大全</a>
+            <a href="/root/root.php" target="_blank" title="英语词根表">英语词根表</a>
+            <a href="/novel" target="_blank" title="英文小说网">英文小说</a><br>
+            <a href="/map/index.html" target="_blank">网站地图</a>
+            <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XzImNT48NCwwMR8uLnE8MDI">联系我们</a><br>
+            <a href="http://www.miibeian.gov.cn" target="_blank">蜀ICP备12020342号-3</a>
+        </p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    function audio_play (word, type) {
+        var audio_url = 'https://dict.youdao.com/dictvoice?audio=' + word + '&type=' + type;
+        var audio = new Audio(audio_url);
+        audio.play();
+    }
+
+    document.getElementById('yd-search').onsubmit = function() {
+        var word = this.word.value.replace(/\u3000/g, ' ').replace(/(^\s+|\s+$)/g, '');
+        if (word == '') {
+            return false;
+        } else if (word.search(/^[\w \-]+$/) == 0) {
+            top.location.href = '/w/' + encodeURIComponent(word.replace(/ /g, '_'));
+            return false;
+        } else {
+            this.word.value = word.replace(/[\uff01-\uffe1]/g, function(match) {
+                var char_code = match.charCodeAt(0) - 0xfee0;
+                return String.fromCharCode(char_code);
+            });
+        }
+    }
+
+    var transjs = "/js/sttrans.js";
+
+    window.yd_sttrans = function() {
+        var cstt = '';
+        if (window.localStorage) {
+            cstt = window.localStorage.getItem('stt');
+        }
+        var handler = document.getElementById('sttrans');
+
+        var _trans = function(is_trans) {
+            var t = is_trans;
+            if(typeof(trans) == 'undefined') {
+                var jselm = document.createElement('script');
+                jselm = document.body.appendChild(jselm);
+                if(typeof(jselm) != 'undefined') {
+                    jselm.onreadystatechange = function() {
+                        if(this.readyState == 'loaded' || this.readyState == 'complete') {
+                            try {trans(t)} catch(e){}
+                        }
+                    };
+                    jselm.onload = function() {trans(t);};
+                }
+                jselm.src = transjs;
+            } else { trans(t); }
+        };
+
+        if(cstt) {
+            _trans(); if(handler) handler.innerHTML = '简体版';
+        } else {
+            var user_lang = window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
+            if ((user_lang == 'zh-TW') && (cstt !== '')) {
+                _trans(); if(handler) handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        }
+        if(!handler) return;
+
+        var _evth = function () {
+            if(cstt) {
+                _trans(true);handler.innerHTML = '繁體版';
+                cstt = '';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            } else {
+                _trans();handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        };
+        handler.onclick = _evth;
+    };
+    yd_sttrans();
+</script>
+<script src="/lib/jquery/jquery-2.1.4.min.js"></script>
+<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/prompt.js"></script>
+<script type="text/javascript">
+    $('#yd-word-pron').on('click', '.glyphicon-volume-up', function(e){
+        var target = e.target;
+        var word = $('#yd-word').text();
+        if (target.parentNode.className == 'en-UK') {
+            audio_play(word, 1);
+        } else {
+            audio_play(word, 2);
+        }
+    });
+
+    
+    function getMeaning() {
+        var word = $('#word').val().replace(/\u3000/g, ' ').trim();
+        $.getJSON(('https://fanyi.youdao.com/openapi.do?type=data&doctype=jsonp&version=1.1&keyfrom=neteaseopen&key=1532272597&callback=?&q=' + encodeURIComponent(word)), function(data) {
+            if (data.basic) {
+                $('#yd-word-meaning').html('<ul><li>' + data.basic.explains.join('</li><li>') + '</li></ul>');
+                $('#yd-word-meaning li').html(function(index, text) {
+                    return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                });
+            } else {
+                var word_lang = 'en';
+                if (word.search(/[\u4e00-\u9fa5]/) >= 0) {
+                    word_lang = 'zh';
+                }
+                var str_query = encodeURIComponent(word) + '&lang=' + word_lang;
+                $.getJSON(('/ciyuan/ajax-meanings.php?word=' + str_query), function(data) {
+                    if (data.is_success) {
+                        var is_not_have_info = true;
+                        if (data.smart_dict) {
+                            $('#yd-word-meaning').html('<ul style="margin-bottom:15px;"><li>' + data.smart_dict.join('</li><li>') + '</li></ul>');
+                            $('#yd-word-meaning li').html(function(index, text) {
+                                return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                            });
+                            is_not_have_info = false;
+                        }
+
+                        if (data.sug_words) {
+                            var str_html = '<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">搜索建议：</strong>';
+                            data.sug_words.forEach(function(word) {
+                                str_html += '<a href="/w/' + word.replace(/ /g, '_') + '">' + word + '</a>, ';
+                            });
+                            str_html = str_html.slice(0, -2) + '</div></div>';
+                            $('#yd-word-meaning').after(str_html);
+                            is_not_have_info = false;
+                        }
+
+                        if (data.bing_trans) {
+                            var yd_trans = data.bing_trans;
+                            if (word_lang == 'en') {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) >= 0) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            } else {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) == -1) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            }
+                        }
+
+                        if (is_not_have_info) {
+                            $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                        }
+                    } else {
+                        $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                    }
+                });
+            }
+        });
+    }
+
+    $('#yd-etym dt:even, #yd-etym dd:even').addClass('highlight');
+
+    $('#yd-word-info .label').click(function() {
+        var arr_levels = ['CET4', 'CET6', 'TEM4', 'TEM8', '考 研', 'TOEFL', 'IELTS', 'GRE'];
+        var index_level = arr_levels.indexOf(this.textContent.replace('+', '')) + 1;
+        if (index_level) {
+            window.open('/ciku/id_' + index_level + '_0_0_0_0.html');
+        }
+    });
+
+    var img_num = 10, img_current = 1;
+    var img_src = '';
+    var img_prefix = '/images/words/sow';
+    $('#yd-img-nav .yd-img-left').click(function() {
+        img_current--;
+        if (img_current < 1) {
+            img_current = img_num;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    $('#yd-img-nav .yd-img-right').click(function() {
+        img_current++;
+        if (img_current > img_num) {
+            img_current = 1;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    var word_pron = $('#yd-word-pron');
+    var word_pron_text = word_pron.text();
+    var str_affix = '<span class="glyphicon glyphicon-volume-up"></span></span><span class="en-US">';
+    word_pron.html('<span class="en-UK">' + word_pron_text.replace('\n', str_affix) + '<span class="glyphicon glyphicon-volume-up"></span></span>');
+    $('#yd-word-meaning li').html(function(index, text) {
+        return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+    });
+</script>
+<div style="display: none;">
+<script src="https://s4.cnzz.com/stat.php?id=1254976343&web_id=1254976343" language="JavaScript"></script>
+</div>
+</body>
+</html>

@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+
+    <meta name="keywords" content="proud,proud是什么意思,proud的词根词源,proud的用法">
+    <meta name="description" content="优词词典为您提供proud是什么意思,proud的词根词源,proud的用法,记忆方法,怎么读,怎么记,同义词,例句,造句,翻译,含义等单词助记与查询服务。">
+
+    <title>proud是什么意思_proud的词根词源_proud的用法_记忆方法_怎么读_怎么记_同义词_例句_造句_含义_翻译_优词词典</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/youdict.css?20150928">
+        <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="youdict">
+
+<nav class="navbar navbar-inverse" id="yd-navbar">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand visible-xs-inline" href="/">YouDict 优词</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="yd-header-nav">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/" target="_blank">优词词典</a></li>
+            <li><a href="/etym" target="_blank">英语词源</a></li>
+            <li><a href="/ciyuan" target="_blank">词源字典</a></li>
+            <li><a href="/root" target="_blank">词根词缀</a></li>
+            <li><a href="https://movie.douban.com/tv/?from=gaia#!type=tv&tag=美剧&sort=recommend" target="_blank">美剧</a></li>
+            <li><a href="/novel" target="_blank">英文小说</a></li>
+            <li><a href="http://www.chinadaily.com.cn/" target="_blank">国内新闻</a></li>
+            <li><a href="http://www.cnn.com/" target="_blank">国际新闻</a></li>
+            <li><a href="/kankan" target="_blank">单词连连看</a></li>
+            <li><a href="/test" target="_blank">词汇量测试</a></li>
+            <li><a href="/study/course.html" target="_blank">看图背单词</a></li>
+            <li><a href="/chengyu" target="_blank">成语词典</a></li>
+            <li><a href="/cidian" target="_blank">汉语词典</a></li>
+            <li><a href="/redpack.png" target="_blank" style="font-size: 15px;color: #f00;">红包天天领</a></li>
+            <!--
+            <li><a href="/read" target="_blank">阅读</a></li>
+            <li><a href="/game" target="_blank">游戏</a></li>
+            <li><a href="/site" target="_blank">网址导航</a></li>
+            <li><a href="/news" target="_blank">新闻</a></li>
+            -->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0);" id="sttrans">繁体版</a></li>
+            <!--
+            <li><a href="/login" target="_blank">登录</a></li>
+            <li><a href="/register" target="_blank">注册</a></li>
+            -->
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs" id="logo">
+            <a href="/" title="YouDict 优词"><img src="/images/logo.png" class="img-responsive" alt="YouDict 优词"></a>
+        </div>
+        <div class="col-sm-9 col-md-7">
+            <form method="get" action="/search" id="yd-search">
+                <div class="input-group">
+                    <input type="text" class="form-control" onmouseover="this.select();" onfocus="this.select();" autocomplete="off" name="word" id="word" value="proud">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                  </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" id="yd-navbar-links">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-links">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand visible-xs-inline">快捷搜索</span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="yd-header-links">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        双语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="//dict.youdao.com/search?q=proud" target="_blank">有道词典</a></li>
+                        <li><a href="//www.iciba.com/proud" target="_blank">爱词霸</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dict.cn/proud" target="_blank">海词词典</a></li>
+                        <li><a href="//cn.bing.com/dict/search?q=proud" target="_blank">必应词典</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        英语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://en.oxforddictionaries.com/definition/proud" target="_blank">牛津词典</a></li>
+                        <li><a href="https://en.wiktionary.org/wiki/proud" target="_blank">维基词典</a></li>
+                        <li><a href="https://www.google.com/search?q=define+proud" target="_blank">谷歌词典</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dictionary.reference.com/browse/proud" target="_blank">Dictionary.com</a></li>
+                        <li><a href="//www.thefreedictionary.com/proud" target="_blank">The Free Dictionary</a></li>
+                        <li><a href="//www.yourdictionary.com/proud" target="_blank">YourDictionary</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//www.urbandictionary.com/define.php?term=proud" target="_blank">Urban Dictionary</a></li>
+                        <li><a href="//www.onelook.com/?w=proud" target="_blank">OneLook Dictionary</a></li>
+                    </ul>
+                </li>
+                <li><a href="/etym/s/proud" target="_blank">英语词源</a></li>
+                <li><a href="/ciyuan/s/proud" target="_blank">词源字典</a></li>
+                <li><a href="/root/search?wd=proud" target="_blank">词根字典</a></li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        图片搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=proud" target="_blank">百度图片</a></li>
+                        <li><a href="https://image.so.com/i?q=proud" target="_blank">好搜图片</a></li>
+                        <li><a href="https://pic.sogou.com/pics?query=proud" target="_blank">搜狗图片</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/images/search?q=proud" target="_blank">必应图片</a></li>
+                        <li><a href="https://www.google.com/search?tbm=isch&q=proud" target="_blank">谷歌图片</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        网页搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.baidu.com/s?ie=utf-8&wd=proud" target="_blank">百度</a></li>
+                        <li><a href="https://www.so.com/s?q=proud" target="_blank">好搜</a></li>
+                        <li><a href="https://www.sogou.com/web?query=proud" target="_blank">搜狗</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/search?q=proud" target="_blank">必应</a></li>
+                        <li><a href="https://www.google.com/search?q=proud" target="_blank">谷歌</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        极简词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://wordo.co/proud" target="_blank">Wordo</a></li>
+                        <li><a href="http://www.dictionaryinstant.com/dictionary/definition/proud" target="_blank">Dictionary Instant</a></li>
+                    </ul>
+                </li>
+                -->
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        在线翻译 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://fanyi.baidu.com/#en/zh/proud" target="_blank">百度翻译</a></li>
+                        <li><a href="https://translate.google.com/#en/zh-CN/proud" target="_blank">谷歌翻译</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a></li>
+                        <li><a href="https://www.bing.com/translator/" target="_blank">必应翻译</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        影视搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://so.iqiyi.com/so/q_proud" target="_blank">爱奇艺搜索</a></li>
+                        <li><a href="https://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=proud" target="_blank">腾讯视频</a></li>
+                        <li><a href="https://www.hulu.com/search?q=proud" target="_blank">葫芦视频</a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=proud&search_sort=video_view_count" target="_blank">视频搜索</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//search.mtime.com/search/?q=proud" target="_blank">Mtime时光网</a></li>
+                        <li><a href="//www.imdb.com/find?q=proud" target="_blank">互联网电影资料库</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li><a href="#" target="_blank">物品搜索</a></li>
+                -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8" id="yd-content">
+                    <div class="row">
+                                <div class="col-md-7" id="yd-word-info">
+                    <div class="row"><h3 id="yd-word">proud</h3></div>
+                                        <div class="row" id="yd-word-pron">英 [praʊd]
+美 [praʊd]</div>
+                                        <div class="row" id="yd-word-meaning"><ul>
+<li>adj. 自豪的；得意的；自负的</li>
+<li>n. (Proud)人名；(英)普劳德</li>
+</ul></div>
+                                            <div class="row" style="margin-bottom:6px;">
+                            <span class="label label-primary">CET4</span> <span class="label label-success">TEM4</span> <span class="label label-info">考 研</span> <span class="label label-warning">CET6</span>                         </div>
+                                        <div class="row" id="yd-word-tags">
+                                                            <div>使用频率:
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                        </div>
+                                                            <div>星级词汇:
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                            </div>
+                                        </div>
+                </div>
+                                <div class="col-md-5" id="yd-word-img">
+                    <div class="thumbnail">
+                        <img style="width: 300px; height: 200px;" src="/images/words/proud1.jpg" alt="proud" class="center-block" id="word-image">
+                        <div id="yd-img-nav">
+                            <div class="yd-img-left">&laquo;</div>
+                            <span><span id="yd-img-current">1</span> / 10</span>
+                            <div class="yd-img-right">&raquo;</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+                                                <div class="page-header"><h3>中文词源</h3></div>
+            <div class="row" id="yd-ciyuan" style="font-family:SimSun,serif;"><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/proud">proud</a> 自豪的，得意的，自负的</span><p>来自古英语prud,卓越的，壮观的，傲慢的，高傲的，可能来自古法语prud,勇敢的，英勇的，缩写自拉丁语prodesse,有用的，起作用的，来自pro-,向前，在前，代替，esse,存在，成为，词源同essence.</p></div>
+                                                <div class="page-header"><h3>英语词源</h3></div>
+            <div class="row"><div class="thumbnail" id="yd-etym"><dl><dt><a target="_blank" href="/etym/s/proud">proud</a></dt><dd><b>proud: </b><span>[OE] <i>Proud </i>was borrowed in the 10th century from Old French <i>prud</i>. This came from a Vulgar Latin *<i>prōdis</i>, a derivative of Latin <i>prōdesse </i>‘be beneficial’, which was a compound formed from <i>prōd</i>-, a variant of <i>prō</i>- ‘for’, and <i>esse </i>‘be’. The Old French adjective meant ‘good, brave’, and it is thought that the sense ‘having a high opinion of oneself’, which does not occur in Old French but is the earliest recorded in English, may reflect what the Anglo- Saxons thought of Norman nobles who referred to themselves as <i>prud barun </i>or <i>prud chevalier</i>.<br><br>A later form of Old French <i>prud </i>or <i>prod </i>was <i>prou</i>, whose derivative <i>proesce </i>‘bravery’ passed into English as <i>prowess </i>[13]; and English is also indebted to <i>prud </i>for <i>prude</i>.</span><br><span class="cognate">=&gt; <a href="/etym/s/pride" target="_blank">pride</a>, <a href="/etym/s/prowess" target="_blank">prowess</a>, <a href="/etym/s/prude" target="_blank">prude</a></span></dd><dt><a target="_blank" href="/etym/s/proud">proud (adj.)</a></dt><dd>late Old English <span class="foreign">prud</span>, <span class="foreign">prute</span> "excellent, splendid; arrogant, haughty," probably from Old French <span class="foreign">prud</span>, oblique case of adjective <span class="foreign">prouz</span> "brave, valiant" (11c., Modern French <span class="foreign">preux</span>; compare <span class="foreign">prud'homme</span> "brave man"), from Late Latin <span class="foreign">prode</span> "advantageous, profitable" (source also of Italian <span class="foreign">prode</span> "valiant"), a back-formation from Latin <span class="foreign">prodesse</span> "be useful," from <span class="foreign">pro-</span> "before, for, instead of" (see <a href="/etym/s/pro-" target="_blank">pro-</a>) + <span class="foreign">esse</span> "to be" (see <a href="/etym/s/essence" target="_blank">essence</a>). Also see <a href="/etym/s/pride" target="_blank">pride</a> (n.), <a href="/etym/s/prowess" target="_blank">prowess</a>.&#13; <br /><br />&#13; Meaning "elated by some act, fact, or thing" is from mid-13c. To <span class="foreign">do (someone) proud</span> attested by 1819. Related: <span class="foreign">Proudness</span>. "The <span class="foreign">-d-</span> in <span class="foreign">prodesse</span> is probably due to the influence of forms like <span class="foreign">red-eo-</span>, 'I go back,' <span class="foreign">red-imo-</span> 'I buy back,' etc." [OED]. The Old English form with <span class="foreign">-te</span> probably is from or influenced by <span class="foreign">pride</span>.&#13; <br /><br />&#13; The sense of "have a high opinion of oneself," not found in Old French, might reflect the Anglo-Saxons' opinion of the Norman knights who called themselves "<span class="foreign">proud</span>." Old Norse <span class="foreign">pruðr</span>, probably from the same French source, had only the sense "brave, gallant, magnificent, stately" (compare Icelandic <span class="foreign">pruður</span>, Middle Swedish <span class="foreign">prudh</span>, Middle Danish <span class="foreign">prud</span>). Likewise a group of "pride" words in the Romance languages -- such as French <span class="foreign">orgueil</span>, Italian <span class="foreign">orgoglio</span>, Spanish <span class="foreign">orgullo</span> -- are borrowings from Germanic, where they had positive senses (Old High German <span class="foreign">urgol</span> "distinguished").&#13; <br /><br />&#13; Most Indo-European languages use the same word for "proud" in its good and bad senses, but in many the bad sense seems to be the earlier one. The usual way to form the word is by some compound of terms for "over" or "high" and words for "heart," "mood," "thought," or "appearance;" such as Greek <span class="foreign">hyperephanos</span>, literally "over-appearing;" Gothic <span class="foreign">hauhþuhts</span>, literally "high-conscience." Old English had <span class="foreign">ofermodig</span> "over-moody" ("mood" in Anglo-Saxon was a much more potent word than presently) and <span class="foreign">heahheort</span> "high-heart." Words for "proud" in other Indo-European languages sometimes reflect a physical sense of being swollen or puffed up; such as Welsh <span class="foreign">balch</span>, probably from a root meaning "to swell," and Modern Greek <span class="foreign">kamari</span>, from ancient Greek <span class="foreign">kamarou</span> "furnish with a vault or arched cover," with a sense evolution via "make an arch," to "puff out the chest," to "be puffed up" (compare English slang <a href="/etym/s/chesty" target="_blank">chesty</a>).</dd></dl></div></div>
+                                    <div class="page-header"><h3><a href="/liju/w/proud">权威例句</a></h3></div>
+            <div class="row" id="yd-liju">
+                 <dl><dt>1. Derek is now the <b>proud</b> father of a bouncing baby girl. </dt> <dd>德里克现在为有一个健康活泼的女宝宝而骄傲。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>2. She noticed her own <b>proud</b> walk had become a shuffle. </dt> <dd>她意识到自己趾高气扬的步伐已变成了拖着脚走路了。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>3. The handles stand <b>proud</b> of the doors of the car. </dt> <dd>把手位于车门之外。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>4. He is <b>proud</b> of his reputation as a seducer of young women. </dt> <dd>他很得意自己“芳心猎手”这一名声。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>5. They are <b>proud</b> that she is doing well at school. </dt> <dd>他们为她出色的学习成绩感到骄傲。</dd> <p>来自柯林斯例句</p> </dl>                 <dl><p>[ <a href="/liju/w/proud">proud 造句</a> ]</p></dl>
+            </div>
+                            </div>
+        <div class="col-sm-4 hidden-xs">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">考试词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/CET4" target="_blank">CET4</a>
+                        <a href="/tags/CET4" target="_blank">四级词汇</a>
+                        <a href="/tags/CET6" target="_blank">CET6</a>
+                        <a href="/tags/CET6" target="_blank">六级词汇</a>
+                        <a href="/tags/TEM4" target="_blank">TEM4</a>
+                        <a href="/tags/TEM4" target="_blank">英专四级</a>
+                        <a href="/tags/TEM8" target="_blank">TEM8</a>
+                        <a href="/tags/TEM8" target="_blank">英专八级</a>
+                        <a href="/tags/kaoyan" target="_blank">考研词汇</a>
+                        <a href="/tags/GRE" target="_blank">GRE 词汇</a>
+                        <a href="/tags/TOEFL" target="_blank">托福词汇</a>
+                        <a href="/tags/IELTS" target="_blank">雅思词汇</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">相关应用</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/kankan" target="_blank">单词连连看</a>
+                        <a href="/verbs" target="_blank">不规则动词表</a>
+                        <a href="/ciku" target="_blank">英语单词大全</a>
+                        <a href="/test" target="_blank">词汇量测试</a>
+                        <a href="/root/root.php" target="_blank">英语词根表</a>
+                        <a href="/chengyu" target="_blank">成语词典</a>
+                        <a href="/cidian" target="_blank">汉语词典</a>
+                        <!-- <a href="http://zh.youdict.com/" target="_blank">萌典</a>
+                        <a href="http://weibo.com/youdict" target="_blank">关注微博</a> -->
+                        <!--
+                        <a href="#" target="_blank">听力测试</a>
+                        <a href="#" target="_blank">看图记单词</a>
+                        -->
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">分类词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/水果" target="_blank">水果</a>
+                        <a href="/tags/蔬菜" target="_blank">蔬菜</a>
+                        <a href="/tags/花" target="_blank">花</a>
+                        <a href="/tags/哺乳动物" target="_blank">哺乳动物</a>
+                        <a href="/tags/家畜家禽" target="_blank">家畜家禽</a>
+                        <a href="/tags/爬行两栖" target="_blank">爬行两栖</a>
+                        <a href="/tags/禽鸟" target="_blank">禽鸟</a>
+                        <a href="/tags/鱼类" target="_blank">鱼类</a>
+                        <a href="/tags/壳类动物" target="_blank">壳类动物</a>
+                        <a href="/tags/昆虫" target="_blank">昆虫</a>
+                        <a href="/tags/树" target="_blank">树</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">随机单词</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags"><a target="_blank" href="/w/guinea">guinea</a><a target="_blank" href="/w/guinea-pig">guinea-pig</a><a target="_blank" href="/w/guise">guise</a><a target="_blank" href="/w/guitar">guitar</a><a target="_blank" href="/w/guitarist">guitarist</a><a target="_blank" href="/w/gulch">gulch</a><a target="_blank" href="/w/gulf">gulf</a><a target="_blank" href="/w/gull">gull</a><a target="_blank" href="/w/gullible">gullible</a><a target="_blank" href="/w/gully">gully</a><a target="_blank" href="/etym/s/saxifrage">saxifrage</a><a target="_blank" href="/etym/s/saxophone">saxophone</a><a target="_blank" href="/etym/s/say">say</a><a target="_blank" href="/etym/s/scab">scab</a><a target="_blank" href="/etym/s/scabbard">scabbard</a><a target="_blank" href="/etym/s/scabies">scabies</a><a target="_blank" href="/etym/s/scabrous">scabrous</a><a target="_blank" href="/etym/s/scaffold">scaffold</a><a target="_blank" href="/etym/s/scald">scald</a><a target="_blank" href="/etym/s/scale">scale</a><a target="_blank" href="/ciyuan/s/martyred">martyred</a><a target="_blank" href="/ciyuan/s/marvel">marvel</a><a target="_blank" href="/ciyuan/s/marvelous">marvelous</a><a target="_blank" href="/ciyuan/s/Marxism">Marxism</a><a target="_blank" href="/ciyuan/s/Mart">Mart</a><a target="_blank" href="/ciyuan/s/Mary_Celeste">Mary Celeste</a><a target="_blank" href="/ciyuan/s/marzipan">marzipan</a><a target="_blank" href="/ciyuan/s/masala">masala</a><a target="_blank" href="/ciyuan/s/mascara">mascara</a><a target="_blank" href="/ciyuan/s/mascot">mascot</a></div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">微信公众号</h2>
+                </div>
+                <div class="panel-body" style="padding:0;">
+                    <img src="/images/qrcode.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div id="copyright">
+        <p>Copyright &copy; 2015 YouDict.com All Rights Reserved. 当前版本: 15.06.11<br>
+            <a href="/ciyuan" target="_blank" title="英语词源字典">词源字典</a>
+            <a href="/root" target="_blank" title="英语词根字典">词根字典</a>
+            <a href="/archive.php" target="_blank" title="词语索引">词语索引</a>
+            <a href="/ciku" target="_blank" title="英语单词大全">英语单词大全</a>
+            <a href="/root/root.php" target="_blank" title="英语词根表">英语词根表</a>
+            <a href="/novel" target="_blank" title="英文小说网">英文小说</a><br>
+            <a href="/map/index.html" target="_blank">网站地图</a>
+            <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XzImNT48NCwwMR8uLnE8MDI">联系我们</a><br>
+            <a href="http://www.miibeian.gov.cn" target="_blank">蜀ICP备12020342号-3</a>
+        </p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    function audio_play (word, type) {
+        var audio_url = 'https://dict.youdao.com/dictvoice?audio=' + word + '&type=' + type;
+        var audio = new Audio(audio_url);
+        audio.play();
+    }
+
+    document.getElementById('yd-search').onsubmit = function() {
+        var word = this.word.value.replace(/\u3000/g, ' ').replace(/(^\s+|\s+$)/g, '');
+        if (word == '') {
+            return false;
+        } else if (word.search(/^[\w \-]+$/) == 0) {
+            top.location.href = '/w/' + encodeURIComponent(word.replace(/ /g, '_'));
+            return false;
+        } else {
+            this.word.value = word.replace(/[\uff01-\uffe1]/g, function(match) {
+                var char_code = match.charCodeAt(0) - 0xfee0;
+                return String.fromCharCode(char_code);
+            });
+        }
+    }
+
+    var transjs = "/js/sttrans.js";
+
+    window.yd_sttrans = function() {
+        var cstt = '';
+        if (window.localStorage) {
+            cstt = window.localStorage.getItem('stt');
+        }
+        var handler = document.getElementById('sttrans');
+
+        var _trans = function(is_trans) {
+            var t = is_trans;
+            if(typeof(trans) == 'undefined') {
+                var jselm = document.createElement('script');
+                jselm = document.body.appendChild(jselm);
+                if(typeof(jselm) != 'undefined') {
+                    jselm.onreadystatechange = function() {
+                        if(this.readyState == 'loaded' || this.readyState == 'complete') {
+                            try {trans(t)} catch(e){}
+                        }
+                    };
+                    jselm.onload = function() {trans(t);};
+                }
+                jselm.src = transjs;
+            } else { trans(t); }
+        };
+
+        if(cstt) {
+            _trans(); if(handler) handler.innerHTML = '简体版';
+        } else {
+            var user_lang = window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
+            if ((user_lang == 'zh-TW') && (cstt !== '')) {
+                _trans(); if(handler) handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        }
+        if(!handler) return;
+
+        var _evth = function () {
+            if(cstt) {
+                _trans(true);handler.innerHTML = '繁體版';
+                cstt = '';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            } else {
+                _trans();handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        };
+        handler.onclick = _evth;
+    };
+    yd_sttrans();
+</script>
+<script src="/lib/jquery/jquery-2.1.4.min.js"></script>
+<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/prompt.js"></script>
+<script type="text/javascript">
+    $('#yd-word-pron').on('click', '.glyphicon-volume-up', function(e){
+        var target = e.target;
+        var word = $('#yd-word').text();
+        if (target.parentNode.className == 'en-UK') {
+            audio_play(word, 1);
+        } else {
+            audio_play(word, 2);
+        }
+    });
+
+    
+    function getMeaning() {
+        var word = $('#word').val().replace(/\u3000/g, ' ').trim();
+        $.getJSON(('https://fanyi.youdao.com/openapi.do?type=data&doctype=jsonp&version=1.1&keyfrom=neteaseopen&key=1532272597&callback=?&q=' + encodeURIComponent(word)), function(data) {
+            if (data.basic) {
+                $('#yd-word-meaning').html('<ul><li>' + data.basic.explains.join('</li><li>') + '</li></ul>');
+                $('#yd-word-meaning li').html(function(index, text) {
+                    return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                });
+            } else {
+                var word_lang = 'en';
+                if (word.search(/[\u4e00-\u9fa5]/) >= 0) {
+                    word_lang = 'zh';
+                }
+                var str_query = encodeURIComponent(word) + '&lang=' + word_lang;
+                $.getJSON(('/ciyuan/ajax-meanings.php?word=' + str_query), function(data) {
+                    if (data.is_success) {
+                        var is_not_have_info = true;
+                        if (data.smart_dict) {
+                            $('#yd-word-meaning').html('<ul style="margin-bottom:15px;"><li>' + data.smart_dict.join('</li><li>') + '</li></ul>');
+                            $('#yd-word-meaning li').html(function(index, text) {
+                                return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                            });
+                            is_not_have_info = false;
+                        }
+
+                        if (data.sug_words) {
+                            var str_html = '<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">搜索建议：</strong>';
+                            data.sug_words.forEach(function(word) {
+                                str_html += '<a href="/w/' + word.replace(/ /g, '_') + '">' + word + '</a>, ';
+                            });
+                            str_html = str_html.slice(0, -2) + '</div></div>';
+                            $('#yd-word-meaning').after(str_html);
+                            is_not_have_info = false;
+                        }
+
+                        if (data.bing_trans) {
+                            var yd_trans = data.bing_trans;
+                            if (word_lang == 'en') {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) >= 0) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            } else {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) == -1) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            }
+                        }
+
+                        if (is_not_have_info) {
+                            $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                        }
+                    } else {
+                        $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                    }
+                });
+            }
+        });
+    }
+
+    $('#yd-etym dt:even, #yd-etym dd:even').addClass('highlight');
+
+    $('#yd-word-info .label').click(function() {
+        var arr_levels = ['CET4', 'CET6', 'TEM4', 'TEM8', '考 研', 'TOEFL', 'IELTS', 'GRE'];
+        var index_level = arr_levels.indexOf(this.textContent.replace('+', '')) + 1;
+        if (index_level) {
+            window.open('/ciku/id_' + index_level + '_0_0_0_0.html');
+        }
+    });
+
+    var img_num = 10, img_current = 1;
+    var img_src = '';
+    var img_prefix = '/images/words/proud';
+    $('#yd-img-nav .yd-img-left').click(function() {
+        img_current--;
+        if (img_current < 1) {
+            img_current = img_num;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    $('#yd-img-nav .yd-img-right').click(function() {
+        img_current++;
+        if (img_current > img_num) {
+            img_current = 1;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    var word_pron = $('#yd-word-pron');
+    var word_pron_text = word_pron.text();
+    var str_affix = '<span class="glyphicon glyphicon-volume-up"></span></span><span class="en-US">';
+    word_pron.html('<span class="en-UK">' + word_pron_text.replace('\n', str_affix) + '<span class="glyphicon glyphicon-volume-up"></span></span>');
+    $('#yd-word-meaning li').html(function(index, text) {
+        return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+    });
+</script>
+<div style="display: none;">
+<script src="https://s4.cnzz.com/stat.php?id=1254976343&web_id=1254976343" language="JavaScript"></script>
+</div>
+</body>
+</html>

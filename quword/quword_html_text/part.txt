@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+
+    <meta name="keywords" content="part,part是什么意思,part的词根词源,part的用法">
+    <meta name="description" content="优词词典为您提供part是什么意思,part的词根词源,part的用法,记忆方法,怎么读,怎么记,同义词,例句,造句,翻译,含义等单词助记与查询服务。">
+
+    <title>part是什么意思_part的词根词源_part的用法_记忆方法_怎么读_怎么记_同义词_例句_造句_含义_翻译_优词词典</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/youdict.css?20150928">
+        <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="youdict">
+
+<nav class="navbar navbar-inverse" id="yd-navbar">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand visible-xs-inline" href="/">YouDict 优词</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="yd-header-nav">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/" target="_blank">优词词典</a></li>
+            <li><a href="/etym" target="_blank">英语词源</a></li>
+            <li><a href="/ciyuan" target="_blank">词源字典</a></li>
+            <li><a href="/root" target="_blank">词根词缀</a></li>
+            <li><a href="https://movie.douban.com/tv/?from=gaia#!type=tv&tag=美剧&sort=recommend" target="_blank">美剧</a></li>
+            <li><a href="/novel" target="_blank">英文小说</a></li>
+            <li><a href="http://www.chinadaily.com.cn/" target="_blank">国内新闻</a></li>
+            <li><a href="http://www.cnn.com/" target="_blank">国际新闻</a></li>
+            <li><a href="/kankan" target="_blank">单词连连看</a></li>
+            <li><a href="/test" target="_blank">词汇量测试</a></li>
+            <li><a href="/study/course.html" target="_blank">看图背单词</a></li>
+            <li><a href="/chengyu" target="_blank">成语词典</a></li>
+            <li><a href="/cidian" target="_blank">汉语词典</a></li>
+            <li><a href="/redpack.png" target="_blank" style="font-size: 15px;color: #f00;">红包天天领</a></li>
+            <!--
+            <li><a href="/read" target="_blank">阅读</a></li>
+            <li><a href="/game" target="_blank">游戏</a></li>
+            <li><a href="/site" target="_blank">网址导航</a></li>
+            <li><a href="/news" target="_blank">新闻</a></li>
+            -->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0);" id="sttrans">繁体版</a></li>
+            <!--
+            <li><a href="/login" target="_blank">登录</a></li>
+            <li><a href="/register" target="_blank">注册</a></li>
+            -->
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs" id="logo">
+            <a href="/" title="YouDict 优词"><img src="/images/logo.png" class="img-responsive" alt="YouDict 优词"></a>
+        </div>
+        <div class="col-sm-9 col-md-7">
+            <form method="get" action="/search" id="yd-search">
+                <div class="input-group">
+                    <input type="text" class="form-control" onmouseover="this.select();" onfocus="this.select();" autocomplete="off" name="word" id="word" value="part">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                  </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" id="yd-navbar-links">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-links">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand visible-xs-inline">快捷搜索</span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="yd-header-links">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        双语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="//dict.youdao.com/search?q=part" target="_blank">有道词典</a></li>
+                        <li><a href="//www.iciba.com/part" target="_blank">爱词霸</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dict.cn/part" target="_blank">海词词典</a></li>
+                        <li><a href="//cn.bing.com/dict/search?q=part" target="_blank">必应词典</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        英语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://en.oxforddictionaries.com/definition/part" target="_blank">牛津词典</a></li>
+                        <li><a href="https://en.wiktionary.org/wiki/part" target="_blank">维基词典</a></li>
+                        <li><a href="https://www.google.com/search?q=define+part" target="_blank">谷歌词典</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dictionary.reference.com/browse/part" target="_blank">Dictionary.com</a></li>
+                        <li><a href="//www.thefreedictionary.com/part" target="_blank">The Free Dictionary</a></li>
+                        <li><a href="//www.yourdictionary.com/part" target="_blank">YourDictionary</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//www.urbandictionary.com/define.php?term=part" target="_blank">Urban Dictionary</a></li>
+                        <li><a href="//www.onelook.com/?w=part" target="_blank">OneLook Dictionary</a></li>
+                    </ul>
+                </li>
+                <li><a href="/etym/s/part" target="_blank">英语词源</a></li>
+                <li><a href="/ciyuan/s/part" target="_blank">词源字典</a></li>
+                <li><a href="/root/search?wd=part" target="_blank">词根字典</a></li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        图片搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=part" target="_blank">百度图片</a></li>
+                        <li><a href="https://image.so.com/i?q=part" target="_blank">好搜图片</a></li>
+                        <li><a href="https://pic.sogou.com/pics?query=part" target="_blank">搜狗图片</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/images/search?q=part" target="_blank">必应图片</a></li>
+                        <li><a href="https://www.google.com/search?tbm=isch&q=part" target="_blank">谷歌图片</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        网页搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.baidu.com/s?ie=utf-8&wd=part" target="_blank">百度</a></li>
+                        <li><a href="https://www.so.com/s?q=part" target="_blank">好搜</a></li>
+                        <li><a href="https://www.sogou.com/web?query=part" target="_blank">搜狗</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/search?q=part" target="_blank">必应</a></li>
+                        <li><a href="https://www.google.com/search?q=part" target="_blank">谷歌</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        极简词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://wordo.co/part" target="_blank">Wordo</a></li>
+                        <li><a href="http://www.dictionaryinstant.com/dictionary/definition/part" target="_blank">Dictionary Instant</a></li>
+                    </ul>
+                </li>
+                -->
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        在线翻译 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://fanyi.baidu.com/#en/zh/part" target="_blank">百度翻译</a></li>
+                        <li><a href="https://translate.google.com/#en/zh-CN/part" target="_blank">谷歌翻译</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a></li>
+                        <li><a href="https://www.bing.com/translator/" target="_blank">必应翻译</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        影视搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://so.iqiyi.com/so/q_part" target="_blank">爱奇艺搜索</a></li>
+                        <li><a href="https://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=part" target="_blank">腾讯视频</a></li>
+                        <li><a href="https://www.hulu.com/search?q=part" target="_blank">葫芦视频</a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=part&search_sort=video_view_count" target="_blank">视频搜索</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//search.mtime.com/search/?q=part" target="_blank">Mtime时光网</a></li>
+                        <li><a href="//www.imdb.com/find?q=part" target="_blank">互联网电影资料库</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li><a href="#" target="_blank">物品搜索</a></li>
+                -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8" id="yd-content">
+                    <div class="row">
+                                <div class="col-md-7" id="yd-word-info">
+                    <div class="row"><h3 id="yd-word">part</h3></div>
+                                        <div class="row" id="yd-word-pron">英 [pɑːt]
+美 [pɑrt]</div>
+                                        <div class="row" id="yd-word-meaning"><ul>
+<li>n. 部分；角色；零件</li>
+<li>vt. 分离；分配；分开</li>
+<li>vi. 断裂；分手</li>
+<li>adv. 部分地</li>
+<li>adj. 部分的</li>
+<li>n. (Part)人名；(英、瑞典)帕特；(泰)巴；(法)帕尔</li>
+</ul></div>
+                                            <div class="row" style="margin-bottom:6px;">
+                            <span class="label label-primary">CET4</span> <span class="label label-success">TEM4</span> <span class="label label-info">IELTS</span> <span class="label label-warning">考 研</span> <span class="label label-primary">CET6</span>                         </div>
+                                        <div class="row" id="yd-word-tags">
+                                                            <div>使用频率:
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                        </div>
+                                                            <div>星级词汇:
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                            </div>
+                                        </div>
+                </div>
+                                <div class="col-md-5" id="yd-word-img">
+                    <div class="thumbnail">
+                        <img style="width: 300px; height: 200px;" src="/images/words/part1.jpg" alt="part" class="center-block" id="word-image">
+                        <div id="yd-img-nav">
+                            <div class="yd-img-left">&laquo;</div>
+                            <span><span id="yd-img-current">1</span> / 10</span>
+                            <div class="yd-img-right">&raquo;</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+                                                <div class="page-header"><h3>中文词源</h3></div>
+            <div class="row" id="yd-ciyuan" style="font-family:SimSun,serif;"><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/part">part</a> 分开，部分，零件</span><p>来自拉丁语partem,分开，部分，部件，来自PIE*pere,分配，切割，词源同pair,portion.引申诸相关词义。</p></div>
+                                                <div class="page-header"><h3>英语词源</h3></div>
+            <div class="row"><div class="thumbnail" id="yd-etym"><dl><dt><a target="_blank" href="/etym/s/part">part</a></dt><dd><b>part: </b><span>[13] Latin <i>pars</i>, a possible relative of <i>parāre </i>‘make ready’ (source of English <i>prepare</i>), had a wide range of meanings – ‘piece’, ‘side’, ‘share’, etc – many of them shared by its English descendant <i>part</i>. The word was originally acquired in the late Old English period, but does not seem to have survived, and as we now have it was reborrowed via Old French <i>part </i>in the 13th century.<br><br>Other English descendants of <i>pars </i>include <i>parcel</i>, <i>parse </i>[16] (based on the notion of ‘parts’ of speech), <i>partake </i>[16] (a backformation from <i>partaker </i>[14], itself created from <i>part </i>and <i>taker</i>), <i>partial </i>[15], <i>participate</i>, <i>participle</i>, <i>particle</i>, <i>particular</i>, <i>partisan</i>, <i>partition</i>, <i>partner</i>, and <i>party</i>.</span><br><span class="cognate">=&gt; <a href="/etym/s/parcel" target="_blank">parcel</a>, <a href="/etym/s/parse" target="_blank">parse</a>, <a href="/etym/s/partial" target="_blank">partial</a>, <a href="/etym/s/particle" target="_blank">particle</a>, <a href="/etym/s/partisan" target="_blank">partisan</a>, <a href="/etym/s/partner" target="_blank">partner</a>, <a href="/etym/s/party" target="_blank">party</a></span></dd><dt><a target="_blank" href="/etym/s/part">part (n.)</a></dt><dd>mid-13c., "division, portion of a whole," from Old French <span class="foreign">part</span> "share, portion; character; power, dominion; side, way, path," from Latin <span class="foreign">partem</span> (nominative <span class="foreign">pars</span>) "a part, piece, a share, a division; a party or faction; a part of the body; a fraction; a function, office," related to <span class="foreign">portio</span> "share, portion," from PIE root <span class="foreign">*pere-</span> (2) "to assign, grant, allot" (reciprocally, "to get in return;" cognates: Greek <span class="foreign">peprotai</span> "it has been granted," Sanskrit <span class="foreign">purtam</span> "reward," Hittite <span class="foreign">parshiya-</span> "fraction, part").&#13; <br /><br />&#13; It has replaced native <a href="/etym/s/deal" target="_blank">deal</a> (n.) in most senses. Theatrical sense (late 15c.) is from an actor's "share" in a performance (The Latin plural <span class="foreign">partis</span> was used in the same sense). Meaning "the parting of the hair" is 1890, American English.&#13; <br /><br />&#13; As an adjective from 1590s. Late Old English <span class="foreign">part</span> "part of speech" did not survive and the modern word is considered a separate borrowing. Phrase <span class="foreign">for the most part</span> is from late 14c. To <span class="foreign">take part</span> "participate" is from late 14c.</dd><dt><a target="_blank" href="/etym/s/part">part (v.)</a></dt><dd>c. 1200, "to divide into parts; separate oneself," from Old French <span class="foreign">partir</span> "to divide, separate" (10c.), from Latin <span class="foreign">partire</span>, <span class="foreign">partere</span> "to share, part, distribute, divide," from <span class="foreign">pars</span> (see <a href="/etym/s/part" target="_blank">part</a> (n.)).&#13; <br /><br />&#13; Sense of "to separate (someone from someone else)" is from early 14c.; that of "to take leave" is from early 15c. Meaning "to separate the hair" is attested from 1610s. Related: <span class="foreign">Parted</span>; <span class="foreign">parting</span>. To <span class="foreign">part with</span> "surrender" is from c. 1300.</dd></dl></div></div>
+                                    <div class="page-header"><h3><a href="/liju/w/part">权威例句</a></h3></div>
+            <div class="row" id="yd-liju">
+                 <dl><dt>1. These days work plays an important <b>part</b> in a single woman's life. </dt> <dd>现在，工作在单身女性的生活中起着重要作用。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>2. He was in large <b>part</b> a journalist and propagandist. </dt> <dd>他很大程度上是个新闻记者和宣传者。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>3. 673 private golf clubs took <b>part</b> in a recent study. </dt> <dd>673家私人高尔夫俱乐部参与了最近的研究。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>4. He did <b>part</b>-time work as an usher in a theatre. </dt> <dd>他在一家戏院兼职当引座员。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>5. The western-most <b>part</b> of north Wales is a stronghold of Welsh-speakers. </dt> <dd>北威尔士最西部是说威尔士语人的聚居区。</dd> <p>来自柯林斯例句</p> </dl>                 <dl><p>[ <a href="/liju/w/part">part 造句</a> ]</p></dl>
+            </div>
+                            </div>
+        <div class="col-sm-4 hidden-xs">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">考试词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/CET4" target="_blank">CET4</a>
+                        <a href="/tags/CET4" target="_blank">四级词汇</a>
+                        <a href="/tags/CET6" target="_blank">CET6</a>
+                        <a href="/tags/CET6" target="_blank">六级词汇</a>
+                        <a href="/tags/TEM4" target="_blank">TEM4</a>
+                        <a href="/tags/TEM4" target="_blank">英专四级</a>
+                        <a href="/tags/TEM8" target="_blank">TEM8</a>
+                        <a href="/tags/TEM8" target="_blank">英专八级</a>
+                        <a href="/tags/kaoyan" target="_blank">考研词汇</a>
+                        <a href="/tags/GRE" target="_blank">GRE 词汇</a>
+                        <a href="/tags/TOEFL" target="_blank">托福词汇</a>
+                        <a href="/tags/IELTS" target="_blank">雅思词汇</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">相关应用</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/kankan" target="_blank">单词连连看</a>
+                        <a href="/verbs" target="_blank">不规则动词表</a>
+                        <a href="/ciku" target="_blank">英语单词大全</a>
+                        <a href="/test" target="_blank">词汇量测试</a>
+                        <a href="/root/root.php" target="_blank">英语词根表</a>
+                        <a href="/chengyu" target="_blank">成语词典</a>
+                        <a href="/cidian" target="_blank">汉语词典</a>
+                        <!-- <a href="http://zh.youdict.com/" target="_blank">萌典</a>
+                        <a href="http://weibo.com/youdict" target="_blank">关注微博</a> -->
+                        <!--
+                        <a href="#" target="_blank">听力测试</a>
+                        <a href="#" target="_blank">看图记单词</a>
+                        -->
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">分类词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/水果" target="_blank">水果</a>
+                        <a href="/tags/蔬菜" target="_blank">蔬菜</a>
+                        <a href="/tags/花" target="_blank">花</a>
+                        <a href="/tags/哺乳动物" target="_blank">哺乳动物</a>
+                        <a href="/tags/家畜家禽" target="_blank">家畜家禽</a>
+                        <a href="/tags/爬行两栖" target="_blank">爬行两栖</a>
+                        <a href="/tags/禽鸟" target="_blank">禽鸟</a>
+                        <a href="/tags/鱼类" target="_blank">鱼类</a>
+                        <a href="/tags/壳类动物" target="_blank">壳类动物</a>
+                        <a href="/tags/昆虫" target="_blank">昆虫</a>
+                        <a href="/tags/树" target="_blank">树</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">随机单词</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags"><a target="_blank" href="/w/hydro-electric">hydro-electric</a><a target="_blank" href="/w/hydrocarbon">hydrocarbon</a><a target="_blank" href="/w/hydrochloric">hydrochloric</a><a target="_blank" href="/w/hydroelectric">hydroelectric</a><a target="_blank" href="/w/hydroelectricity">hydroelectricity</a><a target="_blank" href="/w/hydrogen">hydrogen</a><a target="_blank" href="/w/hydrolysis">hydrolysis</a><a target="_blank" href="/w/hydrophobia">hydrophobia</a><a target="_blank" href="/w/hydropic">hydropic</a><a target="_blank" href="/w/hydroponic">hydroponic</a><a target="_blank" href="/etym/s/millage">millage</a><a target="_blank" href="/etym/s/millenarian">millenarian</a><a target="_blank" href="/etym/s/millenary">millenary</a><a target="_blank" href="/etym/s/millennia">millennia</a><a target="_blank" href="/etym/s/millennial">millennial</a><a target="_blank" href="/etym/s/millennialism">millennialism</a><a target="_blank" href="/etym/s/millennium">millennium</a><a target="_blank" href="/etym/s/miller">miller</a><a target="_blank" href="/etym/s/millet">millet</a><a target="_blank" href="/etym/s/milli-">milli-</a><a target="_blank" href="/ciyuan/s/carboniferous">carboniferous</a><a target="_blank" href="/ciyuan/s/carbonise">carbonise</a><a target="_blank" href="/ciyuan/s/carbonize">carbonize</a><a target="_blank" href="/ciyuan/s/card">card</a><a target="_blank" href="/ciyuan/s/cardiac">cardiac</a><a target="_blank" href="/ciyuan/s/cardinal">cardinal</a><a target="_blank" href="/ciyuan/s/care">care</a><a target="_blank" href="/ciyuan/s/career">career</a><a target="_blank" href="/ciyuan/s/carefree">carefree</a><a target="_blank" href="/ciyuan/s/careful">careful</a></div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">微信公众号</h2>
+                </div>
+                <div class="panel-body" style="padding:0;">
+                    <img src="/images/qrcode.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div id="copyright">
+        <p>Copyright &copy; 2015 YouDict.com All Rights Reserved. 当前版本: 15.06.11<br>
+            <a href="/ciyuan" target="_blank" title="英语词源字典">词源字典</a>
+            <a href="/root" target="_blank" title="英语词根字典">词根字典</a>
+            <a href="/archive.php" target="_blank" title="词语索引">词语索引</a>
+            <a href="/ciku" target="_blank" title="英语单词大全">英语单词大全</a>
+            <a href="/root/root.php" target="_blank" title="英语词根表">英语词根表</a>
+            <a href="/novel" target="_blank" title="英文小说网">英文小说</a><br>
+            <a href="/map/index.html" target="_blank">网站地图</a>
+            <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XzImNT48NCwwMR8uLnE8MDI">联系我们</a><br>
+            <a href="http://www.miibeian.gov.cn" target="_blank">蜀ICP备12020342号-3</a>
+        </p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    function audio_play (word, type) {
+        var audio_url = 'https://dict.youdao.com/dictvoice?audio=' + word + '&type=' + type;
+        var audio = new Audio(audio_url);
+        audio.play();
+    }
+
+    document.getElementById('yd-search').onsubmit = function() {
+        var word = this.word.value.replace(/\u3000/g, ' ').replace(/(^\s+|\s+$)/g, '');
+        if (word == '') {
+            return false;
+        } else if (word.search(/^[\w \-]+$/) == 0) {
+            top.location.href = '/w/' + encodeURIComponent(word.replace(/ /g, '_'));
+            return false;
+        } else {
+            this.word.value = word.replace(/[\uff01-\uffe1]/g, function(match) {
+                var char_code = match.charCodeAt(0) - 0xfee0;
+                return String.fromCharCode(char_code);
+            });
+        }
+    }
+
+    var transjs = "/js/sttrans.js";
+
+    window.yd_sttrans = function() {
+        var cstt = '';
+        if (window.localStorage) {
+            cstt = window.localStorage.getItem('stt');
+        }
+        var handler = document.getElementById('sttrans');
+
+        var _trans = function(is_trans) {
+            var t = is_trans;
+            if(typeof(trans) == 'undefined') {
+                var jselm = document.createElement('script');
+                jselm = document.body.appendChild(jselm);
+                if(typeof(jselm) != 'undefined') {
+                    jselm.onreadystatechange = function() {
+                        if(this.readyState == 'loaded' || this.readyState == 'complete') {
+                            try {trans(t)} catch(e){}
+                        }
+                    };
+                    jselm.onload = function() {trans(t);};
+                }
+                jselm.src = transjs;
+            } else { trans(t); }
+        };
+
+        if(cstt) {
+            _trans(); if(handler) handler.innerHTML = '简体版';
+        } else {
+            var user_lang = window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
+            if ((user_lang == 'zh-TW') && (cstt !== '')) {
+                _trans(); if(handler) handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        }
+        if(!handler) return;
+
+        var _evth = function () {
+            if(cstt) {
+                _trans(true);handler.innerHTML = '繁體版';
+                cstt = '';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            } else {
+                _trans();handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        };
+        handler.onclick = _evth;
+    };
+    yd_sttrans();
+</script>
+<script src="/lib/jquery/jquery-2.1.4.min.js"></script>
+<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/prompt.js"></script>
+<script type="text/javascript">
+    $('#yd-word-pron').on('click', '.glyphicon-volume-up', function(e){
+        var target = e.target;
+        var word = $('#yd-word').text();
+        if (target.parentNode.className == 'en-UK') {
+            audio_play(word, 1);
+        } else {
+            audio_play(word, 2);
+        }
+    });
+
+    
+    function getMeaning() {
+        var word = $('#word').val().replace(/\u3000/g, ' ').trim();
+        $.getJSON(('https://fanyi.youdao.com/openapi.do?type=data&doctype=jsonp&version=1.1&keyfrom=neteaseopen&key=1532272597&callback=?&q=' + encodeURIComponent(word)), function(data) {
+            if (data.basic) {
+                $('#yd-word-meaning').html('<ul><li>' + data.basic.explains.join('</li><li>') + '</li></ul>');
+                $('#yd-word-meaning li').html(function(index, text) {
+                    return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                });
+            } else {
+                var word_lang = 'en';
+                if (word.search(/[\u4e00-\u9fa5]/) >= 0) {
+                    word_lang = 'zh';
+                }
+                var str_query = encodeURIComponent(word) + '&lang=' + word_lang;
+                $.getJSON(('/ciyuan/ajax-meanings.php?word=' + str_query), function(data) {
+                    if (data.is_success) {
+                        var is_not_have_info = true;
+                        if (data.smart_dict) {
+                            $('#yd-word-meaning').html('<ul style="margin-bottom:15px;"><li>' + data.smart_dict.join('</li><li>') + '</li></ul>');
+                            $('#yd-word-meaning li').html(function(index, text) {
+                                return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                            });
+                            is_not_have_info = false;
+                        }
+
+                        if (data.sug_words) {
+                            var str_html = '<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">搜索建议：</strong>';
+                            data.sug_words.forEach(function(word) {
+                                str_html += '<a href="/w/' + word.replace(/ /g, '_') + '">' + word + '</a>, ';
+                            });
+                            str_html = str_html.slice(0, -2) + '</div></div>';
+                            $('#yd-word-meaning').after(str_html);
+                            is_not_have_info = false;
+                        }
+
+                        if (data.bing_trans) {
+                            var yd_trans = data.bing_trans;
+                            if (word_lang == 'en') {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) >= 0) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            } else {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) == -1) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            }
+                        }
+
+                        if (is_not_have_info) {
+                            $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                        }
+                    } else {
+                        $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                    }
+                });
+            }
+        });
+    }
+
+    $('#yd-etym dt:even, #yd-etym dd:even').addClass('highlight');
+
+    $('#yd-word-info .label').click(function() {
+        var arr_levels = ['CET4', 'CET6', 'TEM4', 'TEM8', '考 研', 'TOEFL', 'IELTS', 'GRE'];
+        var index_level = arr_levels.indexOf(this.textContent.replace('+', '')) + 1;
+        if (index_level) {
+            window.open('/ciku/id_' + index_level + '_0_0_0_0.html');
+        }
+    });
+
+    var img_num = 10, img_current = 1;
+    var img_src = '';
+    var img_prefix = '/images/words/part';
+    $('#yd-img-nav .yd-img-left').click(function() {
+        img_current--;
+        if (img_current < 1) {
+            img_current = img_num;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    $('#yd-img-nav .yd-img-right').click(function() {
+        img_current++;
+        if (img_current > img_num) {
+            img_current = 1;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    var word_pron = $('#yd-word-pron');
+    var word_pron_text = word_pron.text();
+    var str_affix = '<span class="glyphicon glyphicon-volume-up"></span></span><span class="en-US">';
+    word_pron.html('<span class="en-UK">' + word_pron_text.replace('\n', str_affix) + '<span class="glyphicon glyphicon-volume-up"></span></span>');
+    $('#yd-word-meaning li').html(function(index, text) {
+        return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+    });
+</script>
+<div style="display: none;">
+<script src="https://s4.cnzz.com/stat.php?id=1254976343&web_id=1254976343" language="JavaScript"></script>
+</div>
+</body>
+</html>

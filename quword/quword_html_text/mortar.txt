@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+
+    <meta name="keywords" content="mortar,mortar是什么意思,mortar的词根词源,mortar的用法">
+    <meta name="description" content="优词词典为您提供mortar是什么意思,mortar的词根词源,mortar的用法,记忆方法,怎么读,怎么记,同义词,例句,造句,翻译,含义等单词助记与查询服务。">
+
+    <title>mortar是什么意思_mortar的词根词源_mortar的用法_记忆方法_怎么读_怎么记_同义词_例句_造句_含义_翻译_优词词典</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/youdict.css?20150928">
+        <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="youdict">
+
+<nav class="navbar navbar-inverse" id="yd-navbar">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand visible-xs-inline" href="/">YouDict 优词</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="yd-header-nav">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/" target="_blank">优词词典</a></li>
+            <li><a href="/etym" target="_blank">英语词源</a></li>
+            <li><a href="/ciyuan" target="_blank">词源字典</a></li>
+            <li><a href="/root" target="_blank">词根词缀</a></li>
+            <li><a href="https://movie.douban.com/tv/?from=gaia#!type=tv&tag=美剧&sort=recommend" target="_blank">美剧</a></li>
+            <li><a href="/novel" target="_blank">英文小说</a></li>
+            <li><a href="http://www.chinadaily.com.cn/" target="_blank">国内新闻</a></li>
+            <li><a href="http://www.cnn.com/" target="_blank">国际新闻</a></li>
+            <li><a href="/kankan" target="_blank">单词连连看</a></li>
+            <li><a href="/test" target="_blank">词汇量测试</a></li>
+            <li><a href="/study/course.html" target="_blank">看图背单词</a></li>
+            <li><a href="/chengyu" target="_blank">成语词典</a></li>
+            <li><a href="/cidian" target="_blank">汉语词典</a></li>
+            <li><a href="/redpack.png" target="_blank" style="font-size: 15px;color: #f00;">红包天天领</a></li>
+            <!--
+            <li><a href="/read" target="_blank">阅读</a></li>
+            <li><a href="/game" target="_blank">游戏</a></li>
+            <li><a href="/site" target="_blank">网址导航</a></li>
+            <li><a href="/news" target="_blank">新闻</a></li>
+            -->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0);" id="sttrans">繁体版</a></li>
+            <!--
+            <li><a href="/login" target="_blank">登录</a></li>
+            <li><a href="/register" target="_blank">注册</a></li>
+            -->
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs" id="logo">
+            <a href="/" title="YouDict 优词"><img src="/images/logo.png" class="img-responsive" alt="YouDict 优词"></a>
+        </div>
+        <div class="col-sm-9 col-md-7">
+            <form method="get" action="/search" id="yd-search">
+                <div class="input-group">
+                    <input type="text" class="form-control" onmouseover="this.select();" onfocus="this.select();" autocomplete="off" name="word" id="word" value="mortar">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                  </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" id="yd-navbar-links">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#yd-header-links">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand visible-xs-inline">快捷搜索</span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="yd-header-links">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        双语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="//dict.youdao.com/search?q=mortar" target="_blank">有道词典</a></li>
+                        <li><a href="//www.iciba.com/mortar" target="_blank">爱词霸</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dict.cn/mortar" target="_blank">海词词典</a></li>
+                        <li><a href="//cn.bing.com/dict/search?q=mortar" target="_blank">必应词典</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        英语词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://en.oxforddictionaries.com/definition/mortar" target="_blank">牛津词典</a></li>
+                        <li><a href="https://en.wiktionary.org/wiki/mortar" target="_blank">维基词典</a></li>
+                        <li><a href="https://www.google.com/search?q=define+mortar" target="_blank">谷歌词典</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//dictionary.reference.com/browse/mortar" target="_blank">Dictionary.com</a></li>
+                        <li><a href="//www.thefreedictionary.com/mortar" target="_blank">The Free Dictionary</a></li>
+                        <li><a href="//www.yourdictionary.com/mortar" target="_blank">YourDictionary</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//www.urbandictionary.com/define.php?term=mortar" target="_blank">Urban Dictionary</a></li>
+                        <li><a href="//www.onelook.com/?w=mortar" target="_blank">OneLook Dictionary</a></li>
+                    </ul>
+                </li>
+                <li><a href="/etym/s/mortar" target="_blank">英语词源</a></li>
+                <li><a href="/ciyuan/s/mortar" target="_blank">词源字典</a></li>
+                <li><a href="/root/search?wd=mortar" target="_blank">词根字典</a></li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        图片搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=mortar" target="_blank">百度图片</a></li>
+                        <li><a href="https://image.so.com/i?q=mortar" target="_blank">好搜图片</a></li>
+                        <li><a href="https://pic.sogou.com/pics?query=mortar" target="_blank">搜狗图片</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/images/search?q=mortar" target="_blank">必应图片</a></li>
+                        <li><a href="https://www.google.com/search?tbm=isch&q=mortar" target="_blank">谷歌图片</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        网页搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.baidu.com/s?ie=utf-8&wd=mortar" target="_blank">百度</a></li>
+                        <li><a href="https://www.so.com/s?q=mortar" target="_blank">好搜</a></li>
+                        <li><a href="https://www.sogou.com/web?query=mortar" target="_blank">搜狗</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://cn.bing.com/search?q=mortar" target="_blank">必应</a></li>
+                        <li><a href="https://www.google.com/search?q=mortar" target="_blank">谷歌</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li class="dropdown">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        极简词典 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://wordo.co/mortar" target="_blank">Wordo</a></li>
+                        <li><a href="http://www.dictionaryinstant.com/dictionary/definition/mortar" target="_blank">Dictionary Instant</a></li>
+                    </ul>
+                </li>
+                -->
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        在线翻译 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://fanyi.baidu.com/#en/zh/mortar" target="_blank">百度翻译</a></li>
+                        <li><a href="https://translate.google.com/#en/zh-CN/mortar" target="_blank">谷歌翻译</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a></li>
+                        <li><a href="https://www.bing.com/translator/" target="_blank">必应翻译</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="/" class="dropdown-toggle" data-toggle="dropdown">
+                        影视搜索 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://so.iqiyi.com/so/q_mortar" target="_blank">爱奇艺搜索</a></li>
+                        <li><a href="https://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=mortar" target="_blank">腾讯视频</a></li>
+                        <li><a href="https://www.hulu.com/search?q=mortar" target="_blank">葫芦视频</a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=mortar&search_sort=video_view_count" target="_blank">视频搜索</a></li>
+                        <li class="divider"></li>
+                        <li><a href="//search.mtime.com/search/?q=mortar" target="_blank">Mtime时光网</a></li>
+                        <li><a href="//www.imdb.com/find?q=mortar" target="_blank">互联网电影资料库</a></li>
+                    </ul>
+                </li>
+                <!--
+                <li><a href="#" target="_blank">物品搜索</a></li>
+                -->
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8" id="yd-content">
+                    <div class="row">
+                                <div class="col-md-7" id="yd-word-info">
+                    <div class="row"><h3 id="yd-word">mortar</h3></div>
+                                        <div class="row" id="yd-word-pron">英 ['mɔːtə]
+美 ['mɔrtɚ]</div>
+                                        <div class="row" id="yd-word-meaning"><ul>
+<li>n. 迫击炮；臼，研钵；灰浆</li>
+<li>vt. 用灰泥涂抹，用灰泥结合</li>
+</ul></div>
+                                            <div class="row" style="margin-bottom:6px;">
+                            <span class="label label-primary">TEM8</span> <span class="label label-success">GRE</span> <span class="label label-info">TOEFL</span>                         </div>
+                                        <div class="row" id="yd-word-tags">
+                                                            <div>使用频率:
+                                            <span class="glyphicon glyphicon-star"></span>
+                                            <span class="glyphicon glyphicon-star"></span>
+                                        </div>
+                                                            <div>星级词汇:
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                                    <span class="glyphicon glyphicon-star"></span>
+                                            </div>
+                                        </div>
+                </div>
+                                <div class="col-md-5" id="yd-word-img">
+                    <div class="thumbnail">
+                        <img style="width: 300px; height: 200px;" src="/images/words/mortar1.jpg" alt="mortar" class="center-block" id="word-image">
+                        <div id="yd-img-nav">
+                            <div class="yd-img-left">&laquo;</div>
+                            <span><span id="yd-img-current">1</span> / 10</span>
+                            <div class="yd-img-right">&raquo;</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+                        <div class="page-header"><h3>记忆方法</h3></div>
+            <div class="row" style="font-family:SimSun,serif;">磨桶<br />
+2. 因为迫击炮很像研钵，而引伸出该含义。<br />
+3. 研钵和研杵：mortar and pestle.<br />
+4. brick and mortar: adj.实际存在的; 实体的; 具体的; （公司等）有厂房和店铺的.<br />
+5. 音：磨它，磨桶 => 用来磨它的、将它磨碎的东西 =》研钵。</div>
+            <!--
+            <li><a href="#" target="_blank">评分</a></li>
+            <li><a href="#" target="_blank">分享</a></li>
+            <li><a href="#" target="_blank">评论</a></li>
+            -->
+                                                <div class="page-header"><h3>中文词源</h3></div>
+            <div class="row" id="yd-ciyuan" style="font-family:SimSun,serif;"><span class="ciyuan-title"><a target="_blank" href="/ciyuan/s/mortar">mortar</a> 灰泥，捣灰池，砂浆，研钵</span><p>来自拉丁语mortarium,研钵，捣药罐，搅拌碗，词源不详。可能来自PIE*mer,捣碎，伤害，来自PIE*smi,砍，劈，词源同smith.后引申词义捣灰池，灰泥，砂浆等。</p></div>
+                                                <div class="page-header"><h3>英语词源</h3></div>
+            <div class="row"><div class="thumbnail" id="yd-etym"><dl><dt><a target="_blank" href="/etym/s/mortar">mortar</a></dt><dd><b>mortar: </b><span>[13] Latin <i>mortārium</i>, a word of unknown origin, denoted both a ‘bowl for grinding’ and, by extension, the ‘substance made in such a bowl’. These twin meanings survived through Anglo-Norman <i>morter </i>into modern English <i>mortar </i>as the ‘bowl used with a pestle’ and a ‘building mixture of cement, sand, and water’. The shape of the former led in the 17th century to the word’s application to a ‘short cannon’. The use of <i>mortarboard </i>for a ‘square flat academic cap’ dates from the mid-19th century.</span><br></dd><dt><a target="_blank" href="/etym/s/mortar">mortar (n.1)</a></dt><dd>"mixture of cement," late 13c., from Old French <span class="foreign">mortier</span> "builder's mortar, plaster; bowl for mixing" (13c.), from Latin <span class="foreign">mortarium</span> "mortar," also "crushed drugs," probably the same word as <span class="foreign">mortarium</span> "bowl for mixing or pounding" (see <a href="/etym/s/mortar" target="_blank">mortar</a> (n.2)). Dutch <span class="foreign">mortel</span>, German <span class="foreign">Mörtel</span> are from Latin or French.</dd><dt><a target="_blank" href="/etym/s/mortar">mortar (n.2)</a></dt><dd>"bowl for pounding," c. 1300, from Old French <span class="foreign">mortier</span> "bowl; builder's mortar," from Latin <span class="foreign">mortarium</span> "bowl for mixing or pounding," also "material prepared in it," of unknown origin and impossible now to determine which sense was original (Watkins says probably from PIE root <span class="foreign">*mer-</span> "to rub away, harm;" see <a href="/etym/s/morbid" target="_blank">morbid</a>). Late Old English had <span class="foreign">mortere</span>, from the same Latin source, which might also be a source of the modern word. German <span class="foreign">Mörser</span> also is from Latin.</dd><dt><a target="_blank" href="/etym/s/mortar">mortar (n.3)</a></dt><dd>"short cannon" fired at a high angle and meant to secure a vertical fall of the projectile, 1550s, originally <span class="foreign">mortar-piece</span>, from Middle French <span class="foreign">mortier</span> "short cannon," in Old French, "bowl for mixing or pounding" (see <a href="/etym/s/mortar" target="_blank">mortar</a> (n.2)). So called for its shape.</dd></dl></div></div>
+                                    <div class="page-header"><h3><a href="/liju/w/mortar">权威例句</a></h3></div>
+            <div class="row" id="yd-liju">
+                 <dl><dt>1. Three <b>mortar</b> shells had landed close to a crowd of people. </dt> <dd>3枚迫击炮弹落在人群旁。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>2. As an investment, bricks and <b>mortar</b> are not what they were. </dt> <dd>作为一种投资，房产不再是从前意义上的房产。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>3. The 120mm <b>mortar</b> has a range of 18,000 yards. </dt> <dd>口径为120毫米的迫击炮的射程是1.8万码。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>4. Using a pestle and <b>mortar</b>, pulverise the bran to a coarse powder. </dt> <dd>用杵和臼，将麸皮磨成粗粉。</dd> <p>来自柯林斯例句</p> </dl><dl><dt>5. We now need funding to turn the plans into bricks and <b>mortar</b>. </dt> <dd>我们现在需要资金将这些计划变为实实在在的大楼.</dd> <p>来自《简明英汉词典》</p> </dl>                 <dl><p>[ <a href="/liju/w/mortar">mortar 造句</a> ]</p></dl>
+            </div>
+                            </div>
+        <div class="col-sm-4 hidden-xs">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">考试词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/CET4" target="_blank">CET4</a>
+                        <a href="/tags/CET4" target="_blank">四级词汇</a>
+                        <a href="/tags/CET6" target="_blank">CET6</a>
+                        <a href="/tags/CET6" target="_blank">六级词汇</a>
+                        <a href="/tags/TEM4" target="_blank">TEM4</a>
+                        <a href="/tags/TEM4" target="_blank">英专四级</a>
+                        <a href="/tags/TEM8" target="_blank">TEM8</a>
+                        <a href="/tags/TEM8" target="_blank">英专八级</a>
+                        <a href="/tags/kaoyan" target="_blank">考研词汇</a>
+                        <a href="/tags/GRE" target="_blank">GRE 词汇</a>
+                        <a href="/tags/TOEFL" target="_blank">托福词汇</a>
+                        <a href="/tags/IELTS" target="_blank">雅思词汇</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">相关应用</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/kankan" target="_blank">单词连连看</a>
+                        <a href="/verbs" target="_blank">不规则动词表</a>
+                        <a href="/ciku" target="_blank">英语单词大全</a>
+                        <a href="/test" target="_blank">词汇量测试</a>
+                        <a href="/root/root.php" target="_blank">英语词根表</a>
+                        <a href="/chengyu" target="_blank">成语词典</a>
+                        <a href="/cidian" target="_blank">汉语词典</a>
+                        <!-- <a href="http://zh.youdict.com/" target="_blank">萌典</a>
+                        <a href="http://weibo.com/youdict" target="_blank">关注微博</a> -->
+                        <!--
+                        <a href="#" target="_blank">听力测试</a>
+                        <a href="#" target="_blank">看图记单词</a>
+                        -->
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">分类词汇</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags">
+                        <a href="/tags/水果" target="_blank">水果</a>
+                        <a href="/tags/蔬菜" target="_blank">蔬菜</a>
+                        <a href="/tags/花" target="_blank">花</a>
+                        <a href="/tags/哺乳动物" target="_blank">哺乳动物</a>
+                        <a href="/tags/家畜家禽" target="_blank">家畜家禽</a>
+                        <a href="/tags/爬行两栖" target="_blank">爬行两栖</a>
+                        <a href="/tags/禽鸟" target="_blank">禽鸟</a>
+                        <a href="/tags/鱼类" target="_blank">鱼类</a>
+                        <a href="/tags/壳类动物" target="_blank">壳类动物</a>
+                        <a href="/tags/昆虫" target="_blank">昆虫</a>
+                        <a href="/tags/树" target="_blank">树</a>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">随机单词</h2>
+                </div>
+                <div class="panel-body">
+                    <div class="yd-tags"><a target="_blank" href="/w/neoteny">neoteny</a><a target="_blank" href="/w/neoteric">neoteric</a><a target="_blank" href="/w/Nephilim">Nephilim</a><a target="_blank" href="/w/nephrectomy">nephrectomy</a><a target="_blank" href="/w/nephridium">nephridium</a><a target="_blank" href="/w/nephrite">nephrite</a><a target="_blank" href="/w/nephrolithiasis">nephrolithiasis</a><a target="_blank" href="/w/nephrology">nephrology</a><a target="_blank" href="/w/nephron">nephron</a><a target="_blank" href="/w/Neptunian">Neptunian</a><a target="_blank" href="/etym/s/faith">faith</a><a target="_blank" href="/etym/s/fake">fake</a><a target="_blank" href="/etym/s/falcon">falcon</a><a target="_blank" href="/etym/s/fall">fall</a><a target="_blank" href="/etym/s/fallacy">fallacy</a><a target="_blank" href="/etym/s/fallow">fallow</a><a target="_blank" href="/etym/s/false">false</a><a target="_blank" href="/etym/s/fame">fame</a><a target="_blank" href="/etym/s/familiar">familiar</a><a target="_blank" href="/etym/s/family">family</a><a target="_blank" href="/ciyuan/s/pebble">pebble</a><a target="_blank" href="/ciyuan/s/pecan">pecan</a><a target="_blank" href="/ciyuan/s/peccadillo">peccadillo</a><a target="_blank" href="/ciyuan/s/peccant">peccant</a><a target="_blank" href="/ciyuan/s/peccary">peccary</a><a target="_blank" href="/ciyuan/s/peck">peck</a><a target="_blank" href="/ciyuan/s/peckish">peckish</a><a target="_blank" href="/ciyuan/s/pectin">pectin</a><a target="_blank" href="/ciyuan/s/pectoral">pectoral</a><a target="_blank" href="/ciyuan/s/peculate">peculate</a></div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">微信公众号</h2>
+                </div>
+                <div class="panel-body" style="padding:0;">
+                    <img src="/images/qrcode.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div id="copyright">
+        <p>Copyright &copy; 2015 YouDict.com All Rights Reserved. 当前版本: 15.06.11<br>
+            <a href="/ciyuan" target="_blank" title="英语词源字典">词源字典</a>
+            <a href="/root" target="_blank" title="英语词根字典">词根字典</a>
+            <a href="/archive.php" target="_blank" title="词语索引">词语索引</a>
+            <a href="/ciku" target="_blank" title="英语单词大全">英语单词大全</a>
+            <a href="/root/root.php" target="_blank" title="英语词根表">英语词根表</a>
+            <a href="/novel" target="_blank" title="英文小说网">英文小说</a><br>
+            <a href="/map/index.html" target="_blank">网站地图</a>
+            <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XzImNT48NCwwMR8uLnE8MDI">联系我们</a><br>
+            <a href="http://www.miibeian.gov.cn" target="_blank">蜀ICP备12020342号-3</a>
+        </p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    function audio_play (word, type) {
+        var audio_url = 'https://dict.youdao.com/dictvoice?audio=' + word + '&type=' + type;
+        var audio = new Audio(audio_url);
+        audio.play();
+    }
+
+    document.getElementById('yd-search').onsubmit = function() {
+        var word = this.word.value.replace(/\u3000/g, ' ').replace(/(^\s+|\s+$)/g, '');
+        if (word == '') {
+            return false;
+        } else if (word.search(/^[\w \-]+$/) == 0) {
+            top.location.href = '/w/' + encodeURIComponent(word.replace(/ /g, '_'));
+            return false;
+        } else {
+            this.word.value = word.replace(/[\uff01-\uffe1]/g, function(match) {
+                var char_code = match.charCodeAt(0) - 0xfee0;
+                return String.fromCharCode(char_code);
+            });
+        }
+    }
+
+    var transjs = "/js/sttrans.js";
+
+    window.yd_sttrans = function() {
+        var cstt = '';
+        if (window.localStorage) {
+            cstt = window.localStorage.getItem('stt');
+        }
+        var handler = document.getElementById('sttrans');
+
+        var _trans = function(is_trans) {
+            var t = is_trans;
+            if(typeof(trans) == 'undefined') {
+                var jselm = document.createElement('script');
+                jselm = document.body.appendChild(jselm);
+                if(typeof(jselm) != 'undefined') {
+                    jselm.onreadystatechange = function() {
+                        if(this.readyState == 'loaded' || this.readyState == 'complete') {
+                            try {trans(t)} catch(e){}
+                        }
+                    };
+                    jselm.onload = function() {trans(t);};
+                }
+                jselm.src = transjs;
+            } else { trans(t); }
+        };
+
+        if(cstt) {
+            _trans(); if(handler) handler.innerHTML = '简体版';
+        } else {
+            var user_lang = window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
+            if ((user_lang == 'zh-TW') && (cstt !== '')) {
+                _trans(); if(handler) handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        }
+        if(!handler) return;
+
+        var _evth = function () {
+            if(cstt) {
+                _trans(true);handler.innerHTML = '繁體版';
+                cstt = '';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            } else {
+                _trans();handler.innerHTML = '简体版';
+                cstt = '1';
+                if (window.localStorage) {
+                    window.localStorage.setItem('stt', cstt);
+                }
+            }
+        };
+        handler.onclick = _evth;
+    };
+    yd_sttrans();
+</script>
+<script src="/lib/jquery/jquery-2.1.4.min.js"></script>
+<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/prompt.js"></script>
+<script type="text/javascript">
+    $('#yd-word-pron').on('click', '.glyphicon-volume-up', function(e){
+        var target = e.target;
+        var word = $('#yd-word').text();
+        if (target.parentNode.className == 'en-UK') {
+            audio_play(word, 1);
+        } else {
+            audio_play(word, 2);
+        }
+    });
+
+    
+    function getMeaning() {
+        var word = $('#word').val().replace(/\u3000/g, ' ').trim();
+        $.getJSON(('https://fanyi.youdao.com/openapi.do?type=data&doctype=jsonp&version=1.1&keyfrom=neteaseopen&key=1532272597&callback=?&q=' + encodeURIComponent(word)), function(data) {
+            if (data.basic) {
+                $('#yd-word-meaning').html('<ul><li>' + data.basic.explains.join('</li><li>') + '</li></ul>');
+                $('#yd-word-meaning li').html(function(index, text) {
+                    return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                });
+            } else {
+                var word_lang = 'en';
+                if (word.search(/[\u4e00-\u9fa5]/) >= 0) {
+                    word_lang = 'zh';
+                }
+                var str_query = encodeURIComponent(word) + '&lang=' + word_lang;
+                $.getJSON(('/ciyuan/ajax-meanings.php?word=' + str_query), function(data) {
+                    if (data.is_success) {
+                        var is_not_have_info = true;
+                        if (data.smart_dict) {
+                            $('#yd-word-meaning').html('<ul style="margin-bottom:15px;"><li>' + data.smart_dict.join('</li><li>') + '</li></ul>');
+                            $('#yd-word-meaning li').html(function(index, text) {
+                                return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+                            });
+                            is_not_have_info = false;
+                        }
+
+                        if (data.sug_words) {
+                            var str_html = '<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">搜索建议：</strong>';
+                            data.sug_words.forEach(function(word) {
+                                str_html += '<a href="/w/' + word.replace(/ /g, '_') + '">' + word + '</a>, ';
+                            });
+                            str_html = str_html.slice(0, -2) + '</div></div>';
+                            $('#yd-word-meaning').after(str_html);
+                            is_not_have_info = false;
+                        }
+
+                        if (data.bing_trans) {
+                            var yd_trans = data.bing_trans;
+                            if (word_lang == 'en') {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) >= 0) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            } else {
+                                if (yd_trans.search(/[\u4e00-\u9fa5]/) == -1) {
+                                    $('#yd-word-meaning').after('<div class="panel panel-default"><div class="panel-body"><strong style="color:#666;">翻译：</strong>' + yd_trans + '</div></div>');
+                                    is_not_have_info = false;
+                                }
+                            }
+                        }
+
+                        if (is_not_have_info) {
+                            $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                        }
+                    } else {
+                        $('#yd-word-meaning').html('对不起，没有查询到该单词，建议使用百度搜索试试：<a target="_blank" href="https://www.baidu.com/s?ie=utf-8&wd=' + encodeURIComponent(word) + '">' + word + '</a>');
+                    }
+                });
+            }
+        });
+    }
+
+    $('#yd-etym dt:even, #yd-etym dd:even').addClass('highlight');
+
+    $('#yd-word-info .label').click(function() {
+        var arr_levels = ['CET4', 'CET6', 'TEM4', 'TEM8', '考 研', 'TOEFL', 'IELTS', 'GRE'];
+        var index_level = arr_levels.indexOf(this.textContent.replace('+', '')) + 1;
+        if (index_level) {
+            window.open('/ciku/id_' + index_level + '_0_0_0_0.html');
+        }
+    });
+
+    var img_num = 10, img_current = 1;
+    var img_src = '';
+    var img_prefix = '/images/words/mortar';
+    $('#yd-img-nav .yd-img-left').click(function() {
+        img_current--;
+        if (img_current < 1) {
+            img_current = img_num;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    $('#yd-img-nav .yd-img-right').click(function() {
+        img_current++;
+        if (img_current > img_num) {
+            img_current = 1;
+        }
+        img_src = img_prefix + img_current + '.jpg';
+        document.getElementById('word-image').src = img_src;
+        $('#yd-img-current').text(img_current);
+    });
+    var word_pron = $('#yd-word-pron');
+    var word_pron_text = word_pron.text();
+    var str_affix = '<span class="glyphicon glyphicon-volume-up"></span></span><span class="en-US">';
+    word_pron.html('<span class="en-UK">' + word_pron_text.replace('\n', str_affix) + '<span class="glyphicon glyphicon-volume-up"></span></span>');
+    $('#yd-word-meaning li').html(function(index, text) {
+        return text.trim().replace(/^[a-z]+\./, '<strong>$&</strong>');
+    });
+</script>
+<div style="display: none;">
+<script src="https://s4.cnzz.com/stat.php?id=1254976343&web_id=1254976343" language="JavaScript"></script>
+</div>
+</body>
+</html>

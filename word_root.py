@@ -5,7 +5,7 @@ import re
 class Etymonline_Root:
     def __init__(self):
         self.w_r_dict = dict()
-        with open('D:\github_project\make_anki_word_list\etymonline_root\etymonline_root.txt', encoding='utf-8') as f:
+        with open('/etymonline/etymonline_root\etymonline_root.txt', encoding='utf-8') as f:
             line_list = f.readlines()
             for line in line_list:
                 line = line.strip()
@@ -63,7 +63,7 @@ class Cigencizhui_Root:
 class Youdict_Root:
     def __init__(self):
         self.w_r_dict = dict()
-        with open('D:\github_project\make_anki_word_list\youdict_root\youdict_root.txt', encoding='utf-8') as f:
+        with open('/quword/youdict_root\youdict_root.txt', encoding='utf-8') as f:
             line_list = f.readlines()
             for line in line_list:
                 line = line.strip()

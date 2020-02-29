@@ -7,7 +7,7 @@ from html2txt import get_mem_txt_from_youdict_html_text, get_root_txt_from_youdi
 
 
 if __name__ == '__main__':
-    html_text_dir = 'D:/github_project/make_anki_word_list/youdict_html_text'
+    html_text_dir = 'quword/quword_html_text'
 
     all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
     with open(all_word_list, encoding='utf-8') as f:
@@ -16,8 +16,8 @@ if __name__ == '__main__':
     word_set.discard('con')
 
     # check and save html #########################################################################################
-    # multi_thread(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
-    one_thread_check_and_save(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'youdict_html_text/')
+    # multi_thread(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'quword_html_text/')
+    one_thread_check_and_save(save_if_not_exist_for_youdict, word_set, 'https://www.youdict.com/w/', 'quword_html_text/')
 
     # update txt ###################################################################################################
     root_line_list = list()

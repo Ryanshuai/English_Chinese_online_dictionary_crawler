@@ -5,7 +5,7 @@ from html2txt import get_root_txt_from_etymonline_html_text
 
 
 if __name__ == '__main__':
-    from_html_text_dir = 'D:/github_project/make_anki_word_list/etymonline_html_text'
+    from_html_text_dir = '/etymonline/etymonline_html_text'
     save_to_txt = 'D:/github_project/make_anki_word_list/etymonline_root/etymonline_root.txt'
 
     all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'

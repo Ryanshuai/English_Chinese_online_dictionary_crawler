@@ -2,7 +2,7 @@
 class Youdict_Mem:
     def __init__(self):
         self.w_r_dict = dict()
-        with open('D:/github_project/make_anki_word_list/youdict_mem/youdict_mem.txt', encoding='utf-8') as f:
+        with open('/quword/youdict_mem/quword_mem.txt', encoding='utf-8') as f:
             line_list = f.readlines()
             for line in line_list:
                 line = line.strip()
