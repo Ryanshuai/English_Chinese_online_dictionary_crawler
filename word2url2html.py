@@ -84,17 +84,6 @@ def multi_thread(func, iterable, *args, max_workers=1024):
     wait(all_task, return_when=ALL_COMPLETED)
 
 
-# def multi_thread_with_lock(func, read_iterable, writer_iterable, *args, max_workers=1280):
-#     threading_list = list()
-#     num_work = 0
-#     for r_iter in read_iterable:
-#         num_work += 1
-#         t = threading.Thread(target=func, args=(r_iter, *args,))
-#         threading_list.append(t)
-#         t.start()
-#     for t in threading_list:
-#         t.join()
-
 
 
 
