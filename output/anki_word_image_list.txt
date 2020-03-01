@@ -1,1 +1,0 @@
-canoe\<img src="canoe1.jpg" />\<img src="canoe2.jpg" />\<img src="canoe3.jpg" />\<img src="canoe4.jpg" />\<img src="canoe5.jpg" />\<img src="canoe6.jpg" />\<img src="canoe7.jpg" />\<img src="canoe8.jpg" />\<img src="canoe9.jpg" />\<img src="canoe10.jpg" />

@@ -1,5 +1,5 @@
 
-from word_root import Assembled_Root
+from cigencizhui.word_root import Assembled_Root
 
 
 _high_school_txt = 'D:/github_project/make_anki_word_list/word_list/high_school.txt'

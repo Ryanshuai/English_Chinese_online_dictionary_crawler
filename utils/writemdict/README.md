@@ -51,7 +51,7 @@ This creates a dictionary with four entries: "doe", "ray", "me", and "far", and 
 # File format
 
 This project primarily represents an effort in reverse-engineering and documenting the file format used for .mdx files.
-A description of the format (version 2.0 only) can be found in [fileformat.md](./fileformat.md)
+A description of the format (version 2.0 only) can be found in [fileformat.md](fileformat.md)
 
 # See also
 

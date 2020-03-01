@@ -1,5 +1,5 @@
 from tqdm import tqdm
-from writemdict.writemdict import MDictWriter
+from utils.writemdict.writemdict import MDictWriter
 from ryan_similar.similar_word import Distance_Similar
 
 # ####################################################### build filter list

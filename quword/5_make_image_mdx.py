@@ -1,5 +1,5 @@
 from tqdm import tqdm
-from writemdict.writemdict import MDictWriter
+from utils.writemdict.writemdict import MDictWriter
 from PIL import Image
 import io
 import os
