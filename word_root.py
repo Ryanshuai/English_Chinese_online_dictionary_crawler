@@ -5,7 +5,7 @@ import re
 class Etymonline_Root:
     def __init__(self):
         self.w_r_dict = dict()
-        with open('/etymonline/etymonline_root\etymonline_root.txt', encoding='utf-8') as f:
+        with open('etymonline/etymonline_root.txt', encoding='utf-8') as f:
             line_list = f.readlines()
             for line in line_list:
                 line = line.strip()

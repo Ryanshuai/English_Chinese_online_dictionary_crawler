@@ -1,9 +1,6 @@
 from tqdm import tqdm
 from writemdict.writemdict import MDictWriter
-from similar_word import Distance_Similar, No_Prefix_Similar, No_Suffix_Similar
-from youdict_mem import Youdict_Mem
-from word_root import Assembled_Root, Yaml_Root
-
+from ryan_similar.similar_word import Distance_Similar
 
 # ####################################################### build filter list
 all_word_list = 'D:/github_project/make_anki_word_list/word_list/all.txt'
