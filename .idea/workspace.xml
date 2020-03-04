@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cigencizhui/root_affix.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cigencizhui/root_affix_origin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cigencizhui/word_root.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etymonline/txt_to_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quword/txt_to_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yaml_root/txt_to_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_make_anki_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_find_in_which.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_analyze_word_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/08_analyze_word_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_get_youdcit_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/1_get_youdcit_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_update_youdict_root_mem.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/3_update_youdict_root_mem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_get_oxford_phonetic_symbol.txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/oxford/4_get_oxford_phonetic_symbol.txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_make_image_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/5_make_image_mdx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_make_mdx.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_make_mdx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/GRE_word_frequency.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/TOEFL_word_frequency.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/anki_word_image_list.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/distance_similar.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/no_prefix_similar.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/no_suffix_similar.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/possible_prs.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/root.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/youdict_mem.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE_3000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/GRE_3000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE_foot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/GRE_foot.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE_frequency.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ryan_frequency/GRE_frequency.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE_kmf_6_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/GRE_kmf_6_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE_red.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/GRE_red.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE_synonym.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/GRE_synonym.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/GRE同义词.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/GRE同义词.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/TOEFL_frequency_6.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ryan_frequency/TOEFL_frequency_6.0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/TOEFL_frequency_7.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ryan_frequency/TOEFL_frequency_7.0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/TOEFL_分类词汇.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/TOEFL_分类词汇.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/TOEFL_红宝书.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/TOEFL_红宝书.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/_filter_word_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/_filter_word_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/all.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/all.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/all_word_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/all_word_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/college_cet_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/college_cet_4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/college_cet_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/college_cet_6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/college_考研词汇表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/college_考研词汇表.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/high_school.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/high_school.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/internal_word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/internal_word.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/qu_10000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/qu_10000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_list/tst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/tst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_root.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/example_output/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/example_output/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/fileformat.md" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/fileformat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/pureSalsa20.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/pureSalsa20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/ripemd128.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/ripemd128.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/testSalsa20.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/testSalsa20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writemdict/writemdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/writemdict/writemdict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youdict_mem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/单词表常用正则表达式.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/单词表常用正则表达式.txt" afterDir="false" />
-    </list>
+    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,6 +77,135 @@
       <recent name="D:\github_project\make_anki_word_list" />
       <recent name="D:\github_project\make_anki_word_list\anki_exports" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -321,14 +392,7 @@
       <workItem from="1562003213143" duration="16000" />
       <workItem from="1582994679754" duration="6549000" />
       <workItem from="1583037044308" duration="1808000" />
-      <workItem from="1583041327340" duration="4738000" />
-    </task>
-    <task id="LOCAL-00017" summary="multi thread down">
-      <created>1557310506370</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1557310506370</updated>
+      <workItem from="1583041327340" duration="4956000" />
     </task>
     <task id="LOCAL-00018" summary="etymonline txt down  utf-8">
       <created>1557315914649</created>
@@ -666,7 +730,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583048134119</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="classified">
+      <created>1583049502278</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1583049502278</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TodoView">
@@ -682,7 +753,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="anki 笔记" />
     <MESSAGE value="anki 笔记 1" />
     <MESSAGE value="update word set and all word list" />
     <MESSAGE value="update word list" />
@@ -707,7 +777,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="rearrange" />
     <MESSAGE value="tired, update someday" />
-    <option name="LAST_COMMIT_MESSAGE" value="tired, update someday" />
+    <MESSAGE value="classified" />
+    <option name="LAST_COMMIT_MESSAGE" value="classified" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583048114701">
@@ -722,10 +793,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583049391750" />
-    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1583048132102">
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1583049500683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583048132102" />
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583049500683" />
     <state width="810" height="912" key="GridCell.Tab.0.bottom" timestamp="1583047587516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
