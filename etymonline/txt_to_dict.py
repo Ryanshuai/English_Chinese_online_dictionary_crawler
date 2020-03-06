@@ -1,4 +1,5 @@
-import re
+import tqdm
+from utils.writemdict.writemdict import MDictWriter
 
 
 class Etymonline_Root:
@@ -12,28 +13,6 @@ class Etymonline_Root:
                 w, r = line.split('*****')
                 self.w_r_dict[w] = r
 
-    def get_internal_word_set(self, root_str: str):
-        pattern = re.compile(r'\(see [^-]*?\)')
-        internal_word_list = pattern.findall(root_str)
-
-        pattern = re.compile(r'[^(]see \w+')
-        internal_word_list2 = pattern.findall(root_str)
-
-        # pattern = re.compile(r'from \w+')
-        # internal_word_list3 = pattern.findall(root_str)
-        # if len(internal_word_list3):
-        #     print(internal_word_list3)
-
-        def map_fun(s):
-            s = s[5:]
-            w = re.findall(r'\w+', s)
-            if len(w) > 0:
-                return w[0]
-            return []
-
-        internal_word_set = set(map(map_fun, internal_word_list + internal_word_list2))
-        return internal_word_set
-
     def get_root(self, word):
         return self.w_r_dict.get(word, '')
 
@@ -41,3 +20,23 @@ class Etymonline_Root:
         root = self.w_r_dict.get(word, '')
         root = root.replace('\\', '<br>')
         return root
+
+    def generate_dict(self, word_set):
+        dictionary = dict()
+        for word in tqdm(word_set, desc='Etymonline_Root.mdx'):
+            mem_str = self.get_root_html(word)
+            if len(mem_str) > 0:
+                dictionary[word] = mem_str
+
+        writer = MDictWriter(dictionary, title="Memory Dictionary",
+                             description="Memory Dictionary from www.youdict.com")
+        outfile = open("output/youdict_mem.mdx", "wb")
+        writer.write(outfile)
+        outfile.close()
+
+
+if __name__ == '__main__':
+    from utils.word_list.all_word_list import all_word_set
+
+    dict_class = Etymonline_Root()
+    dict_class.generate_dict(all_word_set)

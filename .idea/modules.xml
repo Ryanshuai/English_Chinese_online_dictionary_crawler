@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/make_anki_word_list.iml" filepath="$PROJECT_DIR$/.idea/make_anki_word_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/English-Chinese_online_dictionary_spider.iml" filepath="$PROJECT_DIR$/.idea/English-Chinese_online_dictionary_spider.iml" />
     </modules>
   </component>
 </project>
