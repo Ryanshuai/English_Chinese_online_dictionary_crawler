@@ -36,7 +36,7 @@ class Etymonline_Root:
 
 
 if __name__ == '__main__':
-    from utils.word_list.all_word_list import all_word_set
+    from utils.word_list.make_all_words_list import all_word_set
 
     dict_class = Etymonline_Root()
     dict_class.generate_dict(all_word_set)

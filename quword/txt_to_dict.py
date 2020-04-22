@@ -2,10 +2,10 @@ from tqdm import tqdm
 from utils.writemdict.writemdict import MDictWriter
 
 
-class Youdict_Mem:
+class Quword_Mem:
     def __init__(self):
         self.w_r_dict = dict()
-        with open('/quword/youdict_mem/quword_mem.txt', encoding='utf-8') as f:
+        with open('./quword_mem.txt', encoding='utf-8') as f:
             line_list = f.readlines()
             for line in line_list:
                 line = line.strip()
@@ -13,19 +13,19 @@ class Youdict_Mem:
                 w, r = line.split('*****')
                 self.w_r_dict[w] = r
 
-    def get_mem(self, word):
+    def get(self, word):
         return self.w_r_dict.get(word, '')
 
-    def get_mem_html(self, word):
+    def get_html(self, word):
         root = self.w_r_dict.get(word, '')
         root = root.replace('\\', '<br>')
         return root
 
 
-class Youdict_Root:
+class Quword_Root:
     def __init__(self):
         self.w_r_dict = dict()
-        with open('/quword/youdict_root\youdict_root.txt', encoding='utf-8') as f:
+        with open('./quword_root.txt', encoding='utf-8') as f:
             line_list = f.readlines()
             for line in line_list:
                 line = line.strip()
@@ -46,21 +46,35 @@ class Youdict_Root:
         else:
             return set('')
 
-    def get_root_html(self, word):
+    def get_html(self, word):
         root = self.w_r_dict.get(word, '')
         if '词源不详。' in root:
             return ''
         return root
 
 
-youdict_mem = Youdict_Mem()
-dictionary = dict()
-for word in tqdm(word_set, desc='youdict_mem.mdx'):
-    mem_str = youdict_mem.get_mem_html(word)
-    if len(mem_str) > 0:
-        dictionary[word] = mem_str
+if __name__ == '__main__':
+    from utils.word_list.all_words_list import all_words_list
 
-writer = MDictWriter(dictionary, title="Memory Dictionary", description="Memory Dictionary from www.youdict.com")
-outfile = open("output/youdict_mem.mdx", "wb")
-writer.write(outfile)
-outfile.close()
+    txt2dict = Quword_Mem()
+    dictionary = dict()
+    for word in tqdm(all_words_list, desc='quword_mem.mdx'):
+        mem_str = txt2dict.get_html(word)
+        if len(mem_str) > 0:
+            dictionary[word] = mem_str
+
+    writer = MDictWriter(dictionary, title="Memory Dictionary", description="Memory Dictionary from www.quword.com")
+    with open("Quword_mem.mdx", "wb") as f:
+        writer.write(f)
+
+    txt2dict = Quword_Root()
+    dictionary = dict()
+    for word in tqdm(all_words_list, desc='quword_root.mdx'):
+        mem_str = txt2dict.get_html(word)
+        if len(mem_str) > 0:
+            dictionary[word] = mem_str
+
+    writer = MDictWriter(dictionary, title="Root Dictionary", description="Root Dictionary from www.quword.com")
+    with open("Quword_root.mdx", "wb") as f:
+        writer.write(f)
+

@@ -1,6 +1,6 @@
 
 import venn
-from utils.word_list.all_word_list import *
+from utils.word_list.make_all_words_list import *
 
 
 new_toefl_class_set = set()
