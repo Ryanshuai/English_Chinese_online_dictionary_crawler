@@ -1,8 +1,6 @@
 import requests
 from PIL import Image
 from io import BytesIO
-from concurrent.futures import ThreadPoolExecutor
-import urllib.request
 import os
 import time
 import random
@@ -14,9 +12,8 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 def save_word_image_to_dir(name, save_path):
     url = 'https://www.quword.com/images/words/' + name + '.jpg'
-    response = requests.get(url)
     try:
-        # response = requests.get(url)
+        response = requests.get(url)
         image = Image.open(BytesIO(response.content))
     except:
         return False
@@ -32,8 +29,7 @@ if __name__ == '__main__':
 
     save_to_dir = './quword_images/'
 
-    pool = ThreadPoolExecutor(4)
-    form_num = 3321
+    form_num = 0
     for i, word in enumerate(all_words_list[form_num:]):
         print(i + form_num)
         word = word.strip()
@@ -41,8 +37,7 @@ if __name__ == '__main__':
             name = word + str(i)
             save_path = save_to_dir + 'word_' + name + '.jpg'
             if not os.path.exists(save_path):
-                print(name)
                 is_found = save_word_image_to_dir(name, save_path)
                 if not is_found:
                     break
-                time.sleep(random.random() * 0.2)
+                # time.sleep(random.random() * 0.2)
