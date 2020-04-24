@@ -26,9 +26,9 @@ for i in range(1, 11):
             mdd_dictionary["\\" + word + ".png"] = hex_data
 
     writer = MDictWriter(mdx_dictionary, "Youdict Image " + str(i), "Youdict mdx file")
-    with open("./quword_images" + str(i) + ".mdx", "wb") as f:
+    with open("../output_mdx/Quword_images{:0>2d}.mdx".format(i), "wb") as f:
         writer.write(f)
 
     writer = MDictWriter(mdd_dictionary, "Youdict Image " + str(i), "Youdict mdd file", is_mdd=True)
-    with open("./quword_images" + str(i) + ".mdd", "wb") as f:
+    with open("../output_mdx/Quword_images{:0>2d}.mdd".format(i), "wb") as f:
         writer.write(f)

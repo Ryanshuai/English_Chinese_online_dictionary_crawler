@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
     save_to_dir = './quword_images/'
 
-    form_num = 0
+    form_num = 11000
     for i, word in enumerate(all_words_list[form_num:]):
         print(i + form_num)
         word = word.strip()

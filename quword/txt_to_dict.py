@@ -64,7 +64,7 @@ if __name__ == '__main__':
             dictionary[word] = mem_str
 
     writer = MDictWriter(dictionary, title="Memory Dictionary", description="Memory Dictionary from www.quword.com")
-    with open("Quword_mem.mdx", "wb") as f:
+    with open("../output_mdx/Quword_mem.mdx", "wb") as f:
         writer.write(f)
 
     txt2dict = Quword_Root()
@@ -75,6 +75,6 @@ if __name__ == '__main__':
             dictionary[word] = mem_str
 
     writer = MDictWriter(dictionary, title="Root Dictionary", description="Root Dictionary from www.quword.com")
-    with open("Quword_root.mdx", "wb") as f:
+    with open("../output_mdx/Quword_root.mdx", "wb") as f:
         writer.write(f)
 
