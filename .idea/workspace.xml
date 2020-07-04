@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/utils/word_list/analyze_word_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="filter all word list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quword/1_get_youdcit_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/1_get_youdcit_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quword/image_to_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/image_to_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ryan_similar/similar_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/ryan_similar/similar_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/word_list/all_words_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/all_words_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/word_list/make_all_words_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/make_all_words_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/word_list/word_list_txt/analyze_word_list.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -416,14 +407,9 @@
       <workItem from="1587729231197" duration="1728000" />
       <workItem from="1590743323719" duration="1182000" />
       <workItem from="1593863839700" duration="2934000" />
-      <workItem from="1593866954320" duration="417000" />
-    </task>
-    <task id="LOCAL-00023" summary="get_internal_word_list down">
-      <created>1557371070102</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1557371070102</updated>
+      <workItem from="1593866954320" duration="1198000" />
+      <workItem from="1593868309583" duration="414000" />
+      <workItem from="1593869149508" duration="26000" />
     </task>
     <task id="LOCAL-00024" summary="Assembled_Root down">
       <created>1557375630044</created>
@@ -761,7 +747,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587728260114</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="filter all word list">
+      <created>1593867443134</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1593867443135</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TodoView">
@@ -777,7 +770,6 @@
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="search save multi thread converge" />
     <MESSAGE value="possible root" />
     <MESSAGE value="phonetic wait for multi thread" />
     <MESSAGE value="add high_school word" />
@@ -802,7 +794,8 @@
     <MESSAGE value="creeping image" />
     <MESSAGE value="add image" />
     <MESSAGE value="Quword done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quword done" />
+    <MESSAGE value="filter all word list" />
+    <option name="LAST_COMMIT_MESSAGE" value="filter all word list" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1590743348274">
@@ -825,38 +818,40 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1125" y="218" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586329784016" />
-    <state x="77" y="11" width="1746" height="975" key="CommitChangelistDialog2" timestamp="1587728258504">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1028" y="235" width="1856" height="1090" key="CommitChangelistDialog2" timestamp="1593868359781">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="77" y="11" width="1746" height="975" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587728258504" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587634863458">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1028" y="235" width="1856" height="1090" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1593868359781" />
+    <state x="165" y="124" width="1736" height="856" key="DiffContextDialog" timestamp="1593868424848">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587634863458" />
+    <state x="165" y="124" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1593868424848" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586167887201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586167887201" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.bottom" timestamp="1593867306277">
+    <state width="1166" height="904" key="GridCell.Tab.0.bottom" timestamp="1593868298890">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1593867306277" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.center" timestamp="1593867306277">
+    <state width="1166" height="904" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1593868298890" />
+    <state width="1166" height="904" key="GridCell.Tab.0.center" timestamp="1593868298890">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1593867306277" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.left" timestamp="1593867306277">
+    <state width="1166" height="904" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1593868298890" />
+    <state width="1166" height="904" key="GridCell.Tab.0.left" timestamp="1593868298890">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1593867306277" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.right" timestamp="1593867306277">
+    <state width="1166" height="904" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1593868298890" />
+    <state width="1166" height="904" key="GridCell.Tab.0.right" timestamp="1593868298890">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1166" height="1272" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1593867306277" />
+    <state width="1166" height="904" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1593868298890" />
     <state width="1357" height="1272" key="GridCell.Tab.1.bottom" timestamp="1593866798502">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -881,10 +876,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587634863458" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587635652209">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="739" y="143" width="2001" height="894" key="Vcs.Push.Dialog.v2" timestamp="1593868738885">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587635652209" />
+    <state x="739" y="143" width="2001" height="894" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1593868738885" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1586329756259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
