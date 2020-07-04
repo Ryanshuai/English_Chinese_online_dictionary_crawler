@@ -164,10 +164,9 @@ if __name__ == '__main__':
     from utils.writemdict.writemdict import MDictWriter
     from utils.word_list.all_words_list import all_words_list
 
-    name_Similar = {
-                    'No_Prefix_Similar': No_Prefix_Similar,
+    name_Similar = {'No_Prefix_Similar': No_Prefix_Similar,
                     'No_Suffix_Similar': No_Suffix_Similar,
-    'Distance_Similar': Distance_Similar,}
+                    'Distance_Similar': Distance_Similar, }
 
     for name, Similar in name_Similar.items():
         similar = Similar(all_words_list)
