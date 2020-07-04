@@ -10,10 +10,17 @@ for txt in os.listdir(txt_dir):
         all_set |= file_set
 
 
+def filter_the_word(word):
+    english_only_word = ''.join(x for x in word if ord(x) < 256)
+    no_comma_word = ''.join(x for x in english_only_word if x != ",")
+    return no_comma_word
+
+
 def make_all_list():
     with open('all_words_list.py', 'w', encoding='utf-8') as f:
         f.write('all_words_list = [')
         for word in all_set:
+            word = filter_the_word(word)
             if len(word) <= 1:
                 continue
             f.write('"')

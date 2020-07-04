@@ -20,9 +20,7 @@ for i in range(1, 11):
             output = io.BytesIO()
             image.save(output, format='JPEG')
             hex_data = output.getvalue()
-
             mdx_dictionary[word] = """<img src="file:///""" + word + """.png" />"""
-            # "<img src='file:///" + word + ".jpg' />"
             mdd_dictionary["\\" + word + ".png"] = hex_data
 
     writer = MDictWriter(mdx_dictionary, "Youdict Image " + str(i), "Youdict mdx file")

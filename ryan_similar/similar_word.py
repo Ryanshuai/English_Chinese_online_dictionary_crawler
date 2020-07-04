@@ -2,11 +2,7 @@ import Levenshtein
 
 
 class Distance_Similar:
-    def __init__(self):
-        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-        with open(all_word_txt, 'r', encoding='utf-8') as f:
-            word_list = f.read().splitlines()
-
+    def __init__(self, word_list):
         self.all_word_set = set(word_list)
 
     def is_word_similar(self, word1: str, word2: str):
@@ -46,16 +42,14 @@ class Distance_Similar:
 
 
 class No_Prefix_Similar:
-    def __init__(self):
+    def __init__(self, word_list):
+        self.all_word_set = set(word_list)
+
         self.for_s_begin_root_list = ['ex']
         self.a_prefix_list = ['a']
         self.co_prefix_list = ['co']
-        self.prefix_list = ['com', 'con', 'dis', 'sub', 'pro', 'mis', 'per', 'pre', 'be', 'co', 'in', 'ex', 'im', 'en', 'ex', 're', 'di', 'ob', 'ab', 'ad', 'de', 'un', 'se', 'e', 'a']
-
-        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-        with open(all_word_txt, 'r', encoding='utf-8') as f:
-            word_list = f.read().splitlines()
-        self.all_word_set = set(word_list)
+        self.prefix_list = ['com', 'con', 'dis', 'sub', 'pro', 'mis', 'per', 'pre', 'be', 'co', 'in', 'ex', 'im', 'en',
+                            'ex', 're', 'di', 'ob', 'ab', 'ad', 'de', 'un', 'se', 'e', 'a']
 
         self.word_root_suffix_dict = dict()
         for word in self.all_word_set:
@@ -65,11 +59,11 @@ class No_Prefix_Similar:
         possible_word_without_prefix_set = {word}
         for prefix in self.a_prefix_list:
             if word.startswith(prefix) and len(word) > 3 and word[1] == word[2]:
-                possible_word_without_prefix_set.add(word[len(prefix)+1:])
+                possible_word_without_prefix_set.add(word[len(prefix) + 1:])
         for prefix in self.for_s_begin_root_list:
             if word.startswith(prefix):
                 possible_word_without_prefix_set.add(word[len(prefix):])
-                possible_word_without_prefix_set.add('s'+word[len(prefix):])
+                possible_word_without_prefix_set.add('s' + word[len(prefix):])
         for prefix in self.co_prefix_list:
             if word.startswith(prefix) and len(word) > 4 and word[2] == word[3]:
                 possible_word_without_prefix_set.add(word[3:])
@@ -106,16 +100,17 @@ class No_Prefix_Similar:
 
 
 class No_Suffix_Similar:
-    def __init__(self):
+    def __init__(self, word_list):
+        self.all_word_set = set(word_list)
+
         self.suffix_change_dict = {'i': ['y'], 's': ['t', 'd'], 't': ['d'], 'e': ['i']}
         self.a_suffix_list = []
         self.ing_suffix_list = ['ing']
-        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'istic','able', 'ably', 'acle', 'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'sive', 'tion', 'ture', 'ate', 'ary', 'ant', 'ent', 'cal', 'ful', 'ial', 'ile', 'ian', 'ics', 'ine', 'ing', 'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ous', 'sis', 'ed', 'en', 'er', 'ia', 'id', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
-
-        all_word_txt = 'D:/github_project/make_anki_word_list/word_list/all.txt'
-        with open(all_word_txt, 'r', encoding='utf-8') as f:
-            word_list = f.read().splitlines()
-        self.all_word_set = set(word_list)
+        self.suffix_list = ['ability', 'action', 'ative', 'acity', 'ation', 'atory', 'istic', 'able', 'ably', 'acle',
+                            'ance', 'ence', 'ency', 'eous', 'less', 'like', 'ment', 'ness', 'ship', 'sive', 'tion',
+                            'ture', 'ate', 'ary', 'ant', 'ent', 'cal', 'ful', 'ial', 'ile', 'ian', 'ics', 'ine', 'ing',
+                            'ion', 'ism', 'ish', 'ist', 'ite', 'ity', 'ive', 'ize', 'tic', 'ter', 'ous', 'sis', 'ed',
+                            'en', 'er', 'ia', 'id', 'al', 'ic', 'ly', 'ty', 'fy', 'on', 'or', 'o', 'y', 'e']
 
         self.word_prefix_root_dict = dict()
         for word in self.all_word_set:
@@ -164,18 +159,23 @@ class No_Suffix_Similar:
 
 
 if __name__ == '__main__':
-    # ds = Distance_Similar()
-    # # print(ds.is_word_similar('expect', 'respect'))
-    # print(ds.get_similar_word_str('inevitable'))
+    from tqdm import tqdm
 
-    # nps = No_Prefix_Similar()
-    # print(nps.is_word_similar('impervious', 'pervious'))
-    # print(nps.get_similar_word_str('expect'))
-    # print('-------------------------')
+    from utils.writemdict.writemdict import MDictWriter
+    from utils.word_list.all_words_list import all_words_list
 
-    nss = No_Suffix_Similar()
-    print('-------------------------')
-    print(nss.is_word_similar('whimsy', 'whimsical'))
-    print(nss.get_similar_word_str('moralistic'))
+    name_Similar = {
+                    'No_Prefix_Similar': No_Prefix_Similar,
+                    'No_Suffix_Similar': No_Suffix_Similar,
+    'Distance_Similar': Distance_Similar,}
 
+    for name, Similar in name_Similar.items():
+        similar = Similar(all_words_list)
+        mdx_dictionary = dict()
+        for word in tqdm(all_words_list):
+            word = word.strip()
+            mdx_dictionary[word] = similar.get_similar_word_str(word)
 
+        writer = MDictWriter(mdx_dictionary, name, name)
+        with open("../output_mdx/" + name + ".mdx", "wb") as f:
+            writer.write(f)
