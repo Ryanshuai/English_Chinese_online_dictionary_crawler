@@ -1,4 +1,6 @@
 import yaml
+from tqdm import tqdm
+from utils.writemdict.writemdict import MDictWriter
 
 
 class Yaml_Root:
@@ -6,7 +8,7 @@ class Yaml_Root:
         self.prefix_explain_dict = dict()
         self.root_explain_dict = dict()
         self.suffix_explain_dict = dict()
-        with open('D:/github_project/make_anki_word_list/yaml_root/1 词缀词根.yaml', encoding='utf-8') as f:
+        with open('./1 词缀词根.yaml', encoding='utf-8') as f:
             all_prefix_root_suffix = yaml.load(f, Loader=yaml.FullLoader)
             for prs_content in all_prefix_root_suffix:
                 cls = prs_content[0]
@@ -21,7 +23,7 @@ class Yaml_Root:
                 else:
                     raise Exception(cls)
 
-        with open('D:/github_project/make_anki_word_list/yaml_root/2 单词列表.yaml', encoding='utf-8') as f:
+        with open('./2 单词列表.yaml', encoding='utf-8') as f:
             word_content = yaml.load(f, Loader=yaml.FullLoader)
             self.w_r_dict = dict()
             for word_context in word_content:
@@ -50,3 +52,18 @@ class Yaml_Root:
 
     def get_root_html(self, word):
         return self.get_root(word)
+
+
+if __name__ == '__main__':
+    from utils.word_list.all_words_list import all_words_list
+
+    txt2dict = Yaml_Root()
+    dictionary = dict()
+    for word in tqdm(all_words_list, desc='Yaml_Root.mdx'):
+        mem_str = txt2dict.get_root_html(word)
+        if len(mem_str) > 0:
+            dictionary[word] = mem_str
+
+    writer = MDictWriter(dictionary, title="Yaml_Root", description="Yaml_Root")
+    with open("../output_mdx/Yaml_Root.mdx", "wb") as f:
+        writer.write(f)
