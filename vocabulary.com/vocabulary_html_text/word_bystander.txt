@@ -1,0 +1,1 @@
+{"success":true,"data":"Someone who observes an event without taking part in it is a bystander. The police may want to interview any bystanders who witnessed a robbery, to get a description of the robber."}

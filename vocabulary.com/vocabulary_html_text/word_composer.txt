@@ -1,0 +1,1 @@
+{"success":true,"data":"A composer is an artist who writes music to be played or performed by musicians. A classical composer might work by writing out musical notation and trying things out on the piano."}

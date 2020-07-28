@@ -1,0 +1,1 @@
+{"success":true,"data":"An inch is a small unit of measurement. Twelve inches makes one foot."}

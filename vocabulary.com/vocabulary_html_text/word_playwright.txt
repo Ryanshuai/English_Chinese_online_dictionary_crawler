@@ -1,0 +1,1 @@
+{"success":true,"data":"A playwright is someone who writes plays. Playwrights are also known as dramatists."}

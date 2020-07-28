@@ -1,0 +1,1 @@
+{"success":true,"data":"A sect is a religious group that exists inside of a larger religion. Think of it as a section of a particular religion."}

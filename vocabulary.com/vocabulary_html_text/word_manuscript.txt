@@ -1,0 +1,1 @@
+{"success":true,"data":"A manuscript is a handwritten work. It's still a manuscript if it's typed — if a publisher asks for your manuscript, don't send her something scrawled on notebook paper!"}

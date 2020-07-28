@@ -1,0 +1,1 @@
+{"success":true,"data":"Hi is a common greeting, more casual than \"hello.\" When you walk down the street in a small town, it might seem like everyone you pass says \"hi.\""}

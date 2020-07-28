@@ -1,0 +1,1 @@
+{"success":true,"data":"Things that are electric are either powered by electricity — like a battery-operated flashlight — or produce or transmit electricity — like an electric generator."}

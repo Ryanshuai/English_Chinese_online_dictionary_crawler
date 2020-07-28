@@ -1,0 +1,1 @@
+{"success":true,"data":"Proof is the evidence that shows something is true or valid. When you show the logical steps that take you from your hypothesis that the world is round to the conclusion that it is, you're formulating a proof."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A type is a specific category of things or people that have something in common. Your favorite type of candy might be dark chocolate, while your brother's favorite type is jelly beans."}

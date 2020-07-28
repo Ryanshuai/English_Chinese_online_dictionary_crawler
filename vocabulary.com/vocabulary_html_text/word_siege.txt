@@ -1,0 +1,1 @@
+{"success":true,"data":"Your city is under siege if it is surrounded on all sides by an opposing force on attack. Think of a castle surrounded by a legion of armed knights."}

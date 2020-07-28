@@ -1,0 +1,1 @@
+{"success":true,"data":"The ton is a unit of measurement. In North America, a ton is 2,000 pounds. Elephants weigh several tons — and blue whales can weigh up to 200 tons!"}

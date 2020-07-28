@@ -1,0 +1,1 @@
+{"success":true,"data":"Hello! Hi! How are you doing? Hello is a salutation or greeting commonly used to begin conversations or telephone calls."}

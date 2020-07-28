@@ -1,0 +1,1 @@
+{"success":true,"data":"A database is an organized body of information. Libraries have lots of databases to help you find books, articles, or information."}

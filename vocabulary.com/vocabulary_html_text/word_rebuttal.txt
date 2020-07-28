@@ -1,0 +1,1 @@
+{"success":true,"data":"When two people debate, one of them makes an argument, and the other follows with a rebuttal, which, plainly put, is the \"no, you're wrong and this is why\" argument."}

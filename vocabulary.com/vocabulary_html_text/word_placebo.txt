@@ -1,0 +1,1 @@
+{"success":true,"data":"A patient's symptoms sometimes disappear just because they believe that they are being treated. Even when doctors give them a biologically inactive drug, otherwise known as a placebo, the patients swear they are cured."}

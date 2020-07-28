@@ -1,0 +1,1 @@
+{"success":true,"data":"When something is labeled, it has a marker that clearly identifies whose it is or what it contains. If your labeled suitcase gets misplaced, it has a better chance of being returned than a bag without a tag."}

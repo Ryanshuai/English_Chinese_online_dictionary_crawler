@@ -1,0 +1,1 @@
+{"success":true,"data":"If you offer to sell me your car, I might ask you, \"What make is it?\" Then you tell me what brand, year and model it is, because in this case make means \"type made.\""}

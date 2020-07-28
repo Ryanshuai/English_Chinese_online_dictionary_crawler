@@ -2,10 +2,12 @@ import requests
 
 
 def word_to_url(word, web):
-    if web == 'etymonline':
-        return 'https://www.etymonline.com/search?q=' + word
-    if web == 'quword':
-        return 'https://www.quword.com/w/' + word
+    if web == "etymonline":
+        return "https://www.etymonline.com/search?q=" + word
+    if web == "quword":
+        return "https://www.quword.com/w/" + word
+    if web == "vocabulary.com":
+        return "https://vocabulary.now.sh/word/" + word
 
 
 def url_to_html_text(url):

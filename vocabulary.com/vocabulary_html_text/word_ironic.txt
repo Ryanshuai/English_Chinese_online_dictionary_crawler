@@ -1,0 +1,1 @@
+{"success":true,"data":"If something is ironic it's unexpected, often in an amusing way. If you're the world chess champion, it would be pretty ironic if you lost a match to someone who just learned to play yesterday."}

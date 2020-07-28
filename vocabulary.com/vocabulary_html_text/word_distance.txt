@@ -1,0 +1,1 @@
+{"success":true,"data":"Distance is an amount of space between things. From a distance, it's hard to tell if someone's wearing a vampire costume or just a chic black outfit."}

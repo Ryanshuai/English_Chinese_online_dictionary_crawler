@@ -1,0 +1,1 @@
+{"success":true,"data":"A sentinel is a guard, a lookout, a person keeping watch. It's often a soldier, but not always. If you're watching a pot, waiting for it to boil, you're standing sentinel over it — and incidentally, it won't boil until you leave."}

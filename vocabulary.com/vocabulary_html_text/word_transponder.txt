@@ -1,0 +1,1 @@
+{"success":true,"data":"A transponder is a communication device that can either send or receive signals (or both). With a special transponder in your car, you can drive slowly through a tollbooth as your toll is collected electronically."}

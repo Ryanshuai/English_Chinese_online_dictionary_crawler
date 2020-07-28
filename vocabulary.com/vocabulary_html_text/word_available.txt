@@ -1,0 +1,1 @@
+{"success":true,"data":"\"Is this seat  available?\" \"Are you  available, or are you married?\" As you can tell from these two examples, available means \"not busy or not taken.\""}

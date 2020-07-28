@@ -1,0 +1,1 @@
+{"success":true,"data":"When you disarm someone, you take their weapons away from them. An archery instructor might, for example, disarm a student if he wasn't handling his bow and arrow carefully."}

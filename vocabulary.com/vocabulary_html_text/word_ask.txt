@@ -1,0 +1,1 @@
+{"success":true,"data":"To ask is to pose a question or request something. If you say \"What time is lunch?\", then you're asking a question."}

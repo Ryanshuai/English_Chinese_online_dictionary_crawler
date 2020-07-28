@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that's lucid is clear and understandable. Lucid writing is important in journalism, so that readers easily get the point of the article they're reading."}

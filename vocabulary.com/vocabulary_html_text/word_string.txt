@@ -1,0 +1,1 @@
+{"success":true,"data":"A string is a strand of fiber that's thinner than a cord or a rope. You can tie on a Halloween mask with a string, or weave a friendship bracelet with a bunch of colorful strings."}

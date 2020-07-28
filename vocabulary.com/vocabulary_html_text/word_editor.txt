@@ -1,0 +1,1 @@
+{"success":true,"data":"Newspaper editors don't write the stories, but they come up with the story ideas, assign them to writers, read all of the drafts, and correct and change them to make them ready to be published."}

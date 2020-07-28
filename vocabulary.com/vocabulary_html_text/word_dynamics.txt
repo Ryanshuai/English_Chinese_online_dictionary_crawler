@@ -1,0 +1,1 @@
+{"success":true,"data":"Dynamics refers to the branch of mechanics that deals with the movement of objects and the forces that drive that movement. If you're taking a physics class, you will likely study dynamics."}

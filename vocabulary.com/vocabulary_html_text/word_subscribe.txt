@@ -1,0 +1,1 @@
+{"success":true,"data":"If you subscribe to something, you sign up to receive it regularly. If you subscribe to the New York Times, it's delivered to your door every morning or you get online access."}

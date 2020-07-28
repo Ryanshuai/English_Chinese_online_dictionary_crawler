@@ -1,0 +1,1 @@
+{"success":true,"data":"The word elliptical is derived from the oval shape known as an ellipse. Many comets have an elliptical orbit around the Sun that brings them closer at some times and farther away at others."}

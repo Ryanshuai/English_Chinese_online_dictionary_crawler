@@ -1,0 +1,1 @@
+{"success":true,"data":"If you say, \"Bye!\" you mean \"farewell\" or \"so long.\" In other words, bye is a shorter way to say, \"Goodbye.\""}

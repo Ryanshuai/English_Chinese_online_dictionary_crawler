@@ -17,10 +17,9 @@ def save_txt(word, save_dir):
 
 
 if __name__ == '__main__':
-    all_word_list = '../word_list/all.txt'
-    with open(all_word_list, 'r', encoding='utf-8') as f:
-        word_list = f.read().splitlines()
-    word_set = set(word_list)
+    from utils.word_list.all_words_list import all_words_list
+
+    word_set = set(all_words_list)
 
     html_text_dir = 'etymonline_html_text'
     exist_set = set(map(lambda x: x[5:-4], os.listdir(html_text_dir)))

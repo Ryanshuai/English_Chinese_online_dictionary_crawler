@@ -1,0 +1,1 @@
+{"success":true,"data":"An orphanage is a place where children without parents are cared for and housed."}

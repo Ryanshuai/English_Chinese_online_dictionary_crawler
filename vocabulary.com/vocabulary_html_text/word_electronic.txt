@@ -1,0 +1,1 @@
+{"success":true,"data":"Electronic things work because of electricity that's transmitted using tiny parts. The keyboard you play in your band is electronic, and so is the calculator you use in math class."}

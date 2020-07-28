@@ -1,0 +1,1 @@
+{"success":true,"data":"When you position items into any spatial arrangement, you are creating a configuration, or specific shape. For example, scientists refer to the specific, bonded arrangement of atoms to make a molecule as a configuration."}

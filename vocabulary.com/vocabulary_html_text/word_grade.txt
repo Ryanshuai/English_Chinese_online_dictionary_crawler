@@ -1,0 +1,1 @@
+{"success":true,"data":"Grade means \"to evaluate or rank,\" like teachers who grade their students or a food inspector who grades a crop, determining whether it is \"food-grade.\""}

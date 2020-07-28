@@ -1,0 +1,1 @@
+{"success":true,"data":"An occurrence is an instance of something or a time when something happens. If you get migraines, the doctor might ask how many occurrences of the headache you have in a month."}

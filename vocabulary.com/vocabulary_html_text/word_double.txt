@@ -1,0 +1,1 @@
+{"success":true,"data":"Something is double if it has two parts or if there are two versions of it. If you order a double dip ice cream cone, there will be two scoops of ice cream for you to lick."}

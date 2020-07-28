@@ -1,0 +1,1 @@
+{"success":true,"data":"In geometry, something that is rectangular had four sides and four right angles. Cereal boxes, dollar bills, and many cell phones have a rectangular shape."}

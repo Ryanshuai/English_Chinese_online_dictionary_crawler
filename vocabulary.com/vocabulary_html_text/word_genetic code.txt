@@ -1,0 +1,1 @@
+{"success":true,"data":"\r\n\t\t\t\t\t\t    n\r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t     the ordering of nucleotides in DNA molecules that carries the genetic information in living cells"}

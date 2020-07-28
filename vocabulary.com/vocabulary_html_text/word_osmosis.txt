@@ -1,0 +1,1 @@
+{"success":true,"data":"Osmosis is the scientific process of transferring fluid between molecules. When molecules move in and out of a cell to achieve the same concentration of something, like salt, on both sides, then osmosis is happening."}

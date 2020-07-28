@@ -1,0 +1,1 @@
+{"success":true,"data":"Something unusual is uncommon. It's odd, weird, or out of the ordinary in some way."}

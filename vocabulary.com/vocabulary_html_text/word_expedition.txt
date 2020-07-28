@@ -1,0 +1,1 @@
+{"success":true,"data":"An expedition is an organized journey that is undertaken for a particular purpose, like a group of scientists launching an expedition to South America to seek out a new medicinal herb."}

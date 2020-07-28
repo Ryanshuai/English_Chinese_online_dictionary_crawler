@@ -1,0 +1,1 @@
+{"success":true,"data":"An orphan is someone who has lost both parents. Usually, we think of sad little children when we think of orphans, but anyone whose parents have both died is an orphan."}

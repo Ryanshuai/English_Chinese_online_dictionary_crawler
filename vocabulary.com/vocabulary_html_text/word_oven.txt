@@ -1,0 +1,1 @@
+{"success":true,"data":"An oven is a device for baking food using heat. You probably scramble eggs on your stove but bake cupcakes in your oven."}

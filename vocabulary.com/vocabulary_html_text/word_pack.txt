@@ -1,0 +1,1 @@
+{"success":true,"data":"A pack is a container of something, especially one made of sturdy paper. You might run to the store for a pack of batteries for your new clock and a pack of crayons for your new coloring book."}

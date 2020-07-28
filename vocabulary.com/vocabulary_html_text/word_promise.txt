@@ -1,0 +1,1 @@
+{"success":true,"data":"A promise is an agreement to do or not do something. Also, when you have potential, you show promise."}

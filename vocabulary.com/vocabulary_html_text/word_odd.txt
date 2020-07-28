@@ -1,0 +1,1 @@
+{"success":true,"data":"The numbers 1, 3, 5, and 35 are all odd numbers — they can't be divided by two. They are not even. Also, things that are weird or strange are called odd."}
