@@ -5,7 +5,7 @@ import io
 import os
 
 # ####################################################### build filter list
-from utils.word_list.all_words_list import all_words_list
+from utils.word_list.word_list_py.all_words_list import all_words_list
 
 num = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]
 for i, num in enumerate(num):

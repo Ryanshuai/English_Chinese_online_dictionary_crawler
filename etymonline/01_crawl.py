@@ -2,7 +2,6 @@ import os
 import time
 import random
 import threading
-from tqdm import tqdm
 from word_to_url_to_txt import word_to_url, url_to_html_text
 
 
@@ -17,7 +16,7 @@ def save_txt(word, save_dir):
 
 
 if __name__ == '__main__':
-    from utils.word_list.all_words_list import all_words_list
+    from utils.word_list.word_list_py.all_words_list import all_words_list
 
     word_set = set(all_words_list)
 

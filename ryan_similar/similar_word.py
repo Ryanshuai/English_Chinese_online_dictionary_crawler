@@ -162,7 +162,7 @@ if __name__ == '__main__':
     from tqdm import tqdm
 
     from utils.writemdict.writemdict import MDictWriter
-    from utils.word_list.all_words_list import all_words_list
+    from utils.word_list.word_list_py.all_words_list import all_words_list
 
     name_Similar = {'No_Prefix_Similar': No_Prefix_Similar,
                     'No_Suffix_Similar': No_Suffix_Similar,

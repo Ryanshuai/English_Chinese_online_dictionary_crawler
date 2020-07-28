@@ -15,7 +15,8 @@ def get_root_txt_from_youdict_html_text(html_text):
             root_txt += Soup.get_text()
         else:
             root_txt += soup_p.get_text()
-
+    if '词源不详。' in root:
+        return ''
     return root_txt
 
 

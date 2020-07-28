@@ -55,7 +55,7 @@ class Yaml_Root:
 
 
 if __name__ == '__main__':
-    from utils.word_list.all_words_list import all_words_list
+    from utils.word_list.word_list_py.all_words_list import all_words_list
 
     txt2dict = Yaml_Root()
     dictionary = dict()

@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4ba7a9-0211-49f9-a98f-c88e269313f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/etymonline/03_txt2dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quword/03_txt2dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ryan_frequency/03_txt2dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt_to_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocabulary.com/03_txt2dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocabulary.com/enExplain.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/etymonline/01_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/etymonline/01_crawl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etymonline/txt_to_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_mdx/GRE_frequency.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output_mdx/GRE_frequency.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_mdx/TOEFL_frequency.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/output_mdx/TOEFL_frequency.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quword/01_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/01_crawl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quword/02_html2txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/02_html2txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quword/1_get_youdcit_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/1_get_youdcit_image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quword/image_to_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/image_to_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/word_list/make_all_words_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/make_all_words_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/word_list/word_list_txt/TOEFL_红宝书.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/word_list_txt/TOEFL_red.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_to_url_to_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_to_url_to_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quword/txt_to_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/quword/txt_to_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan_frequency/txt_to_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan_similar/similar_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/ryan_similar/similar_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/word_list/all_words_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/word_list/word_list_py/all_words_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocabulary.com/01_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/vocabulary.com/01_crawl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocabulary.com/02_html2txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/vocabulary.com/02_html2txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocabulary.com/3_update_youdict_root_mem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yaml_root/txt_to_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/yaml_root/txt_to_dict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +78,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils/word_list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/quword" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,26 +87,27 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/quword/image_to_dict.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_project\English_Chinese_online_dictionary_spider\quword" />
+      <recent name="D:\github_project\English_Chinese_online_dictionary_spider\ryan_frequency" />
+      <recent name="D:\github_project\English_Chinese_online_dictionary_spider" />
+      <recent name="D:\github_project\English_Chinese_online_dictionary_spider\vocabulary.com" />
+      <recent name="D:\github_project\English_Chinese_online_dictionary_spider\utils\word_list" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github_project\English_Chinese_online_dictionary_spider\utils\word_list\word_list_py" />
       <recent name="D:\github_project\English_Chinese_online_dictionary_spider\utils\word_list\word_list_txt" />
       <recent name="D:\github_project\English_Chinese_online_dictionary_spider\output_mdx" />
       <recent name="D:\github_project\make_anki_word_list\oxford" />
       <recent name="D:\github_project\make_anki_word_list\ryan_frequency" />
-      <recent name="D:\github_project\make_anki_word_list\cigencizhui" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\github_project\English_Chinese_online_dictionary_spider\utils\word_list" />
-      <recent name="D:\github_project\English_Chinese_online_dictionary_spider\quword" />
-      <recent name="D:\github_project\make_anki_word_list\cigencizhui" />
-      <recent name="D:\github_project\make_anki_word_list\quword" />
-      <recent name="D:\github_project\make_anki_word_list\etymonline" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.make_all_words_list">
+  <component name="RunManager" selected="Python.03_txt2dictionary (1)">
     <configuration name="01_crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="English-Chinese_online_dictionary_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="image_to_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_html2txt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="English-Chinese_online_dictionary_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,12 +138,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quword" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vocabulary.com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quword/image_to_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vocabulary.com/02_html2txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_txt2dictionary (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ryan_frequency" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ryan_frequency/03_txt2dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_txt2dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="English-Chinese_online_dictionary_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vocabulary.com" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vocabulary.com/03_txt2dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,57 +218,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="txt_to_dict (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="English-Chinese_online_dictionary_spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ryan_frequency" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ryan_frequency/txt_to_dict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="txt_to_dict (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="English-Chinese_online_dictionary_spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yaml_root" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yaml_root/txt_to_dict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.make_all_words_list" />
+        <item itemvalue="Python.03_txt2dictionary (1)" />
+        <item itemvalue="Python.03_txt2dictionary" />
+        <item itemvalue="Python.02_html2txt" />
         <item itemvalue="Python.01_crawl" />
-        <item itemvalue="Python.image_to_dict" />
-        <item itemvalue="Python.txt_to_dict (2)" />
-        <item itemvalue="Python.txt_to_dict (1)" />
+        <item itemvalue="Python.make_all_words_list" />
       </list>
     </recent_temporary>
   </component>
@@ -421,14 +438,8 @@
       <workItem from="1593924073126" duration="20000" />
       <workItem from="1595778983026" duration="840000" />
       <workItem from="1595779855943" duration="947000" />
-      <workItem from="1595932002970" duration="1800000" />
-    </task>
-    <task id="LOCAL-00028" summary="list 2 set">
-      <created>1557384336997</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1557384336997</updated>
+      <workItem from="1595932002970" duration="1908000" />
+      <workItem from="1595933956798" duration="6544000" />
     </task>
     <task id="LOCAL-00029" summary="1">
       <created>1557385409007</created>
@@ -766,7 +777,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593872195298</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="add TOEFL_red.py">
+      <created>1595933906199</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1595933906199</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TodoView">
@@ -782,7 +800,6 @@
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add analyze.py" />
     <MESSAGE value="venn OK" />
     <MESSAGE value="add GRE kmf 6 2 txt" />
     <MESSAGE value="add gre frequency" />
@@ -807,7 +824,8 @@
     <MESSAGE value="add similar dict" />
     <MESSAGE value="add frequency dict" />
     <MESSAGE value="add yaml root dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="add yaml root dict" />
+    <MESSAGE value="add TOEFL_red.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add TOEFL_red.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1590743348274">
@@ -827,56 +845,60 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587711836875" />
-    <state x="1028" y="235" width="1856" height="1090" key="CommitChangelistDialog2" timestamp="1593872194568">
+    <state x="1475" y="401" key="#xdebugger.evaluate" timestamp="1595937144263">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1475" y="401" key="#xdebugger.evaluate/0.0.3440.1400@0.0.3440.1400" timestamp="1595937144263" />
+    <state x="972" y="95" width="1856" height="1090" key="CommitChangelistDialog2" timestamp="1595933904183">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="77" y="11" width="1746" height="975" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587728258504" />
-    <state x="1028" y="235" width="1856" height="1090" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1593872194568" />
+    <state x="972" y="95" width="1856" height="1090" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1595933904183" />
     <state x="165" y="124" width="1736" height="856" key="DiffContextDialog" timestamp="1593871288817">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587634863458" />
     <state x="165" y="124" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1593871288817" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.bottom" timestamp="1595933350486">
+    <state width="984" height="1272" key="GridCell.Tab.0.bottom" timestamp="1595940530111">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1595933350486" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.center" timestamp="1595933350486">
+    <state width="984" height="1272" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1595940530111" />
+    <state width="984" height="1272" key="GridCell.Tab.0.center" timestamp="1595940530110">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1595933350486" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.left" timestamp="1595933350486">
+    <state width="984" height="1272" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1595940530110" />
+    <state width="984" height="1272" key="GridCell.Tab.0.left" timestamp="1595940530110">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1595933350486" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.right" timestamp="1595933350486">
+    <state width="984" height="1272" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1595940530110" />
+    <state width="984" height="1272" key="GridCell.Tab.0.right" timestamp="1595940530111">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="644" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590744824208" />
-    <state width="1270" height="1272" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1595933350486" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.bottom" timestamp="1595933059018">
+    <state width="984" height="1272" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1595940530111" />
+    <state width="1357" height="1272" key="GridCell.Tab.1.bottom" timestamp="1595937154419">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587714068947" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1595933059018" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.center" timestamp="1595933059018">
+    <state width="1357" height="1272" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1595937154419" />
+    <state width="1357" height="1272" key="GridCell.Tab.1.center" timestamp="1595937154419">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587714068947" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1595933059018" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.left" timestamp="1595933059017">
+    <state width="1357" height="1272" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1595937154419" />
+    <state width="1357" height="1272" key="GridCell.Tab.1.left" timestamp="1595937154419">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587714068947" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1595933059017" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.right" timestamp="1595933059018">
+    <state width="1357" height="1272" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1595937154419" />
+    <state width="1357" height="1272" key="GridCell.Tab.1.right" timestamp="1595937154419">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587714068947" />
-    <state width="1357" height="1272" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1595933059018" />
+    <state width="1357" height="1272" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1595937154419" />
     <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog" timestamp="1587634863458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -886,6 +908,10 @@
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587635652209" />
     <state x="739" y="143" width="2001" height="894" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1593872057656" />
+    <state width="1728" height="708" key="XDebugger.FullValuePopup" timestamp="1595935425926">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1728" height="708" key="XDebugger.FullValuePopup/0.0.3440.1400@0.0.3440.1400" timestamp="1595935425926" />
     <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593869534226">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -894,17 +920,17 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1427" y="299" width="1102" height="993" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1595932889509" />
+    <state x="1563" y="472" key="refactoring.ChangeSignatureDialog" timestamp="1595938604446">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1563" y="472" key="refactoring.ChangeSignatureDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1595938604446" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vocabulary.com/01_crawl.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="html_text" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/make_anki_word_list$ttttest.coverage" NAME="ttttest Coverage Results" MODIFIED="1559214679136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -936,6 +962,7 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$word_counter.coverage" NAME="word_counter Coverage Results" MODIFIED="1558360347083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word_counter" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$youdict_root.coverage" NAME="youdict_root Coverage Results" MODIFIED="1555590866609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$2_update_etymonline.coverage" NAME="2_update_etymonline Coverage Results" MODIFIED="1559031003142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/English_Chinese_online_dictionary_spider$03_txt2dictionary.coverage" NAME="03_txt2dictionary Coverage Results" MODIFIED="1595939774694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vocabulary.com" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$make_all_internal_list.coverage" NAME="make_all_internal_list Coverage Results" MODIFIED="1558959536150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$generate_youdict_root_mem.coverage" NAME="generate_youdict_root_mem Coverage Results" MODIFIED="1557201883107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$08_update_youdict_root_mem.coverage" NAME="08_update_youdict_root_mem Coverage Results" MODIFIED="1557210711150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -946,11 +973,13 @@
     <SUITE FILE_PATH="coverage/make_anki_word_list$get_youdcit_image.coverage" NAME="get_youdcit_image Coverage Results" MODIFIED="1555258328060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$4_make_mdx.coverage" NAME="4_make_mdx Coverage Results" MODIFIED="1557667312268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$07_make_all_list.coverage" NAME="07_make_all_list Coverage Results" MODIFIED="1557200498323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/English_Chinese_online_dictionary_spider$03_txt2dictionary__1_.coverage" NAME="03_txt2dictionary (1) Coverage Results" MODIFIED="1595940330971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ryan_frequency" />
+    <SUITE FILE_PATH="coverage/English_Chinese_online_dictionary_spider$02_html2txt.coverage" NAME="02_html2txt Coverage Results" MODIFIED="1595938178187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vocabulary.com" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$07_find_word_in_which.coverage" NAME="07_find_word_in_which Coverage Results" MODIFIED="1557753708287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$html2txt.coverage" NAME="html2txt Coverage Results" MODIFIED="1557315138316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$add_review.coverage" NAME="add_review Coverage Results" MODIFIED="1554695423540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ebbinghaus" />
     <SUITE FILE_PATH="coverage/English_Chinese_online_dictionary_spider$1_get_youdcit_image.coverage" NAME="1_get_youdcit_image Coverage Results" MODIFIED="1590743654713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quword" />
-    <SUITE FILE_PATH="coverage/English_Chinese_online_dictionary_spider$01_crawl.coverage" NAME="01_crawl Coverage Results" MODIFIED="1595933350481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vocabulary.com" />
+    <SUITE FILE_PATH="coverage/English_Chinese_online_dictionary_spider$01_crawl.coverage" NAME="01_crawl Coverage Results" MODIFIED="1595936679538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vocabulary.com" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$06_word_in_which.coverage" NAME="06_word_in_which Coverage Results" MODIFIED="1557421661309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$make_all_list.coverage" NAME="make_all_list Coverage Results" MODIFIED="1557383565494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/make_anki_word_list$analyze_word_list.coverage" NAME="analyze_word_list Coverage Results" MODIFIED="1558012441326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -8,7 +8,7 @@ from word_to_url_to_txt import word_to_url, url_to_html_text
 
 def save_txt(word, save_dir):
     url = word_to_url(word, 'vocabulary.com')
-    print(word, '\tbegin!')
+    # print(word, '\tbegin!')
     html_text = url_to_html_text(url)
     to_txt = os.path.join(save_dir, 'word_' + word + '.txt')
     with open(to_txt, 'w', encoding='utf-8') as f:
@@ -17,7 +17,7 @@ def save_txt(word, save_dir):
 
 
 if __name__ == '__main__':
-    from utils.word_list.all_words_list import all_words_list
+    from utils.word_list.word_list_py.TOEFL_red import all_words_list
 
     word_set = set(all_words_list)
 
@@ -29,7 +29,7 @@ if __name__ == '__main__':
     # check and save html #########################################################################################
     for i, word in enumerate(waiting_set):
         print(i, "/", len(waiting_set), ":", word)
-        time.sleep(random.uniform(0.01, 0.5))
+        time.sleep(random.uniform(0.1, 0.5) * 10)
         threading.Timer(0.00001, save_txt, (word, html_text_dir)).start()
         # save_txt(word, html_text_dir)
         if i > 500:

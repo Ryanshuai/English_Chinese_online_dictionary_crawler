@@ -2,8 +2,6 @@ import requests
 from PIL import Image
 from io import BytesIO
 import os
-import time
-import random
 
 from PIL import ImageFile
 
@@ -25,7 +23,7 @@ def save_word_image_to_dir(name, save_path):
 
 
 if __name__ == '__main__':
-    from utils.word_list.all_words_list import all_words_list
+    from utils.word_list.word_list_py.all_words_list import all_words_list
 
     save_to_dir = './quword_images/'
 
