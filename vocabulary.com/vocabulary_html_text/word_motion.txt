@@ -1,0 +1,1 @@
+{"success":true,"data":"Motion is the way things get from place to place. The ball rolling down a hill is in motion, and as Isaac Newton once proved, it will remain in motion until it hits a wall or something else that makes it stop."}

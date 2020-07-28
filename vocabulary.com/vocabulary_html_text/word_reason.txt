@@ -1,0 +1,1 @@
+{"success":true,"data":"A reason explains why you do something. The reason you go to school is to learn things (and because it's the law)."}

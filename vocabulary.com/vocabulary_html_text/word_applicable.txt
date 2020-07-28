@@ -1,0 +1,1 @@
+{"success":true,"data":"If something's applicable, it matters in a certain case: it's relevant. If we're going to have rules,\r\nshouldn't they be applicable to everyone?"}

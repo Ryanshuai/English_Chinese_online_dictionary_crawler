@@ -1,0 +1,1 @@
+{"success":true,"data":"A caterpillar is a fuzzy, worm-like insect that transforms into a butterfly or a moth. Many caterpillars are striped and colorful."}

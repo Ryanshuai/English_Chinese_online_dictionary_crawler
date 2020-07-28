@@ -1,0 +1,1 @@
+{"success":true,"data":"A symbol can be an object, shape, sign, or character used to represent something else. A flag is a symbol of a country. English teachers never tire of talking about symbols in literature."}

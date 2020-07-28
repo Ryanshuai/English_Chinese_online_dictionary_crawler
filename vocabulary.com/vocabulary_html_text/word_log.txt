@@ -1,0 +1,1 @@
+{"success":true,"data":"A log is the trunk of a tree minus the branches: logging is cutting down trees. A log is also a written record of something, and logging is keeping such a record."}

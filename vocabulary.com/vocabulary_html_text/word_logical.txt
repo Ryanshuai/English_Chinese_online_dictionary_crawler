@@ -1,0 +1,1 @@
+{"success":true,"data":"Logical describes something that comes from clear reasoning. Using a fire extinguisher to put it out a fire is a logical step. Trying to put it out with gasoline is not."}

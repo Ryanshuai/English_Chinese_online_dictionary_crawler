@@ -1,0 +1,1 @@
+{"success":true,"data":"A resident is someone who lives somewhere particular, or a doctor-in-training who takes care of the patients at a hospital under the supervision of other doctors."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Something immediate is happening now or right away. If you're in immediate danger, you'd better run or call 911."}

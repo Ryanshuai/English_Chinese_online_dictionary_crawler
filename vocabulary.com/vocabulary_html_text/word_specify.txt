@@ -1,0 +1,1 @@
+{"success":true,"data":"To explicitly name something or state a particular detail, you specify that thing. So, when you have a craving for dessert and you send someone to the store to buy ice cream, you may want to specify a flavor."}

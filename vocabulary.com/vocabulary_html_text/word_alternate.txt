@@ -1,0 +1,1 @@
+{"success":true,"data":"On a checkerboard, black squares alternate with white ones. As a verb, alternate means to do something in turns. As a noun, an alternate is a replacement."}

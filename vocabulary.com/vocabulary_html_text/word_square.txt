@@ -1,0 +1,1 @@
+{"success":true,"data":"A square is a figure with four equal sides and four right angles. It's a popular shape for windows and record albums, among many other things."}

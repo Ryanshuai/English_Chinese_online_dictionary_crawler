@@ -1,0 +1,1 @@
+{"success":true,"data":"If it's in the past, it's not current. If it's out of date, out of style, or out of time, it's not current. If it's up-to-the-minute, right now, and in the present, it is current."}

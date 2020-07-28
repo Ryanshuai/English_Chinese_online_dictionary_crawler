@@ -1,0 +1,1 @@
+{"success":true,"data":"A dimension is the measurement of something in physical space. You might give the painters every dimension of the rooms you want painted, including depth, height, and width."}

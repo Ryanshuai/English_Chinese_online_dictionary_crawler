@@ -1,0 +1,1 @@
+{"success":true,"data":"When you multiply two numbers, you increase the first by the same number that's specified by the second. In other words, when you multiply two by three, you add together three twos."}

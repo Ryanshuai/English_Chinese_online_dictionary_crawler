@@ -1,0 +1,1 @@
+{"success":true,"data":"If someone asks, “How are you?” and you reply, “Fine,” without really thinking about it, that’s an automatic reply. Something that’s automatic is done without thinking, almost as if you’re a well-programmed machine."}

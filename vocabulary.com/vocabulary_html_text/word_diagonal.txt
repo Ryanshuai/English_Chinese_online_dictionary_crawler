@@ -1,0 +1,1 @@
+{"success":true,"data":"A diagonal is made out of a straight line that's set at an angle instead of straight up or across. If you picture a square and draw a line connecting the opposite corners, that’s a diagonal line."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A symptom is the result or byproduct of something else—specifically, the result we use to prove that that other thing exists. Simple example: a cough is a symptom of a cold. We know we have a cold because we have the symptom, a cough."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"That colorful arc you sometimes see in the sky right after it stops raining? That's a rainbow."}

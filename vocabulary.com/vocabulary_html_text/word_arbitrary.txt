@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that's arbitrary seems like it's chosen at random instead of following a consistent rule. Team members would dislike their coach using a totally arbitrary method to pick starting players."}

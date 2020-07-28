@@ -1,0 +1,1 @@
+{"success":true,"data":"An adhesive is something sticky that holds things together.  Use an adhesive to repair a cracked plate."}

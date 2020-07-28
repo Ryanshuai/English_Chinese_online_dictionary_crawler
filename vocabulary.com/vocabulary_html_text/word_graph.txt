@@ -1,0 +1,1 @@
+{"success":true,"data":"A graph is a visual plotting of the relationship between two or more quantities, like a math map. To graph is to create such a chart."}

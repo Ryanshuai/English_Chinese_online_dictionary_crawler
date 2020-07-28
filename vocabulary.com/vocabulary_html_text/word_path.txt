@@ -1,0 +1,1 @@
+{"success":true,"data":"A path is a route that's meant for walking. You might follow a path up a mountain as you hike, or follow a winding path throughout your life."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Strict describes someone who sticks to a particular set of rules. If your math teacher is strict, it means that she expects her rules to be followed to the letter."}

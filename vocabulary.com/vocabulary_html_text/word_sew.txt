@@ -1,0 +1,1 @@
+{"success":true,"data":"Sew describes stitching something together. If you sew up the holes in your socks, you use thread and a needle to close them."}

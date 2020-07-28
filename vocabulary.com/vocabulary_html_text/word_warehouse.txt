@@ -1,0 +1,1 @@
+{"success":true,"data":"A warehouse is a place where a company stores things they are going to sell. If you order a book online, it is almost certainly shipped from a warehouse to your house."}

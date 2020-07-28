@@ -1,0 +1,1 @@
+{"success":true,"data":"To aggregate is to collect many units into one. If you're writing a novel, you might create a character who is an aggregate of five or six real people."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A polygon is a closed shape with straight sides. Rectangles, triangles, hexagons, and octagons are all examples of polygons."}

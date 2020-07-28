@@ -1,0 +1,1 @@
+{"success":true,"data":"In math, when you subtract, you take one number away from another. If you subtract four from ten, you're left with six. You can also use subtract to mean \"take away\" in a more general sense, as in \"If you subtract some of the salt from the recipe, the pasta will be healthier.\""}

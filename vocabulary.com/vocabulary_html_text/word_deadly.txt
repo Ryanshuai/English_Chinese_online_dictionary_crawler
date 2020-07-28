@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that's deadly can kill you. Because a gun can end someone's life, it's a deadly weapon."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A dentist is a doctor who specializes in teeth, gums, and the mouth. If you get a bad toothache, you should probably go to the dentist to make sure you don't have a cavity."}

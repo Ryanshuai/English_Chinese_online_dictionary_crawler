@@ -1,0 +1,1 @@
+{"success":true,"data":"A process is a procedure, something you do in order to achieve a certain result. Some people try to carefully follow all the steps in a process. Other people just wing it."}

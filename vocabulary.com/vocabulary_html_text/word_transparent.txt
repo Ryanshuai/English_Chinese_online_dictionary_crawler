@@ -1,0 +1,1 @@
+{"success":true,"data":"You can see right through something transparent. A window is transparent, but so are the intentions of a Peeping Tom looking through that window."}

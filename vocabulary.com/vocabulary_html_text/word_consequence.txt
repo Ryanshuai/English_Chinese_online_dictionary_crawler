@@ -1,0 +1,1 @@
+{"success":true,"data":"Things in a sequence come one after another, as in a number sequence of 1, 2, 3, 4. A consequence comes after, or as a result of something you do, for example, \"He was given a traffic ticket as a consequence of running the red light.\""}

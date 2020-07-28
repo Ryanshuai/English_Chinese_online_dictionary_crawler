@@ -1,0 +1,1 @@
+{"success":true,"data":"The saying “labels are for jars not people” means it’s OK to put a description on a jar so you know what’s inside (a label), but it’s not okay to judge people by attaching a label, or description to them, such as \"nerd,\" \"jock,\" or \"burnout.\""}

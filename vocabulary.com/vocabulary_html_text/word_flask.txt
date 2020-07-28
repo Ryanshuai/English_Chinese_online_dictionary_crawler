@@ -1,0 +1,1 @@
+{"success":true,"data":"A flask is a small container that holds a liquid. Most flasks have a squarish body and a small neck for drinking or pouring. Don't try sneaking a flask into your tube sock."}

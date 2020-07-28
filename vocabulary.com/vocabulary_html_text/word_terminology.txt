@@ -1,0 +1,1 @@
+{"success":true,"data":"Terminology is vocabulary associated with a certain field of study, profession, or activity. Knowing the terminology is an important part of being able to work in a given profession."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A comet is a small, icy object that orbits the sun and has a long \"tail\" of gas. Some comets can be seen from Earth every few years, while others pass by once in a person's lifetime."}

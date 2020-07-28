@@ -1,0 +1,1 @@
+{"success":true,"data":"If an event is rare, it doesn't happen often.  If an object is rare, there aren't many of its kind.  Obviously, finding a rare gem is a rare occasion."}

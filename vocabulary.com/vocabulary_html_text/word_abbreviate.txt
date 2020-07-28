@@ -1,0 +1,1 @@
+{"success":true,"data":"To abbreviate is to shorten. Words are often abbreviated, like when we say sked instead of schedule."}

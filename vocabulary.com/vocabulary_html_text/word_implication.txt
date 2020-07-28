@@ -1,0 +1,1 @@
+{"success":true,"data":"An implication is something that is suggested, or happens, indirectly. When you left the gate open and the dog escaped, you were guilty by implication."}

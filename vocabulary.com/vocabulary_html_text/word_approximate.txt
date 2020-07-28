@@ -1,0 +1,1 @@
+{"success":true,"data":"To approximate is to calculate the value of something based on informed knowledge. A computer program can approximate the value of a house based on square footage, number of rooms, year built, and other relevant factors."}

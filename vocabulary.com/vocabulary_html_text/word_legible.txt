@@ -1,0 +1,1 @@
+{"success":true,"data":"Legible describes readable print or handwriting. If someone tells you that your writing looks like \"chicken scratch,\" it might not be legible, except to other chickens."}

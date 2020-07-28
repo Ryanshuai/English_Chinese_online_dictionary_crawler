@@ -1,0 +1,1 @@
+{"success":true,"data":"If you can say it with numbers, then it is probably statistical. Statistical information (or \"stats\") can tell the chance of rain tomorrow or what percentage or your allowance gets spent on texting."}

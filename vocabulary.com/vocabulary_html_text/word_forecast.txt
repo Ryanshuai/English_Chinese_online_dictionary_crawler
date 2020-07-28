@@ -1,0 +1,1 @@
+{"success":true,"data":"A forecast is a prediction of what will happen. If the weather forecast calls for sunny skies, consider leaving your umbrella at home. (But, since forecasts aren’t guaranteed to be right, don’t blame us if you get rained on.)"}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A clock breaks time down into intervals of seconds, minutes, and hours. An interval is a distinct measure of time or the physical or temporal distance between two things."}

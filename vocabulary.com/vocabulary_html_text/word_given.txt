@@ -1,0 +1,1 @@
+{"success":true,"data":"A given is some detail or fact that is known to be true. Your mother might say, \"It's a given that I'll always love you, no matter how annoying you are.\""}

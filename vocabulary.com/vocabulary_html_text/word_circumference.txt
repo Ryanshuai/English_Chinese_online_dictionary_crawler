@@ -1,0 +1,1 @@
+{"success":true,"data":"The distance around a circle is called the circumference, and although circumference is often used when talking about round things, it can mean a boundary of any shape that completely surrounds something."}

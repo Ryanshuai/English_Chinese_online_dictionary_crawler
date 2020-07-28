@@ -1,0 +1,1 @@
+{"success":true,"data":"A valid argument is one that is well-grounded in fact, law or logic. \"Their argument for annulment was valid because they had never even met and their marriage was the result of a clerical error at town hall.\""}

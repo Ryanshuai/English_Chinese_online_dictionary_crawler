@@ -1,0 +1,1 @@
+{"success":true,"data":"An animal that is endangered is close to extinction — meaning there aren't very many of that type of animal left in the world."}

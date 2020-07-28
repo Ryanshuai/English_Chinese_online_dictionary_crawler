@@ -1,0 +1,1 @@
+{"success":true,"data":"Geometry is the part of mathematics that deals with calculating the distance around a circle, the angles that make up a triangle, or the amount of room inside a cube.  If it involves measuring space, it’s probably geometry."}

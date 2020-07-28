@@ -1,0 +1,1 @@
+{"success":true,"data":"The adjective variable is used to describe something that is liable to change often, such as the weather, interest rates, or your teacher's mood."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"\r\n\t\t\t\t\t\t    n\r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t     a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth&#039;s crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors"}

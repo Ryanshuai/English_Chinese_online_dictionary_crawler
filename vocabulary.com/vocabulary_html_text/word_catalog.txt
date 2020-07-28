@@ -1,0 +1,1 @@
+{"success":true,"data":"A catalog is a book that lists many things: the most common type of catalog is for a store."}

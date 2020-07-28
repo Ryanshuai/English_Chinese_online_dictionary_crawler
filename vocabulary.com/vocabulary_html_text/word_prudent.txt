@@ -1,0 +1,1 @@
+{"success":true,"data":"Describe an action as prudent if it is the wise thing to do under the existing circumstances. If you're getting in trouble, it is probably prudent to keep your mouth closed and just listen."}

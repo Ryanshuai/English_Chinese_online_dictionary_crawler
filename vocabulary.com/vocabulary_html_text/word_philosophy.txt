@@ -1,0 +1,1 @@
+{"success":true,"data":"The noun philosophy means the study of proper behavior, and the search for wisdom."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Anything can be a wagon, so long as it has wheels and can be pulled.  Wagons are used for transporting goods, like grains from a farm, or your little sister who wants another ride around the block."}

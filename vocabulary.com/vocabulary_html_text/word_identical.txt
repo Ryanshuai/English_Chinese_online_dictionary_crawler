@@ -1,0 +1,1 @@
+{"success":true,"data":"When you're looking for exact replicas, don't waste your time on\r\nsnowflakes or fingerprints; no two are identical, or exactly\r\nthe same."}

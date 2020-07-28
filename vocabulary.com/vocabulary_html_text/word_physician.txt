@@ -1,0 +1,1 @@
+{"success":true,"data":"A physician is a doctor. If you wake up and your eyes are red, your skin is yellow, and your tongue is swollen, find a physician, soon!"}

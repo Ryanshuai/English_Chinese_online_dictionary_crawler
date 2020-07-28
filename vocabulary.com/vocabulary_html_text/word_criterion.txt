@@ -1,0 +1,1 @@
+{"success":true,"data":"A criterion is a standard for judging something. If you are holding a cupcake competition, your number one criterion might be the smoothness of frosting."}

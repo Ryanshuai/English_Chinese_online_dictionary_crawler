@@ -1,0 +1,1 @@
+{"success":true,"data":"A tutor is someone who gives private instruction: tutors teach one-on-one."}

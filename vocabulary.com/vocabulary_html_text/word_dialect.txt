@@ -1,0 +1,1 @@
+{"success":true,"data":"If the language you speak in your region is different in vocabulary, grammar and accent than the main form of the language, you speak a dialect. If your cousin in rural Arkansas can't understand your jokes, blame it on differences in dialect."}

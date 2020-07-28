@@ -1,0 +1,1 @@
+{"success":true,"data":"In the old \"Schoolhouse Rock\" song, \"Conjunction junction, what's your function?,\" the word function means, \"What does a conjunction do?\" The famous design dictum \"form follows function\" tells us that an object's design should reflect what it does."}

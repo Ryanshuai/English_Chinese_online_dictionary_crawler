@@ -1,0 +1,1 @@
+{"success":true,"data":"A vertebrate is an animal that has a backbone and a skeleton. Vertebrate animals include humans."}

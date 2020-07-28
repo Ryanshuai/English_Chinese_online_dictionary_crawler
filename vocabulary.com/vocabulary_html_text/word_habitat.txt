@@ -1,0 +1,1 @@
+{"success":true,"data":"Your habitat is the environment you are accustomed to living in. Zoos usually try to mimic the habitats of the animals they keep, housing bats in a nocturnal house and monkeys in a cage with trees to climb and swing from."}

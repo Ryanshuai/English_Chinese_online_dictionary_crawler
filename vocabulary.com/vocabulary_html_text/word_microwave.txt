@@ -1,0 +1,1 @@
+{"success":true,"data":"A microwave is a small oven that cooks or heats food very quickly. Instead of the electric or gas heat that a regular oven uses, a microwave heats with electromagnetic radiation."}

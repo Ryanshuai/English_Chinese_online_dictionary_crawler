@@ -1,0 +1,1 @@
+{"success":true,"data":"On a boat, an anchor is a heavy object attached to a rope. You toss it overboard, it sinks to the bottom, and your vessel doesn't move. Anchor has the sense of what holds something in place."}

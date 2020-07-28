@@ -1,0 +1,1 @@
+{"success":true,"data":"Green, orange, yellow, and blue — each of these is a hue, a color or a shade that's true.\r\nA rainbow shows the melting of one hue into another, from red to violet, and all shades in between."}

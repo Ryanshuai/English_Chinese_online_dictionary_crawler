@@ -1,0 +1,1 @@
+{"success":true,"data":"An emission is something that's been released or emitted into the world. Car exhaust, burps, and radio broadcasts are all examples of emissions."}

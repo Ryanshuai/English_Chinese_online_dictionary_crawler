@@ -1,0 +1,1 @@
+{"success":true,"data":"An activity is something you do, or just the state of doing. You might plan some indoor activities for a rainy day, or you might just rely on watching your gerbils' activity in their cage."}

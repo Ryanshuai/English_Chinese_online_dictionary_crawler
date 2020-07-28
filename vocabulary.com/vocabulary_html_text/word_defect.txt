@@ -1,0 +1,1 @@
+{"success":true,"data":"A flaw in something is a defect. At certain stores you can buy clothes with slight defects. You have to be careful because the defect can be minor, like a missing button, or major, like sleeves of uneven lengths."}

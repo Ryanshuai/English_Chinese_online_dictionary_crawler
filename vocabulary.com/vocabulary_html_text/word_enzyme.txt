@@ -1,0 +1,1 @@
+{"success":true,"data":"An important element in human chemistry, an enzyme is a protein manufactured by a cell, and is a catalyst in various biological functions. For example, enzymes help break down larger molecules of starch, fat, and protein during digestion."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Similar things are alike.  If you and your best friend both like walking, mystery novels, and chocolate, and you both dislike jogging, science fiction, and Brussels sprouts, the two of you have similar tastes."}

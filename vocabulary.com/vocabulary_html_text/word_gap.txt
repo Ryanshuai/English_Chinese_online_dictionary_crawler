@@ -1,0 +1,1 @@
+{"success":true,"data":"A gap is the space between two things. It can be physical (like \"the gap between your two front teeth\") or philosophical (like \"the generation gap\" between you and your parents)."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A deadline is a date or time when something must be finished. At work and school, most projects have deadlines. If you don’t get your paper in by the deadline, you won’t get a good grade."}

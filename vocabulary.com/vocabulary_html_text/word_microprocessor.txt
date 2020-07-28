@@ -1,0 +1,1 @@
+{"success":true,"data":"\r\n\t\t\t\t\t\t    n\r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t     integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system"}

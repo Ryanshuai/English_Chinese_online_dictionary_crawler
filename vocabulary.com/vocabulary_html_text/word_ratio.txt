@@ -1,0 +1,1 @@
+{"success":true,"data":"A ratio is the relationship in quantity or degree between two things: “The ratio of men to women on the construction site was ten to one.” This means there were ten men present and one woman."}

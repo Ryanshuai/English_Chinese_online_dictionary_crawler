@@ -1,0 +1,1 @@
+{"success":true,"data":"Pathology is the medical term for the way a disease works. A tumor is removed by a doctor trained in surgery, but you need a doctor trained in pathology to tell you if the tumor is cancer."}

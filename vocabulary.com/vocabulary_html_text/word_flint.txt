@@ -1,0 +1,1 @@
+{"success":true,"data":"Flint is a very hard type of rock. Ever since humans first learned to make tools, back in the Stone Age, they've used flint."}

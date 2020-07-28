@@ -1,0 +1,1 @@
+{"success":true,"data":"An incident refers to a particular happening, sometimes criminal but always noteworthy. If there was a food fight in the cafeteria, an e-mail might be sent to the parents of all students telling of the incident at school."}

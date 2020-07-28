@@ -1,0 +1,1 @@
+{"success":true,"data":"A region is an area. A region can be geographic — like a part of a country. A region can be intellectual — like a region of the mind. There are also bodily regions — like abdominal, thoracic, and posterior."}

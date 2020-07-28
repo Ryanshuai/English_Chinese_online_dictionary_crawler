@@ -1,0 +1,1 @@
+{"success":true,"data":"When things come in sequence, they come in a specific order. It could be a chronological sequence, a sequence following a pattern (red-blue-brown, red-blue-brown), or a cause-and-effect sequence."}

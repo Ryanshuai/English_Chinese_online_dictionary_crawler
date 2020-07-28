@@ -1,0 +1,1 @@
+{"success":true,"data":"A specimen is a sample of something, like a specimen of blood or body tissue that is taken for medical testing."}

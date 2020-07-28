@@ -1,0 +1,1 @@
+{"success":true,"data":"A veto is a no vote that blocks a decision. The President can veto some bills that pass his desk."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Convection is the circular motion that happens when warmer air or liquid — which has faster moving molecules, making it less dense — rises, while the cooler air or liquid drops down."}

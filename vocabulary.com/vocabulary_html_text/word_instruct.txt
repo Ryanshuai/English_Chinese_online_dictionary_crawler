@@ -1,0 +1,1 @@
+{"success":true,"data":"This website is designed to instruct visitors about the meaning of words and their correct usage. To instruct is to give instructions, to teach."}

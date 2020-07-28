@@ -1,0 +1,1 @@
+{"success":true,"data":"An insect is commonly called a bug. Flies, bees, and wasps are all insects."}

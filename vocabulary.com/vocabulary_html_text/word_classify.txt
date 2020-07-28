@@ -1,0 +1,1 @@
+{"success":true,"data":"Humans seem to have the need to classify things, arranging them into different classes by such unifying traits as size, color, or shape. It’s fine to do this to inanimate objects, but doing it to people can be very wrong."}

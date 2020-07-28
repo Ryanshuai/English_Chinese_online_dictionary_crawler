@@ -1,0 +1,1 @@
+{"success":true,"data":"Molten describes an object that's reduced to liquid form by heating. You're probably familiar with lava, the molten rock that explodes out of a volcano."}

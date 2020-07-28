@@ -1,0 +1,1 @@
+{"success":true,"data":"If something is feasible, then you can do it without too much difficulty. When someone asks \"Is it feasible?\" the person is asking if you'll be able to get something done."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"\r\n\t\t\t\t\t\t    n\r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t    \r\n\t\t\t\t\t\t     hormone secreted by the isles of Langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells"}

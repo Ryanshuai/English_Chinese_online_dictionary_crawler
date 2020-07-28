@@ -1,0 +1,1 @@
+{"success":true,"data":"It could be protons bouncing around in a particle accelerator, two cars failing to stop at an intersection, or the priorities of two people with very different goals. When things crash together, they collide."}

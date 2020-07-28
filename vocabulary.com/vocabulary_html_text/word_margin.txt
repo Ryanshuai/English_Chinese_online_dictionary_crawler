@@ -1,0 +1,1 @@
+{"success":true,"data":"An amount beyond the minimum necessary is called the margin. If you sell craft items, you need to build in a profit margin so that you actually make money on the sale. You'll go broke if you sell mittens for $10 that cost you $15 to make."}

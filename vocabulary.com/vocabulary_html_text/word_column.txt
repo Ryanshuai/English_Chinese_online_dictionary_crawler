@@ -1,0 +1,1 @@
+{"success":true,"data":"Someone who writes a column for a newspaper provides an article that expresses his or her viewpoint on a regular basis, such as a column about local politics which appears in the Sunday edition."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Capacity describes your ability to do something or the amount something can hold. If your bird cage is at full capacity, you can't stuff one more feathered friend in there without causing birdie claustrophobia."}

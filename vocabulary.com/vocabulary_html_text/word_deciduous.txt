@@ -1,0 +1,1 @@
+{"success":true,"data":"Hemlock, blue spruce, and white pine are all evergreens. These trees have leaves throughout the year. Oak, maple, and elm are examples of deciduous trees. They lose their foliage in the fall and grow new leaves in the spring."}

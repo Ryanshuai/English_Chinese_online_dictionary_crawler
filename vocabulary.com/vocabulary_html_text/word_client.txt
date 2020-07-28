@@ -1,0 +1,1 @@
+{"success":true,"data":"If you pay for something, you are a client. If you pay to get your dog groomed, you are a client of the dog groomer (and so is your pooch)."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Combat is fighting between two groups of armed forces.  When you engage in combat, typically this means you engage in fighting that involves weapons."}

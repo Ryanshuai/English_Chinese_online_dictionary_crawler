@@ -1,0 +1,1 @@
+{"success":true,"data":"Insurance is a contract where you pay a little money at a time so you can be compensated later, especially in the case of a disaster."}

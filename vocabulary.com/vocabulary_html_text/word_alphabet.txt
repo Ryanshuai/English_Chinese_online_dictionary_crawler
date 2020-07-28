@@ -1,0 +1,1 @@
+{"success":true,"data":"An alphabet is a set of all the letters in a written language. The letters in an alphabet represent the different sounds in that language. When you sing the A, B, C song, you are singing the English alphabet. Rock on."}

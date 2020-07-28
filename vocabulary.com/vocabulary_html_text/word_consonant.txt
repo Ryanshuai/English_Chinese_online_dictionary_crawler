@@ -1,0 +1,1 @@
+{"success":true,"data":"A consonant is a speech sound that is not a vowel. It also refers to letters of the alphabet that represent those sounds: Z, B, T, G, and H are all consonants."}

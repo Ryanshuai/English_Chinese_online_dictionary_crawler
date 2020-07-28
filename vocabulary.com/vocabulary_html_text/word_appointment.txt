@@ -1,0 +1,1 @@
+{"success":true,"data":"An appointment is a preset arrangement to meet, like a dentist’s appointment, an appointment with your accountant, or an appointment to have your palm read."}

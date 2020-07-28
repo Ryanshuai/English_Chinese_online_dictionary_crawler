@@ -1,0 +1,1 @@
+{"success":true,"data":"Scanners, printers, and speakers are peripheral devices for a computer because they aren't central to the working of the computer itself. Anything peripheral is on the margin, or outside, while main things, like a computer's processor, are not peripheral."}

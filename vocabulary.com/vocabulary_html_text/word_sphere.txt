@@ -1,0 +1,1 @@
+{"success":true,"data":"Marbles, oranges, bubbles, and beach balls — all of these objects illustrate the shape of a sphere, or globe (unless the beach balls are under-inflated, in which case they’re sort-of a “squished-sphere” shape)."}

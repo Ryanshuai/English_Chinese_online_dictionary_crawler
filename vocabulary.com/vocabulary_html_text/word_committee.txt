@@ -1,0 +1,1 @@
+{"success":true,"data":"A committee is a group of people who come together to work on a project. Members of a committee commit their efforts to accomplishing a particular task, which can be anything from throwing a party to ending a war."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"In defining steer, I would steer clear of complicated examples and just say: to steer is to control which direction one is going."}

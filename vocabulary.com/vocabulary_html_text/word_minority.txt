@@ -1,0 +1,1 @@
+{"success":true,"data":"If you have eight pennies and twelve dimes, the minority — or smaller portion — of your coins are pennies."}

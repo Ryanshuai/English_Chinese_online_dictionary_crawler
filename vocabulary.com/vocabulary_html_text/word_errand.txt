@@ -1,0 +1,1 @@
+{"success":true,"data":"An errand is a short trip to fulfill some small business. When you’re running errands, you’re making a bunch of these all at once."}

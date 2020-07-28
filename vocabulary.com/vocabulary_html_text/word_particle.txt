@@ -1,0 +1,1 @@
+{"success":true,"data":"A particle is a small piece of anything. Particle can also refer to a subatomic particle with mass and structure, but takes up hardly any space at all."}

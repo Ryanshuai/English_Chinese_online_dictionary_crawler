@@ -1,0 +1,1 @@
+{"success":true,"data":"A rumor is a story which may not be true. Everyone may be talking about the rap superstar who stopped for ice cream in your town, but until there's proof that it really happened, the whole thing is just a rumor."}

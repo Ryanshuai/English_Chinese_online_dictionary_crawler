@@ -1,0 +1,1 @@
+{"success":true,"data":"Cardiac describes anything that's connected or related to the heart. During a cardiac exam, a doctor listens to your heartbeat and takes your pulse."}

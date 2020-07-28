@@ -1,0 +1,1 @@
+{"success":true,"data":"A nominee is someone running for office. You could be a nominee for student council or for the presidency."}

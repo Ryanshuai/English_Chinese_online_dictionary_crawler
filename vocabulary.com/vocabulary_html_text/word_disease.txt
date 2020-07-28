@@ -1,0 +1,1 @@
+{"success":true,"data":"A disease is a health condition that has a specific set of symptoms and traits — such as malaria or heart disease."}

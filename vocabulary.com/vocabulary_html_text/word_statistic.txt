@@ -1,0 +1,1 @@
+{"success":true,"data":"A statistic is a numerical piece of information. If you are trying to prove a point, and you want your argument to have a sense of authority, you might want to use a statistic to back up your claim."}

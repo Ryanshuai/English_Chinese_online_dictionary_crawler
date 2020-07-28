@@ -1,0 +1,1 @@
+{"success":true,"data":"The word leap is another word for \"jump,\" but it gives a slightly different image — one of lightness and quickness, perhaps a movement with a little more spring in it than a regular jump."}

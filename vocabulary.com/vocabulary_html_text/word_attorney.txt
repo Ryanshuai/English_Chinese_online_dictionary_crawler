@@ -1,0 +1,1 @@
+{"success":true,"data":"An attorney is a lawyer. Attorneys sue people, defend people, and serve as experts on the law."}

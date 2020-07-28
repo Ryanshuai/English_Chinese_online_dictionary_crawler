@@ -1,0 +1,1 @@
+{"success":true,"data":"Modeling involves making a representation of something. Creating a tiny, functioning volcano is an example of modeling. Teachers use modeling when they have a class election that represents a larger one, like a presidential election."}

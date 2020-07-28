@@ -1,0 +1,1 @@
+{"success":true,"data":"A stake is a wooden stick, sharpened on one end and used to mark property lines (or slay a vampire)."}

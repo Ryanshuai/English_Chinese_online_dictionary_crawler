@@ -1,0 +1,1 @@
+{"success":true,"data":"When you're playing a game, your score is the number of points you have. If the score of a basketball game is 34 to 34, it means both teams have 34 points — the score is tied."}

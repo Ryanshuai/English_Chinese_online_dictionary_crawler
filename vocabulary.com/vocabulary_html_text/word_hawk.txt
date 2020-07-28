@@ -1,0 +1,1 @@
+{"success":true,"data":"A hawk is a relatively large bird that hunts small animals. Hawks tend to surprise their prey, swooping down on it from above."}

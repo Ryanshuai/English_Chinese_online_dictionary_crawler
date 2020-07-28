@@ -1,0 +1,1 @@
+{"success":true,"data":"Have you ever seen a door labeled Restricted? If so, you probably know it means \"Stay out.\" A restricted area can only be entered by certain people."}

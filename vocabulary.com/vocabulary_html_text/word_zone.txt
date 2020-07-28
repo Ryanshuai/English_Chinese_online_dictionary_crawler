@@ -1,0 +1,1 @@
+{"success":true,"data":"A zone is an area that has some special characteristic, like a loading zone."}

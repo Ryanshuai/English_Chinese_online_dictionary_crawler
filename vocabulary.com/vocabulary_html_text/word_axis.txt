@@ -1,0 +1,1 @@
+{"success":true,"data":"An axis is a straight line, sometimes seen, sometimes not, that is important in mathematics, art, science and our survival. The most famous axis is the one the earth spins around, giving us the 24-hour day."}

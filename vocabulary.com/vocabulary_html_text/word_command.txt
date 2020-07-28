@@ -1,0 +1,1 @@
+{"success":true,"data":"A command  is an order that you have to follow, as long as the person who gives it has authority over you. You don't have to comply with your friend's command that you give him all your money."}

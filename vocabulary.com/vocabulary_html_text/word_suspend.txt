@@ -1,0 +1,1 @@
+{"success":true,"data":"You can use the verb suspend any time you need to stop something. Whether it’s your judgment, a rule, or bus service, when you suspend it, you temporarily bring it to a halt."}

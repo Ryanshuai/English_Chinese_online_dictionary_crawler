@@ -1,0 +1,1 @@
+{"success":true,"data":"Is lava flowing through your street? Then you'd better run! Lava is the hot liquid rock that pours from an erupting volcano."}

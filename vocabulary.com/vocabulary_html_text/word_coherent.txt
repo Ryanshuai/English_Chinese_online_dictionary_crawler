@@ -1,0 +1,1 @@
+{"success":true,"data":"Something coherent is logical and clear. \"I told you if you didn't do your homework you couldn't watch TV. You didn't do your homework so you can't watch TV.\" This is a coherent argument (and annoying as well)."}

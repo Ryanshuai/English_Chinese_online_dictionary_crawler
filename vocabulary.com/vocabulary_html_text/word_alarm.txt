@@ -1,0 +1,1 @@
+{"success":true,"data":"On a clock, the alarm can be set to go off at a certain time to wake nearby sleepers. You should always check the alarm on the clock at a hotel because a previous guest may have it set to go off in the middle of the night."}

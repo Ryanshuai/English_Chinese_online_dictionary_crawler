@@ -1,0 +1,1 @@
+{"success":true,"data":"Attendance has to do with being present at something, like work or school. If you never miss a day, you have perfect attendance."}

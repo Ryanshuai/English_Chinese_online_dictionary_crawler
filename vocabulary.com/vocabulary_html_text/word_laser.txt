@@ -1,0 +1,1 @@
+{"success":true,"data":"A laser is a focused beam of light used for many reasons, from eye surgery to gun scopes to laser pointers."}

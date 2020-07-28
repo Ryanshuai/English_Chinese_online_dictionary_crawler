@@ -1,0 +1,1 @@
+{"success":true,"data":"A satellite is something small or less powerful that orbits around something bigger. It often describes a body in space, such as an artificial satellite that orbits the Earth and beams down signals that power devices like cell phones."}

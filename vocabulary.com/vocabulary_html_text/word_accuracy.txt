@@ -1,0 +1,1 @@
+{"success":true,"data":"Accuracy refers to a lack of mistakes or errors. \"I type very fast, but the accuracy of my typing is n't very goode.\""}

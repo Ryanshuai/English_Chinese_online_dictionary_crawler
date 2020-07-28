@@ -1,0 +1,1 @@
+{"success":true,"data":"A capability is something a person or a thing is able to do. It's hard to find a cell phone that doesn't include other capabilities, like taking pictures or storing MP3s."}

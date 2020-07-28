@@ -1,0 +1,1 @@
+{"success":true,"data":"The meantime is the time between two events. You might be waiting for the second half of a soccer game to begin, and in the meantime call your best friend to tell her the score."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A legislature is a governing body that makes laws and can also amend or repeal them."}

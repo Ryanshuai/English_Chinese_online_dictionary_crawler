@@ -1,0 +1,1 @@
+{"success":true,"data":"When one thing seems like a better option than another, it is preferable. If you would rather have chocolate ice cream than vanilla, it means that chocolate is preferable to you."}

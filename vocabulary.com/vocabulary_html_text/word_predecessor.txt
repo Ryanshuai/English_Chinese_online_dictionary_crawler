@@ -1,0 +1,1 @@
+{"success":true,"data":"A predecessor is something that came before the current version. The person you replaced at work is your predecessor, just like Pac Man is the predecessor of modern video games."}

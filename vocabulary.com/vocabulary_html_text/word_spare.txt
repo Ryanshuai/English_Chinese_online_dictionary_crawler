@@ -1,0 +1,1 @@
+{"success":true,"data":"Spare describes something that is extra. If you have a spare tire for your bike you can replace a flat, and if there's enough change in your pocket you can spare some to patch a friend's tire."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Earthquakes have great magnitude in that they are powerful. Their power is rated by their level of magnitude, or how much energy they release relative to other earthquakes."}

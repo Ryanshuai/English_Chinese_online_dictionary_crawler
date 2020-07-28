@@ -1,0 +1,1 @@
+{"success":true,"data":"The word stress is about pressure, whether it's pressure on a syllable of a word (TRAIN-er versus train-EE), an object (the bridge is designed to handle the stress of the cars), or a person (I am under a lot of stress)."}

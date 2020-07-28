@@ -1,0 +1,1 @@
+{"success":true,"data":"Vertical describes something that rises straight up from a horizontal line or plane. A telephone pole or a tree can usually be described as vertical in relation to the ground."}

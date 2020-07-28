@@ -1,0 +1,1 @@
+{"success":true,"data":"Both a noun and an adjective, maximum takes it to the max: it means the most, the fastest, the biggest."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A magnet is a piece of metal with a strong attraction to another metal object. The attraction a magnet produces is called a \"magnetic field.\""}

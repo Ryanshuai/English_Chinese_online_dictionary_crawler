@@ -1,0 +1,1 @@
+{"success":true,"data":"A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if \"he's into you,\" or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading."}

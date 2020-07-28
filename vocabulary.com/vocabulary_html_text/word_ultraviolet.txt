@@ -1,0 +1,1 @@
+{"success":true,"data":"Use the adjective ultraviolet to describe light with a wavelength that's less than visible light, but longer than x-rays. You can't see ultraviolet light."}

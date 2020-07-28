@@ -1,0 +1,1 @@
+{"success":true,"data":"A turnpike is a busy road that charges users a fee to drive on it. If you drive through a toll booth, you know you're on a turnpike."}

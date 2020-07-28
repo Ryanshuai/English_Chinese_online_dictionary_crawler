@@ -1,0 +1,1 @@
+{"success":true,"data":"A transition is a change from one thing to the next, either in action or state of being—as in a job transition or as in the much more dramatic example of a caterpillar making a transition into a butterfly."}

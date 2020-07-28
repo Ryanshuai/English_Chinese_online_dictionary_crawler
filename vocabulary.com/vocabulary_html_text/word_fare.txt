@@ -1,0 +1,1 @@
+{"success":true,"data":"It's not fair that fare means three unrelated things. As a verb, it means to proceed or get along, as in \"Fare thee well.\" As a noun, it can refer to the cost of travel (\"Train fare is ten dollars\") or to food (\"Tatertots are typical cafeteria fare\")."}

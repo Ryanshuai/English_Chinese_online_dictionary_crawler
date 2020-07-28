@@ -1,0 +1,1 @@
+{"success":true,"data":"How many people does your house hold? That’s your household! A household refers to a family or group of people living together. It’s a social unit under one roof."}

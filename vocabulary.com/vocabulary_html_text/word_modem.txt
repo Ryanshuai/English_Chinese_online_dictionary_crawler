@@ -1,0 +1,1 @@
+{"success":true,"data":"Simply put, a modem is an electronic device that changes a digital computer signal to audio so it can be carried on telephone lines. It also changes an incoming signal back so it can be read on the computer."}

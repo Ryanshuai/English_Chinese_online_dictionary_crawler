@@ -1,0 +1,1 @@
+{"success":true,"data":"Rust is the reddish-brown stuff that forms over time on metal that's gotten wet. Your dad's beat-up old car probably has some rust on it somewhere."}

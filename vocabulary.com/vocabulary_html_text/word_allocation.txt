@@ -1,0 +1,1 @@
+{"success":true,"data":"If it is your job to decide how much money goes to three charities, you are in charge of the allocation of your donation. The money each charity gets is their allocation."}

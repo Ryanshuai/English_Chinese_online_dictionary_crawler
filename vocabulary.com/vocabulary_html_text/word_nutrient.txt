@@ -1,0 +1,1 @@
+{"success":true,"data":"A nutrient is anything that nourishes a living being. We humans get our nutrients from what we eat, plants get theirs from the soil. While the best nutrients are natural, we can also get them from vitamins in a bottle."}

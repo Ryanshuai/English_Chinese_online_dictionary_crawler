@@ -1,0 +1,1 @@
+{"success":true,"data":"A meteorite is a rock that falls to earth after a brilliant meteor has passed through the earth's atmosphere."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Use relatively when you want to make a statement about something compared to something else. After a zero degree day, 30 degrees might feel relatively warm."}

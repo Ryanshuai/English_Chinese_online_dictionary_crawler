@@ -1,0 +1,1 @@
+{"success":true,"data":"Anything that has weight and shape has mass. In fact, mass is the quality that gives things weight anywhere there's gravity."}

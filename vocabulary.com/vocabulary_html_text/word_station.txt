@@ -1,0 +1,1 @@
+{"success":true,"data":"A station is a regular stopping place, like a bus station, a train station, or even a radio station."}

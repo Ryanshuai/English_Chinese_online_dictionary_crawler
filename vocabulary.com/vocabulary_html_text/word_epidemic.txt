@@ -1,0 +1,1 @@
+{"success":true,"data":"An epidemic is a disease that spreads rapidly among many people in a community at the same time. In the 1980s, the fast-spreading AIDS epidemic transformed life on our planet."}

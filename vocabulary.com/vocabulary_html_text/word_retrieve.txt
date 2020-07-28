@@ -1,0 +1,1 @@
+{"success":true,"data":"When you retrieve something, you bring it back. Lots of dogs love to retrieve tennis balls, bringing them back to you over and over again."}

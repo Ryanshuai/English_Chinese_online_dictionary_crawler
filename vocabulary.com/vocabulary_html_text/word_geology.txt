@@ -1,0 +1,1 @@
+{"success":true,"data":"Geology is the study of the Earth and what it's made of, including its natural history."}

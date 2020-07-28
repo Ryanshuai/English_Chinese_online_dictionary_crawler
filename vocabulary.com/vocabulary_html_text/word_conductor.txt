@@ -1,0 +1,1 @@
+{"success":true,"data":"A train conductor is the person who takes tickets, shouts \"All aboard!\" and might control the engine, while a musical conductor is the one who leads an orchestra. Same job title — not the same person."}

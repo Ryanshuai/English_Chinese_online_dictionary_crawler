@@ -1,0 +1,1 @@
+{"success":true,"data":"Electricity is the energy that powers your lights and appliances. Electricity is the stuff that Benjamin Franklin harnessed from lightning using a key and a kite. Don't try that on your own."}

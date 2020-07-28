@@ -1,0 +1,1 @@
+{"success":true,"data":"Inanimate describes a non-living thing. Chairs, baseballs, sofa cushions and sadly, snowmen, are all inanimate objects."}

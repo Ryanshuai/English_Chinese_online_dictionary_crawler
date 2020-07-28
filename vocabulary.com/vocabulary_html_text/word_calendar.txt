@@ -1,0 +1,1 @@
+{"success":true,"data":"A calendar is a chart that organizes the year into days, weeks or months. It's also a list of appointments or activities, like the calendar for the club that lists when the bands are playing."}

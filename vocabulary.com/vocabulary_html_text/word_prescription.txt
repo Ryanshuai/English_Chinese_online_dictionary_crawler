@@ -1,0 +1,1 @@
+{"success":true,"data":"A prescription is an order written by a doctor for someone to get a drug that is not available without this permission. If you get a bad ear infection, you'll need a prescription for antibiotics."}

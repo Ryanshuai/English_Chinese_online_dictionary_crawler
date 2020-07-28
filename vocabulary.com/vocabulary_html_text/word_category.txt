@@ -1,0 +1,1 @@
+{"success":true,"data":"A category is a group of things that share some commonality. Think of the game show \"Jeopardy!,\" and how each column is a different category of questions — like \"Literary Characters\" or \"Potent Potables.\""}

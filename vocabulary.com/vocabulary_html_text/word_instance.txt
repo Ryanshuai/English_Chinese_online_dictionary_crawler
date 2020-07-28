@@ -1,0 +1,1 @@
+{"success":true,"data":"An instance is a specific example or case of something. One instance of being chased by a growling dog can make a person spend his whole life being afraid of animals."}

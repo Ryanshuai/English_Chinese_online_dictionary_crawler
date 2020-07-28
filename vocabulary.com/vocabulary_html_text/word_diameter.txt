@@ -1,0 +1,1 @@
+{"success":true,"data":"It's good to know where the diameter of a circular object is if you have to split a cookie between two 5-year-old kids. Think of a round chocolate chip cookie. The diameter of the cookie is a line that divides the cookie into two equal halves, through the center of the cookie."}

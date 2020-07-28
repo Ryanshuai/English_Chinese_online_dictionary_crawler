@@ -1,0 +1,1 @@
+{"success":true,"data":"Think of your favorite TV show. It runs all year long, in weekly installments. Each of those individual programs is an episode, one part of a long series."}

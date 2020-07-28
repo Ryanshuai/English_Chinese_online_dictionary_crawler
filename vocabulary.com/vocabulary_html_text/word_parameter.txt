@@ -1,0 +1,1 @@
+{"success":true,"data":"A parameter is a limit. In mathematics a parameter is a constant in an equation, but parameter isn’t just for math anymore: now any system can have parameters that define its operation. You can set parameters for your class debate."}

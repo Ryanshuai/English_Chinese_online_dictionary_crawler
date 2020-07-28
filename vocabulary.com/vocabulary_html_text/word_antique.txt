@@ -1,0 +1,1 @@
+{"success":true,"data":"An antique is an old-fashioned thing, like a lamp from the sixties. Anything antique is old or at least old-ish."}

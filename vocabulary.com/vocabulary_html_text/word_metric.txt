@@ -1,0 +1,1 @@
+{"success":true,"data":"If something’s metric, it’s related to a system that uses the meter as a basic measurement. If someone says they'll sell you 3 meters of silk, then you know that the metric system is being used."}

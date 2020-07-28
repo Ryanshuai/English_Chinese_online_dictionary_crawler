@@ -1,0 +1,1 @@
+{"success":true,"data":"Hierarchy describes a system that organizes or ranks things, often according to power or importance. At school the principal is at the top of the staff hierarchy, while the seniors rule the student hierarchy."}

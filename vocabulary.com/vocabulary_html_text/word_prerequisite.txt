@@ -1,0 +1,1 @@
+{"success":true,"data":"A prerequisite is a required prior condition. If something is required in advance of something else, like if you have to take a beginning Spanish class before signing up for Spanish II, then it’s a prerequisite."}

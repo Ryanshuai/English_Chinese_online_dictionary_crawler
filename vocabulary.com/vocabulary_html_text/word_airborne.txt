@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that's airborne is flying through the air. A soaring seagull is airborne, and so is a rock launched from a slingshot."}

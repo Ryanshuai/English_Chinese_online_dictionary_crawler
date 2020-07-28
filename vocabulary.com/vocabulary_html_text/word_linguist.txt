@@ -1,0 +1,1 @@
+{"success":true,"data":"A linguist is someone who studies language. Linguists study every aspect of language, including vocabulary, grammar, the sound of language, and how words evolve over time."}

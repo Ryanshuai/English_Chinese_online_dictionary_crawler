@@ -1,0 +1,1 @@
+{"success":true,"data":"While revert means to return to something earlier or to go back, it's often used wrongly in combination. If you're buying the older version of the game, you might say you're \"reverting back,\" which is like saying \"go back back.\""}

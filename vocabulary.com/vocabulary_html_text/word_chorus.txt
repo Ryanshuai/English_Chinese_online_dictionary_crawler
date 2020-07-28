@@ -1,0 +1,1 @@
+{"success":true,"data":"A chorus is a group of singers or that catchy part of a song that repeats several times."}

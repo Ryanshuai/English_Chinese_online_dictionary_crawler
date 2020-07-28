@@ -1,0 +1,1 @@
+{"success":true,"data":"A commute is a journey you take from home to work and back again. You might enjoy your subway commute because it gives you lots of time to read."}

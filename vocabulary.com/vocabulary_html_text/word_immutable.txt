@@ -1,0 +1,1 @@
+{"success":true,"data":"If you can't change it, it's immutable. There are many things in life that are immutable; these unchangeable things include death, taxes, and the laws of physics."}

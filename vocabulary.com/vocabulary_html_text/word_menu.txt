@@ -1,0 +1,1 @@
+{"success":true,"data":"A menu is a list of the food that's available to order. If your vegan friend doesn't see anything on the restaurant's menu he can eat, you may have to ask the chef to make him something special."}

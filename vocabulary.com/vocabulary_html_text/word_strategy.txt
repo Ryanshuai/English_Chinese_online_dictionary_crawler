@@ -1,0 +1,1 @@
+{"success":true,"data":"In the game of capture-the-flag, running toward your flag screaming is not a good strategy. A strategy is any plan you make to achieve a goal."}

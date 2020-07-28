@@ -1,0 +1,1 @@
+{"success":true,"data":"A sample is a small part of something that either represents a bigger whole or is designed to let you try something out. You might ask to try a sample of an exotic ice cream flavor before committing to buying a whole cone."}

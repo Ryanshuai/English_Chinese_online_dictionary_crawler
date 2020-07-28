@@ -1,0 +1,1 @@
+{"success":true,"data":"A patent is a government document that proves that an invention is yours and yours alone. In the U.S., as of 2009, over 7,000,000 patents were issued by the Patent and Trademark Office."}

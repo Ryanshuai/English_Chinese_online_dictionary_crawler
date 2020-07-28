@@ -1,0 +1,1 @@
+{"success":true,"data":"Does it come from the sun? Is it related to the sunshine? Does it depend on sunny rays of light to function? Then it's probably safe to call it solar."}

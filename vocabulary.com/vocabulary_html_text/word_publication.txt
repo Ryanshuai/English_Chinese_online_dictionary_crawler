@@ -1,0 +1,1 @@
+{"success":true,"data":"A publication is something made to communicate with the public. Publications are usually printed on paper (like magazines and books), but online publications are delivered via the Internet."}

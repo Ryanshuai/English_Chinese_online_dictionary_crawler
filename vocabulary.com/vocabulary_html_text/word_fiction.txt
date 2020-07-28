@@ -1,0 +1,1 @@
+{"success":true,"data":"A fiction is a deliberately fabricated account of something. It can also be a literary work based on imagination rather than on fact, like a novel or short story."}

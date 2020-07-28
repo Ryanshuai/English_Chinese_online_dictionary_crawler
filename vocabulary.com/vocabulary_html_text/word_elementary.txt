@@ -1,0 +1,1 @@
+{"success":true,"data":"Things that are elementary are simple or not very advanced, as in elementary school or Sherlock Holmes' famous line, \"Elementary, my dear Watson!\""}

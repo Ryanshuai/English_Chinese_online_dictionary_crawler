@@ -1,0 +1,1 @@
+{"success":true,"data":"Subject can mean \"topic,\" as in \"Let's change the subject.\" It can also mean \"to make someone do something,\" as in \"Don't let your dad subject you to an hour-long lecture on fishing.\" It can also mean everyone in a country who is not the ruler, as in \"The king greeted his subjects when he returned from abroad.\""}

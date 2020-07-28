@@ -1,0 +1,1 @@
+{"success":true,"data":"An automobile is a car: a vehicle with four wheels and an internal combustion engine. The automobile is one of the most common ways to travel."}

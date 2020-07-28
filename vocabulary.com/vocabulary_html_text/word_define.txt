@@ -1,0 +1,1 @@
+{"success":true,"data":"If you can't define a word, turn to the dictionary. That's always the best way to learn the definition. Likewise, anything you can describe completely is something you can define."}

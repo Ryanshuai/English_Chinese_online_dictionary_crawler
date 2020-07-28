@@ -1,0 +1,1 @@
+{"success":true,"data":"When the weather man tells you it's going to rain today, he is giving a meteorology report, or weather forecast. Meteorology is the study of our atmosphere."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"When the weather forecast says the day will be predominantly sunny, that means it will be mostly sunny."}

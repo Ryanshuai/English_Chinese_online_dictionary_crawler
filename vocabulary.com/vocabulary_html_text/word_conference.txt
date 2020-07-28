@@ -1,0 +1,1 @@
+{"success":true,"data":"A conference is a formal get-together where people talk (or \"confer\") about a chosen topic, like when your office holds a conference to talk about the problem of snoring during meetings."}

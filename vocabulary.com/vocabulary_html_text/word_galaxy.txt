@@ -1,0 +1,1 @@
+{"success":true,"data":"A galaxy is a collection of stars and planets that are held together by gravity. In a galaxy, the celestial bodies rotate around a central object."}

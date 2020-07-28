@@ -1,0 +1,1 @@
+{"success":true,"data":"Precise means strictly correct or very exact. If you need something to be precise, like the positioning of a safety net for a stunt jump over a canyon, there's no room for error."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"The Fahrenheit scale is used to measure temperature in the U.S. If you're planning to take a nice, warm bath, you'll want the water to be about 100 degrees Fahrenheit."}

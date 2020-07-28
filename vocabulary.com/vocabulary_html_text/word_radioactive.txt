@@ -1,0 +1,1 @@
+{"success":true,"data":"When an object gives off a certain kind of energy, like the sun or an x-ray machine, it can be described as radioactive."}

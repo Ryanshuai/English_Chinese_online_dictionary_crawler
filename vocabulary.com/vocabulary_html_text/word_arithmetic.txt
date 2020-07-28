@@ -1,0 +1,1 @@
+{"success":true,"data":"Arithmetic is another word for math, specifically the areas of math having to do with numbers and calculating."}

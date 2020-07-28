@@ -1,0 +1,1 @@
+{"success":true,"data":"If you're a detective working a crime investigation, you might be told to \"search over a one-mile radius,\" meaning, scope out everything that's within one mile of the crime scene."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"If the math equation you're doing has letters or other symbols that stand for numbers, you're likely doing algebra. You probably took your first algebra class early in your high school years."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"An inventory is an itemized list of everything you have. So you better take inventory of what’s in the fridge before going grocery shopping. Otherwise you'll end up with more jars of mustard that you don't need."}

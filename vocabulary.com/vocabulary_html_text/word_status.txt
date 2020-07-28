@@ -1,0 +1,1 @@
+{"success":true,"data":"If someone wants to know the status of something, they want to know what condition it's in, where it is, or how much progress it's made. You've probably checked the status of your flight to see if it's on time or delayed."}

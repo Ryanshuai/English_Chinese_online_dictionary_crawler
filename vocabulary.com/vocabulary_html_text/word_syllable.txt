@@ -1,0 +1,1 @@
+{"success":true,"data":"A syllable can be made up of just a vowel — \"a\" can be a syllable — or a vowel and one or more consonants — \"skip\" is one syllable, but three sounds, or phonemes: sk-i-p."}

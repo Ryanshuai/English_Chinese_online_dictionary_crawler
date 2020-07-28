@@ -1,0 +1,1 @@
+{"success":true,"data":"A scuba is a portable breathing device for deep sea divers. With the help of a scuba tank, divers can explore very deep parts of the ocean."}

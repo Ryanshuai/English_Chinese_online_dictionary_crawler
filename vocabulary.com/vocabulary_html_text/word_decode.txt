@@ -1,0 +1,1 @@
+{"success":true,"data":"When you translate a message from symbols or code into language, you decode it. British code breakers worked during World War II to decode Germany's coded messages."}

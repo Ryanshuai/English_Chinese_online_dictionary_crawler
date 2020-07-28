@@ -1,0 +1,1 @@
+{"success":true,"data":"An array is a display of something — usually something varied. You might encounter an array of cereal brands in the cereal aisle of the grocery store. Your head says to choose the Crunchy Oats 'n' Bran, but your heart wants the Sugar-Coated Chocopuffs."}

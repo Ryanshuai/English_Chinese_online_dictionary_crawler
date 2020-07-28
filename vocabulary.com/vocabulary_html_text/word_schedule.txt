@@ -1,0 +1,1 @@
+{"success":true,"data":"A schedule is a plan of things to be done and the time when they will be done. It is the thing you write down in your planner. If you're a student, you probably have your class schedule memorized within the first few weeks of school."}

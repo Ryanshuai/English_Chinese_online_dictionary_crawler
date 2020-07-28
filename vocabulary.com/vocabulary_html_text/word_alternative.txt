@@ -1,0 +1,1 @@
+{"success":true,"data":"When you're facing a fork in the road, you have two possibilities, or alternatives. You could take the left fork and see where it leads, or you could choose the path that goes to the right."}

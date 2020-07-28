@@ -1,0 +1,1 @@
+{"success":true,"data":"It’s good to eject yourself from a burning spaceship (if you happen to have an escape pod and a nice small planet to land on), but if a teacher ejects you from class, well that’s not so good."}

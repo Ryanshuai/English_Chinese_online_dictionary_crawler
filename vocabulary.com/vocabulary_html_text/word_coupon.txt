@@ -1,0 +1,1 @@
+{"success":true,"data":"A coupon is a certificate or a voucher that lets you buy something at a discounted price. When you hand the cashier your coupon, he will subtract some amount from your total bill."}

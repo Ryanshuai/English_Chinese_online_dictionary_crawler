@@ -1,0 +1,1 @@
+{"success":true,"data":"An artifact is a man-made object that has some kind of cultural significance. If you find a 12th-century vase, it's an artifact of that time. Don't drop it!"}

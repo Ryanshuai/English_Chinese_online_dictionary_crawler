@@ -1,0 +1,1 @@
+{"success":true,"data":"A chromosome is a strand of DNA that is encoded with genes. In most cells, humans have 22 pairs of these chromosomes  plus the two sex chromosomes (XX in females and XY in males) for a total of 46."}

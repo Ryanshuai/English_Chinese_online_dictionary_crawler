@@ -1,0 +1,1 @@
+{"success":true,"data":"An account can be many things — such as a story, like if you give a friend an account of what happened at the party she missed. It can also be a business arrangement, like a bank account or an email account."}

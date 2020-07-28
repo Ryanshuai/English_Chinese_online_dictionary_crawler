@@ -1,0 +1,1 @@
+{"success":true,"data":"You are making a deposit when you put money into your bank account. In that sentence, deposit is a noun, but you could express the same action using deposit as a verb. You deposit money into your bank account."}

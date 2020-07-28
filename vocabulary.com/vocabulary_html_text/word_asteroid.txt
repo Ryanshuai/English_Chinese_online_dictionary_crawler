@@ -1,0 +1,1 @@
+{"success":true,"data":"An asteroid is a large, irregularly shaped object in space that orbits our Sun. If one of these giant rocks ends up on a collision course with Earth, we are in for big trouble."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that’s sparse is thin, not dense. If you’re looking for the perfect place to build a tree house, a sparse forest is probably not your best bet."}

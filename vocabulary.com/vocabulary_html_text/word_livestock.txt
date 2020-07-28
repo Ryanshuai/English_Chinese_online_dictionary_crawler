@@ -1,0 +1,1 @@
+{"success":true,"data":"The animals you find on a farm are collectively called livestock. Your herd of dairy goats are livestock, but your toy poodle is just a pet."}

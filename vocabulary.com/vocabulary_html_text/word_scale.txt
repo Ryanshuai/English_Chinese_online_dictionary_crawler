@@ -1,0 +1,1 @@
+{"success":true,"data":"A scale is a series that climbs up or down. Think of scaling, or climbing, a mountain; a musical scale: do-re-mi-fa-so-la-ti-do; or a scale you weigh yourself on––it counts up the pounds one after another after another."}

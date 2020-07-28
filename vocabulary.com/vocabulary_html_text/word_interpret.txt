@@ -1,0 +1,1 @@
+{"success":true,"data":"When you interpret something, you make sense of it. You could interpret a graph, a foreign language, or even Mona Lisa's odd smile."}

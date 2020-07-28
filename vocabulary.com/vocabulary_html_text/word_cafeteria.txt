@@ -1,0 +1,1 @@
+{"success":true,"data":"A cafeteria is a restaurant where you serve yourself, then pay a cashier. Most schools have a cafeteria serving up sloppy joes and square pizza."}

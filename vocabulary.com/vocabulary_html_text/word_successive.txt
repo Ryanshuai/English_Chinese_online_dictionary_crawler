@@ -1,0 +1,1 @@
+{"success":true,"data":"Successive is a word for things (or people) that follow each other in time. If three presidents in a row were over sixty, you could say, \"Three successive presidents were over sixty.\""}

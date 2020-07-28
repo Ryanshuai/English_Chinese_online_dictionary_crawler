@@ -1,0 +1,1 @@
+{"success":true,"data":"A translucent material lets light pass through, but objects on the other side can't be seen clearly. Think Shrinky Dinks or stained glass."}

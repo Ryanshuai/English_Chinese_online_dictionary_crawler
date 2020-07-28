@@ -1,0 +1,1 @@
+{"success":true,"data":"A laboratory is a place where experiments happen, usually scientific experiments involving chemicals and lab coats, but there are creative and athletic laboratories too, where people experiment with writing and footballs."}

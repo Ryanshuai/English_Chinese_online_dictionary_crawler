@@ -1,0 +1,1 @@
+{"success":true,"data":"A spark is a small, glowing particle that's either thrown off of a fire or that starts a fire. Your dad might tell everyone to stand back from the bonfire so they don't get burned by a spark."}

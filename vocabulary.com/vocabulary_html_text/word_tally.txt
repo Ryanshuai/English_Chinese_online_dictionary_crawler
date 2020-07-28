@@ -1,0 +1,1 @@
+{"success":true,"data":"A tally is a continuous count of something, like the number of words in a document, or the number of favors your best friend owes you. To tally is to add up, like keeping the score of a game."}

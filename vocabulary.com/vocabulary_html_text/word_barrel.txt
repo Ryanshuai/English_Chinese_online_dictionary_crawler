@@ -1,0 +1,1 @@
+{"success":true,"data":"A barrel is a big container used to store liquids. If you're moving a barrel, it's best to tip it on its side because its shape bulges at the center, so that it's easy to roll."}

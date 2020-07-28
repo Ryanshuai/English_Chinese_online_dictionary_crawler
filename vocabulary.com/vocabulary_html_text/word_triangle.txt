@@ -1,0 +1,1 @@
+{"success":true,"data":"A triangle is a flat shape with three sides and three angles, like a slice of pizza, a yield sign, or the Greek letter Delta. If you look carefully, you'll notice triangles all around you!"}

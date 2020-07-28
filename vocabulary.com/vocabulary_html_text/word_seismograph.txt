@@ -1,0 +1,1 @@
+{"success":true,"data":"A seismograph is an instrument scientists use to measure the strength of an earthquake."}

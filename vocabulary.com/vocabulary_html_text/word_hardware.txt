@@ -1,0 +1,1 @@
+{"success":true,"data":"As the word suggests, the word hardware usually refers to tools used to build something — “wares” that are “hard.” It also is used to refer to the computer equipment that stores and uses “software,” the programs used in computing."}

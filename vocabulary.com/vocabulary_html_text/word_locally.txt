@@ -1,0 +1,1 @@
+{"success":true,"data":"Things that happen locally occur close to a specific place — near your town, for example. Locally grown tomatoes are picked on nearby farms and sold at your neighborhood market."}

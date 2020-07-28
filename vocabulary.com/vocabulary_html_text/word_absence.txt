@@ -1,0 +1,1 @@
+{"success":true,"data":"Absence is the state of not being someplace, like school. It can also refer to the amount of time something has been, or plans to be gone."}

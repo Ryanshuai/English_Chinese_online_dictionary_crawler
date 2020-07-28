@@ -1,0 +1,1 @@
+{"success":true,"data":"A skyscraper is a very tall building, like New York City's Empire State Building, which held the title of \"World's Tallest Building\" for many years."}

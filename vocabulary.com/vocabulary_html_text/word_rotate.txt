@@ -1,0 +1,1 @@
+{"success":true,"data":"Rotate means to circle around a center point. Wheels on a car rotate, planets rotate, and if you're an ice skater, you rotate on the blade of a skate when you do your spins."}

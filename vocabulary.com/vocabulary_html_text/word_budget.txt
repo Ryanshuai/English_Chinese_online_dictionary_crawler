@@ -1,0 +1,1 @@
+{"success":true,"data":"A budget is a sum of money set aside and divided up to cover particular expenses. Like allotting certain amounts for food, rent, movies, and manicures every month to make sure you don't run out of cash."}

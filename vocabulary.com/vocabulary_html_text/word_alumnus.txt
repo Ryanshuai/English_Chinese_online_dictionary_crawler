@@ -1,0 +1,1 @@
+{"success":true,"data":"An alumnus is a graduate of a school. You can be an alumnus of a high school, college or university."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"Astronomy is the science that looks up: at stars, at other planets, at solar systems, at galaxies, and at everything else in the universe."}

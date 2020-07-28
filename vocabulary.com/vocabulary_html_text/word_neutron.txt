@@ -1,0 +1,1 @@
+{"success":true,"data":"The nucleus of an atom includes a proton, which has a positive charge, an electron, which has a negative charge, and neutron, which has no charge, or is \"neutral.\" The hydrogen atom is the only atom without a neutron."}

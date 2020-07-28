@@ -1,0 +1,1 @@
+{"success":true,"data":"Long before we had GPS (Global Positioning System) devices, people used a magnetic instrument called a compass for navigation. Some people still use a compass to navigate — usually when their GPS isn’t working."}

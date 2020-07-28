@@ -1,0 +1,1 @@
+{"success":true,"data":"Weather is the atmospheric conditions, including the temperature, wind, snow, rain, or anything else happening outside. People tend to talk about the weather when they can't think of anything else to talk about."}

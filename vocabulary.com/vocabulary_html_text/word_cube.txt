@@ -1,0 +1,1 @@
+{"success":true,"data":"In math, a cube is a number multiplied by itself three times. The cube of 2 is 8 (2 x 2 x 2). It is also a three-dimensional shape where each of the six sides is a square or something shaped like a cube, such as an ice cube or meat cut into cubes)."}

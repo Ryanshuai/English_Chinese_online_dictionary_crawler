@@ -1,0 +1,1 @@
+{"success":true,"data":"If something is circular, it has a round shape. You might take a circular route on your jog, running all the way around the park."}

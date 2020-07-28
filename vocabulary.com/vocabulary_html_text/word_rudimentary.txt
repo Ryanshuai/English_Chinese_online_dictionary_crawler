@@ -1,0 +1,1 @@
+{"success":true,"data":"Rudimentary means basic, or at a very early stage. The test should be easy: it requires only a rudimentary understanding of the materials."}

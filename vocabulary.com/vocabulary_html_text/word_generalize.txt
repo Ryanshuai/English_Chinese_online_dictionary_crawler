@@ -1,0 +1,1 @@
+{"success":true,"data":"To generalize is to use specific examples to make broader points. Generalizing makes large points, though they aren't always necessarily true."}

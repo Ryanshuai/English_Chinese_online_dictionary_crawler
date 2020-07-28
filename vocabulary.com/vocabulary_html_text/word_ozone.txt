@@ -1,0 +1,1 @@
+{"success":true,"data":"Ozone is a colorless toxic gas formed from oxygen by an electrical discharge. It’s that stuff in the sky that comes between you and the sun."}

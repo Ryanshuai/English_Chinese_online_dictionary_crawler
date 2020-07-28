@@ -1,0 +1,1 @@
+{"success":true,"data":"When something's unpredictable, it doesn't happen at expected times or it can't be predicted. If trains were unpredictable, they wouldn't follow a set schedule and you'd never know when one would arrive."}

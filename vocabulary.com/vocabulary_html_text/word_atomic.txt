@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that has to do with atoms is atomic. Atomic structure, for example, means the way an atom is organized and what it's made of."}

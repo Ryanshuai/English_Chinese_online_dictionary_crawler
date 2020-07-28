@@ -1,0 +1,1 @@
+{"success":true,"data":"A material's conductivity is the extent that it allows an electric current to flow through it. Metal generally has high conductivity."}

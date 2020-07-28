@@ -1,0 +1,1 @@
+{"success":true,"data":"Material is cloth from which clothes, curtains, or similar items can be created. If you sew your own bathing suit, it's important to make sure the material you use doesn't turn transparent when it gets wet."}

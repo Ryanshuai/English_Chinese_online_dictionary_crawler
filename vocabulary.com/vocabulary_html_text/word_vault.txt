@@ -1,0 +1,1 @@
+{"success":true,"data":"Vault is a verb that means \"to jump over something.\" If you were hurrying out to the pasture to visit your favorite cow, you might vault over the gate in your excitement."}

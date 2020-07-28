@@ -1,0 +1,1 @@
+{"success":true,"data":"Genetics is the study of the traits people and other animals inherit from their family through DNA."}

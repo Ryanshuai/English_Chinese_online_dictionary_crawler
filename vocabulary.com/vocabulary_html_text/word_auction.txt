@@ -1,0 +1,1 @@
+{"success":true,"data":"In an auction, items are sold without price tags––whoever bids the highest gets to buy it, whether it’s a painting, a car, or a set of old dishes."}

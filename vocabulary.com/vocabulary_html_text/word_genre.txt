@@ -1,0 +1,1 @@
+{"success":true,"data":"A genre is a specific type of music, film, or writing. Your favorite literary genre might be science fiction, and your favorite film genre might be horror flicks about cheerleaders. Go figure."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"The word zigzag describes the shape of a line. A line drawn in a zigzag shape makes a lot of short, sharp turns. The letter Z is a zigzag itself, and a thunderbolt is also often represented as a zigzag."}

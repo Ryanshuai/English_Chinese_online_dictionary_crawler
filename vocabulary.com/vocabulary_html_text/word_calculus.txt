@@ -1,0 +1,1 @@
+{"success":true,"data":"Calculus is a way of using math to study changes in a system. Moral calculus, on the other hand, is a way of measuring morals and ethics, like choosing the lesser of two evils."}

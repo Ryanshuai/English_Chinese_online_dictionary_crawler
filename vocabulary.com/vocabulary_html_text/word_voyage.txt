@@ -1,0 +1,1 @@
+{"success":true,"data":"If someone tells you \"bon voyage!\" they mean have a good trip. Voyage means trip in French but in English, we use it to mean a long journey."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"The moral of a story is the lesson that story teaches about how to behave in the world."}

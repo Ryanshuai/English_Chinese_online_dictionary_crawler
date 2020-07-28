@@ -1,0 +1,1 @@
+{"success":true,"data":"A telescope is an instrument that is used to view distant objects. If you want to look at the planets, you can use a telescope. The higher the magnification on the telescope, the better your view will be."}

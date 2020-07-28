@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that repeats in a predictable way is a pattern. You might find a pattern in a series of numbers, in the material covering your couch, or in the habits of your upstairs neighbor."}

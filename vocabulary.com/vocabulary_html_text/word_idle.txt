@@ -1,0 +1,1 @@
+{"success":true,"data":"Something idle is not active. If your car is idling, it's running but not moving. If someone calls you idle, it either means they think you don't have enough to do or that you're just plain lazy."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"A microscope is a mechanical instrument that magnifies the image of small objects. You would use a microscope to look at something tiny, like an amoeba."}

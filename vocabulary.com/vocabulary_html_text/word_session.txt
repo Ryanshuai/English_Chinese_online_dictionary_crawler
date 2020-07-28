@@ -1,0 +1,1 @@
+{"success":true,"data":"A session is a specific block of time dedicated to something. Court may be in session, or school may be in session, or you just might find yourself enjoying a massage therapy session."}

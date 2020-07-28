@@ -1,0 +1,1 @@
+{"success":true,"data":"A load is a bundle of stuff that has to be carried. You might spend your days hauling loads of hay into a barn and your evenings dragging loads of dirty clothes into the laundry room."}

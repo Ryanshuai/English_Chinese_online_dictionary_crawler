@@ -1,0 +1,1 @@
+{"success":true,"data":"There's a certain way of doing things. A systematic, logical process for accomplishing a task. And it's called a method."}

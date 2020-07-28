@@ -1,0 +1,1 @@
+{"success":true,"data":"A quasar is a starlike object in space that may emit energy, light, and radio waves."}

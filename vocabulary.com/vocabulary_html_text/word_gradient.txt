@@ -1,0 +1,1 @@
+{"success":true,"data":"The gradient of a surface is its slope. If you're a daredevil and you're looking for a road to fly down on your skateboard, you'll want to find one with a fairly steep gradient."}

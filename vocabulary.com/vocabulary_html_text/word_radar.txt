@@ -1,0 +1,1 @@
+{"success":true,"data":"Radar is a system for locating objects by bouncing radio waves off of them. Air traffic controllers use radar to keep track of exactly where airplanes are."}

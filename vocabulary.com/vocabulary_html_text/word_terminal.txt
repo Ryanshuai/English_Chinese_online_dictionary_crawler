@@ -1,0 +1,1 @@
+{"success":true,"data":"Terminal is a word with many meanings. Depending on how it's used, it can describe a place where passengers end their journey, a computer screen and keyboard, or a life-ending disease."}

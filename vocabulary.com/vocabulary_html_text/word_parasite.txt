@@ -1,0 +1,1 @@
+{"success":true,"data":"A creature that lives off another organism is a parasite. The parasite might not hurt the host, but it doesn't do anything to help it, either."}

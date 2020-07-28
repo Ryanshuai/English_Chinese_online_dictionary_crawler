@@ -1,0 +1,1 @@
+{"success":true,"data":"An amount is a number, or quantity, of something. If you're surprised by the amount of work you have to do at your new job, you probably didn't expect such a long list of tasks."}

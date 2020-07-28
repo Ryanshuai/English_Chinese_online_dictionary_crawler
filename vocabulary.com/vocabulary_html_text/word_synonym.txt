@@ -1,0 +1,1 @@
+{"success":true,"data":"A synonym is a word that means the same thing as another word. If you replace a word in a sentence with its synonym, the meaning of the sentence won't really change that much."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"If something is concise, it's short and gets right to the point. A concise edition of your diary might be 50 pages of the most important entries."}

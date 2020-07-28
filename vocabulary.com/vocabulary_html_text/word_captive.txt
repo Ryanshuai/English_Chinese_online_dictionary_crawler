@@ -1,0 +1,1 @@
+{"success":true,"data":"A captive is something that has been captured and can’t escape, like a prisoner of war or a panda in a zoo."}

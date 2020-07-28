@@ -1,0 +1,1 @@
+{"success":true,"data":"Any distance between two things is called a span. These end points can be physical, like the span of a rope between two trees, or they can be more abstract, such as the span of time between five and six o'clock."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"When things get complicated, they are no longer simple and straightforward.  If you are asked a question that would require a long, detailed answer, you might just say, \"It's complicated.\""}

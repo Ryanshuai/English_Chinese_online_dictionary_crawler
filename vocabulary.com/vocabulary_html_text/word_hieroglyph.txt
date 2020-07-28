@@ -1,0 +1,1 @@
+{"success":true,"data":"A hieroglyph is a picture that represents a word or part of a word. Several ancient cultures, including Egyptians and Mayans, used hieroglyphs as part of their writing systems."}

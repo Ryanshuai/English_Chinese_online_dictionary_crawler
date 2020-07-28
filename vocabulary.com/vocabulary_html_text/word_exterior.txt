@@ -1,0 +1,1 @@
+{"success":true,"data":"Something that's exterior is on the outside of some structure or object. An exterior door on a house opens to the outdoors, rather than connecting one room to another."}

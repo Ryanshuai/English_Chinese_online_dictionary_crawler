@@ -1,0 +1,1 @@
+{"success":true,"data":"If your factory transforms steel into train wheels, your factory's output––what it produces––is train wheels. A country's output is the total quantity of goods it produces."}

@@ -1,0 +1,1 @@
+{"success":true,"data":"If something is insufficient, it isn't enough. A high school diploma is very helpful for getting a job, but by itself, it's probably insufficient to land you a job as an astronaut."}

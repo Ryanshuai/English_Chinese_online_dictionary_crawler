@@ -1,0 +1,1 @@
+{"success":true,"data":"A species is a distinct group of animals or plants that have common characteristics and can breed with each other. Your poodle and your bulldog are the same species, but your hamster and your goldfish are not."}

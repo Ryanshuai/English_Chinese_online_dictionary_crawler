@@ -1,0 +1,1 @@
+{"success":true,"data":"A device is really anything that has a specific use. It might be a tool or object, or a plan that is devised to accomplish something. If it has a purpose, it is a device."}

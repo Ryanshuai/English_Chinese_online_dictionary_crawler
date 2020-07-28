@@ -1,0 +1,1 @@
+{"success":true,"data":"Remember all those pesky geometry classes in high school? Then you'll remember measuring the angle or space between two intersecting lines in degrees. If you recall that a right angle measures ninety degrees, give yourself a bonus."}

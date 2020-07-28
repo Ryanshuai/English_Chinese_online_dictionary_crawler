@@ -1,0 +1,1 @@
+{"success":true,"data":"Something manual is operated by human hands. Before Eli Whitney invented the cotton gin, picking cotton was a manual job. Nowadays, farmers might need to read a manual to know how to operate a cotton gin."}
